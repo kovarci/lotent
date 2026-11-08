@@ -24,56 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2eb18b4eea1c@paris-academique
-DTSTAMP:20261107T105812Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Arpentage du livre « Être écoféministe – Théories et pratiqu
- es » de Jeanne Burgart Goutal
-DESCRIPTION:Organisé par Adele DORLIPO — Le principeL’arpentage est un
-  outil d’éducation populaire libre de droit : il s’agit d’une appro
- priation collective de savoirs contenus dans un ouvrage par des groupes de
-  personnes qui s’en répartissent et partagent la lecture.\nhttps://chic
- he.makesense.org/events/e/arpentage-du-livre-etre-ecofeministe-theories-et
- -pratiques-de-jeanne-burgart-goutal-6ad20000ce193b0007ac8bda
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/arpentage-du-livre-etre-ecofemini
- ste-theories-et-pratiques-de-jeanne-burgart-goutal-6ad20000ce193b0007ac8bd
- a
-END:VEVENT
-BEGIN:VEVENT
-UID:996d0db733c4@paris-academique
-DTSTAMP:20261107T105812Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Devenir bénévole à la Maison du Zéro Déchet
-DESCRIPTION:Organisé par Jeanne Chaplain — Une centaine de bénévoles p
- articipent à l’animation de la Maison du Zéro D\nhttps://chiche.makese
- nse.org/events/e/devenir-benevole-a-la-maison-du-zero-dechet-6aca33929fdbd
- 6000864e099
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/devenir-benevole-a-la-maison-du-z
- ero-dechet-6aca33929fdbd6000864e099
-END:VEVENT
-BEGIN:VEVENT
-UID:ae99c9767684@paris-academique
-DTSTAMP:20261107T105812Z
-DTSTART;TZID=Europe/Paris:20261107T140000
-DTEND;TZID=Europe/Paris:20261107T170000
-SUMMARY:Danse thérapeutique : sensibilisation à la capoeira angola
-DESCRIPTION:Organisé par Maison de la Conversation — Explorer ses émoti
- ons par le mouvement : une séance de capoeira Angola pensée comme un esp
- ace de soin\, ouverte à tous les niveaux.La capoeira Angola offre un espa
- ce pour se reconnaître\, exprimer qui l'on est\, trouver sa place\nhttps:
- //chiche.makesense.org/events/e/danse-therapeutique-sensibilisation-a-la-c
- apoeira-angola-6ac7b417bd306e000758a1d3
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/danse-therapeutique-sensibilisati
- on-a-la-capoeira-angola-6ac7b417bd306e000758a1d3
-END:VEVENT
-BEGIN:VEVENT
 UID:7a49b3a99bd9@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Projection-débat : film « Tout va bien » & accueil en famille
@@ -87,7 +39,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:35ae8399599f@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Activ'Go - Réfléchir à la mise en œuvre de son projet entrepren
@@ -102,7 +54,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:bc40e7f01e7b@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;TZID=Europe/Paris:20261110T142000
 DTEND;TZID=Europe/Paris:20261110T162000
 SUMMARY:Atelier - Comment arrêter de tout porter quand on est une femme en
@@ -119,7 +71,7 @@ URL:https://chiche.makesense.org/events/e/atelier-comment-arreter-de-tout-p
 END:VEVENT
 BEGIN:VEVENT
 UID:9c2d6a50c9d2@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Atelier - Réussir son premier recrutement (salariat\, alternance\,
@@ -136,7 +88,7 @@ URL:https://chiche.makesense.org/events/e/atelier-reussir-son-premier-recru
 END:VEVENT
 BEGIN:VEVENT
 UID:2179b4fb7692@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Ciné-débat : « Femmes des terres » avec l’association Terre d
@@ -153,7 +105,7 @@ URL:https://chiche.makesense.org/events/e/cine-debat-femmes-des-terres-avec
 END:VEVENT
 BEGIN:VEVENT
 UID:8ff448b581f7@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Girls Comedy Club & Friends
@@ -166,8 +118,24 @@ LOCATION:24 Av. Daumesnil\, 75012 Paris\, France
 URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
+UID:90bbf637baa7@paris-academique
+DTSTAMP:20261108T110803Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Projection-débat : "Outre-mer\, terres de solutions"
+DESCRIPTION:Organisé par Envie Le Labo — Découvrez le documentaire "Out
+ re-mer\, terres de solutions" qui explore les défis de la souveraineté a
+ limentaire dans les territoires ultramarins. La projection sera suivie d'u
+ n échange avec des intervenant·es autour des solutions locales\, des cir
+ c\nhttps://chiche.makesense.org/events/e/projection-debat-outre-mer-terres
+ -de-solutions-6a992f0b1c5b4f0008b99420
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/projection-debat-outre-mer-terres
+ -de-solutions-6a992f0b1c5b4f0008b99420
+END:VEVENT
+BEGIN:VEVENT
 UID:caf1dc06c110@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;TZID=Europe/Paris:20261114T130000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Atelier d'écriture autobiographique
@@ -183,7 +151,7 @@ URL:https://chiche.makesense.org/events/e/atelier-decriture-autobiographiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:a62623173efa@paris-academique
-DTSTAMP:20261107T105812Z
+DTSTAMP:20261108T110803Z
 DTSTART;TZID=Europe/Paris:20261114T143000
 DTEND;TZID=Europe/Paris:20261114T163000
 SUMMARY:Lettres en Soi – atelier d’écriture créative
