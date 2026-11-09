@@ -1,6 +1,6 @@
 {
   "last_workflow_run": "2026-11-09T12:53:25Z",
-  "last_manual_run": "2026-11-07T09:08:41Z",
+  "last_manual_run": "2026-11-09T17:51:08Z",
   "fresh_counts": {
     "Institut Henri Poincar\u00e9": 72,
     "IHES": 13,
@@ -226,9 +226,9 @@
     "Article 1": 20
   },
   "stats": {
-    "total": 6812,
-    "upcoming": 2421,
-    "institutions": 1298,
+    "total": 6729,
+    "upcoming": 2454,
+    "institutions": 1294,
     "since": "2026-03-09"
   }
 }

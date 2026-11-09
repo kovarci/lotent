@@ -474,7 +474,10 @@
   2.362331
  ],
  "mama shelter paris west, 20 av. de la prte de la plaine, 75015 paris, france": null,
- "raise, 39 bd de la tour-maubourg, 75007 paris, france": null,
+ "raise, 39 bd de la tour-maubourg, 75007 paris, france": [
+  48.859041,
+  2.310269
+ ],
  "paris expo porte de versailles, pl. de la prte de versailles entree a1, 75015 paris, france": null,
  "h.d galerie, 45 rue vivienne, 75002 paris, france": null,
  "39 bd de la tour-maubourg, 75007 paris, france": [
@@ -5522,9 +5525,37 @@
   48.847007,
   2.343775
  ],
+ "amphithéâtre choquet-bruhat – ihp, 11 rue pierre et marie curie, 75005, paris": [
+  48.844149,
+  2.343975
+ ],
+ "sweet romance - ledru rollin, 160 av. ledru rollin, 75011 paris, france": [
+  48.856158,
+  2.379116
+ ],
+ "118 rue de turenne, 75003 paris, france": [
+  48.863507,
+  2.364778
+ ],
+ "crous, 2 rue abraham lincoln, 92220 bagneux, france": [
+  48.790762,
+  2.317156
+ ],
  "le moulin à café, 9 place de la garenne, 75014 paris": [
   48.833669,
   2.320121
+ ],
+ "bar heure sup', 299 rue lecourbe, 75015 paris, france": [
+  48.837816,
+  2.287026
+ ],
+ "les génies, 116 rue oberkampf, 75011 paris, france": [
+  48.866038,
+  2.37941
+ ],
+ "maison de la recherche de l'inalco, 2 rue de lille, 75007 paris": [
+  48.857735,
+  2.332538
  ],
  "maison de la recherche de la sorbonne nouvelle, 4 rue des irlandais, 75005 paris (france)": [
   48.844324,
@@ -5534,17 +5565,37 @@
   48.788216,
   2.443922
  ],
- "amphithéâtre choquet-bruhat – ihp, 11 rue pierre et marie curie, 75005, paris": [
-  48.844149,
-  2.343975
- ],
- "maison de la recherche de l'inalco, 2 rue de lille, 75007 paris": [
-  48.857735,
-  2.332538
- ],
  "amphi fournel - ensam – 151 bd de l'hôpital - paris 13e (france)": [],
  "151 bd de l'hôpital -, 75013 paris": [
   48.833778,
   2.357556
+ ],
+ "archetype, 4-6 bd montmartre, 75009 paris, france": [
+  48.871967,
+  2.340234
+ ],
+ "very art gallery, 21 rue michel le comte, 75003 paris, france": [
+  48.862367,
+  2.355502
+ ],
+ "quantis, 15 rue de cléry, 75002 paris, france": [
+  48.867868,
+  2.34568
+ ],
+ "8 pass. de la bonne graine, 75011 paris, france": [
+  48.85167,
+  2.376994
+ ],
+ "café contre allée, 57 av. de la grande armée, 75116 paris, france": [
+  48.87574,
+  2.287762
+ ],
+ "4padel epinay, 187 rte de saint-leu, 93800 épinay-sur-seine, france": [
+  48.954659,
+  2.333013
+ ],
+ "les deux magots, 6 pl. saint-germain des prés, 75006 paris, france": [
+  48.854069,
+  2.333063
  ]
 }
