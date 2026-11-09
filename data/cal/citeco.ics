@@ -24,63 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a8ecd0d602ec@paris-academique
-DTSTAMP:20261108T110803Z
-DTSTART;TZID=Europe/Paris:20261107T160000
-DTEND;TZID=Europe/Paris:20261107T164500
-SUMMARY:Aux thunes\, citoyennes ! - Spécial Entrepreneuses d’Héloïse B
- olle et Insaff El Hassini
-DESCRIPTION:https://www.citeco.fr/agenda/aux-thunes-citoyennes-special-entr
- epreneuses-dheloise-bolle-et-insaff-el-hassini
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/aux-thunes-citoyennes-special-entrepreneus
- es-dheloise-bolle-et-insaff-el-hassini
-END:VEVENT
-BEGIN:VEVENT
-UID:3418bb1f6cef@paris-academique
-DTSTAMP:20261108T110803Z
-DTSTART;TZID=Europe/Paris:20261107T163000
-DTEND;TZID=Europe/Paris:20261107T173000
-SUMMARY:Le débat mouvant : Parlons d’innovation !
-DESCRIPTION:https://www.citeco.fr/agenda/le-debat-mouvant-parlons-dinnovati
- on
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/le-debat-mouvant-parlons-dinnovation
-END:VEVENT
-BEGIN:VEVENT
-UID:75153b0f9785@paris-academique
-DTSTAMP:20261108T110803Z
-DTSTART;TZID=Europe/Paris:20261107T163000
-DTEND;TZID=Europe/Paris:20261107T173000
-SUMMARY:Zoom sur l'actu
-DESCRIPTION:https://www.citeco.fr/agenda/zoom-sur-lactu
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/zoom-sur-lactu
-END:VEVENT
-BEGIN:VEVENT
-UID:3cea944aec10@paris-academique
-DTSTAMP:20261108T110803Z
-DTSTART;TZID=Europe/Paris:20261107T164800
-DTEND;TZID=Europe/Paris:20261107T184800
-SUMMARY:Dix ans après #7Novembre16h48\, où en est l’égalité économiq
- ue ?
-DESCRIPTION:https://www.citeco.fr/agenda/19nov10h51
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/19nov10h51
-END:VEVENT
-BEGIN:VEVENT
-UID:b775d1a2abd3@paris-academique
-DTSTAMP:20261108T110803Z
-DTSTART;TZID=Europe/Paris:20261108T163000
-DTEND;TZID=Europe/Paris:20261108T173000
-SUMMARY:Les chemins de l’innovation
-DESCRIPTION:https://www.citeco.fr/agenda/les-chemins-de-linnovation
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
-END:VEVENT
-BEGIN:VEVENT
 UID:e5e2221cfccd@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;TZID=Europe/Paris:20261114T150000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Politique d’innovation : y a-t-il un pilote ?
@@ -89,5 +34,48 @@ DESCRIPTION:https://www.citeco.fr/agenda/innover-pour-rester-dans-la-course
 LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
 URL:https://www.citeco.fr/agenda/innover-pour-rester-dans-la-course-quels-c
  hoix-pour-la-france
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e5d57e372f@paris-academique
+DTSTAMP:20261109T125317Z
+DTSTART;TZID=Europe/Paris:20261115T150000
+DTEND;TZID=Europe/Paris:20261115T170000
+SUMMARY:The Social Network – David Fincher
+DESCRIPTION:https://www.citeco.fr/agenda/social-network-david-fincher
+LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
+URL:https://www.citeco.fr/agenda/social-network-david-fincher
+END:VEVENT
+BEGIN:VEVENT
+UID:3c305ab97c05@paris-academique
+DTSTAMP:20261109T125317Z
+DTSTART;TZID=Europe/Paris:20261115T163000
+DTEND;TZID=Europe/Paris:20261115T173000
+SUMMARY:Les chemins de l’innovation
+DESCRIPTION:https://www.citeco.fr/agenda/les-chemins-de-linnovation
+LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
+URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
+END:VEVENT
+BEGIN:VEVENT
+UID:6782795b8951@paris-academique
+DTSTAMP:20261109T125317Z
+DTSTART;TZID=Europe/Paris:20261121T150000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:Art faber\, quand l’art raconte l’économie : métamorphoses de
+  la production
+DESCRIPTION:https://www.citeco.fr/agenda/art-faber-quand-lart-raconte-lecon
+ omie-metamorphoses-de-la-production
+LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
+URL:https://www.citeco.fr/agenda/art-faber-quand-lart-raconte-leconomie-met
+ amorphoses-de-la-production
+END:VEVENT
+BEGIN:VEVENT
+UID:e1f6b81fc743@paris-academique
+DTSTAMP:20261109T125317Z
+DTSTART;TZID=Europe/Paris:20261121T163000
+DTEND;TZID=Europe/Paris:20261121T173000
+SUMMARY:L'art du billet
+DESCRIPTION:https://www.citeco.fr/agenda/lart-du-billet
+LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
+URL:https://www.citeco.fr/agenda/lart-du-billet
 END:VEVENT
 END:VCALENDAR

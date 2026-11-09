@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:7a49b3a99bd9@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Projection-débat : film « Tout va bien » & accueil en famille
@@ -39,7 +39,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:35ae8399599f@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Activ'Go - Réfléchir à la mise en œuvre de son projet entrepren
@@ -54,7 +54,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:bc40e7f01e7b@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;TZID=Europe/Paris:20261110T142000
 DTEND;TZID=Europe/Paris:20261110T162000
 SUMMARY:Atelier - Comment arrêter de tout porter quand on est une femme en
@@ -71,7 +71,7 @@ URL:https://chiche.makesense.org/events/e/atelier-comment-arreter-de-tout-p
 END:VEVENT
 BEGIN:VEVENT
 UID:9c2d6a50c9d2@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Atelier - Réussir son premier recrutement (salariat\, alternance\,
@@ -88,7 +88,7 @@ URL:https://chiche.makesense.org/events/e/atelier-reussir-son-premier-recru
 END:VEVENT
 BEGIN:VEVENT
 UID:2179b4fb7692@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Ciné-débat : « Femmes des terres » avec l’association Terre d
@@ -105,7 +105,7 @@ URL:https://chiche.makesense.org/events/e/cine-debat-femmes-des-terres-avec
 END:VEVENT
 BEGIN:VEVENT
 UID:8ff448b581f7@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Girls Comedy Club & Friends
@@ -119,7 +119,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:90bbf637baa7@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Projection-débat : "Outre-mer\, terres de solutions"
@@ -135,7 +135,7 @@ URL:https://chiche.makesense.org/events/e/projection-debat-outre-mer-terres
 END:VEVENT
 BEGIN:VEVENT
 UID:caf1dc06c110@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;TZID=Europe/Paris:20261114T130000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Atelier d'écriture autobiographique
@@ -151,7 +151,7 @@ URL:https://chiche.makesense.org/events/e/atelier-decriture-autobiographiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:a62623173efa@paris-academique
-DTSTAMP:20261108T110803Z
+DTSTAMP:20261109T125317Z
 DTSTART;TZID=Europe/Paris:20261114T143000
 DTEND;TZID=Europe/Paris:20261114T163000
 SUMMARY:Lettres en Soi – atelier d’écriture créative
@@ -163,5 +163,19 @@ DESCRIPTION:Organisé par Maison de la Conversation — Atelier d'écriture
 LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
 URL:https://chiche.makesense.org/events/e/lettres-en-soi-atelier-decriture-
  creative-6aeb14d56ae81e0008889c2a
+END:VEVENT
+BEGIN:VEVENT
+UID:b137331db5c2@paris-academique
+DTSTAMP:20261109T125317Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Construire la trame de mon CV📍Paris 13
+DESCRIPTION:Organisé par Raphaëlle Afota — L’Activ’CV\, c'est l’a
+ telier pour construire ensemble la trame de ton CV !2h45 d’atelier colle
+ ctif pour :\nhttps://chiche.makesense.org/events/e/construire-la-trame-de-
+ mon-cvparis-13-6aaaa88eca9188000759c286
+LOCATION:13 Rue Annie Girardot\, 75013 Paris\, France
+URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
+ s-13-6aaaa88eca9188000759c286
 END:VEVENT
 END:VCALENDAR
