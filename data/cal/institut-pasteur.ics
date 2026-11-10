@@ -24,51 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:34dbc1ecd992@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261109T093000
-DTEND;TZID=Europe/Paris:20261109T113000
-SUMMARY:Multidisciplinary conference | Eating: one behavior\, many sciences
-DESCRIPTION:conference\nhttps://research.pasteur.fr/en/event/multidisciplin
- ary-conference-eating-one-behavior-many-sciences/
-LOCATION:Conference Center (bâtiment CIS) — 205 Rue de Vaugirard\, Paris
-URL:https://research.pasteur.fr/en/event/multidisciplinary-conference-eatin
- g-one-behavior-many-sciences/
-END:VEVENT
-BEGIN:VEVENT
-UID:8ce2a0abb4e3@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261109T120000
-DTEND;TZID=Europe/Paris:20261109T140000
-SUMMARY:Dept of Global Health seminar | “genomeRxiv: a web server for gen
- ome-based identification that bridges the gap between taxonomy and strain 
- typing” by Boris Vinatzer – Boris VINATZER
-DESCRIPTION:seminar\nhttps://research.pasteur.fr/en/event/dept-of-global-he
- alth-seminar-genomerxiv-a-web-server-for-genome-based-identification-that-
- bridges-the-gap-between-taxonomy-and-strain-typing-by-boris-vinatzer/
-LOCATION:Retrovirus (bâtiment Lwoff) — Institut Pasteur\, 25-28 rue du D
- octeur Roux\, Paris 15e
-URL:https://research.pasteur.fr/en/event/dept-of-global-health-seminar-geno
- merxiv-a-web-server-for-genome-based-identification-that-bridges-the-gap-b
- etween-taxonomy-and-strain-typing-by-boris-vinatzer/
-END:VEVENT
-BEGIN:VEVENT
-UID:91e2c5ab2070@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261109T120000
-DTEND;TZID=Europe/Paris:20261109T140000
-SUMMARY:BCI Seminar – “Speak friend and enter – deconstructing the vi
- rus-cell infection synapse” – Prof. Dr. Christian SIEBEN
-DESCRIPTION:seminar\nhttps://research.pasteur.fr/en/event/bci-seminar-speak
- -friend-and-enter-deconstructing-the-virus-cell-infection-synapse-2/
-LOCATION:Jules BORDET (bâtiment Metchnikoff) — Institut Pasteur\, 25-28 
- rue du Docteur Roux\, Paris 15e
-URL:https://research.pasteur.fr/en/event/bci-seminar-speak-friend-and-enter
- -deconstructing-the-virus-cell-infection-synapse-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:cd564a069433@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261109T130000
 DTEND;TZID=Europe/Paris:20261109T150000
 SUMMARY:Allostery and brain science\, a tribute to Jean-Pierre CHANGEUX
@@ -80,22 +37,8 @@ URL:https://research.pasteur.fr/en/event/allostery-and-brain-science-a-trib
  ute-to-jean-pierre-changeux/
 END:VEVENT
 BEGIN:VEVENT
-UID:4811be7ac868@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261109T133000
-DTEND;TZID=Europe/Paris:20261109T153000
-SUMMARY:Join us for the joint 2026 Seed Grants Retrospective Symposium of t
- he PA1\, PA3 and PA4 !
-DESCRIPTION:conference\nhttps://research.pasteur.fr/en/event/join-us-for-th
- e-joint-2026-seed-grants-retrospective-symposium-of-the-pa1-pa3-and-pa4/
-LOCATION:Auditorium François Jacob (bâtiment Centre François Jacob) — 
- Institut Pasteur\, 25-28 rue du Docteur Roux\, Paris 15e
-URL:https://research.pasteur.fr/en/event/join-us-for-the-joint-2026-seed-gr
- ants-retrospective-symposium-of-the-pa1-pa3-and-pa4/
-END:VEVENT
-BEGIN:VEVENT
 UID:65b656381f29@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T110000
 DTEND;TZID=Europe/Paris:20261110T130000
 SUMMARY:How some bacteria swim in higher viscosities than others
@@ -108,7 +51,7 @@ URL:https://research.pasteur.fr/en/event/how-some-bacteria-swim-in-higher-v
 END:VEVENT
 BEGIN:VEVENT
 UID:4a7a7b9553be@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T103000
 DTEND;TZID=Europe/Paris:20261112T123000
 SUMMARY:Paris Postdoc Seminars: “Regulatory Evolution of Streptococcus ag
@@ -123,7 +66,7 @@ URL:https://research.pasteur.fr/en/event/paris-postdoc-seminars-regulatory-
 END:VEVENT
 BEGIN:VEVENT
 UID:fcdfa9ea26cb@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T150000
 DTEND;TZID=Europe/Paris:20261112T170000
 SUMMARY:IdA Seminar | From Colonization to Vascular Guardians: Microglia in
@@ -136,7 +79,7 @@ URL:https://research.pasteur.fr/en/event/ida-seminar-from-colonization-to-v
 END:VEVENT
 BEGIN:VEVENT
 UID:f46755990704@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261113T110000
 DTEND;TZID=Europe/Paris:20261113T130000
 SUMMARY:Institut Pasteur–ASHBi Mini-Symposium on Stem Cell-Based Models o
@@ -151,7 +94,7 @@ URL:https://research.pasteur.fr/en/event/institut-pasteur-ashbi-mini-sympos
 END:VEVENT
 BEGIN:VEVENT
 UID:d498bf166a3d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261113T140000
 DTEND;TZID=Europe/Paris:20261113T160000
 SUMMARY:Dept of Computational Biology seminar | “Biomolecular structure m
@@ -168,7 +111,7 @@ URL:https://research.pasteur.fr/en/event/dept-of-computational-biology-semi
 END:VEVENT
 BEGIN:VEVENT
 UID:7572670fdda3@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T110000
 DTEND;TZID=Europe/Paris:20261117T130000
 SUMMARY:Seminar: Engineering human tissues for medical impact
@@ -181,7 +124,7 @@ URL:https://research.pasteur.fr/en/event/seminar-engineering-human-tissues-
 END:VEVENT
 BEGIN:VEVENT
 UID:c98a5364dc56@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261118T090000
 DTEND;TZID=Europe/Paris:20261118T110000
 SUMMARY:Journée de la Recherche Translationnelle “Necrotizing Enterocoli
@@ -196,7 +139,7 @@ URL:https://research.pasteur.fr/en/event/journee-de-la-recherche-translatio
 END:VEVENT
 BEGIN:VEVENT
 UID:df0320131133@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261120T110000
 DTEND;TZID=Europe/Paris:20261120T130000
 SUMMARY:November 2027 n.ICE Seminar: “Instruct-ERIC: Funded Access to Tec
@@ -207,7 +150,7 @@ URL:https://research.pasteur.fr/en/event/n-ice-seminar/
 END:VEVENT
 BEGIN:VEVENT
 UID:333d50179922@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T110000
 DTEND;TZID=Europe/Paris:20261124T130000
 SUMMARY:Engineering protein catalysts for synthetic applications
@@ -220,7 +163,7 @@ URL:https://research.pasteur.fr/en/event/engineering-protein-catalysts-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:ba12d4a04b40@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T133000
 DTEND;TZID=Europe/Paris:20261124T153000
 SUMMARY:Developmental and Stem Cell Origin of Long-Term Stresses – Giacom
@@ -234,7 +177,7 @@ URL:https://research.pasteur.fr/en/event/long-term-impact-of-embryonic-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:7b479570ac90@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T140000
 DTEND;TZID=Europe/Paris:20261124T160000
 SUMMARY:Webinaire de l’enseignement – Les bactéries\, des modèles pou
@@ -250,7 +193,7 @@ URL:https://research.pasteur.fr/en/event/webinaire-de-lenseignement-les-bac
 END:VEVENT
 BEGIN:VEVENT
 UID:eab467e28dea@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261130T090000
 DTEND;TZID=Europe/Paris:20261130T110000
 SUMMARY:International conference Integrative Microbiome Program at Pasteur
@@ -262,7 +205,7 @@ URL:https://research.pasteur.fr/en/event/international-conferences-integrat
 END:VEVENT
 BEGIN:VEVENT
 UID:0c10dc3a3968@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261201T110000
 DTEND;TZID=Europe/Paris:20261201T130000
 SUMMARY:Molecular design by Multi-Task AI and chemographic exploration
@@ -275,7 +218,7 @@ URL:https://research.pasteur.fr/en/event/molecular-design-by-multi-task-ai-
 END:VEVENT
 BEGIN:VEVENT
 UID:cc9d4e6727f8@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261208T090000
 DTEND;TZID=Europe/Paris:20261208T110000
 SUMMARY:Artificial intelligence and automation for smart microscopy
@@ -288,7 +231,7 @@ URL:https://research.pasteur.fr/en/event/artificial-intelligence-and-automa
 END:VEVENT
 BEGIN:VEVENT
 UID:8b9045a8995d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270126T080000
 DTEND;TZID=Europe/Paris:20270126T100000
 SUMMARY:Annual meeting of the AC41 ANRS Emerging Infectious Diseases – Ja

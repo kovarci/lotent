@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:6f91b803b6bd@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261109T140000
 DTEND;TZID=Europe/Paris:20261109T160000
 SUMMARY:Accélérer et financer l'adaptation au changement climatique
@@ -37,56 +37,8 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/accelere
  r-et-financer-ladaptation-au-changement-climatique
 END:VEVENT
 BEGIN:VEVENT
-UID:cb7e322c6d50@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261109T160000
-DTEND;TZID=Europe/Paris:20261109T180000
-SUMMARY:Théorie économique Roy-Adres
-DESCRIPTION:Séminaire\nhttps://www.parisschoolofeconomics.eu/evenements/th
- eorie-economique-roy-adres/
-LOCATION:R1-09 — Paris School of Economics\, 48 boulevard Jourdan\, Paris
-  14e
-URL:https://www.parisschoolofeconomics.eu/evenements/theorie-economique-roy
- -adres/
-END:VEVENT
-BEGIN:VEVENT
-UID:dde11ea873f1@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261109T190000
-DTEND;TZID=Europe/Paris:20261109T210000
-SUMMARY:CryptoMondays: Self-Custody in the Age of MiCA
-DESCRIPTION:https://lu.ma/w3exw2ki
-LOCATION:Matchai & Coffee\, 10 Rue La Boétie\, 75008 Paris\, France
-URL:https://lu.ma/w3exw2ki
-END:VEVENT
-BEGIN:VEVENT
-UID:8a45c0cd1dc1@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261109T190000
-DTEND;TZID=Europe/Paris:20261109T203000
-SUMMARY:Atelier De l’idée à la solution : construire un projet viable
-DESCRIPTION:Un atelier concret et interactif pour passer de l'idée à l'ac
- tion\, animé par David Brun\, expert en accompagnement de start-up.\nhttp
- s://dauphine.psl.eu/dauphine/media-et-communication/article/default-18217d
- c78483ac2cd199d40bc63ef947
-LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
- gny\, Paris 16e
-URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/default
- -18217dc78483ac2cd199d40bc63ef947
-END:VEVENT
-BEGIN:VEVENT
-UID:dde11ea873f1@paris-academique
-DTSTAMP:20261109T125317Z
-DTSTART;TZID=Europe/Paris:20261109T190000
-DTEND;TZID=Europe/Paris:20261109T210000
-SUMMARY:CryptoMondays: Self-Custody in the Age of MiCA
-DESCRIPTION:https://lu.ma/w3exw2ki
-LOCATION:Matchai & Coffee\, 10 Rue La Boétie\, 75008 Paris\, France
-URL:https://lu.ma/w3exw2ki
-END:VEVENT
-BEGIN:VEVENT
 UID:80feeb51c623@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T083000
 DTEND;TZID=Europe/Paris:20261110T100000
 SUMMARY:Le commerce mondial à l'heure des rapports de force: quel avenir p
@@ -100,7 +52,7 @@ URL:https://www.ifri.org/fr/le-commerce-mondial-lheure-des-rapports-de-forc
 END:VEVENT
 BEGIN:VEVENT
 UID:97813475f6be@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T093000
 DTEND;TZID=Europe/Paris:20261110T104500
 SUMMARY:[Séance complète] Le poids des fondamentaux macro-économiques et
@@ -114,7 +66,7 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/seance-complete-
 END:VEVENT
 BEGIN:VEVENT
 UID:f2e97e1af494@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T094000
 DTEND;TZID=Europe/Paris:20261110T114000
 SUMMARY:The Firm as a Cultivator of Internal Relationships: How Rotation Su
@@ -130,7 +82,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/firm-cultivator-
 END:VEVENT
 BEGIN:VEVENT
 UID:c59e9f19f8fa@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T110000
 DTEND;TZID=Europe/Paris:20261110T130000
 SUMMARY:Slave-Trade Exposure and Women in Local Politics: Evidence from Mal
@@ -143,7 +95,7 @@ URL:https://www.assas-universite.fr/fr/evenements/slave-trade-exposure-wome
 END:VEVENT
 BEGIN:VEVENT
 UID:f4365113bffb@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T111500
 DTEND;TZID=Europe/Paris:20261110T123000
 SUMMARY:[Séance complète] Économie informelle du Golfe : réseaux\, flux
@@ -157,7 +109,7 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/seance-complete-
 END:VEVENT
 BEGIN:VEVENT
 UID:96b0752a48aa@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T123000
 DTEND;TZID=Europe/Paris:20261110T143000
 SUMMARY:Lunch séminaire d’économie appliquée
@@ -170,7 +122,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/lunch-seminaire-decono
 END:VEVENT
 BEGIN:VEVENT
 UID:3702f2dd7967@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T130000
 DTEND;TZID=Europe/Paris:20261110T160000
 SUMMARY:Mois sans tabac 2026
@@ -185,19 +137,8 @@ LOCATION:Campus de Bobigny
 URL:https://www.univ-spn.fr/events/mois-sans-tabac-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:fb0344731263@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261110T173000
-DTEND;TZID=Europe/Paris:20261110T193000
-SUMMARY:BNB Builder Sessions\, Paris🇫🇷
-DESCRIPTION:https://lu.ma/0wcr8wu7
-LOCATION:IIM - Digital School Paris\, 47 Bd de Pesaro\, 92000 Nanterre\, Fr
- ance
-URL:https://lu.ma/0wcr8wu7
-END:VEVENT
-BEGIN:VEVENT
 UID:9ca3a48f6c05@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T173000
 DTEND;TZID=Europe/Paris:20261110T193000
 SUMMARY:Petit Séminaire Informel de la Paris School of Economics
@@ -210,7 +151,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/petit-seminaire-inform
 END:VEVENT
 BEGIN:VEVENT
 UID:8b6d5ed5e8a8@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261110T183000
 DTEND;TZID=Europe/Paris:20261110T203000
 SUMMARY:Minister Aurore Bergé at ESCP
@@ -222,7 +163,7 @@ URL:https://escp.eu/fr/events/minister-aurore-berge-escp
 END:VEVENT
 BEGIN:VEVENT
 UID:eb24c0f32b17@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T113000
 DTEND;TZID=Europe/Paris:20261112T133000
 SUMMARY:Housing Tenure\,Welfare\, and Distributional Effects of Short-Term 
@@ -237,7 +178,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/housing-tenurewe
 END:VEVENT
 BEGIN:VEVENT
 UID:c198e32b8985@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T123000
 DTEND;TZID=Europe/Paris:20261112T143000
 SUMMARY:Lunch séminaire Théorie\, Organisation et Marchés (TOM)
@@ -249,21 +190,8 @@ URL:https://www.parisschoolofeconomics.eu/evenements/lunch-seminaire-theori
  e-organisation-et-marches-tom/
 END:VEVENT
 BEGIN:VEVENT
-UID:c65a855d8e22@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261112T123000
-DTEND;TZID=Europe/Paris:20261112T143000
-SUMMARY:Groupe de travail : Macro Workshop
-DESCRIPTION:Séminaire\nhttps://www.parisschoolofeconomics.eu/evenements/gr
- oupe-de-travail-macro-workshop/
-LOCATION:R1-15 — Paris School of Economics\, 48 boulevard Jourdan\, Paris
-  14e
-URL:https://www.parisschoolofeconomics.eu/evenements/groupe-de-travail-macr
- o-workshop/
-END:VEVENT
-BEGIN:VEVENT
 UID:b154a1e761a2@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T123000
 DTEND;TZID=Europe/Paris:20261112T143000
 SUMMARY:Travail et économie publique (interne)
@@ -275,8 +203,21 @@ URL:https://www.parisschoolofeconomics.eu/evenements/travail-et-economie-pu
  blique-interne/
 END:VEVENT
 BEGIN:VEVENT
+UID:c65a855d8e22@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261112T123000
+DTEND;TZID=Europe/Paris:20261112T143000
+SUMMARY:Groupe de travail : Macro Workshop
+DESCRIPTION:Séminaire\nhttps://www.parisschoolofeconomics.eu/evenements/gr
+ oupe-de-travail-macro-workshop/
+LOCATION:R1-15 — Paris School of Economics\, 48 boulevard Jourdan\, Paris
+  14e
+URL:https://www.parisschoolofeconomics.eu/evenements/groupe-de-travail-macr
+ o-workshop/
+END:VEVENT
+BEGIN:VEVENT
 UID:0e58df6c921f@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T160000
 DTEND;TZID=Europe/Paris:20261112T180000
 SUMMARY:Macroéconomie
@@ -288,7 +229,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/macroeconomie/
 END:VEVENT
 BEGIN:VEVENT
 UID:58445ee041a8@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T170000
 DTEND;TZID=Europe/Paris:20261112T190000
 SUMMARY:Débats et Controverses - Union de l’épargne et des investisseme
@@ -303,7 +244,7 @@ URL:https://gis-eurolab.pantheonsorbonne.fr/evenements/debats-et-controvers
 END:VEVENT
 BEGIN:VEVENT
 UID:b710e94e1c4a@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T170000
 DTEND;TZID=Europe/Paris:20261112T190000
 SUMMARY:Les Invitations DIALog avec Adrien Bilal
@@ -316,7 +257,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/les-invi
 END:VEVENT
 BEGIN:VEVENT
 UID:efd76515ce26@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261112T190000
 DTEND;TZID=Europe/Paris:20261112T210000
 SUMMARY:La mort du SaaS ? Comprendre le marché\, vendre et lever à l’he
@@ -327,7 +268,7 @@ URL:https://lu.ma/yq3efg8q
 END:VEVENT
 BEGIN:VEVENT
 UID:76bd37e69000@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261113T130000
 DTEND;TZID=Europe/Paris:20261113T150000
 SUMMARY:Casual Friday Development
@@ -340,7 +281,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/casual-friday-developm
 END:VEVENT
 BEGIN:VEVENT
 UID:09d2f810eb04@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261114T090000
 DTEND;TZID=Europe/Paris:20261114T190000
 SUMMARY:Colloque "Espérance et Décroissance"
@@ -352,7 +293,7 @@ URL:https://www.collegedesbernardins.fr/agenda/colloque-esperance-et-decroi
 END:VEVENT
 BEGIN:VEVENT
 UID:e5e2221cfccd@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261114T150000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Politique d’innovation : y a-t-il un pilote ?
@@ -364,7 +305,7 @@ URL:https://www.citeco.fr/agenda/innover-pour-rester-dans-la-course-quels-c
 END:VEVENT
 BEGIN:VEVENT
 UID:e4e5d57e372f@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261115T150000
 DTEND;TZID=Europe/Paris:20261115T170000
 SUMMARY:The Social Network – David Fincher
@@ -374,7 +315,7 @@ URL:https://www.citeco.fr/agenda/social-network-david-fincher
 END:VEVENT
 BEGIN:VEVENT
 UID:3c305ab97c05@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261115T163000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:Les chemins de l’innovation
@@ -384,7 +325,7 @@ URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
 END:VEVENT
 BEGIN:VEVENT
 UID:cc5994390b46@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Coproduire des villes démocratiques à l’ère des inégalités
@@ -396,7 +337,7 @@ URL:https://www.univ-paris8.fr/Conference-Coproduire-des-villes-democratiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:8580a19ee925@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261116T090000
 DTEND;TZID=Europe/Paris:20261116T180000
 SUMMARY:Handi'cap sur Dauphine ! - Édition 2026
@@ -409,8 +350,21 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/handica
  p-sur-dauphine-edition-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:48ac1b58f6f9@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261116T160000
+DTEND;TZID=Europe/Paris:20261116T180000
+SUMMARY:Théorie économique Roy-Adres
+DESCRIPTION:Séminaire\nhttps://www.parisschoolofeconomics.eu/evenements/th
+ eorie-economique-roy-adres/
+LOCATION:R1-09 — Paris School of Economics\, 48 boulevard Jourdan\, Paris
+  14e
+URL:https://www.parisschoolofeconomics.eu/evenements/theorie-economique-roy
+ -adres/
+END:VEVENT
+BEGIN:VEVENT
 UID:f36b286c9ee0@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261116T160000
 DTEND;TZID=Europe/Paris:20261116T180000
 SUMMARY:Économétrie
@@ -422,7 +376,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/econometrie/
 END:VEVENT
 BEGIN:VEVENT
 UID:c34c8fc0db50@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T120000
 DTEND;TZID=Europe/Paris:20261117T133000
 SUMMARY:Retour d'expérience de Bertrand Folliet "Entreprendre seul ou à p
@@ -438,7 +392,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/default
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1c7f4a9932@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T123000
 DTEND;TZID=Europe/Paris:20261117T143000
 SUMMARY:Paris trade seminar
@@ -449,7 +403,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/paris-trade-seminar/
 END:VEVENT
 BEGIN:VEVENT
 UID:a0d1a86b2cd4@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T140000
 DTEND;TZID=Europe/Paris:20261117T160000
 SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (5)
@@ -464,7 +418,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-so
 END:VEVENT
 BEGIN:VEVENT
 UID:6dfd7e28908d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T180000
 DTEND;TZID=Europe/Paris:20261117T203000
 SUMMARY:Projection : Promesse\, ou comment sauver des vies par le don
@@ -478,21 +432,8 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/project
  ion-promesse-ou-comment-sauver-des-vies-par-le-don
 END:VEVENT
 BEGIN:VEVENT
-UID:da45099b2a20@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261117T183000
-DTEND;TZID=Europe/Paris:20261117T200000
-SUMMARY:Conférence du diplôme : Analyser le capitalisme par son métaboli
- sme
-DESCRIPTION:Conférence du diplôme\nhttps://www.ens-paris-saclay.fr/agenda
- /conference-du-diplome-analyser-le-capitalisme-par-son-metabolisme
-LOCATION:ENS Paris-Saclay\, 4 avenue des Sciences\, Gif-sur-Yvette
-URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-analyser-l
- e-capitalisme-par-son-metabolisme
-END:VEVENT
-BEGIN:VEVENT
 UID:0c51fda7cfd3@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T183000
 DTEND;TZID=Europe/Paris:20261117T200000
 SUMMARY:Conférence du diplôme : Analyser le capitalisme par son métaboli
@@ -505,7 +446,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-analyser-l
 END:VEVENT
 BEGIN:VEVENT
 UID:2ffa704bd6ff@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T183000
 DTEND;TZID=Europe/Paris:20261117T203000
 SUMMARY:Conférence annuelle de la Chaire Mondialisation
@@ -516,19 +457,18 @@ URL:https://www.parisschoolofeconomics.eu/evenements/conference-annuelle-de
  -la-chaire-mondialisation-2026/
 END:VEVENT
 BEGIN:VEVENT
-UID:f4b6c1fa936a@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261117T190000
-DTEND;TZID=Europe/Paris:20261117T210000
-SUMMARY:Quelle gouvernance pour financer les projets à impact dans la deep
- tech industrielle?
-DESCRIPTION:https://lu.ma/ekk3b21m
-LOCATION:Mines Paris – PSL\, 60 Bd Saint-Michel\, 75272 Paris\, France
-URL:https://lu.ma/ekk3b21m
+UID:da45099b2a20@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261117T183000
+DTEND;TZID=Europe/Paris:20261117T203000
+SUMMARY:CORE - Club Of Retail & Ecommerce
+DESCRIPTION:https://lu.ma/6bq74xei
+LOCATION:Paris
+URL:https://lu.ma/6bq74xei
 END:VEVENT
 BEGIN:VEVENT
 UID:110d696ca078@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Dîner-Conférence - Financer un projet en 2027 : quelle place pour
@@ -540,7 +480,7 @@ URL:https://lu.ma/503rjuaz
 END:VEVENT
 BEGIN:VEVENT
 UID:f4b6c1fa936a@paris-academique
-DTSTAMP:20261109T125317Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Quelle gouvernance pour financer les projets à impact dans la deep
@@ -550,8 +490,27 @@ LOCATION:Mines Paris – PSL\, 60 Bd Saint-Michel\, 75272 Paris\, France
 URL:https://lu.ma/ekk3b21m
 END:VEVENT
 BEGIN:VEVENT
+UID:9119b9ffa3c4@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261117T193000
+DTEND;TZID=Europe/Paris:20261117T210000
+SUMMARY:Les Grandes Conférences: Philippe Aghion\, 2025 Nobel Laureate in 
+ Economics and Peter Orszag\, Chief Executive Officer and Chairman of Lazar
+ d
+DESCRIPTION:On the occasion of the Grandes Conférences\, Sciences Po has t
+ he honor of welcoming Philippe Aghion\, Professor at the Collège de Franc
+ e and 2025 Nobel Laureate in Economics\, and Peter Orszag\, Chief Executiv
+ e Officer and Chairman of Lazard.\nhttps://www.sciencespo.fr/fr/evenements
+ /les-grandes-conferences-philippe-aghion-2025-nobel-laureate-in-economics-
+ and-peter-orszag-chief-executive-officer-of-lazard/
+LOCATION:Sciences Po\, 27 rue Saint-Guillaume\, Paris 7e
+URL:https://www.sciencespo.fr/fr/evenements/les-grandes-conferences-philipp
+ e-aghion-2025-nobel-laureate-in-economics-and-peter-orszag-chief-executive
+ -officer-of-lazard/
+END:VEVENT
+BEGIN:VEVENT
 UID:2e528fa7db58@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261118T091500
 DTEND;TZID=Europe/Paris:20261118T111500
 SUMMARY:Conférence de l’Association Française d’Économie des Transpo
@@ -565,7 +524,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/conference-de-lassocia
 END:VEVENT
 BEGIN:VEVENT
 UID:d4290d188178@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261118T113000
 DTEND;TZID=Europe/Paris:20261118T133000
 SUMMARY:Masterclass avec la Banque de France : missions\, métiers et strat
@@ -578,19 +537,24 @@ URL:https://www.assas-universite.fr/fr/evenements/masterclass-banque-france
  -missions-metiers-strategie-monetaire
 END:VEVENT
 BEGIN:VEVENT
-UID:14f4f5f5a445@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261118T190000
-DTEND;TZID=Europe/Paris:20261118T210000
-SUMMARY:Team1 France Uni Tour - ESGI Paris
-DESCRIPTION:https://lu.ma/fsw28mw9
-LOCATION:ESGI\, École Supérieure de Génie Informatique\, 242 Rue du Faub
- ourg Saint-Antoine\, 75012 Paris\, France
-URL:https://lu.ma/fsw28mw9
+UID:d9ae36c721fd@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261118T173000
+DTEND;TZID=Europe/Paris:20261118T183000
+SUMMARY:Tackling Global Inequality: Building an International Panel on Ineq
+ uality
+DESCRIPTION:PSIA is delighted to welcome Joseph E. Stiglitz\, Chair of the 
+ Founding Committee of the International Panel on Inequality and Recipient 
+ of the 2001 Nobel Prize in Economic Sciences\nhttps://www.sciencespo.fr/fr
+ /evenements/tackling-global-inequality-building-an-international-panel-on-
+ inequality/
+LOCATION:Sciences Po\, 27 rue Saint-Guillaume\, Paris 7e
+URL:https://www.sciencespo.fr/fr/evenements/tackling-global-inequality-buil
+ ding-an-international-panel-on-inequality/
 END:VEVENT
 BEGIN:VEVENT
 UID:196438012a26@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261118T190000
 DTEND;TZID=Europe/Paris:20261118T223000
 SUMMARY:9e cérémonie des prix Made In Dauphine
@@ -605,7 +569,7 @@ URL:https://www.dauphine-alumni.org/fr/event/9e-ceremonie-made-in-dauphine/
 END:VEVENT
 BEGIN:VEVENT
 UID:14f4f5f5a445@paris-academique
-DTSTAMP:20261109T125317Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261118T190000
 DTEND;TZID=Europe/Paris:20261118T210000
 SUMMARY:Team1 France Uni Tour - ESGI Paris
@@ -616,7 +580,7 @@ URL:https://lu.ma/fsw28mw9
 END:VEVENT
 BEGIN:VEVENT
 UID:47f91c4270a1@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:L'héritage majuscule de Dominique Pasquier
@@ -632,7 +596,7 @@ URL:https://hommagepasquier.sciencesconf.org
 END:VEVENT
 BEGIN:VEVENT
 UID:2fcf54cab585@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261119T111500
 DTEND;TZID=Europe/Paris:20261119T131500
 SUMMARY:Residual Prophet Inequalities
@@ -646,7 +610,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/residual-prophet
 END:VEVENT
 BEGIN:VEVENT
 UID:14f177e5dc30@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261119T123000
 DTEND;TZID=Europe/Paris:20261119T143000
 SUMMARY:GPET internal seminar
@@ -658,7 +622,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/gpet-internal-seminar/
 END:VEVENT
 BEGIN:VEVENT
 UID:3a4ecfdeff9e@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261120T090000
 DTEND;TZID=Europe/Paris:20261120T173000
 SUMMARY:Le handicap\, un rapport social comme/avec les autres ?
@@ -672,8 +636,21 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/le-hand
  icap-un-rapport-social-comme-avec-les-autres
 END:VEVENT
 BEGIN:VEVENT
+UID:2ab7f36b0511@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261120T111500
+DTEND;TZID=Europe/Paris:20261120T131500
+SUMMARY:Economics and Psychology Seminar
+DESCRIPTION:Séminaire\nhttps://www.parisschoolofeconomics.eu/evenements/ec
+ onomics-and-psychology-seminar/
+LOCATION:Room 6th floor MSE — Paris School of Economics\, 48 boulevard Jo
+ urdan\, Paris 14e
+URL:https://www.parisschoolofeconomics.eu/evenements/economics-and-psycholo
+ gy-seminar/
+END:VEVENT
+BEGIN:VEVENT
 UID:d2771a3e599a@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261120T121500
 DTEND;TZID=Europe/Paris:20261120T141500
 SUMMARY:Groupe de Travail d’Économie de la Fiscalité - Rencontre du 20 
@@ -687,7 +664,7 @@ URL:https://www.assas-universite.fr/fr/evenements/groupe-travail-deconomie-
 END:VEVENT
 BEGIN:VEVENT
 UID:c844e5cae4d3@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261120T140000
 DTEND;TZID=Europe/Paris:20261120T160000
 SUMMARY:ATELIER : Chocapitalisme\, chaîne de valeur et développement dura
@@ -698,7 +675,7 @@ URL:https://lu.ma/h89hmmni
 END:VEVENT
 BEGIN:VEVENT
 UID:350465d2be50@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261120T150000
 DTEND;TZID=Europe/Paris:20261120T170000
 SUMMARY:Actualité de l'axe RSE – Benoît Mandelbrot\, l'économie et la 
@@ -712,7 +689,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/actualite-de-laxe-rse-beno
 END:VEVENT
 BEGIN:VEVENT
 UID:ca68a3cd8423@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261120T183000
 DTEND;TZID=Europe/Paris:20261120T203000
 SUMMARY:Une économie juste : un meilleur pacte pour l'humain et la planèt
@@ -726,7 +703,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/une-economie-juste-un-
 END:VEVENT
 BEGIN:VEVENT
 UID:6782795b8951@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261121T150000
 DTEND;TZID=Europe/Paris:20261121T160000
 SUMMARY:Art faber\, quand l’art raconte l’économie : métamorphoses de
@@ -739,7 +716,7 @@ URL:https://www.citeco.fr/agenda/art-faber-quand-lart-raconte-leconomie-met
 END:VEVENT
 BEGIN:VEVENT
 UID:e1f6b81fc743@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261121T163000
 DTEND;TZID=Europe/Paris:20261121T173000
 SUMMARY:L'art du billet
@@ -749,7 +726,7 @@ URL:https://www.citeco.fr/agenda/lart-du-billet
 END:VEVENT
 BEGIN:VEVENT
 UID:612701964f7c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261123T112000
 DTEND;TZID=Europe/Paris:20261123T132000
 SUMMARY:Terrestrial Space Infrastructure and Great-Power Competition
@@ -763,7 +740,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/terrestrial-spac
 END:VEVENT
 BEGIN:VEVENT
 UID:80c8ce669729@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:ESPI International Real Estate Conference 2026
@@ -778,7 +755,7 @@ URL:https://espi-irec-2026.sciencesconf.org
 END:VEVENT
 BEGIN:VEVENT
 UID:6e281badb682@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T093000
 DTEND;TZID=Europe/Paris:20261124T113000
 SUMMARY:Démocratie\, culture et transformations sociales : journée d’in
@@ -793,7 +770,7 @@ URL:https://recherche.pantheonsorbonne.fr/evenements/democratie-culture-et-
 END:VEVENT
 BEGIN:VEVENT
 UID:e17262f478f2@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T123000
 DTEND;TZID=Europe/Paris:20261124T140000
 SUMMARY:Atelier-jeu : la bataille de l'IA
@@ -808,7 +785,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:98664c340247@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T140000
 DTEND;TZID=Europe/Paris:20261124T160000
 SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (6)
@@ -822,18 +799,8 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-so
  ciles-trouver-6
 END:VEVENT
 BEGIN:VEVENT
-UID:5511c0a1d40c@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261124T180000
-DTEND;TZID=Europe/Paris:20261124T200000
-SUMMARY:Le Café de l’Agentique - Le commerce agentique se rencontre
-DESCRIPTION:https://lu.ma/enwzw0d5
-LOCATION:Paris
-URL:https://lu.ma/enwzw0d5
-END:VEVENT
-BEGIN:VEVENT
 UID:5d47b943d3a9@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T193000
 SUMMARY:Dans le sillage du « Répertoire des acteurs du marché de l’art
@@ -848,7 +815,7 @@ URL:https://www.inha.fr/agenda/dans-le-sillage-du-repertoire-des-acteurs-du
 END:VEVENT
 BEGIN:VEVENT
 UID:5511c0a1d40c@paris-academique
-DTSTAMP:20261109T125317Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:Le Café de l’Agentique - Le commerce agentique se rencontre
@@ -858,7 +825,7 @@ URL:https://lu.ma/enwzw0d5
 END:VEVENT
 BEGIN:VEVENT
 UID:f9abe1ebad1d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:FINANCE RELIGIEUSE : PANORAMA D’UN MARCHÉ MONDIAL EN PLEINE MUTA
@@ -871,7 +838,7 @@ URL:https://www.collegedesbernardins.fr/agenda/finance-religieuse-panorama-
 END:VEVENT
 BEGIN:VEVENT
 UID:d114cf29cd7a@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Enjeux actuels des politiques internationales de financement du dé
@@ -885,7 +852,7 @@ URL:https://www.assas-universite.fr/fr/evenements/enjeux-actuels-politiques
 END:VEVENT
 BEGIN:VEVENT
 UID:5856f5fe120c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261125T093000
 DTEND;TZID=Europe/Paris:20261125T113000
 SUMMARY:Le financement de l’Élimination du carbone : matinée AFEN & Bpi
@@ -896,7 +863,7 @@ URL:https://lu.ma/eexu2jz6
 END:VEVENT
 BEGIN:VEVENT
 UID:4c18ffb899d8@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261125T130000
 DTEND;TZID=Europe/Paris:20261125T180000
 SUMMARY:Le hackathon des Dauphine Digital Days
@@ -910,7 +877,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/le-hack
 END:VEVENT
 BEGIN:VEVENT
 UID:7ba036c15cb5@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261125T160000
 DTEND;TZID=Europe/Paris:20261125T180000
 SUMMARY:Histoire des entreprises et de la finance
@@ -922,7 +889,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/dhistoire-des-entrepri
 END:VEVENT
 BEGIN:VEVENT
 UID:1952a9a6ef66@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261125T163000
 DTEND;TZID=Europe/Paris:20261125T183000
 SUMMARY:Économie du développement
@@ -935,7 +902,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/economie-du-developpem
 END:VEVENT
 BEGIN:VEVENT
 UID:bda2fe383c23@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:8eme colloque interdisciplinaire sur la défaillance d'entreprise
@@ -952,7 +919,7 @@ URL:https://cide2026.sciencesconf.org
 END:VEVENT
 BEGIN:VEVENT
 UID:b3ca87719bac@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261126T090000
 DTEND;TZID=Europe/Paris:20261126T120000
 SUMMARY:Matinée jeunes chercheurs et chercheuses (4ème édition)
@@ -963,7 +930,7 @@ URL:https://www.sciencespo.fr/fr/evenements/matinee-jeunes-chercheurs/
 END:VEVENT
 BEGIN:VEVENT
 UID:f6218748d250@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261126T123000
 DTEND;TZID=Europe/Paris:20261126T143000
 SUMMARY:Travail et économie publique
@@ -976,7 +943,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/travail-et-economie-pu
 END:VEVENT
 BEGIN:VEVENT
 UID:18aa68f93c7b@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261126T123000
 DTEND;TZID=Europe/Paris:20261126T143000
 SUMMARY:Paris Empirical Political Economics Seminar (PEPES)
@@ -989,7 +956,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/seminaire-economie-pol
 END:VEVENT
 BEGIN:VEVENT
 UID:7e34b6658e45@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261126T140000
 DTEND;TZID=Europe/Paris:20261126T153000
 SUMMARY:Finance(s) : à qui profite l'IA ?
@@ -1003,7 +970,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/finance
 END:VEVENT
 BEGIN:VEVENT
 UID:b862f5a7054f@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261126T173000
 DTEND;TZID=Europe/Paris:20261126T190000
 SUMMARY:Comment reconnaître le travail demain ?
@@ -1018,7 +985,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/regards
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb31892ea2c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261126T174500
 DTEND;TZID=Europe/Paris:20261126T194500
 SUMMARY:Cérémonie d'accueil des nouveaux associés 2026
@@ -1029,21 +996,8 @@ URL:https://www.institutdesactuaires.com/agenda/ceremonie-des-nouveaux-asso
  cies-2026-8059
 END:VEVENT
 BEGIN:VEVENT
-UID:54df7661d91f@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261127T090000
-DTEND;TZID=Europe/Paris:20261127T130000
-SUMMARY:Quelle coordination internationale à l'ère de la fragmentation g
- éoéconomique ? 3e Dialogue Géoéconomique de Paris
-DESCRIPTION:Conférence\nhttps://www.ifri.org/fr/quelle-coordination-intern
- ationale-lere-de-la-fragmentation-geoeconomique-3e-dialogue-geoeconomique
-LOCATION:Ifri\, 27 rue de la Procession\, Paris 15e
-URL:https://www.ifri.org/fr/quelle-coordination-internationale-lere-de-la-f
- ragmentation-geoeconomique-3e-dialogue-geoeconomique
-END:VEVENT
-BEGIN:VEVENT
 UID:a8d8872634b9@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261127T090000
 DTEND;TZID=Europe/Paris:20261127T110000
 SUMMARY:Séminaire "Focus comparatifs sur les finances locales : Canada\, B
@@ -1057,7 +1011,7 @@ URL:https://irjs.pantheonsorbonne.fr/evenements/seminaire-focus-comparatifs
 END:VEVENT
 BEGIN:VEVENT
 UID:54df7661d91f@paris-academique
-DTSTAMP:20261109T125317Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261127T090000
 DTEND;TZID=Europe/Paris:20261127T130000
 SUMMARY:Quelle coordination internationale à l'ère de la fragmentation g
@@ -1070,7 +1024,7 @@ URL:https://www.ifri.org/fr/quelle-coordination-internationale-lere-de-la-f
 END:VEVENT
 BEGIN:VEVENT
 UID:38611fc4719d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261127T111500
 DTEND;TZID=Europe/Paris:20261127T131500
 SUMMARY:Pricing in the Age of AI (MIT Press)
@@ -1084,7 +1038,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/pricing-age-ai-m
 END:VEVENT
 BEGIN:VEVENT
 UID:3b6bac09b252@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261127T160000
 DTEND;TZID=Europe/Paris:20261127T180000
 SUMMARY:Bringue aux Marrons #2 – Crous de Paris X Ground Control
@@ -1102,7 +1056,7 @@ URL:https://www.crous-paris.fr/evenement/bringue-aux-marrons-2-crous-de-par
 END:VEVENT
 BEGIN:VEVENT
 UID:6396a280961f@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261127T173000
 DTEND;TZID=Europe/Paris:20261127T193000
 SUMMARY:Conséquences macroéconomiques et financières du vieillissement :
@@ -1117,7 +1071,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/consequences-macroecon
 END:VEVENT
 BEGIN:VEVENT
 UID:d1b70407020f@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T163000
 SUMMARY:Finale du concours Éloquence du bégaiement 2026
@@ -1132,7 +1086,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/finale-
 END:VEVENT
 BEGIN:VEVENT
 UID:89cd28ce3283@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261130T083000
 DTEND;TZID=Europe/Paris:20261130T103000
 SUMMARY:Narcotrafic : défis judiciaires\, économiques territoriaux et int
@@ -1146,7 +1100,7 @@ URL:https://www.assas-universite.fr/fr/evenements/narcotrafic-defis-judicia
 END:VEVENT
 BEGIN:VEVENT
 UID:451e91cfb1f6@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261130T123000
 DTEND;TZID=Europe/Paris:20261130T143000
 SUMMARY:Séminaire PSE Interne
@@ -1157,7 +1111,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/seminaire-pse-interne/
 END:VEVENT
 BEGIN:VEVENT
 UID:b3b241e4bbd8@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261130T170000
 DTEND;TZID=Europe/Paris:20261130T190000
 SUMMARY:5 ans après Kornai : interpréter les transformations des système
@@ -1170,7 +1124,7 @@ URL:https://www.inalco.fr/evenements/5-ans-apres-kornai-interpreter-les-tra
 END:VEVENT
 BEGIN:VEVENT
 UID:fbbf4ccc71d0@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261130T193000
 DTEND;TZID=Europe/Paris:20261130T213000
 SUMMARY:TFR2026 - ✨ À la table du commerce de demain (Shopware + MaPS Sy
@@ -1180,18 +1134,8 @@ LOCATION:Paris
 URL:https://lu.ma/7cmol8ja
 END:VEVENT
 BEGIN:VEVENT
-UID:4236ba5c8f5e@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;TZID=Europe/Paris:20261201T170000
-DTEND;TZID=Europe/Paris:20261201T190000
-SUMMARY:Project Harmonia Paris: Allfunds x Solana
-DESCRIPTION:https://lu.ma/Harmonia-Paris
-LOCATION:Paris
-URL:https://lu.ma/Harmonia-Paris
-END:VEVENT
-BEGIN:VEVENT
 UID:9eabb3e10e4f@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Osez Dauphine : soirée portes ouvertes de Dauphine Executive Educa
@@ -1207,7 +1151,7 @@ URL:https://executive-education.dauphine.psl.eu/nous-connaitre/portes-ouver
 END:VEVENT
 BEGIN:VEVENT
 UID:4236ba5c8f5e@paris-academique
-DTSTAMP:20261109T125317Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T190000
 SUMMARY:Project Harmonia Paris: Allfunds x Solana
@@ -1217,7 +1161,7 @@ URL:https://lu.ma/Harmonia-Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:b39c5fc83dc3@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261201T190000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Migration et tourisme : inégalités aux frontières
@@ -1231,7 +1175,7 @@ URL:https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/confe
 END:VEVENT
 BEGIN:VEVENT
 UID:1035c354b420@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261202T100000
 DTEND;TZID=Europe/Paris:20261202T120000
 SUMMARY:Ressources en ligne pour le marché de l’art et la provenance –
@@ -1245,7 +1189,7 @@ URL:https://www.inha.fr/agenda/ressources-en-ligne-pour-le-marche-de-lart-e
 END:VEVENT
 BEGIN:VEVENT
 UID:3a880967016e@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261202T133000
 DTEND;TZID=Europe/Paris:20261202T153000
 SUMMARY:Finance Engineer Hackathon
@@ -1255,7 +1199,7 @@ URL:https://lu.ma/umg16123
 END:VEVENT
 BEGIN:VEVENT
 UID:e88f508b2371@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261202T183000
 DTEND;TZID=Europe/Paris:20261202T200000
 SUMMARY:FAITH-BASED INVESTMENT: RECOMMENDATIONS FROM BISHOPS’ CONFERENCES
@@ -1268,7 +1212,7 @@ URL:https://www.collegedesbernardins.fr/agenda/faith-based-investment-recom
 END:VEVENT
 BEGIN:VEVENT
 UID:ddfde85e62e9@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T110000
 SUMMARY:Colloque Innovation et modélisation des taux d’intérêt
@@ -1281,7 +1225,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/colloque
 END:VEVENT
 BEGIN:VEVENT
 UID:fb0a555dfa02@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T183000
 SUMMARY:Après l’hybridation de l’économie et des sciences naturelles
@@ -1293,7 +1237,7 @@ URL:https://www.ens.psl.eu/agenda/apres-l-hybridation-de-l-economie-et-des-
 END:VEVENT
 BEGIN:VEVENT
 UID:2d9ab7c27469@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T130000
 SUMMARY:11ème édition des rendez-vous du logement étudiant
@@ -1308,7 +1252,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/11eme-e
 END:VEVENT
 BEGIN:VEVENT
 UID:a31bd09cbd56@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261203T094000
 DTEND;TZID=Europe/Paris:20261203T114000
 SUMMARY:Séminaire de recherche HEC : Kristina Mc Elheran (U. Toronto)
@@ -1322,7 +1266,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/kristina-mc-elhe
 END:VEVENT
 BEGIN:VEVENT
 UID:b9ab217ec615@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261204T090000
 DTEND;TZID=Europe/Paris:20261204T110000
 SUMMARY:Externalités\, communs et équité
@@ -1335,7 +1279,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/externalites-communs-e
 END:VEVENT
 BEGIN:VEVENT
 UID:2c0ffb5aee0c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261204T093000
 DTEND;TZID=Europe/Paris:20261204T113000
 SUMMARY:Concilier croissance et impact ? La genèse de Nous Anti Gaspi
@@ -1345,7 +1289,7 @@ URL:https://lu.ma/wgdmmfl0
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8af4705bb8@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261204T134500
 DTEND;TZID=Europe/Paris:20261204T150000
 SUMMARY:Présentation du Hotspot Terrae-PSL Habiterra
@@ -1360,7 +1304,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/present
 END:VEVENT
 BEGIN:VEVENT
 UID:2d82bf391f8d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261204T144000
 DTEND;TZID=Europe/Paris:20261204T164000
 SUMMARY:Leveling the Field: AI and Micro-credentials in the Global South
@@ -1372,7 +1316,7 @@ URL:https://www.paris-iea.fr/fr/evenements/leveling-the-field-ai-and-micro-
 END:VEVENT
 BEGIN:VEVENT
 UID:642cbe2bb730@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261207T120000
 DTEND;TZID=Europe/Paris:20261207T140000
 SUMMARY:Quentin Savignat : "Les concepts de forces productives et de nation
@@ -1386,7 +1330,7 @@ URL:https://phare.pantheonsorbonne.fr/evenements/quentin-savignat-concepts-
 END:VEVENT
 BEGIN:VEVENT
 UID:39da0bbbb3e2@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T183000
 SUMMARY:30 ans de l’Institut Jacques Delors : Conférence annuelle 2026 |
@@ -1399,7 +1343,7 @@ URL:https://institutdelors.eu/evenements/conference-annuelle-30-ans-de-lins
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef07d9b75d5@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261208T090000
 DTEND;TZID=Europe/Paris:20261208T110000
 SUMMARY:Green Finance Research Advances 2026
@@ -1411,8 +1355,24 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/green-fi
  nance-research-advances-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:c5eb498d9e97@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261208T140000
+DTEND;TZID=Europe/Paris:20261208T173500
+SUMMARY:Speed coaching - Bloomberg
+DESCRIPTION:Bloomberg vous ouvre ses portes pour un Speed Coaching le 8 dé
+ cembre 2026 de 14h à 17h30. Pour rappel\, Bloomberg est un leader mondial
+  de l’information économique et financière\, fournissant des données\
+ , des actualités et des analyses fiables.\nhttps://article1.my.salesforce
+ -sites.com/AG_VFP_Quiz?cid=701IV00001vLcIm&id=a1NIV00000ByDvJ&base=base5&f
+ orm=jeune
+LOCATION:Paris
+URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001vLcI
+ m&id=a1NIV00000ByDvJ&base=base5&form=jeune
+END:VEVENT
+BEGIN:VEVENT
 UID:9d7b1a2cade9@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261208T173000
 DTEND;TZID=Europe/Paris:20261208T193000
 SUMMARY:Webinaire Les bonnes pratiques de l’IA générative dans la reche
@@ -1426,7 +1386,7 @@ URL:https://www.assas-universite.fr/fr/evenements/webinaire-bonnes-pratique
 END:VEVENT
 BEGIN:VEVENT
 UID:2efd15332f6f@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T220000
 SUMMARY:Égalité des chances : Dauphine à l’heure des possibles
@@ -1441,7 +1401,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/soiree-
 END:VEVENT
 BEGIN:VEVENT
 UID:1cc1e06d5944@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T110000
 SUMMARY:Colloque Actuariat 2026 et remise du Prix SCOR de l’actuariat
@@ -1453,7 +1413,7 @@ URL:https://www.institutdesactuaires.com/agenda/colloque-actuariat-2026-et-
 END:VEVENT
 BEGIN:VEVENT
 UID:f8ea90c7c7c4@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261209T100000
 DTEND;TZID=Europe/Paris:20261209T120000
 SUMMARY:Cegid Masterclass: Financement Dilutif et Non-Dilutif
@@ -1463,7 +1423,7 @@ URL:https://lu.ma/9ojxdll8
 END:VEVENT
 BEGIN:VEVENT
 UID:4c2ab206b386@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261209T190000
 DTEND;TZID=Europe/Paris:20261209T210000
 SUMMARY:Rencontre avec la socioéconomiste Isabelle Guérin autour de son l
@@ -1482,8 +1442,22 @@ URL:https://www.paris.fr/evenements/rencontre-avec-la-socioeconomiste-isabe
  lle-guerin-autour-de-son-livre-la-femme-endettee-114262
 END:VEVENT
 BEGIN:VEVENT
+UID:367fcb23d40b@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261209T190000
+DTEND;TZID=Europe/Paris:20261209T203000
+SUMMARY:Fail Night 8ème édition
+DESCRIPTION:Et si l'échec était le début de la réussite ?\nhttps://daup
+ hine.psl.eu/dauphine/media-et-communication/article/default-86141ed713ee84
+ 4cc123dfd911bbc17b
+LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
+ gny\, Paris 16e
+URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/default
+ -86141ed713ee844cc123dfd911bbc17b
+END:VEVENT
+BEGIN:VEVENT
 UID:5b59829fcd15@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261210T093000
 DTEND;TZID=Europe/Paris:20261210T113000
 SUMMARY:Ecosystem days : Financement non dilutif
@@ -1494,7 +1468,7 @@ URL:https://lu.ma/vzddjhka
 END:VEVENT
 BEGIN:VEVENT
 UID:c724179733e2@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261210T180000
 DTEND;TZID=Europe/Paris:20261210T200000
 SUMMARY:Société juste\, société heureuse
@@ -1506,8 +1480,21 @@ URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/societe-jus
  te-societe-heureuse/societe-juste-societe-heureuse
 END:VEVENT
 BEGIN:VEVENT
+UID:4694a7a07263@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261211T110000
+DTEND;TZID=Europe/Paris:20261211T130000
+SUMMARY:Économie politique du changement institutionnel (EPCI)
+DESCRIPTION:Séminaire\nhttps://www.parisschoolofeconomics.eu/evenements/ec
+ onomie-politique-du-changement-institutionnel-epci/
+LOCATION:MSE grande salle\, 6e etage — Paris School of Economics\, 48 bou
+ levard Jourdan\, Paris 14e
+URL:https://www.parisschoolofeconomics.eu/evenements/economie-politique-du-
+ changement-institutionnel-epci/
+END:VEVENT
+BEGIN:VEVENT
 UID:23c73da6861c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261211T111500
 DTEND;TZID=Europe/Paris:20261211T131500
 SUMMARY:Quelle est la valeur des données censurées ?
@@ -1521,7 +1508,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/quelle-est-la-va
 END:VEVENT
 BEGIN:VEVENT
 UID:2964c301909c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261211T180000
 DTEND;TZID=Europe/Paris:20261211T200000
 SUMMARY:Hommage à André Lévy-Lang
@@ -1534,7 +1521,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/hommage-
 END:VEVENT
 BEGIN:VEVENT
 UID:733b8d78a48b@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:7th Financial Economic Meeting FEM-2026
@@ -1544,7 +1531,7 @@ URL:https://fem2026.sciencesconf.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:a1aed5a067c5@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261214T180000
 DTEND;TZID=Europe/Paris:20261214T200000
 SUMMARY:Prévision et gestion des risques financiers par l'IA : modèles de
@@ -1560,7 +1547,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/previsio
 END:VEVENT
 BEGIN:VEVENT
 UID:4bf60ece4689@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261215T090000
 DTEND;TZID=Europe/Paris:20261215T110000
 SUMMARY:Politiques macroéconomiques avec des agents hétérogènes
@@ -1573,7 +1560,7 @@ URL:https://www.parisschoolofeconomics.eu/evenements/3eme-politiques-macroe
 END:VEVENT
 BEGIN:VEVENT
 UID:dad47077480c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261215T100000
 DTEND;TZID=Europe/Paris:20261215T120000
 SUMMARY:Au-delà du PIB : pourquoi et vers quoi ?
@@ -1585,8 +1572,21 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
  s-pour-une-nouvelle-societe/au-dela-du-pib-pourquoi-et-vers-quoi
 END:VEVENT
 BEGIN:VEVENT
+UID:be370caadc40@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261215T183000
+DTEND;TZID=Europe/Paris:20261215T203000
+SUMMARY:Conférence annuelle de la Chaire PARI
+DESCRIPTION:Conférences\nhttps://www.institutlouisbachelier.org/au-program
+ me/evenements/conference-annuelle-de-la-chaire-pari
+LOCATION:Auditorium BPCE\, Paris 13è — Institut Louis Bachelier\, 28 pla
+ ce de la Bourse\, Paris 2e
+URL:https://www.institutlouisbachelier.org/au-programme/evenements/conferen
+ ce-annuelle-de-la-chaire-pari
+END:VEVENT
+BEGIN:VEVENT
 UID:64a5eed4e642@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261217T183000
 DTEND;TZID=Europe/Paris:20261217T203000
 SUMMARY:CORE - Club Of Retail & Ecommerce
@@ -1596,7 +1596,7 @@ URL:https://lu.ma/lm25trky
 END:VEVENT
 BEGIN:VEVENT
 UID:42130c57c65a@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261217T190000
 DTEND;TZID=Europe/Paris:20261217T210000
 SUMMARY:Jeudis de l'actualité : la famille\, autre berceau des inégalité
@@ -1612,7 +1612,7 @@ URL:https://www.paris.fr/evenements/jeudis-de-l-actualite-la-famille-autre-
 END:VEVENT
 BEGIN:VEVENT
 UID:f5a3e257200c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270104T180000
 DTEND;TZID=Europe/Paris:20270104T193000
 SUMMARY:BOOST MON CV
@@ -1627,7 +1627,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pAsP
 END:VEVENT
 BEGIN:VEVENT
 UID:c7121b0c02f2@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270105T100000
 DTEND;TZID=Europe/Paris:20270105T120000
 SUMMARY:Au-delà du profit : pourquoi et vers quoi ?
@@ -1640,7 +1640,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
 END:VEVENT
 BEGIN:VEVENT
 UID:823334fb7b2a@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270112T100000
 DTEND;TZID=Europe/Paris:20270112T120000
 SUMMARY:Le bonheur national brut et ses limites
@@ -1653,7 +1653,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
 END:VEVENT
 BEGIN:VEVENT
 UID:bf17c4019900@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270114T083000
 DTEND;TZID=Europe/Paris:20270114T103000
 SUMMARY:Invitation à : Nos Finances à l’heure de la Fintech
@@ -1663,7 +1663,7 @@ URL:https://lu.ma/yqf5wlj4
 END:VEVENT
 BEGIN:VEVENT
 UID:47d3196b7685@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270119T100000
 DTEND;TZID=Europe/Paris:20270119T120000
 SUMMARY:L'égalité des chances et la responsabilité individuelle
@@ -1678,7 +1678,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
 END:VEVENT
 BEGIN:VEVENT
 UID:43e78617f76e@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270126T100000
 DTEND;TZID=Europe/Paris:20270126T120000
 SUMMARY:Qu'est-ce que l'équité dans la diversité et l'incertitude ?
@@ -1693,7 +1693,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
 END:VEVENT
 BEGIN:VEVENT
 UID:f733afaefdca@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270202T100000
 DTEND;TZID=Europe/Paris:20270202T120000
 SUMMARY:L'équité et la durabilité
@@ -1706,7 +1706,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
 END:VEVENT
 BEGIN:VEVENT
 UID:45d5f9229877@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270209T100000
 DTEND;TZID=Europe/Paris:20270209T120000
 SUMMARY:Au-delà de l’anthropocentrisme : valoriser le vivant
@@ -1720,7 +1720,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
 END:VEVENT
 BEGIN:VEVENT
 UID:3f365c4cacbc@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270216T100000
 DTEND;TZID=Europe/Paris:20270216T120000
 SUMMARY:Au-delà de la justice : la quête collective d'une vie bonne
@@ -1735,7 +1735,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateur
 END:VEVENT
 BEGIN:VEVENT
 UID:3ecb564346b7@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20270323T190000
 DTEND;TZID=Europe/Paris:20270323T210000
 SUMMARY:Dîner-conférence - Économie circulaire : un pas vers la souverai
@@ -1747,7 +1747,7 @@ URL:https://lu.ma/evenem-pbnr
 END:VEVENT
 BEGIN:VEVENT
 UID:6e3ece1b11fa@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:Décision : Théorie\, expériences et applications

@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:04dcc95edbe7@paris-academique
-DTSTAMP:20261109T175030Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:La Foi bahá'íe : hérésie chiite ou religion universelle
-DESCRIPTION:Conférence de Pierre-Yves Mocquais dans le cadre des activité
- s du CEOMEP.\nhttps://www.ephe.psl.eu/la-foi-bahaie-heresie-chiite-ou-reli
- gion-universelle
-LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
-URL:https://www.ephe.psl.eu/la-foi-bahaie-heresie-chiite-ou-religion-univer
- selle
-END:VEVENT
-BEGIN:VEVENT
 UID:bfadf83acb42@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:La Galleria svelata : conclusions du programme de recherche Carracc
@@ -51,7 +38,7 @@ URL:https://www.ephe.psl.eu/la-galleria-svelata-conclusions-du-programme-de
 END:VEVENT
 BEGIN:VEVENT
 UID:a945112d53b7@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261116T180000
 DTEND;TZID=Europe/Paris:20261116T200000
 SUMMARY:In God and Luke we trust
@@ -61,8 +48,21 @@ LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
 URL:https://www.ephe.psl.eu/god-and-luke-we-trust
 END:VEVENT
 BEGIN:VEVENT
+UID:6065e46cc078@paris-academique
+DTSTAMP:20261110T123324Z
+DTSTART;TZID=Europe/Paris:20261119T091500
+DTEND;TZID=Europe/Paris:20261119T163000
+SUMMARY:Traces du « moi » dans la littérature d'adab de l'époque omeyya
+ de à l'époque ottomane (Ie/VIIe - XIIIe/XIXe siècle)
+DESCRIPTION:Journée d'étude.\nhttps://www.ephe.psl.eu/traces-du-moi-dans-
+ la-litterature-dadab-epoque-omeyyade-epoque-ottomane
+LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
+URL:https://www.ephe.psl.eu/traces-du-moi-dans-la-litterature-dadab-epoque-
+ omeyyade-epoque-ottomane
+END:VEVENT
+BEGIN:VEVENT
 UID:32649b1e98de@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261119T180000
 DTEND;TZID=Europe/Paris:20261119T193000
 SUMMARY:Des vases sur des monnaies grecques et romaines
@@ -73,7 +73,7 @@ URL:https://www.ephe.psl.eu/des-vases-sur-des-monnaies-grecques-et-romaines
 END:VEVENT
 BEGIN:VEVENT
 UID:efaf56edb536@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Par la seule Écriture. Protestantisme et Islam
@@ -84,7 +84,7 @@ URL:https://www.ephe.psl.eu/par-la-seule-ecriture-protestantisme-et-islam
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa23ea2e00c@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Multiculturalisme en Égypte (IIIe s. av. J.-C. - VIIe s. apr. J.-C
@@ -97,12 +97,12 @@ URL:https://www.ephe.psl.eu/multiculturalisme-en-egypte-iiie-s-av-j-c-viie-
  s-apr-j-c-les-ostraca-datripe-textes-et-images
 END:VEVENT
 BEGIN:VEVENT
-UID:780ca2cae295@paris-academique
-DTSTAMP:20261109T175030Z
+UID:71239b35a484@paris-academique
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261207T100000
 DTEND;TZID=Europe/Paris:20261207T120000
 SUMMARY:Frontières. Pour une anthropologie religieuse de l'espace et du po
- uvoir dans la Rome antique.
+ uvoir dans la Rome antique
 DESCRIPTION:Conférences de Gianluca De Sanctis\, directeur d'études invit
  é.\nhttps://www.ephe.psl.eu/frontieres-pour-une-anthropologie-religieuse-
  de-lespace-et-du-pouvoir-dans-la-rome-antique
@@ -112,7 +112,7 @@ URL:https://www.ephe.psl.eu/frontieres-pour-une-anthropologie-religieuse-de
 END:VEVENT
 BEGIN:VEVENT
 UID:200ad1b5bf7d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261210T180000
 DTEND;TZID=Europe/Paris:20261210T193000
 SUMMARY:Hippocrate à Constantinople : le Parisinus gr. 2144 et ses lecteur

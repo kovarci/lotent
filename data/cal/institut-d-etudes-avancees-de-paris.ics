@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:74d928e3e5f3@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261118T091500
 DTEND;TZID=Europe/Paris:20261118T163000
 SUMMARY:Gouverner le numérique
@@ -35,7 +35,7 @@ URL:https://www.paris-iea.fr/fr/evenements/gouverner-le-numerique
 END:VEVENT
 BEGIN:VEVENT
 UID:13de0b475fff@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261120T130000
 DTEND;TZID=Europe/Paris:20261120T150000
 SUMMARY:Séminaire inter PPI 2026
@@ -45,7 +45,7 @@ URL:https://www.paris-iea.fr/fr/evenements/seminaire-inter-ppi-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:b47f2dee1b01@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261125T183000
 DTEND;TZID=Europe/Paris:20261125T193000
 SUMMARY:Automatiser l'interprétation ? Établir la validité des LLM en sc
@@ -58,7 +58,7 @@ URL:https://www.paris-iea.fr/fr/evenements/automatiser-l-interpretation-eta
 END:VEVENT
 BEGIN:VEVENT
 UID:04626c706b7b@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261204T140000
 DTEND;TZID=Europe/Paris:20261204T160000
 SUMMARY:Language as Salvation: Ludwig Zamenhof\, Esperanto\, and the Soluti
@@ -71,7 +71,7 @@ URL:https://www.paris-iea.fr/fr/evenements/language-as-salvation-ludwig-zam
 END:VEVENT
 BEGIN:VEVENT
 UID:2d82bf391f8d@paris-academique
-DTSTAMP:20261109T175030Z
+DTSTAMP:20261110T123324Z
 DTSTART;TZID=Europe/Paris:20261204T144000
 DTEND;TZID=Europe/Paris:20261204T164000
 SUMMARY:Leveling the Field: AI and Micro-credentials in the Global South
