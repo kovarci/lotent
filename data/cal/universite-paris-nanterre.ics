@@ -24,8 +24,33 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:97b0591dbd42@paris-academique
+DTSTAMP:20261111T115516Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Quinzaine de lutte contre les violences de genre (Novembre 2026)
+DESCRIPTION:https://www.parisnanterre.fr/agenda/quinzaine-de-lutte-contre-l
+ es-violences-de-genre-novembre-2026
+LOCATION:Université Paris Nanterre\, 200 avenue de la République\, Nanter
+ re
+URL:https://www.parisnanterre.fr/agenda/quinzaine-de-lutte-contre-les-viole
+ nces-de-genre-novembre-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:d003a9f34da6@paris-academique
+DTSTAMP:20261111T115516Z
+DTSTART;TZID=Europe/Paris:20261126T120000
+DTEND;TZID=Europe/Paris:20261126T140000
+SUMMARY:Forum stages et jobs étudiants
+DESCRIPTION:https://www.parisnanterre.fr/agenda/forum-stages-et-jobs-etudia
+ nts-1
+LOCATION:Bâtiment Pierre Grappin (B) — Université Paris Nanterre\, 200 
+ avenue de la République\, Nanterre
+URL:https://www.parisnanterre.fr/agenda/forum-stages-et-jobs-etudiants-1
+END:VEVENT
+BEGIN:VEVENT
 UID:3ae620540310@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261130T121500
 DTEND;TZID=Europe/Paris:20261130T130000
 SUMMARY:Siestes littéraires 2026
@@ -35,8 +60,22 @@ LOCATION:Bâtiment Maison de l'étudiant·e (MDE) — Université Paris Nan
 URL:https://www.parisnanterre.fr/agenda/siestes-litteraires-2
 END:VEVENT
 BEGIN:VEVENT
+UID:3305f82f93f6@paris-academique
+DTSTAMP:20261111T115516Z
+DTSTART;TZID=Europe/Paris:20261130T130000
+DTEND;TZID=Europe/Paris:20261130T150000
+SUMMARY:Événement > Distribution gratuite de culottes menstruelles du 1er
+  semestre 2026-27
+DESCRIPTION:https://www.parisnanterre.fr/agenda/evenement-distribution-grat
+ uite-de-culottes-menstruelles-du-1er-semestre-2026-27
+LOCATION:Bâtiment Pierre Grappin (B) — Université Paris Nanterre\, 200 
+ avenue de la République\, Nanterre
+URL:https://www.parisnanterre.fr/agenda/evenement-distribution-gratuite-de-
+ culottes-menstruelles-du-1er-semestre-2026-27
+END:VEVENT
+BEGIN:VEVENT
 UID:3286b7dcb352@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261130T131500
 DTEND;TZID=Europe/Paris:20261130T151500
 SUMMARY:Siestes littéraires (décembre)
@@ -47,7 +86,7 @@ URL:https://www.parisnanterre.fr/agenda/siestes-litteraires-1
 END:VEVENT
 BEGIN:VEVENT
 UID:08d562b61e5e@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Le village d'hiver - édition 2026
@@ -59,7 +98,7 @@ URL:https://www.parisnanterre.fr/agenda/le-village-dhiver-edition-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:260a87edc829@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20270206T100000
 DTEND;TZID=Europe/Paris:20270206T120000
 SUMMARY:Journée Portes Ouvertes (JPO) - STAPS - Campus de Nanterre - Samed

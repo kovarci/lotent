@@ -24,40 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:35ae8399599f@paris-academique
-DTSTAMP:20261111T090658Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:Activ'Go - Réfléchir à la mise en œuvre de son projet entrepren
- eurial 📍 Paris 19
-DESCRIPTION:Organisé par Raphaëlle Afota — L’Activ’Go\, c’est l
- ’atelier du parcours Activ’Entrepreneurs pour définir les besoins de 
- son projet et trouver des opportunités pour passer de l’idée à l’ac
- tion\nhttps://chiche.makesense.org/events
-LOCATION:Cité des Sciences et de l'Industrie\, 30 Av. Corentin Cariou\, 75
- 019 Paris\, France
-URL:https://chiche.makesense.org/events
-END:VEVENT
-BEGIN:VEVENT
-UID:bc40e7f01e7b@paris-academique
-DTSTAMP:20261111T090658Z
-DTSTART;TZID=Europe/Paris:20261110T142000
-DTEND;TZID=Europe/Paris:20261110T162000
-SUMMARY:Atelier - Comment arrêter de tout porter quand on est une femme en
- trepreneure ?
-DESCRIPTION:Organisé par Les Canaux — Aider les femmes entrepreneures à
-  comprendre ce qui alimente leur surcharge mentale et rendre visible ce qu
- ’elles portent au quotidien.Un atelier animé par Ingrid Ngatchani de Su
- bliMama :Ingrid Ngatchani\, fo\nhttps://chiche.makesense.org/events/e/atel
- ier-comment-arreter-de-tout-porter-quand-on-est-une-femme-entrepreneure-6a
- be5cfb334fdc00086aa89f
-LOCATION:6 Quai de la Seine\, 75019 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-comment-arreter-de-tout-p
- orter-quand-on-est-une-femme-entrepreneure-6abe5cfb334fdc00086aa89f
-END:VEVENT
-BEGIN:VEVENT
 UID:9c2d6a50c9d2@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Atelier - Réussir son premier recrutement (salariat\, alternance\,
@@ -74,7 +42,7 @@ URL:https://chiche.makesense.org/events/e/atelier-reussir-son-premier-recru
 END:VEVENT
 BEGIN:VEVENT
 UID:2179b4fb7692@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Ciné-débat : « Femmes des terres » avec l’association Terre d
@@ -91,7 +59,7 @@ URL:https://chiche.makesense.org/events/e/cine-debat-femmes-des-terres-avec
 END:VEVENT
 BEGIN:VEVENT
 UID:8ff448b581f7@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Girls Comedy Club & Friends
@@ -105,7 +73,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:90bbf637baa7@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Projection-débat : "Outre-mer\, terres de solutions"
@@ -121,7 +89,7 @@ URL:https://chiche.makesense.org/events/e/projection-debat-outre-mer-terres
 END:VEVENT
 BEGIN:VEVENT
 UID:caf1dc06c110@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261114T130000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Atelier d'écriture autobiographique
@@ -137,7 +105,7 @@ URL:https://chiche.makesense.org/events/e/atelier-decriture-autobiographiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:a62623173efa@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261114T143000
 DTEND;TZID=Europe/Paris:20261114T163000
 SUMMARY:Lettres en Soi – atelier d’écriture créative
@@ -152,7 +120,7 @@ URL:https://chiche.makesense.org/events/e/lettres-en-soi-atelier-decriture-
 END:VEVENT
 BEGIN:VEVENT
 UID:b137331db5c2@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Construire la trame de mon CV📍Paris 13
@@ -165,8 +133,24 @@ URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
  s-13-6aaaa88eca9188000759c286
 END:VEVENT
 BEGIN:VEVENT
+UID:65d4b423062b@paris-academique
+DTSTAMP:20261111T115516Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Atelier pratique : fabrication de produits d’entretien nettoyants
+DESCRIPTION:Organisé par Adele DORLIPO — Atelier de création de produit
+ s nettoyantsVenez apprendre à faire vous-même vos produits nettoyants po
+ ur un entretien de votre appart’ en mode zéro déchet ! L’occasion de
+  repartir avec pleins de conseils et astuces\, en pl\nhttps://chiche.makes
+ ense.org/events/e/atelier-pratique-fabrication-de-produits-dentretien-nett
+ oyants-6ad20246ce193b0007acad9d
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/atelier-pratique-fabrication-de-p
+ roduits-dentretien-nettoyants-6ad20246ce193b0007acad9d
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae782b2dc6d@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Soirée crises et nerfs
@@ -178,5 +162,36 @@ DESCRIPTION:Organisé par Hélène Binet — Une soirée pour se partager c
 LOCATION:3bis Rue Papin\, 75003 Paris\, France
 URL:https://chiche.makesense.org/events/e/soiree-crises-et-nerfs-6adf4e75c7
  e0440007c11ce5
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd55ad27703@paris-academique
+DTSTAMP:20261111T115516Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
+DESCRIPTION:Organisé par Envie Le Labo — [Atelier de cuisine gratuit - I
+ nscription obligatoire] Redécouvrez les blettes à travers des recettes s
+ imples\, gourmandes et anti-gaspi pour apprendre à cuisiner ce légume de
+  saison dans son intégralité.\nhttps://chiche.makesense.org/events/e/je-
+ transforme-un-legume-oublie-en-un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d
+ 0950008060482
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
+ -un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d0950008060482
+END:VEVENT
+BEGIN:VEVENT
+UID:bb7c0265b8a3@paris-academique
+DTSTAMP:20261111T115516Z
+DTSTART;TZID=Europe/Paris:20261118T135000
+DTEND;TZID=Europe/Paris:20261118T155000
+SUMMARY:Atelier - Pitch : Apprendre à présenter son projet
+DESCRIPTION:Organisé par Les Canaux — Vous apprendez à être convaincan
+ t\, concis\, concret\, clair et vous serez prêt pour donner une belle ima
+ ge de votre structure.Un atelier animé par Ernest Losa de l'ADIE :L'ateli
+ er sera animé par Ernest LOSA\, C\nhttps://chiche.makesense.org/events/e/
+ atelier-pitch-apprendre-a-presenter-son-projet-6abe5dc8334fdc00086aae17
+LOCATION:6 Quai de la Seine\, 75019 Paris\, France
+URL:https://chiche.makesense.org/events/e/atelier-pitch-apprendre-a-present
+ er-son-projet-6abe5dc8334fdc00086aae17
 END:VEVENT
 END:VCALENDAR

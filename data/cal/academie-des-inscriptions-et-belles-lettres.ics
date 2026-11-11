@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f122cac724ac@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261113T153000
 DTEND;TZID=Europe/Paris:20261113T173000
 SUMMARY:Des occupations humaines sous la canopée depuis 20 000 ans à Last
@@ -39,7 +39,7 @@ URL:https://aibl.fr/seances/vendredi-13-novembre-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:a6c790e207bd@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261113T153000
 DTEND;TZID=Europe/Paris:20261113T173000
 SUMMARY:Donation religieuse et charité bien ordonnée : les Épigones du B
@@ -57,7 +57,7 @@ URL:https://aibl.fr/seances/vendredi-13-novembre-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:23fa46779e31@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261120T153000
 DTEND;TZID=Europe/Paris:20261120T173000
 SUMMARY:Un fragment d’histoire de la frontière d’al-Andalus : Albalat 
@@ -71,7 +71,7 @@ URL:https://aibl.fr/seances/vendredi-20-novembre-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:8deff182e3f6@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261120T153000
 DTEND;TZID=Europe/Paris:20261120T173000
 SUMMARY:D’une écriture à une autre dans le monde maya
@@ -87,7 +87,7 @@ URL:https://aibl.fr/seances/vendredi-20-novembre-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:e8d33f24d953@paris-academique
-DTSTAMP:20261111T090658Z
+DTSTAMP:20261111T115516Z
 DTSTART;TZID=Europe/Paris:20261127T153000
 DTEND;TZID=Europe/Paris:20261127T173000
 SUMMARY:Séance annuelle de rentrée solennelle de l’Académie sous la Co
