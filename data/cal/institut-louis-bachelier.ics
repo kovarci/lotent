@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6f91b803b6bd@paris-academique
-DTSTAMP:20261110T123324Z
-DTSTART;TZID=Europe/Paris:20261109T140000
-DTEND;TZID=Europe/Paris:20261109T160000
-SUMMARY:Accélérer et financer l'adaptation au changement climatique
-DESCRIPTION:Conférences\nhttps://www.institutlouisbachelier.org/au-program
- me/evenements/accelerer-et-financer-ladaptation-au-changement-climatique
-LOCATION:Société d'Encouragement pour l'Industrie Nationale — Institut 
- Louis Bachelier\, 28 place de la Bourse\, Paris 2e
-URL:https://www.institutlouisbachelier.org/au-programme/evenements/accelere
- r-et-financer-ladaptation-au-changement-climatique
-END:VEVENT
-BEGIN:VEVENT
 UID:b710e94e1c4a@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261112T170000
 DTEND;TZID=Europe/Paris:20261112T190000
 SUMMARY:Les Invitations DIALog avec Adrien Bilal
@@ -51,7 +38,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/les-invi
 END:VEVENT
 BEGIN:VEVENT
 UID:893588459232@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261124T100000
 DTEND;TZID=Europe/Paris:20261124T120000
 SUMMARY:Paris Energy Week 2026 - the Challenges of Electrification
@@ -64,7 +51,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/paris-en
 END:VEVENT
 BEGIN:VEVENT
 UID:ddfde85e62e9@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T110000
 SUMMARY:Colloque Innovation et modélisation des taux d’intérêt
@@ -77,7 +64,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/colloque
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef07d9b75d5@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261208T090000
 DTEND;TZID=Europe/Paris:20261208T110000
 SUMMARY:Green Finance Research Advances 2026
@@ -90,7 +77,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/green-fi
 END:VEVENT
 BEGIN:VEVENT
 UID:2964c301909c@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261211T180000
 DTEND;TZID=Europe/Paris:20261211T200000
 SUMMARY:Hommage à André Lévy-Lang
@@ -103,7 +90,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/hommage-
 END:VEVENT
 BEGIN:VEVENT
 UID:a1aed5a067c5@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261214T180000
 DTEND;TZID=Europe/Paris:20261214T200000
 SUMMARY:Prévision et gestion des risques financiers par l'IA : modèles de
@@ -119,7 +106,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/previsio
 END:VEVENT
 BEGIN:VEVENT
 UID:be370caadc40@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261215T183000
 DTEND;TZID=Europe/Paris:20261215T203000
 SUMMARY:Conférence annuelle de la Chaire PARI

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:72e19a27838b@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261110T190000
 DTEND;TZID=Europe/Paris:20261110T203000
 SUMMARY:Arts & Sciences : Péritopie 1
@@ -36,7 +36,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/arts-sciences-peritopie-1
 END:VEVENT
 BEGIN:VEVENT
 UID:e1fac47f83af@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261113T093000
 DTEND;TZID=Europe/Paris:20261113T120000
 SUMMARY:Soutenance HDR de Pierre Penet
@@ -47,7 +47,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/soutenance-hdr-de-pierre-penet
 END:VEVENT
 BEGIN:VEVENT
 UID:0c51fda7cfd3@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261117T183000
 DTEND;TZID=Europe/Paris:20261117T200000
 SUMMARY:Conférence du diplôme : Analyser le capitalisme par son métaboli
@@ -60,7 +60,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-analyser-l
 END:VEVENT
 BEGIN:VEVENT
 UID:3dc7e87b91f6@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261117T183000
 DTEND;TZID=Europe/Paris:20261117T200000
 SUMMARY:Conférence du diplôme sur l'histoire environnementale des infrast
@@ -73,7 +73,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-sur-lhisto
 END:VEVENT
 BEGIN:VEVENT
 UID:8f1393c07e2a@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261119T090000
 DTEND;TZID=Europe/Paris:20261119T170000
 SUMMARY:Journée d’étude du projet CASPORAL 2026
@@ -85,7 +85,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/journee-detude-du-projet-caspora
 END:VEVENT
 BEGIN:VEVENT
 UID:0a56baef31ad@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261123T080000
 DTEND;TZID=Europe/Paris:20261123T100000
 SUMMARY:projection du documentaire « Viol\, défi de justice » de la réa
@@ -98,7 +98,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/projection-du-documentaire-viol-
 END:VEVENT
 BEGIN:VEVENT
 UID:639624e75bb5@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T203000
 SUMMARY:La vie de recherche : Jean Jouzel
@@ -109,7 +109,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/la-vie-de-recherche-jean-jouzel
 END:VEVENT
 BEGIN:VEVENT
 UID:062edd4cdfbf@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261126T183000
 DTEND;TZID=Europe/Paris:20261126T200000
 SUMMARY:Conférence du diplôme avec Didier Fassin
@@ -121,7 +121,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-avec-didie
 END:VEVENT
 BEGIN:VEVENT
 UID:f2e6bd93540a@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261128T090000
 DTEND;TZID=Europe/Paris:20261128T170000
 SUMMARY:Rencontres des jeunes mathématiciennes et informaticiennes (RJMI) 
@@ -134,7 +134,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/rencontres-des-jeunes-mathematic
 END:VEVENT
 BEGIN:VEVENT
 UID:767f4385dd82@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261130T183000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:Semaine des carrières normaliennes 2026
@@ -146,7 +146,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/semaine-des-carrieres-normalienn
 END:VEVENT
 BEGIN:VEVENT
 UID:67a32f5728f3@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261205T140000
 DTEND;TZID=Europe/Paris:20261205T144000
 SUMMARY:Spectacle : Trait(s)
@@ -156,7 +156,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/spectacle-traits
 END:VEVENT
 BEGIN:VEVENT
 UID:7c452be96618@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20270112T190000
 DTEND;TZID=Europe/Paris:20270112T203000
 SUMMARY:Arts & Sciences : Péritopie 2

@@ -24,22 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:5ec133a03b1c@paris-academique
-DTSTAMP:20261110T123324Z
-DTSTART;TZID=Europe/Paris:20261110T180000
-DTEND;TZID=Europe/Paris:20261110T200000
-SUMMARY:Conférence d’ouverture de l’exposition "Shunga - Chefs-d’œu
- vre de l’art érotique à l’époque Edo (1603-1868)"
-DESCRIPTION:Conférence\nhttps://www.mcjp.fr/fr/la-mcjp/actualites/conferen
- ce-d-ouverture-de-l-exposition-shunga
-LOCATION:Maison de la culture du Japon\, 101 bis quai Jacques Chirac\, Pari
- s 15e
-URL:https://www.mcjp.fr/fr/la-mcjp/actualites/conference-d-ouverture-de-l-e
- xposition-shunga
-END:VEVENT
-BEGIN:VEVENT
 UID:6036b6a370bb@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261112T183000
 DTEND;TZID=Europe/Paris:20261112T203000
 SUMMARY:NEW TALENTS - Regards d’une nouvelle génération
@@ -52,7 +38,7 @@ URL:https://www.mcjp.fr/fr/la-mcjp/actualites/new-talents-regards-d-une-nou
 END:VEVENT
 BEGIN:VEVENT
 UID:8f321fcf514f@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261120T180000
 DTEND;TZID=Europe/Paris:20261120T200000
 SUMMARY:Conférence - Dans une composition\, une fleur est une personne
@@ -65,7 +51,7 @@ URL:https://www.mcjp.fr/fr/la-mcjp/actualites/dans-une-composition-une-fleu
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb60228c62f@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261128T150000
 DTEND;TZID=Europe/Paris:20261128T170000
 SUMMARY:Décoder le Japon
@@ -77,7 +63,7 @@ URL:https://www.mcjp.fr/fr/la-mcjp/actualites/decoder-le-japon
 END:VEVENT
 BEGIN:VEVENT
 UID:9e4e13c9475f@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20261212T150000
 DTEND;TZID=Europe/Paris:20261212T170000
 SUMMARY:Les Maîtres d’art et leurs élèves
@@ -90,7 +76,7 @@ URL:https://www.mcjp.fr/fr/la-mcjp/actualites/les-maitres-d-art-et-leurs-el
 END:VEVENT
 BEGIN:VEVENT
 UID:a2192185228d@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20270114T183000
 DTEND;TZID=Europe/Paris:20270114T203000
 SUMMARY:Animation et IA générative
@@ -102,7 +88,7 @@ URL:https://www.mcjp.fr/fr/la-mcjp/actualites/animation-et-ia-generative
 END:VEVENT
 BEGIN:VEVENT
 UID:17fedb84baaa@paris-academique
-DTSTAMP:20261110T123324Z
+DTSTAMP:20261111T090658Z
 DTSTART;TZID=Europe/Paris:20270213T140000
 DTEND;TZID=Europe/Paris:20270213T160000
 SUMMARY:Toshiko Yuasa\, une scientifique francophile
