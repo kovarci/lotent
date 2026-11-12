@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:a0660df99fe7@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261126T190000
 DTEND;TZID=Europe/Paris:20261126T210000
 SUMMARY:L’Alhambra\, laboratoire d’idées pour l’architecture de dema
@@ -39,7 +39,7 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/alhambra-laborat
 END:VEVENT
 BEGIN:VEVENT
 UID:e8f1053fd791@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T160000
 SUMMARY:900 ans d'Averroès\, une histoire du philosophe
@@ -52,7 +52,7 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/900-ans-averroes
 END:VEVENT
 BEGIN:VEVENT
 UID:23d6105c806b@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261128T153000
 DTEND;TZID=Europe/Paris:20261128T173000
 SUMMARY:900 ans d'Averroès\, l'héritage du philosophe
@@ -65,7 +65,7 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/900-ans-averroes
 END:VEVENT
 BEGIN:VEVENT
 UID:2b84334242e1@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261128T163000
 DTEND;TZID=Europe/Paris:20261128T183000
 SUMMARY:900 ans d'Averroès\, le philosophe et les arts
@@ -78,20 +78,20 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/900-ans-averroes
 END:VEVENT
 BEGIN:VEVENT
 UID:7415b03a2aa5@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261201T190000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Les figures du moi chez Avicenne
-DESCRIPTION:https://www.imarabe.org/index%2Ephp/fr/agenda/rencontres-et-deb
- ats/les-figures-du-moi-chez-avicenne
+DESCRIPTION:https://www.imarabe.org/fr/agenda/rencontres-et-debats/les-figu
+ res-du-moi-chez-avicenne
 LOCATION:Institut du monde arabe\, 1 rue des Fossés-Saint-Bernard\, Paris 
  5e
-URL:https://www.imarabe.org/index%2Ephp/fr/agenda/rencontres-et-debats/les-
- figures-du-moi-chez-avicenne
+URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/les-figures-du-m
+ oi-chez-avicenne
 END:VEVENT
 BEGIN:VEVENT
 UID:25b3f5a28a55@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20270105T190000
 DTEND;TZID=Europe/Paris:20270105T210000
 SUMMARY:Dialectique et théologie du kalām chez Avicenne : une mise au poi
@@ -105,7 +105,7 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/dialectique-et-t
 END:VEVENT
 BEGIN:VEVENT
 UID:555d56442946@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20270202T190000
 DTEND;TZID=Europe/Paris:20270202T210000
 SUMMARY:L'autre guérison : Avicenne et le Canon de la médecine
@@ -118,7 +118,7 @@ URL:https://www.imarabe.org/fr/agenda/rencontres-et-debats/autre-guerison-a
 END:VEVENT
 BEGIN:VEVENT
 UID:f90ae3a91b2c@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20270302T190000
 DTEND;TZID=Europe/Paris:20270302T210000
 SUMMARY:L’instinct historique du philosophe : Avicenne sur l’épicurism

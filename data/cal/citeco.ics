@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:e5e2221cfccd@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261114T150000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Politique d’innovation : y a-t-il un pilote ?
@@ -37,7 +37,7 @@ URL:https://www.citeco.fr/agenda/innover-pour-rester-dans-la-course-quels-c
 END:VEVENT
 BEGIN:VEVENT
 UID:ab9f2509c40f@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261114T163000
 DTEND;TZID=Europe/Paris:20261114T173000
 SUMMARY:Le débat mouvant : Parlons d’innovation !
@@ -48,7 +48,7 @@ URL:https://www.citeco.fr/agenda/le-debat-mouvant-parlons-dinnovation
 END:VEVENT
 BEGIN:VEVENT
 UID:e4e5d57e372f@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261115T150000
 DTEND;TZID=Europe/Paris:20261115T170000
 SUMMARY:The Social Network – David Fincher
@@ -58,7 +58,7 @@ URL:https://www.citeco.fr/agenda/social-network-david-fincher
 END:VEVENT
 BEGIN:VEVENT
 UID:3c305ab97c05@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261115T163000
 DTEND;TZID=Europe/Paris:20261115T173000
 SUMMARY:Les chemins de l’innovation
@@ -68,7 +68,7 @@ URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
 END:VEVENT
 BEGIN:VEVENT
 UID:6782795b8951@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261121T150000
 DTEND;TZID=Europe/Paris:20261121T160000
 SUMMARY:Art faber\, quand l’art raconte l’économie : métamorphoses de
@@ -81,7 +81,7 @@ URL:https://www.citeco.fr/agenda/art-faber-quand-lart-raconte-leconomie-met
 END:VEVENT
 BEGIN:VEVENT
 UID:e1f6b81fc743@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261121T163000
 DTEND;TZID=Europe/Paris:20261121T173000
 SUMMARY:L'art du billet

@@ -24,25 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9c2d6a50c9d2@paris-academique
-DTSTAMP:20261111T115516Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Atelier - Réussir son premier recrutement (salariat\, alternance\,
-  stage ou freelance)
-DESCRIPTION:Organisé par Les Canaux — Repartir avec une vision claire de
- s options possibles pour un premier recrutement (salarié\, alternant\, st
- agiaire\, freelance)\, de leurs coûtsUn atelier animé par Laura Pivette 
- de Terra Legal :Après 8 ans en g\nhttps://chiche.makesense.org/events/e/a
- telier-reussir-son-premier-recrutement-salariat-alternance-stage-ou-freela
- nce-6ac504aacc49190007ccc69b
-LOCATION:6 Quai de la Seine\, 75019 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-reussir-son-premier-recru
- tement-salariat-alternance-stage-ou-freelance-6ac504aacc49190007ccc69b
-END:VEVENT
-BEGIN:VEVENT
 UID:2179b4fb7692@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Ciné-débat : « Femmes des terres » avec l’association Terre d
@@ -58,8 +41,25 @@ URL:https://chiche.makesense.org/events/e/cine-debat-femmes-des-terres-avec
  -lassociation-terre-de-liens-6aeb0bcc6ae81e0008885d0d
 END:VEVENT
 BEGIN:VEVENT
+UID:9c2d6a50c9d2@paris-academique
+DTSTAMP:20261112T123400Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Atelier - Réussir son premier recrutement (salariat\, alternance\,
+  stage ou freelance)
+DESCRIPTION:Organisé par Les Canaux — Repartir avec une vision claire de
+ s options possibles pour un premier recrutement (salarié\, alternant\, st
+ agiaire\, freelance)\, de leurs coûtsUn atelier animé par Laura Pivette 
+ de Terra Legal :Après 8 ans en g\nhttps://chiche.makesense.org/events/e/a
+ telier-reussir-son-premier-recrutement-salariat-alternance-stage-ou-freela
+ nce-6ac504aacc49190007ccc69b
+LOCATION:6 Quai de la Seine\, 75019 Paris\, France
+URL:https://chiche.makesense.org/events/e/atelier-reussir-son-premier-recru
+ tement-salariat-alternance-stage-ou-freelance-6ac504aacc49190007ccc69b
+END:VEVENT
+BEGIN:VEVENT
 UID:8ff448b581f7@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Girls Comedy Club & Friends
@@ -73,7 +73,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:90bbf637baa7@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Projection-débat : "Outre-mer\, terres de solutions"
@@ -89,7 +89,7 @@ URL:https://chiche.makesense.org/events/e/projection-debat-outre-mer-terres
 END:VEVENT
 BEGIN:VEVENT
 UID:caf1dc06c110@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261114T130000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Atelier d'écriture autobiographique
@@ -105,7 +105,7 @@ URL:https://chiche.makesense.org/events/e/atelier-decriture-autobiographiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:a62623173efa@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261114T143000
 DTEND;TZID=Europe/Paris:20261114T163000
 SUMMARY:Lettres en Soi – atelier d’écriture créative
@@ -120,7 +120,7 @@ URL:https://chiche.makesense.org/events/e/lettres-en-soi-atelier-decriture-
 END:VEVENT
 BEGIN:VEVENT
 UID:b137331db5c2@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Construire la trame de mon CV📍Paris 13
@@ -134,7 +134,7 @@ URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
 END:VEVENT
 BEGIN:VEVENT
 UID:65d4b423062b@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Atelier pratique : fabrication de produits d’entretien nettoyants
@@ -150,7 +150,7 @@ URL:https://chiche.makesense.org/events/e/atelier-pratique-fabrication-de-p
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae782b2dc6d@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Soirée crises et nerfs
@@ -165,7 +165,7 @@ URL:https://chiche.makesense.org/events/e/soiree-crises-et-nerfs-6adf4e75c7
 END:VEVENT
 BEGIN:VEVENT
 UID:3bd55ad27703@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
@@ -181,7 +181,7 @@ URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
 END:VEVENT
 BEGIN:VEVENT
 UID:bb7c0265b8a3@paris-academique
-DTSTAMP:20261111T115516Z
+DTSTAMP:20261112T123400Z
 DTSTART;TZID=Europe/Paris:20261118T135000
 DTEND;TZID=Europe/Paris:20261118T155000
 SUMMARY:Atelier - Pitch : Apprendre à présenter son projet
