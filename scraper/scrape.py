@@ -7581,9 +7581,19 @@ def _clean_labelled_loc(loc):
 _NEWS_URL = re.compile(r"//www\.cnam\.fr/actualites/(?!.*agenda)")
 
 
+_LONE_SURROGATE = re.compile("[\\ud800-\\udfff]")
+
+
 def finalize_events(events):
     """Règles communes au robot (main) et à la maj locale (refresh_local.py),
     appliquées à toutes les sources, événements reportés compris."""
+    # Emoji coupé en deux par une source (moitié de paire UTF-16 seule) :
+    # impossible à écrire en UTF-8 → json.dump / write_ics plantaient et le
+    # robot du 2026-11-13 n'a rien publié. On garde les paires valides.
+    for e in events:
+        for k, v in e.items():
+            if isinstance(v, str) and _LONE_SURROGATE.search(v):
+                e[k] = v.encode("utf-16", "surrogatepass").decode("utf-16", "ignore")
     # Titres parasites (menus lus comme événements)
     events = [e for e in events if not is_junk_title(e.get("title", ""))]
     # « [Reporté] Atelier… », « Meetup 5 (POSTPONED) », « [SÉANCE REPORTÉE] »
