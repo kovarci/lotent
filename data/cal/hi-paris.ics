@@ -24,8 +24,27 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:c7cc4b1580be@paris-academique
+DTSTAMP:20261113T232333Z
+DTSTART;TZID=Europe/Paris:20261123T113000
+DTEND;TZID=Europe/Paris:20261123T130000
+SUMMARY:Seminar: Terrestrial Space Infrastructure and Great-Power Competiti
+ on – Aaron Bateman (GWU)
+DESCRIPTION:Organized by the Business and Geopolitics Lab (HEC Paris) as pa
+ rt of the Weaponization of Economic Interdependence series with the suppor
+ t of Hi! PARIS\, this seminar features Aaron Bateman (Assistant Professor 
+ of History and International Affairs at George Washington University and a
+ uthor of Weapons in Space: Technology\, Politics\, and the Rise and Fall o
+ f the Strategic Defense Initiative\, MIT…\nhttps://hi-paris.fr/event/sem
+ inar-terrestrial-space-infrastructure-and-great-power-competition-aaron-ba
+ teman-gwu/
+LOCATION:HEC Paris\, 1\, rue de la Libération\, 78351\, Jouy en Josas
+URL:https://hi-paris.fr/event/seminar-terrestrial-space-infrastructure-and-
+ great-power-competition-aaron-bateman-gwu/
+END:VEVENT
+BEGIN:VEVENT
 UID:ec423ea91fba@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261124T173000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:Hi! PARIS Meet Up on AI\, Disinformation & Democracy
@@ -42,7 +61,7 @@ URL:https://hi-paris.fr/event/hi-paris-meet-up-on-ai-disinformation-democra
 END:VEVENT
 BEGIN:VEVENT
 UID:0b52277e64d3@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Hi!ckathon 2026 | The Hi! PARIS AI & Data Science Challenge
@@ -60,7 +79,7 @@ URL:https://hi-paris.fr/event/hickathon-2026-the-hi-paris-ai-data-science-c
 END:VEVENT
 BEGIN:VEVENT
 UID:0651395df470@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261130T110000
 DTEND;TZID=Europe/Paris:20261130T120000
 SUMMARY:AI Seminar Cycle: When Generators Condition on Themselves – Expos
@@ -79,7 +98,7 @@ URL:https://hi-paris.fr/event/ai-seminar-cycle-when-generators-condition-on
 END:VEVENT
 BEGIN:VEVENT
 UID:492a051ee01f@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261203T140000
 DTEND;TZID=Europe/Paris:20261203T153000
 SUMMARY:Hi! PARIS Reading groups “Fairness in AI” – Session 2
@@ -96,7 +115,7 @@ URL:https://hi-paris.fr/event/hi-paris-reading-groups-fairness-in-ai-sessio
 END:VEVENT
 BEGIN:VEVENT
 UID:bad0a6e26f5a@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:CTRL+SOUND: AI for Sound and Creative Technologies Workshop
@@ -113,7 +132,7 @@ URL:https://hi-paris.fr/event/ctrlsound-ai-for-sound-and-creative-technolog
 END:VEVENT
 BEGIN:VEVENT
 UID:82cd8cc7c08e@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Séminaire : ELLIS UnConference 2026
@@ -130,7 +149,7 @@ URL:https://hi-paris.fr/event/ellis-unconference-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:b32301b0b466@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20270414T110000
 DTEND;TZID=Europe/Paris:20270414T120000
 SUMMARY:AI Seminar Cycle: Nuria Oliver (ELLIS Alicante)

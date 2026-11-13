@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f4795cb2ab3e@paris-academique
-DTSTAMP:20261112T123400Z
-DTSTART;TZID=Europe/Paris:20261112T100000
-DTEND;TZID=Europe/Paris:20261112T120000
-SUMMARY:Le développement de l'arsenal nucléaire chinois : facteurs explic
- atifs et conséquences pour le monde
-DESCRIPTION:Séminaire\nhttps://www.ifri.org/fr/le-developpement-de-larsena
- l-nucleaire-chinois-facteurs-explicatifs-et-consequences-pour-le-monde
-LOCATION:Ifri\, 27 rue de la Procession\, Paris 15e
-URL:https://www.ifri.org/fr/le-developpement-de-larsenal-nucleaire-chinois-
- facteurs-explicatifs-et-consequences-pour-le-monde
-END:VEVENT
-BEGIN:VEVENT
 UID:53b520ba1bd3@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261119T090000
 DTEND;TZID=Europe/Paris:20261119T130000
 SUMMARY:France-Allemagne : le moteur européen face aux ruptures stratégiq
@@ -51,7 +38,7 @@ URL:https://www.ifri.org/fr/france-allemagne-le-moteur-europeen-face-aux-ru
 END:VEVENT
 BEGIN:VEVENT
 UID:43b173fb8a02@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261119T090000
 DTEND;TZID=Europe/Paris:20261119T093000
 SUMMARY:Midterms 2026 : un nouveau test pour la démocratie américaine
@@ -63,7 +50,7 @@ URL:https://www.ifri.org/fr/midterms-2026-un-nouveau-test-pour-la-democrati
 END:VEVENT
 BEGIN:VEVENT
 UID:54df7661d91f@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261127T090000
 DTEND;TZID=Europe/Paris:20261127T130000
 SUMMARY:Quelle coordination internationale à l'ère de la fragmentation g
@@ -76,7 +63,7 @@ URL:https://www.ifri.org/fr/quelle-coordination-internationale-lere-de-la-f
 END:VEVENT
 BEGIN:VEVENT
 UID:3fcb26f34d77@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261130T180000
 DTEND;TZID=Europe/Paris:20261130T200000
 SUMMARY:Politique étrangère fête ses 90 ans !

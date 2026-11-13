@@ -24,56 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2179b4fb7692@paris-academique
-DTSTAMP:20261112T123400Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Ciné-débat : « Femmes des terres » avec l’association Terre d
- e Liens
-DESCRIPTION:Organisé par Adele DORLIPO — Découvrez le documentaire « F
- emmes des Terres »\, lors d’un ciné-débat organisé avec l’associat
- ion Terre de Liens. Le film met en récit l’expérience croisée de pays
- annes de Bolivie\, France et Togo.Nous vous invi\nhttps://chiche.makesense
- .org/events/e/cine-debat-femmes-des-terres-avec-lassociation-terre-de-lien
- s-6aeb0bcc6ae81e0008885d0d
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/cine-debat-femmes-des-terres-avec
- -lassociation-terre-de-liens-6aeb0bcc6ae81e0008885d0d
-END:VEVENT
-BEGIN:VEVENT
-UID:9c2d6a50c9d2@paris-academique
-DTSTAMP:20261112T123400Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Atelier - Réussir son premier recrutement (salariat\, alternance\,
-  stage ou freelance)
-DESCRIPTION:Organisé par Les Canaux — Repartir avec une vision claire de
- s options possibles pour un premier recrutement (salarié\, alternant\, st
- agiaire\, freelance)\, de leurs coûtsUn atelier animé par Laura Pivette 
- de Terra Legal :Après 8 ans en g\nhttps://chiche.makesense.org/events/e/a
- telier-reussir-son-premier-recrutement-salariat-alternance-stage-ou-freela
- nce-6ac504aacc49190007ccc69b
-LOCATION:6 Quai de la Seine\, 75019 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-reussir-son-premier-recru
- tement-salariat-alternance-stage-ou-freelance-6ac504aacc49190007ccc69b
-END:VEVENT
-BEGIN:VEVENT
-UID:8ff448b581f7@paris-academique
-DTSTAMP:20261112T123400Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Girls Comedy Club & Friends
-DESCRIPTION:Organisé par Valentina Stan — Et si on faisait bouger les li
- gnes… en riant ?Le Girls Comedy Club & Friends\, c’est un plateau de s
- tand-up qui donne la parole à celles et ceux qu’on entend encore trop p
- eu sur scène : les femmes et les personnes non bi\nhttps://chiche.makesen
- se.org/events
-LOCATION:24 Av. Daumesnil\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events
-END:VEVENT
-BEGIN:VEVENT
 UID:90bbf637baa7@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Projection-débat : "Outre-mer\, terres de solutions"
@@ -89,7 +41,7 @@ URL:https://chiche.makesense.org/events/e/projection-debat-outre-mer-terres
 END:VEVENT
 BEGIN:VEVENT
 UID:caf1dc06c110@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261114T130000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Atelier d'écriture autobiographique
@@ -105,7 +57,7 @@ URL:https://chiche.makesense.org/events/e/atelier-decriture-autobiographiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:a62623173efa@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261114T143000
 DTEND;TZID=Europe/Paris:20261114T163000
 SUMMARY:Lettres en Soi – atelier d’écriture créative
@@ -120,7 +72,7 @@ URL:https://chiche.makesense.org/events/e/lettres-en-soi-atelier-decriture-
 END:VEVENT
 BEGIN:VEVENT
 UID:b137331db5c2@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Construire la trame de mon CV📍Paris 13
@@ -134,7 +86,7 @@ URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
 END:VEVENT
 BEGIN:VEVENT
 UID:65d4b423062b@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Atelier pratique : fabrication de produits d’entretien nettoyants
@@ -150,7 +102,7 @@ URL:https://chiche.makesense.org/events/e/atelier-pratique-fabrication-de-p
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae782b2dc6d@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Soirée crises et nerfs
@@ -165,7 +117,7 @@ URL:https://chiche.makesense.org/events/e/soiree-crises-et-nerfs-6adf4e75c7
 END:VEVENT
 BEGIN:VEVENT
 UID:3bd55ad27703@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
@@ -180,8 +132,56 @@ URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
  -un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d0950008060482
 END:VEVENT
 BEGIN:VEVENT
+UID:38284b486312@paris-academique
+DTSTAMP:20261113T232333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:J’apprends les bases de la réparation (niveau 1)
+DESCRIPTION:Organisé par Envie Le Labo — [Atelier gratuit - Inscription 
+ obligatoire]Vous en avez assez de vous sentir démuni.e.s face à un appar
+ eil électroménager qui tombe en panne ? Participez à un atelier pratiqu
+ e pour apprendre les bases de la réparation et découvrir les bonne\nhttp
+ s://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparation-niv
+ eau-1-6ae9ed9887df9e000719408a
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparat
+ ion-niveau-1-6ae9ed9887df9e000719408a
+END:VEVENT
+BEGIN:VEVENT
+UID:7959326ba592@paris-academique
+DTSTAMP:20261113T232333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🏠Et toi\, tu connais notre maison ? - makesense space
+DESCRIPTION:Organisé par Laura Groen — Et toi\, tu connais notre maison 
+ ?Chaque 2nds mercredi du mois\, à 16h30\, on ouvre les portes du makesens
+ e space\, notre tiers lieu…Le makesense_spac\nhttps://chiche.makesense.o
+ rg/events/e/et-toi-tu-connais-notre-maison-makesense-space-6ad8ba2d825b0a0
+ 008efb1f2
+LOCATION:11 Rue Biscornet\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/et-toi-tu-connais-notre-maison-ma
+ kesense-space-6ad8ba2d825b0a0008efb1f2
+END:VEVENT
+BEGIN:VEVENT
+UID:20ae4517c159@paris-academique
+DTSTAMP:20261113T232333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Les rencontres de la Communauté 360 de Paris : répit et soutien d
+ es proches aidants
+DESCRIPTION:Organisé par Emeline SIMONDET — La Communauté 360 de Paris\
+ , pilotée par l'ARS\, la Ville de Paris et la MDPH de Paris\, a le plaisi
+ r de vous inviter à son Salon pour le répit et le soutien des proches ai
+ dants de personnes en situation de handicap de Paris.\nhttps://chiche.make
+ sense.org/events/e/les-rencontres-de-la-communaute-360-de-paris-repit-et-s
+ outien-des-proches-aidants-6a952b852701ed0007cae052
+LOCATION:1 Pl. Jules Joffrin\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/les-rencontres-de-la-communaute-3
+ 60-de-paris-repit-et-soutien-des-proches-aidants-6a952b852701ed0007cae052
+END:VEVENT
+BEGIN:VEVENT
 UID:bb7c0265b8a3@paris-academique
-DTSTAMP:20261112T123400Z
+DTSTAMP:20261113T232333Z
 DTSTART;TZID=Europe/Paris:20261118T135000
 DTEND;TZID=Europe/Paris:20261118T155000
 SUMMARY:Atelier - Pitch : Apprendre à présenter son projet
@@ -193,5 +193,21 @@ DESCRIPTION:Organisé par Les Canaux — Vous apprendez à être convaincan
 LOCATION:6 Quai de la Seine\, 75019 Paris\, France
 URL:https://chiche.makesense.org/events/e/atelier-pitch-apprendre-a-present
  er-son-projet-6abe5dc8334fdc00086aae17
+END:VEVENT
+BEGIN:VEVENT
+UID:536c367897b3@paris-academique
+DTSTAMP:20261113T232333Z
+DTSTART;TZID=Europe/Paris:20261118T190000
+DTEND;TZID=Europe/Paris:20261118T210000
+SUMMARY:Sécurité : La France est-elle de plus en plus violente ?
+DESCRIPTION:Organisé par Maison de la Conversation — Un cycle d'ateliers
+  mêlant théâtre\, improvisation et débat pour préparer la présidenti
+ elle 2027\, en partenariat avec l'Academie citoyenne.Déconstruire pour mi
+ eux construire ensemble ! 🎭L’Académie citoyenne et la maison de\nhtt
+ ps://chiche.makesense.org/events/e/securite-la-france-est-elle-de-plus-en-
+ plus-violente-6ac3aceaa4a7800007a9c976
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/securite-la-france-est-elle-de-pl
+ us-en-plus-violente-6ac3aceaa4a7800007a9c976
 END:VEVENT
 END:VCALENDAR
