@@ -24,41 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b222cfa7a144@paris-academique
-DTSTAMP:20261113T232333Z
-DTSTART;TZID=Europe/Paris:20261112T090000
-DTEND;TZID=Europe/Paris:20261112T110000
-SUMMARY:UNSTABLE : UNDERSTANDING THE PARABOLIC-PARABOLIC KELLER-SEGEL
-DESCRIPTION:The aim for this workshop is twofold: to bring together people 
- with expertise on the subject of chemotaxis and to foster discussions and 
- interactions among participants from different fields. On november 12\, th
- e workshop takes place in Sorbonne Université\, 4 Place Jussieu\, 75005 P
- aris On november 13\, the workshop takes place in INRIA PARIS\, 48 Rue Bar
- rault\, 75013 Paris Invited Speakers: Monica…\nhttps://indico.math.cnrs.
- fr/event/17424/
-LOCATION:Sorbonne Université (Salle 322\, tours 15-25\, 3eme étage) / INR
- IA Paris (Salle Anita Borg)
-URL:https://indico.math.cnrs.fr/event/17424/
-END:VEVENT
-BEGIN:VEVENT
-UID:5aef4bcc5455@paris-academique
-DTSTAMP:20261113T232333Z
-DTSTART;TZID=Europe/Paris:20261112T090000
-DTEND;TZID=Europe/Paris:20261112T110000
-SUMMARY:Formation Cast3M PASAPAS et procédures utilisateurs
-DESCRIPTION:Cette formation est gratuite et sera dispensée en français à
-  la Maison de la Simulation (pas de visioconférene) . Cette formation s'a
- dresse aux utilisateurs initiés (par exemple en ayant suivit la formation
-  "débutants"). L'objectif de cette formation est d'acquérir une connaiss
- ance approfondie de la procédure de résolution PASAPAS. L'algorithme de 
- résolution de problèmes non linéaires quasi…\nhttps://indico.math.cnr
- s.fr/event/16606/
-LOCATION:Maison de la Simulation
-URL:https://indico.math.cnrs.fr/event/16606/
-END:VEVENT
-BEGIN:VEVENT
 UID:438cbc53df6e@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261207T090000
 DTEND;TZID=Europe/Paris:20261207T180000
 SUMMARY:Kinetic equations and scaling limits
@@ -74,7 +41,7 @@ URL:https://indico.math.cnrs.fr/event/17600/
 END:VEVENT
 BEGIN:VEVENT
 UID:3c47ad4e4920@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270120T083000
 DTEND;TZID=Europe/Paris:20270120T103000
 SUMMARY:39ème séminaire de mécanique des fluides numérique - édition 2
@@ -91,7 +58,7 @@ URL:https://indico.math.cnrs.fr/event/17558/
 END:VEVENT
 BEGIN:VEVENT
 UID:4f680e77ca0a@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270121T090000
 DTEND;TZID=Europe/Paris:20270121T110000
 SUMMARY:Calculus of Variations\, Optimization and Image Processing - on the
@@ -108,7 +75,7 @@ URL:https://indico.math.cnrs.fr/event/15144/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb576646b33b@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270125T090000
 DTEND;TZID=Europe/Paris:20270125T110000
 SUMMARY:6th Smilei user & training workshop
@@ -124,7 +91,7 @@ URL:https://indico.math.cnrs.fr/event/17096/
 END:VEVENT
 BEGIN:VEVENT
 UID:841f5cf87fd9@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270524T090000
 DTEND;TZID=Europe/Paris:20270524T110000
 SUMMARY:Number Theory\, Combinatorics and Related Topics
@@ -140,7 +107,7 @@ URL:https://indico.math.cnrs.fr/event/17316/
 END:VEVENT
 BEGIN:VEVENT
 UID:4e38a7b82794@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270607T090000
 DTEND;TZID=Europe/Paris:20270607T110000
 SUMMARY:Géométrie Algébrique\, Formes Automorphes et Théorie géométri

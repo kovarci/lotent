@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b710e94e1c4a@paris-academique
-DTSTAMP:20261113T232333Z
-DTSTART;TZID=Europe/Paris:20261112T170000
-DTEND;TZID=Europe/Paris:20261112T190000
-SUMMARY:Les Invitations DIALog avec Adrien Bilal
-DESCRIPTION:https://www.institutlouisbachelier.org/au-programme/evenements/
- les-invitations-dialog-avec-adrien-bilal
-LOCATION:En ligne\, Microsoft Teams — Institut Louis Bachelier\, 28 place
-  de la Bourse\, Paris 2e
-URL:https://www.institutlouisbachelier.org/au-programme/evenements/les-invi
- tations-dialog-avec-adrien-bilal
-END:VEVENT
-BEGIN:VEVENT
 UID:893588459232@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T100000
 DTEND;TZID=Europe/Paris:20261124T120000
 SUMMARY:Paris Energy Week 2026 - the Challenges of Electrification
@@ -51,7 +38,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/paris-en
 END:VEVENT
 BEGIN:VEVENT
 UID:ddfde85e62e9@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T110000
 SUMMARY:Colloque Innovation et modélisation des taux d’intérêt
@@ -64,7 +51,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/colloque
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef07d9b75d5@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261208T090000
 DTEND;TZID=Europe/Paris:20261208T110000
 SUMMARY:Green Finance Research Advances 2026
@@ -77,7 +64,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/green-fi
 END:VEVENT
 BEGIN:VEVENT
 UID:2964c301909c@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261211T180000
 DTEND;TZID=Europe/Paris:20261211T200000
 SUMMARY:Hommage à André Lévy-Lang
@@ -90,7 +77,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/hommage-
 END:VEVENT
 BEGIN:VEVENT
 UID:eb1615b7e18f@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261214T180000
 DTEND;TZID=Europe/Paris:20261214T200000
 SUMMARY:Prévision et gestion des risques financiers par l'IA
@@ -105,7 +92,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/previsio
 END:VEVENT
 BEGIN:VEVENT
 UID:be370caadc40@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261215T183000
 DTEND;TZID=Europe/Paris:20261215T203000
 SUMMARY:Conférence annuelle de la Chaire PARI

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f46755990704@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261113T110000
 DTEND;TZID=Europe/Paris:20261113T130000
 SUMMARY:Institut Pasteur–ASHBi Mini-Symposium on Stem Cell-Based Models o
@@ -40,7 +40,7 @@ URL:https://research.pasteur.fr/en/event/institut-pasteur-ashbi-mini-sympos
 END:VEVENT
 BEGIN:VEVENT
 UID:645a9bb5bbe1@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261113T110000
 DTEND;TZID=Europe/Paris:20261113T130000
 SUMMARY:DSCB Dpt Seminar – “Stem cell based embryo models for human dev
@@ -54,7 +54,7 @@ URL:https://research.pasteur.fr/en/event/dscb-dpt-seminar-stem-cell-based-e
 END:VEVENT
 BEGIN:VEVENT
 UID:d498bf166a3d@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261113T140000
 DTEND;TZID=Europe/Paris:20261113T160000
 SUMMARY:Dept of Computational Biology seminar | “Biomolecular structure m
@@ -71,7 +71,7 @@ URL:https://research.pasteur.fr/en/event/dept-of-computational-biology-semi
 END:VEVENT
 BEGIN:VEVENT
 UID:7572670fdda3@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261117T110000
 DTEND;TZID=Europe/Paris:20261117T130000
 SUMMARY:Seminar: Engineering human tissues for medical impact
@@ -84,7 +84,7 @@ URL:https://research.pasteur.fr/en/event/seminar-engineering-human-tissues-
 END:VEVENT
 BEGIN:VEVENT
 UID:c98a5364dc56@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T090000
 DTEND;TZID=Europe/Paris:20261118T110000
 SUMMARY:Journée de la Recherche Translationnelle “Necrotizing Enterocoli
@@ -99,7 +99,7 @@ URL:https://research.pasteur.fr/en/event/journee-de-la-recherche-translatio
 END:VEVENT
 BEGIN:VEVENT
 UID:af7e3a6c300d@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261119T120000
 DTEND;TZID=Europe/Paris:20261119T140000
 SUMMARY:Department of Parasites and Insect Vectors Seminar Nisha Philip : 
@@ -116,7 +116,7 @@ URL:https://research.pasteur.fr/en/event/department-of-parasites-and-insect
 END:VEVENT
 BEGIN:VEVENT
 UID:df0320131133@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261120T110000
 DTEND;TZID=Europe/Paris:20261120T130000
 SUMMARY:November 2027 n.ICE Seminar: “Instruct-ERIC: Funded Access to Tec
@@ -127,7 +127,7 @@ URL:https://research.pasteur.fr/en/event/n-ice-seminar/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c068d54a37c@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261120T110000
 DTEND;TZID=Europe/Paris:20261120T130000
 SUMMARY:DSCB Weekly Seminar “Temporal adaptations of neural stem cells du
@@ -142,7 +142,7 @@ URL:https://research.pasteur.fr/en/event/dscb-weekly-seminar-temporal-adapt
 END:VEVENT
 BEGIN:VEVENT
 UID:333d50179922@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T110000
 DTEND;TZID=Europe/Paris:20261124T130000
 SUMMARY:Engineering protein catalysts for synthetic applications
@@ -155,7 +155,7 @@ URL:https://research.pasteur.fr/en/event/engineering-protein-catalysts-for-
 END:VEVENT
 BEGIN:VEVENT
 UID:ba12d4a04b40@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T133000
 DTEND;TZID=Europe/Paris:20261124T153000
 SUMMARY:Developmental and Stem Cell Origin of Long-Term Stresses – Giacom
@@ -169,7 +169,7 @@ URL:https://research.pasteur.fr/en/event/long-term-impact-of-embryonic-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:7b479570ac90@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T140000
 DTEND;TZID=Europe/Paris:20261124T160000
 SUMMARY:Webinaire de l’enseignement – Les bactéries\, des modèles pou
@@ -185,7 +185,7 @@ URL:https://research.pasteur.fr/en/event/webinaire-de-lenseignement-les-bac
 END:VEVENT
 BEGIN:VEVENT
 UID:96c6881f87c8@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261126T120000
 DTEND;TZID=Europe/Paris:20261126T140000
 SUMMARY:Department of Parasites and Insect Vectors Seminar Professor – Dr
@@ -203,7 +203,7 @@ URL:https://research.pasteur.fr/en/event/department-of-parasites-and-insect
 END:VEVENT
 BEGIN:VEVENT
 UID:640a099ad384@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261127T110000
 DTEND;TZID=Europe/Paris:20261127T130000
 SUMMARY:DSCB Weekly seminar : “Scaling regeneration” by Elly TANAKA –
@@ -217,7 +217,7 @@ URL:https://research.pasteur.fr/en/event/dscb-weekly-seminar-scaling-regene
 END:VEVENT
 BEGIN:VEVENT
 UID:eab467e28dea@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261130T090000
 DTEND;TZID=Europe/Paris:20261130T110000
 SUMMARY:International conference Integrative Microbiome Program at Pasteur
@@ -229,7 +229,7 @@ URL:https://research.pasteur.fr/en/event/international-conferences-integrat
 END:VEVENT
 BEGIN:VEVENT
 UID:0c10dc3a3968@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261201T110000
 DTEND;TZID=Europe/Paris:20261201T130000
 SUMMARY:Molecular design by Multi-Task AI and chemographic exploration
@@ -242,7 +242,7 @@ URL:https://research.pasteur.fr/en/event/molecular-design-by-multi-task-ai-
 END:VEVENT
 BEGIN:VEVENT
 UID:e1a7c9df7edc@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261204T110000
 DTEND;TZID=Europe/Paris:20261204T130000
 SUMMARY:DSCB weelky seminar: “ChromGEM reveals chromatin ultrastructural 
@@ -259,7 +259,7 @@ URL:https://research.pasteur.fr/en/event/dscb-weelky-seminar-chromgem-revea
 END:VEVENT
 BEGIN:VEVENT
 UID:cc9d4e6727f8@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261208T090000
 DTEND;TZID=Europe/Paris:20261208T110000
 SUMMARY:Artificial intelligence and automation for smart microscopy
@@ -272,7 +272,7 @@ URL:https://research.pasteur.fr/en/event/artificial-intelligence-and-automa
 END:VEVENT
 BEGIN:VEVENT
 UID:8b9045a8995d@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270126T080000
 DTEND;TZID=Europe/Paris:20270126T100000
 SUMMARY:Annual meeting of the AC41 ANRS Emerging Infectious Diseases – Ja

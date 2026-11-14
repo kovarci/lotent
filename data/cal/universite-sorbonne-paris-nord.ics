@@ -24,26 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6a0d6cf30497@paris-academique
-DTSTAMP:20261113T232333Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Comment changer de filière après un 1er semestre ?
-DESCRIPTION:Vous êtes étudiant en 1ère année à l’Université Sorbonn
- e Paris Nord et vous souhaitez vous réorienter ? Pour en savoir plus sur 
- les différentes possibilités de réorientation\, participez à la réuni
- on d’information organisée par le service VOIE. Seront présentés : un
-  rappel des principales filières de l’enseignement supérieur\, les dif
- férentes procédures de réorientation (au 2nd semestre ou après…\nhtt
- ps://www.univ-spn.fr/events/changer-de-filiere-apres-un-1er-semestre-187-5
- 42-762/
-LOCATION:Campus de Bobigny
-URL:https://www.univ-spn.fr/events/changer-de-filiere-apres-un-1er-semestre
- -187-542-762/
-END:VEVENT
-BEGIN:VEVENT
 UID:3164796e41da@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T200000
 DTEND;TZID=Europe/Paris:20261118T220000
 SUMMARY:[Danse] Step 1
@@ -53,7 +35,7 @@ URL:https://www.univ-spn.fr/events/danse-step-1/
 END:VEVENT
 BEGIN:VEVENT
 UID:ea83a858d23b@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261120T203000
 DTEND;TZID=Europe/Paris:20261120T223000
 SUMMARY:[Danse] Come Out
@@ -72,7 +54,7 @@ URL:https://www.univ-spn.fr/events/https-www-enghienlesbains-fr-fr-agenda-c
 END:VEVENT
 BEGIN:VEVENT
 UID:774257c17ec0@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261123T120000
 DTEND;TZID=Europe/Paris:20261123T130000
 SUMMARY:[Rencontre littéraire Texto] Diaty Diallo
@@ -89,7 +71,7 @@ URL:https://www.univ-spn.fr/events/rencontre-litteraire-texto-diaty-diallo/
 END:VEVENT
 BEGIN:VEVENT
 UID:52210bea63e4@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261126T083000
 DTEND;TZID=Europe/Paris:20261126T103000
 SUMMARY:Innov’SPN Days : trois minutes pour convaincre
@@ -107,7 +89,7 @@ URL:https://www.univ-spn.fr/events/innovspn-days-trois-minutes-pour-convain
 END:VEVENT
 BEGIN:VEVENT
 UID:f2dd232e5698@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261127T190000
 DTEND;TZID=Europe/Paris:20261127T201500
 SUMMARY:[Musique] 11 000 Cordes
@@ -119,7 +101,7 @@ URL:https://www.univ-spn.fr/events/https-www-lavillette-com-manifestations-
 END:VEVENT
 BEGIN:VEVENT
 UID:980a13ab2bbf@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261201T120000
 DTEND;TZID=Europe/Paris:20261201T140000
 SUMMARY:[Rencontre littéraire Texto] Rencontre un.e auteur.ice de littéra
@@ -138,7 +120,7 @@ URL:https://www.univ-spn.fr/events/rencontre-litteraire-litterature-jeuness
 END:VEVENT
 BEGIN:VEVENT
 UID:65801e0686a0@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T190000
 SUMMARY:Fabriquer la ville avec l’art et la culture
@@ -155,7 +137,7 @@ URL:https://www.univ-spn.fr/events/fabriquer-la-ville-avec-lart-et-la-cultu
 END:VEVENT
 BEGIN:VEVENT
 UID:6f351c0307f4@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261203T101500
 DTEND;TZID=Europe/Paris:20261203T121500
 SUMMARY:[Spectacle] Ces filles qu’on attend
@@ -171,7 +153,7 @@ URL:https://www.univ-spn.fr/events/144655/
 END:VEVENT
 BEGIN:VEVENT
 UID:3bd7641a4495@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261204T190000
 DTEND;TZID=Europe/Paris:20261204T201500
 SUMMARY:[Cirque] Ten Thousand Hours

@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7219c4e59a6a@paris-academique
-DTSTAMP:20261113T232333Z
-DTSTART;TZID=Europe/Paris:20261113T190000
-DTEND;TZID=Europe/Paris:20261113T210000
-SUMMARY:Escritoras bolivianas en Europa — La literatura como herramienta 
- de resistencia
-DESCRIPTION:Conférence\nhttps://www.mal217.org/fr/agenda/escritoras-bolivi
- anas-en-europa
-LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
-  7e
-URL:https://www.mal217.org/fr/agenda/escritoras-bolivianas-en-europa
-END:VEVENT
-BEGIN:VEVENT
 UID:c59ae7527335@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261116T190000
 DTEND;TZID=Europe/Paris:20261116T210000
 SUMMARY:La Tribune des livres
@@ -50,7 +37,7 @@ URL:https://www.mal217.org/fr/agenda/la-tribune-des-livres-64f4bf65
 END:VEVENT
 BEGIN:VEVENT
 UID:92dee9ae6fb0@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261117T210000
 DTEND;TZID=Europe/Paris:20261117T230000
 SUMMARY:Signature du réel. Écriture. Symptôme. Patronyme — Écritures 
@@ -64,7 +51,7 @@ URL:https://www.mal217.org/fr/agenda/signature-du-reel-ecriture-symptome-pa
 END:VEVENT
 BEGIN:VEVENT
 UID:f2fea40f4210@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T140000
 DTEND;TZID=Europe/Paris:20261118T203000
 SUMMARY:Journées d’études franco-argentines — En hommage à l'œuvre 
@@ -77,7 +64,7 @@ URL:https://www.mal217.org/fr/agenda/journees-d-etudes-franco-argentines
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6e8133d927@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T190000
 DTEND;TZID=Europe/Paris:20261118T210000
 SUMMARY:Démocratie ou oligarchie ? — L’Amérique latine pour un monde 
@@ -90,7 +77,7 @@ URL:https://www.mal217.org/fr/agenda/democratie-ou-oligarchie
 END:VEVENT
 BEGIN:VEVENT
 UID:5bbb4f96fde3@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T210000
 DTEND;TZID=Europe/Paris:20261118T230000
 SUMMARY:Psychanalyse et transferts culturels — De l'infini en analyse
@@ -103,7 +90,7 @@ URL:https://www.mal217.org/fr/agenda/psychanalyse-et-transferts-culturels-a
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe5c3e8a77c@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261120T190000
 DTEND;TZID=Europe/Paris:20261120T210000
 SUMMARY:Y la casa venció a las sombras
@@ -116,7 +103,7 @@ URL:https://www.mal217.org/fr/agenda/y-la-casa-vencio-a-las-sombras-toma-de
 END:VEVENT
 BEGIN:VEVENT
 UID:60b54024bd0f@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:Julio Ramón Ribeyro — par Nerit Olaya

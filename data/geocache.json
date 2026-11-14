@@ -1561,7 +1561,10 @@
   2.364797
  ],
  "maison de la culture du japon à paris, 101 bis quai jacques chirac, 75015 paris, france": null,
- "hôtel le marois, 9-11 av. franklin delano roosevelt, 75008 paris, france": null,
+ "hôtel le marois, 9-11 av. franklin delano roosevelt, 75008 paris, france": [
+  48.868492,
+  2.310137
+ ],
  "espace sylvia rielle, 10 pl. des vosges, 75004 paris, france": null,
  "hetic, 59 rue nationale, 75013 paris, france": null,
  "42 rue de paradis, 75010 paris, france": [
@@ -1646,7 +1649,10 @@
   48.84869,
   2.279702
  ],
- "ambassade d'estonie, 17 rue de la baume, 75008 paris, france": null,
+ "ambassade d'estonie, 17 rue de la baume, 75008 paris, france": [
+  48.874701,
+  2.312663
+ ],
  "ember - hot pilates studio, 8 rue d'uzès, 75002 paris, france": [
   48.87063,
   2.344457
@@ -1775,7 +1781,10 @@
  ],
  "plateau urbain, 13 rue santeuil, 75005 paris, france": null,
  "gargalou nanterre (la défense), 155 jard. de l'arche, 92000 nanterre, france": null,
- "sainto, 10 rue du marché saint-honoré, 75001 paris, france": null,
+ "sainto, 10 rue du marché saint-honoré, 75001 paris, france": [
+  48.86618,
+  2.331374
+ ],
  "51 rue archereau, 75019 paris, france": [
   48.892042,
   2.37477
@@ -5744,5 +5753,49 @@
  "centre vaugirard amphithéâtre charles de gaulle 391 rue de vaugirard 75015 paris": [
   48.840076,
   2.292848
+ ],
+ "place de la reine astrid, pl. de la reine astrid, 75008 paris, france": [
+  48.865147,
+  2.303105
+ ],
+ "la samaritaine, 75001 paris, france": [
+  48.859206,
+  2.342353
+ ],
+ "justine, 96 rue oberkampf, 75011 paris, france": [
+  48.865677,
+  2.377887
+ ],
+ "centre culturel suisse. paris, 32 rue des francs bourgeois, 75003 paris, france": [
+  48.858312,
+  2.359689
+ ],
+ "alimentari, 64 rue jean-pierre timbaud, 75011 paris, france": [
+  48.866859,
+  2.374452
+ ],
+ "climb world, centre commercial gaîté-montparnasse, 80 av. du maine, 75014 paris, france": [
+  48.838622,
+  2.321593
+ ],
+ "galerie danysz, 78 rue amelot, 75011 paris, france": [
+  48.860614,
+  2.36796
+ ],
+ "no mad paris, 21 rue de turenne, 75004 paris, france": [
+  48.856003,
+  2.363899
+ ],
+ "grand palais, 75008 paris, france": [
+  48.866161,
+  2.312223
+ ],
+ "spartners, 22 route 128, 91190 gif-sur-yvette, france": [
+  48.710433,
+  2.157874
+ ],
+ "23 quai anatole france, 75007 paris, france": [
+  48.86173,
+  2.321835
  ]
 }

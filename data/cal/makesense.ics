@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:90bbf637baa7@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Projection-débat : "Outre-mer\, terres de solutions"
@@ -41,7 +41,7 @@ URL:https://chiche.makesense.org/events/e/projection-debat-outre-mer-terres
 END:VEVENT
 BEGIN:VEVENT
 UID:caf1dc06c110@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261114T130000
 DTEND;TZID=Europe/Paris:20261114T160000
 SUMMARY:Atelier d'écriture autobiographique
@@ -57,7 +57,7 @@ URL:https://chiche.makesense.org/events/e/atelier-decriture-autobiographiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:a62623173efa@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261114T143000
 DTEND;TZID=Europe/Paris:20261114T163000
 SUMMARY:Lettres en Soi – atelier d’écriture créative
@@ -72,7 +72,7 @@ URL:https://chiche.makesense.org/events/e/lettres-en-soi-atelier-decriture-
 END:VEVENT
 BEGIN:VEVENT
 UID:b137331db5c2@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Construire la trame de mon CV📍Paris 13
@@ -86,7 +86,7 @@ URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
 END:VEVENT
 BEGIN:VEVENT
 UID:65d4b423062b@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Atelier pratique : fabrication de produits d’entretien nettoyants
@@ -102,7 +102,7 @@ URL:https://chiche.makesense.org/events/e/atelier-pratique-fabrication-de-p
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae782b2dc6d@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Soirée crises et nerfs
@@ -117,7 +117,7 @@ URL:https://chiche.makesense.org/events/e/soiree-crises-et-nerfs-6adf4e75c7
 END:VEVENT
 BEGIN:VEVENT
 UID:3bd55ad27703@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
@@ -133,7 +133,7 @@ URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
 END:VEVENT
 BEGIN:VEVENT
 UID:38284b486312@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:J’apprends les bases de la réparation (niveau 1)
@@ -149,7 +149,7 @@ URL:https://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparat
 END:VEVENT
 BEGIN:VEVENT
 UID:7959326ba592@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🏠Et toi\, tu connais notre maison ? - makesense space
@@ -164,7 +164,7 @@ URL:https://chiche.makesense.org/events/e/et-toi-tu-connais-notre-maison-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:20ae4517c159@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Les rencontres de la Communauté 360 de Paris : répit et soutien d
@@ -181,7 +181,7 @@ URL:https://chiche.makesense.org/events/e/les-rencontres-de-la-communaute-3
 END:VEVENT
 BEGIN:VEVENT
 UID:bb7c0265b8a3@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T135000
 DTEND;TZID=Europe/Paris:20261118T155000
 SUMMARY:Atelier - Pitch : Apprendre à présenter son projet
@@ -196,7 +196,7 @@ URL:https://chiche.makesense.org/events/e/atelier-pitch-apprendre-a-present
 END:VEVENT
 BEGIN:VEVENT
 UID:536c367897b3@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T190000
 DTEND;TZID=Europe/Paris:20261118T210000
 SUMMARY:Sécurité : La France est-elle de plus en plus violente ?

@@ -24,20 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:504c6e884945@paris-academique
-DTSTAMP:20261113T232333Z
-DTSTART;TZID=Europe/Paris:20261112T110000
-DTEND;TZID=Europe/Paris:20261112T130000
-SUMMARY:Earthquake cycle simulations for PSHA
-DESCRIPTION:Séminaires communs Tectonique-Sismologie\nhttps://www.ipgp.fr/
- actus-et-agenda/agenda/seminaires/earthquake-cycle-simulations-for-psha/
-LOCATION:IPGP\, 1 rue Jussieu\, Paris 5e
-URL:https://www.ipgp.fr/actus-et-agenda/agenda/seminaires/earthquake-cycle-
- simulations-for-psha/
-END:VEVENT
-BEGIN:VEVENT
 UID:b1eea711ad78@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T110000
 DTEND;TZID=Europe/Paris:20261118T130000
 SUMMARY:Echoes from the seabed: the continuing evolution of industrial mult
@@ -49,7 +37,7 @@ URL:https://www.ipgp.fr/actus-et-agenda/agenda/seminaires/tba-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:90ac8fcd48bf@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261123T110000
 DTEND;TZID=Europe/Paris:20261123T130000
 SUMMARY:Exploring Tidal Modulation of Seismicity in Southern California
@@ -62,7 +50,7 @@ URL:https://www.ipgp.fr/actus-et-agenda/agenda/seminaires/exploring-tidal-m
 END:VEVENT
 BEGIN:VEVENT
 UID:4d625f8ce28e@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T110000
 DTEND;TZID=Europe/Paris:20261124T130000
 SUMMARY:Magnetic induction in the subsurface oceans of Europa and Ganymede
@@ -75,7 +63,7 @@ URL:https://www.ipgp.fr/actus-et-agenda/agenda/seminaires/magnetic-inductio
 END:VEVENT
 BEGIN:VEVENT
 UID:0b9bc616a534@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261126T140000
 DTEND;TZID=Europe/Paris:20261126T160000
 SUMMARY:Intraplate deformation and crustal thickness variations in the 2012

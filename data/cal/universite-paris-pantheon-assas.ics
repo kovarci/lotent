@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:4d68641dcb92@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261116T093000
 DTEND;TZID=Europe/Paris:20261116T123000
 SUMMARY:4e édition de la semaine du développement durable
@@ -37,7 +37,7 @@ URL:https://www.assas-universite.fr/fr/evenements/4e-edition-semaine-develo
 END:VEVENT
 BEGIN:VEVENT
 UID:1a0946bb28fa@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261116T160000
 DTEND;TZID=Europe/Paris:20261116T180000
 SUMMARY:Projection-débat "NOTRE SALUT" - Un film écrit et réalisé par E
@@ -51,7 +51,7 @@ URL:https://www.assas-universite.fr/fr/evenements/projection-debat-salut-fi
 END:VEVENT
 BEGIN:VEVENT
 UID:d764c3fbd886@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261117T110000
 DTEND;TZID=Europe/Paris:20261117T130000
 SUMMARY:Clone of Reproducibility and Robustness of Nature Human Behaviour P
@@ -62,7 +62,7 @@ URL:https://www.assas-universite.fr/fr/node/45433
 END:VEVENT
 BEGIN:VEVENT
 UID:a3473d9983fe@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261117T123000
 DTEND;TZID=Europe/Paris:20261117T143000
 SUMMARY:Les limites de l'endettement public
@@ -74,7 +74,7 @@ URL:https://www.assas-universite.fr/fr/evenements/limites-lendettement-publ
 END:VEVENT
 BEGIN:VEVENT
 UID:b9cec10f24f0@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261117T180000
 DTEND;TZID=Europe/Paris:20261117T200000
 SUMMARY:The Democratic Limits of Algorithmic Law
@@ -87,7 +87,7 @@ URL:https://www.assas-universite.fr/fr/evenements/democratic-limits-algorit
 END:VEVENT
 BEGIN:VEVENT
 UID:4b6cd8471bcf@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261117T193000
 DTEND;TZID=Europe/Paris:20261117T213000
 SUMMARY:Projection du film "Je suis toujours là" de Walter SALLES - Ciné-
@@ -100,7 +100,7 @@ URL:https://www.assas-universite.fr/fr/evenements/projection-film-je-suis-t
 END:VEVENT
 BEGIN:VEVENT
 UID:8d534aa90fe6@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T090000
 DTEND;TZID=Europe/Paris:20261118T110000
 SUMMARY:La proposition de règlement « EU Inc. »
@@ -113,7 +113,7 @@ URL:https://www.assas-universite.fr/fr/evenements/proposition-reglement-eu-
 END:VEVENT
 BEGIN:VEVENT
 UID:d4290d188178@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T113000
 DTEND;TZID=Europe/Paris:20261118T133000
 SUMMARY:Masterclass avec la Banque de France : missions\, métiers et strat
@@ -127,7 +127,7 @@ URL:https://www.assas-universite.fr/fr/evenements/masterclass-banque-france
 END:VEVENT
 BEGIN:VEVENT
 UID:230eb9cb9e1e@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261118T140000
 DTEND;TZID=Europe/Paris:20261118T160000
 SUMMARY:Webinaire réorientation inter-semestrielle
@@ -140,7 +140,7 @@ URL:https://www.assas-universite.fr/fr/evenements/webinaire-reorientation-i
 END:VEVENT
 BEGIN:VEVENT
 UID:037b8d20c7a4@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261119T090000
 DTEND;TZID=Europe/Paris:20261119T110000
 SUMMARY:Mois sans tabac - Centre Assas
@@ -152,7 +152,7 @@ URL:https://www.assas-universite.fr/fr/evenements/mois-sans-tabac-centre-as
 END:VEVENT
 BEGIN:VEVENT
 UID:bf36fe3d4708@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261119T090000
 DTEND;TZID=Europe/Paris:20261119T110000
 SUMMARY:Mois sans tabac - Centre Vaugirard et campus de Melun
@@ -165,7 +165,7 @@ URL:https://www.assas-universite.fr/fr/evenements/mois-sans-tabac-centre-va
 END:VEVENT
 BEGIN:VEVENT
 UID:444861cf9692@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261119T180000
 DTEND;TZID=Europe/Paris:20261119T200000
 SUMMARY:L'esprit de défense en milieu universitaire : témoignages et reto
@@ -179,7 +179,7 @@ URL:https://www.assas-universite.fr/fr/evenements/lesprit-defense-en-milieu
 END:VEVENT
 BEGIN:VEVENT
 UID:d2771a3e599a@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261120T121500
 DTEND;TZID=Europe/Paris:20261120T141500
 SUMMARY:Groupe de Travail d’Économie de la Fiscalité - Rencontre du 20 
@@ -193,7 +193,7 @@ URL:https://www.assas-universite.fr/fr/evenements/groupe-travail-deconomie-
 END:VEVENT
 BEGIN:VEVENT
 UID:7251d0079bdb@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261120T173000
 DTEND;TZID=Europe/Paris:20261120T193000
 SUMMARY:Restitutions\, pouvoir et patrimoine. Le droit face à l'histoire
@@ -206,7 +206,7 @@ URL:https://www.assas-universite.fr/fr/evenements/restitutions-pouvoir-patr
 END:VEVENT
 BEGIN:VEVENT
 UID:c950aa9b04d0@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261123T173000
 DTEND;TZID=Europe/Paris:20261123T193000
 SUMMARY:Webinaire Organiser et dynamiser sa recherche de stage
@@ -219,7 +219,7 @@ URL:https://www.assas-universite.fr/fr/evenements/webinaire-organiser-dynam
 END:VEVENT
 BEGIN:VEVENT
 UID:d98d670c28a0@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261123T190000
 DTEND;TZID=Europe/Paris:20261123T210000
 SUMMARY:Conférence sur le Traité du Quirinal\, avec Franco IMPALÀ et Ant
@@ -233,7 +233,7 @@ URL:https://www.assas-universite.fr/fr/evenements/conference-traite-quirina
 END:VEVENT
 BEGIN:VEVENT
 UID:931fb79c886f@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T123000
 DTEND;TZID=Europe/Paris:20261124T143000
 SUMMARY:Partage de la ressource : la guerre de l'eau aura-t-elle lieu ?
@@ -246,7 +246,7 @@ URL:https://www.assas-universite.fr/fr/evenements/partage-ressource-guerre-
 END:VEVENT
 BEGIN:VEVENT
 UID:2b34d96dcf44@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T143000
 DTEND;TZID=Europe/Paris:20261124T163000
 SUMMARY:Quelle liberté pour la création ? Formes et pratiques contemporai
@@ -259,7 +259,7 @@ URL:https://www.assas-universite.fr/fr/evenements/quelle-liberte-creation-f
 END:VEVENT
 BEGIN:VEVENT
 UID:0f878ba5b22e@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:René SAVATIER\, « Le prétendu principe de l’effet relatif du c
@@ -272,7 +272,7 @@ URL:https://www.assas-universite.fr/fr/evenements/rene-savatier-pretendu-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:b9b9daedbd53@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:Les différents métiers exercés par les secrétaires de chancelle
@@ -286,7 +286,7 @@ URL:https://www.assas-universite.fr/fr/evenements/differents-metiers-exerce
 END:VEVENT
 BEGIN:VEVENT
 UID:d114cf29cd7a@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Enjeux actuels des politiques internationales de financement du dé
@@ -300,7 +300,7 @@ URL:https://www.assas-universite.fr/fr/evenements/enjeux-actuels-politiques
 END:VEVENT
 BEGIN:VEVENT
 UID:c116f7bf1b48@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261126T100000
 DTEND;TZID=Europe/Paris:20261126T120000
 SUMMARY:« Livres en folie » au campus de Melun
@@ -313,7 +313,7 @@ URL:https://www.assas-universite.fr/fr/evenements/livres-en-folie-au-campus
 END:VEVENT
 BEGIN:VEVENT
 UID:b65699cb2ae3@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261127T093000
 DTEND;TZID=Europe/Paris:20261127T113000
 SUMMARY:Les 250 ans de la Déclaration d’indépendance américaine
@@ -325,7 +325,7 @@ URL:https://www.assas-universite.fr/fr/evenements/250-ans-declaration-dinde
 END:VEVENT
 BEGIN:VEVENT
 UID:0cec9eb5cde1@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261127T153000
 DTEND;TZID=Europe/Paris:20261127T173000
 SUMMARY:Autour de l’ouvrage de Laurent SEUROT «Droit de la répression a
@@ -339,7 +339,7 @@ URL:https://www.assas-universite.fr/fr/evenements/autour-louvrage-laurent-s
 END:VEVENT
 BEGIN:VEVENT
 UID:89cd28ce3283@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261130T083000
 DTEND;TZID=Europe/Paris:20261130T103000
 SUMMARY:Narcotrafic : défis judiciaires\, économiques territoriaux et int
@@ -353,7 +353,7 @@ URL:https://www.assas-universite.fr/fr/evenements/narcotrafic-defis-judicia
 END:VEVENT
 BEGIN:VEVENT
 UID:bca28456c0db@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Journée de lutte contre le VIH - Centre Vaugirard et campus de Mel
@@ -367,7 +367,7 @@ URL:https://www.assas-universite.fr/fr/evenements/journee-lutte-contre-vih-
 END:VEVENT
 BEGIN:VEVENT
 UID:85d0429bf2f5@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261201T110000
 DTEND;TZID=Europe/Paris:20261201T130000
 SUMMARY:Clone of Clone of Reproducibility and Robustness of Nature Human Be
@@ -378,7 +378,7 @@ URL:https://www.assas-universite.fr/fr/node/45434
 END:VEVENT
 BEGIN:VEVENT
 UID:fb289d0532ec@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261201T123000
 DTEND;TZID=Europe/Paris:20261201T143000
 SUMMARY:L'évolution du management public
@@ -390,7 +390,7 @@ URL:https://www.assas-universite.fr/fr/evenements/levolution-management-pub
 END:VEVENT
 BEGIN:VEVENT
 UID:5038b1ec0ff2@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Journée de lutte contre le VIH - Centre Assas
@@ -402,7 +402,7 @@ URL:https://www.assas-universite.fr/fr/evenements/journee-lutte-contre-vih-
 END:VEVENT
 BEGIN:VEVENT
 UID:345ca66bf6d2@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261207T170000
 DTEND;TZID=Europe/Paris:20261207T190000
 SUMMARY:Paroles de diplomates - Comment décoder ce monde en pleine tourmen
@@ -415,7 +415,7 @@ URL:https://www.assas-universite.fr/fr/evenements/paroles-diplomates-commen
 END:VEVENT
 BEGIN:VEVENT
 UID:9d7b1a2cade9@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261208T173000
 DTEND;TZID=Europe/Paris:20261208T193000
 SUMMARY:Webinaire Les bonnes pratiques de l’IA générative dans la reche
@@ -429,7 +429,7 @@ URL:https://www.assas-universite.fr/fr/evenements/webinaire-bonnes-pratique
 END:VEVENT
 BEGIN:VEVENT
 UID:c41399e3dc39@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261209T180000
 DTEND;TZID=Europe/Paris:20261209T200000
 SUMMARY:Le dialogue des juges à l'épreuve des actes du gouvernement
@@ -442,7 +442,7 @@ URL:https://www.assas-universite.fr/fr/evenements/dialogue-juges-lepreuve-a
 END:VEVENT
 BEGIN:VEVENT
 UID:820c120dc72d@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261210T170000
 DTEND;TZID=Europe/Paris:20261210T190000
 SUMMARY:« The Fall of Affirmative Action – And the Future of American Hi
@@ -456,7 +456,7 @@ URL:https://www.assas-universite.fr/fr/evenements/fall-affirmative-action-f
 END:VEVENT
 BEGIN:VEVENT
 UID:6f506000ccf2@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261211T173000
 DTEND;TZID=Europe/Paris:20261211T193000
 SUMMARY:La lex regia\, de Romulus à Justinien
@@ -469,7 +469,7 @@ URL:https://www.assas-universite.fr/fr/evenements/lex-regia-romulus-justini
 END:VEVENT
 BEGIN:VEVENT
 UID:702d59f622e2@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261212T100000
 DTEND;TZID=Europe/Paris:20261212T120000
 SUMMARY:Conférences d'agrégation en histoire du droit- Séance inaugurale
@@ -481,7 +481,7 @@ URL:https://www.assas-universite.fr/fr/evenements/conferences-dagregation-e
 END:VEVENT
 BEGIN:VEVENT
 UID:e69cf17aa02f@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261215T090000
 DTEND;TZID=Europe/Paris:20261215T110000
 SUMMARY:Santé mentale et bien être - Centre Vaugirard et campus de Melun
@@ -494,7 +494,7 @@ URL:https://www.assas-universite.fr/fr/evenements/sante-mentale-bien-etre-c
 END:VEVENT
 BEGIN:VEVENT
 UID:cb2ed45876a3@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Time\, Uncertainties & Strategies XII (TUS XII)
@@ -507,7 +507,7 @@ URL:https://www.assas-universite.fr/fr/evenements/time-uncertainties-strate
 END:VEVENT
 BEGIN:VEVENT
 UID:4333c956690d@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261217T090000
 DTEND;TZID=Europe/Paris:20261217T110000
 SUMMARY:Santé mentale et bien être - Centre Assas
@@ -519,7 +519,7 @@ URL:https://www.assas-universite.fr/fr/evenements/sante-mentale-bien-etre-c
 END:VEVENT
 BEGIN:VEVENT
 UID:cf387e500ed6@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261217T160000
 DTEND;TZID=Europe/Paris:20261217T180000
 SUMMARY:Le divorce extra-judiciaire 10 ans après la loi n° 2016-1547 du 1
@@ -533,7 +533,7 @@ URL:https://www.assas-universite.fr/fr/evenements/divorce-extra-judiciaire-
 END:VEVENT
 BEGIN:VEVENT
 UID:0fbf527bfd3a@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20261218T140000
 DTEND;TZID=Europe/Paris:20261218T160000
 SUMMARY:À la fin de la Présidence française\, où en est le G7 ?
@@ -546,7 +546,7 @@ URL:https://www.assas-universite.fr/fr/evenements/fin-presidence-francaise-
 END:VEVENT
 BEGIN:VEVENT
 UID:919c87252b77@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270105T110000
 DTEND;TZID=Europe/Paris:20270105T130000
 SUMMARY:Clone of Clone of Clone of Reproducibility and Robustness of Nature
@@ -557,7 +557,7 @@ URL:https://www.assas-universite.fr/fr/node/45435
 END:VEVENT
 BEGIN:VEVENT
 UID:ee78e9bcd520@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270121T133000
 DTEND;TZID=Europe/Paris:20270121T153000
 SUMMARY:Product liability in the age of artificial intelligence
@@ -570,7 +570,7 @@ URL:https://www.assas-universite.fr/fr/evenements/product-liability-age-art
 END:VEVENT
 BEGIN:VEVENT
 UID:f34dfedd3aeb@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270122T173000
 DTEND;TZID=Europe/Paris:20270122T193000
 SUMMARY:Le droit romain comme système social : le prisme du furor
@@ -583,7 +583,7 @@ URL:https://www.assas-universite.fr/fr/evenements/droit-romain-systeme-soci
 END:VEVENT
 BEGIN:VEVENT
 UID:0a0f27ac920f@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270123T133000
 DTEND;TZID=Europe/Paris:20270123T153000
 SUMMARY:Journée portes ouvertes - campus de Melun
@@ -595,7 +595,7 @@ URL:https://www.assas-universite.fr/fr/evenements/journee-portes-ouvertes-c
 END:VEVENT
 BEGIN:VEVENT
 UID:87082f9c2c66@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270125T173000
 DTEND;TZID=Europe/Paris:20270125T193000
 SUMMARY:Webinaire Pitcher son parcours en 3 minutes
@@ -608,7 +608,7 @@ URL:https://www.assas-universite.fr/fr/evenements/webinaire-pitcher-parcour
 END:VEVENT
 BEGIN:VEVENT
 UID:1c4bed942b5a@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270126T100000
 DTEND;TZID=Europe/Paris:20270126T120000
 SUMMARY:Job Fair d'Assas - Rencontrez votre futur employeur
@@ -620,7 +620,7 @@ URL:https://www.assas-universite.fr/fr/evenements/job-fair-dassas-rencontre
 END:VEVENT
 BEGIN:VEVENT
 UID:213abb642f65@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270129T190000
 DTEND;TZID=Europe/Paris:20270129T210000
 SUMMARY:Les conférences du Collège de droit : présentation de l'ouvrage 
@@ -634,7 +634,7 @@ URL:https://www.assas-universite.fr/fr/evenements/conferences-college-droit
 END:VEVENT
 BEGIN:VEVENT
 UID:e3885f0b7926@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270205T173000
 DTEND;TZID=Europe/Paris:20270205T193000
 SUMMARY:Structure et technique juridique de la fondation en droit romain
@@ -647,7 +647,7 @@ URL:https://www.assas-universite.fr/fr/evenements/structure-technique-jurid
 END:VEVENT
 BEGIN:VEVENT
 UID:67312ac40e80@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270217T100000
 DTEND;TZID=Europe/Paris:20270217T120000
 SUMMARY:Forum des formations - deux jours pour découvrir les masters de l
@@ -660,7 +660,7 @@ URL:https://www.assas-universite.fr/fr/evenements/forum-formations-deux-jou
 END:VEVENT
 BEGIN:VEVENT
 UID:70670ac67194@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270219T173000
 DTEND;TZID=Europe/Paris:20270219T193000
 SUMMARY:Tester en grec dans l’Empire romain : les documents de la pratiqu
@@ -674,7 +674,7 @@ URL:https://www.assas-universite.fr/fr/evenements/tester-en-grec-lempire-ro
 END:VEVENT
 BEGIN:VEVENT
 UID:aca296681426@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270227T090000
 DTEND;TZID=Europe/Paris:20270227T110000
 SUMMARY:Journée portes ouvertes - centre Assas
@@ -686,7 +686,7 @@ URL:https://www.assas-universite.fr/fr/evenements/journee-portes-ouvertes-c
 END:VEVENT
 BEGIN:VEVENT
 UID:ca7bb26725bd@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270402T173000
 DTEND;TZID=Europe/Paris:20270402T193000
 SUMMARY:La justice royale à l’époque néo-assyrienne (911-612 av. J.-C.
@@ -700,7 +700,7 @@ URL:https://www.assas-universite.fr/fr/evenements/justice-royale-lepoque-ne
 END:VEVENT
 BEGIN:VEVENT
 UID:460e91d9c4c4@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270425T090000
 DTEND;TZID=Europe/Paris:20270425T110000
 SUMMARY:6e édition du tournoi Assas Green Volley
@@ -713,7 +713,7 @@ URL:https://www.assas-universite.fr/fr/evenements/6e-edition-tournoi-assas-
 END:VEVENT
 BEGIN:VEVENT
 UID:402ca2a2fe29@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270607T090000
 DTEND;TZID=Europe/Paris:20270607T110000
 SUMMARY:Paris Game Theory Festival 2027
@@ -725,7 +725,7 @@ URL:https://www.assas-universite.fr/fr/evenements/paris-game-theory-festiva
 END:VEVENT
 BEGIN:VEVENT
 UID:3ffd7940cfed@paris-academique
-DTSTAMP:20261113T232333Z
+DTSTAMP:20261114T090636Z
 DTSTART;TZID=Europe/Paris:20270608T110000
 DTEND;TZID=Europe/Paris:20270608T130000
 SUMMARY:Clone of Clone of Clone of Clone of Clone of Clone of Reproducibili
