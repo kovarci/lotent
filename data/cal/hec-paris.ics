@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2fcf54cab585@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T111500
 DTEND;TZID=Europe/Paris:20261119T131500
 SUMMARY:Residual Prophet Inequalities
@@ -39,7 +39,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/residual-prophet
 END:VEVENT
 BEGIN:VEVENT
 UID:612701964f7c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261123T112000
 DTEND;TZID=Europe/Paris:20261123T132000
 SUMMARY:Terrestrial Space Infrastructure and Great-Power Competition
@@ -53,7 +53,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/terrestrial-spac
 END:VEVENT
 BEGIN:VEVENT
 UID:38611fc4719d@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261127T111500
 DTEND;TZID=Europe/Paris:20261127T131500
 SUMMARY:Pricing in the Age of AI (MIT Press)
@@ -67,7 +67,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/pricing-age-ai-m
 END:VEVENT
 BEGIN:VEVENT
 UID:a31bd09cbd56@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261203T094000
 DTEND;TZID=Europe/Paris:20261203T114000
 SUMMARY:Séminaire de recherche HEC : Kristina Mc Elheran (U. Toronto)
@@ -81,7 +81,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/kristina-mc-elhe
 END:VEVENT
 BEGIN:VEVENT
 UID:23c73da6861c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261211T111500
 DTEND;TZID=Europe/Paris:20261211T131500
 SUMMARY:Quelle est la valeur des données censurées ?
@@ -95,7 +95,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/quelle-est-la-va
 END:VEVENT
 BEGIN:VEVENT
 UID:bc80c8c7829d@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261214T140000
 DTEND;TZID=Europe/Paris:20261214T160000
 SUMMARY:Conférence Droits Humains et Entreprises 2026

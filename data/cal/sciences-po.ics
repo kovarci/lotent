@@ -24,23 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ec3ff5390868@paris-academique
-DTSTAMP:20261114T090636Z
-DTSTART;TZID=Europe/Paris:20261113T170000
-DTEND;TZID=Europe/Paris:20261113T183000
-SUMMARY:Table ronde « Cultiver les possibles : éducation\, culture et ég
- alité des chances \; des leviers pour agir ? »
-DESCRIPTION:Des experts de haut niveau dans le domaine des politiques publi
- ques éducatives croiseront leurs regards pour cultiver les possibles.\nht
- tps://www.sciencespo.fr/fr/evenements/table-ronde-cultiver-les-possibles-e
- ducation-culture-et-egalite-des-chances-des-leviers-pour-agir/
-LOCATION:Sciences Po\, 27 rue Saint-Guillaume\, Paris 7e
-URL:https://www.sciencespo.fr/fr/evenements/table-ronde-cultiver-les-possib
- les-education-culture-et-egalite-des-chances-des-leviers-pour-agir/
-END:VEVENT
-BEGIN:VEVENT
 UID:04bfc7ca9c13@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261116T191500
 DTEND;TZID=Europe/Paris:20261116T204500
 SUMMARY:[Les Lundis du CEVIPOF] Le paysage politique français à la veille
@@ -57,7 +42,7 @@ URL:https://www.sciencespo.fr/fr/evenements/les-lundis-du-cevipof-le-paysag
 END:VEVENT
 BEGIN:VEVENT
 UID:663affb49073@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261117T090000
 DTEND;TZID=Europe/Paris:20261117T110000
 SUMMARY:Journées d’études « Comment enquêter en sciences sociales : t
@@ -73,7 +58,7 @@ URL:https://www.sciencespo.fr/fr/evenements/journees-etudes-comment-enquete
 END:VEVENT
 BEGIN:VEVENT
 UID:b2ad233569b1@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261117T120000
 DTEND;TZID=Europe/Paris:20261117T140000
 SUMMARY:Thailand's Gen Z Protests and the Royalist Establishment\, Five Yea
@@ -88,7 +73,7 @@ URL:https://www.sciencespo.fr/fr/evenements/thailand-s-gen-z-protests-and-t
 END:VEVENT
 BEGIN:VEVENT
 UID:9376e7b598f8@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261117T183000
 DTEND;TZID=Europe/Paris:20261117T200000
 SUMMARY:[Table ronde] Union européenne et États membres : quelles politiq
@@ -102,7 +87,7 @@ URL:https://www.sciencespo.fr/fr/evenements/table-ronde-union-europeenne-et
 END:VEVENT
 BEGIN:VEVENT
 UID:fb0197da03a1@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261117T191500
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Soirée-débat : Sport-santé : de l’activité physique à l’ac
@@ -119,7 +104,7 @@ URL:https://www.sciencespo.fr/fr/evenements/soirée-débat-sport-santé-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:9119b9ffa3c4@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261117T193000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Les Grandes Conférences: Philippe Aghion\, 2025 Nobel Laureate in 
@@ -138,7 +123,7 @@ URL:https://www.sciencespo.fr/fr/evenements/les-grandes-conferences-philipp
 END:VEVENT
 BEGIN:VEVENT
 UID:6249a439fe40@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261118T083000
 DTEND;TZID=Europe/Paris:20261118T103000
 SUMMARY:Avec l'IA\, qui dirige ?
@@ -152,7 +137,7 @@ URL:https://www.sciencespo.fr/fr/evenements/avec-l-ia-qui-dirige/
 END:VEVENT
 BEGIN:VEVENT
 UID:d9ae36c721fd@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261118T173000
 DTEND;TZID=Europe/Paris:20261118T183000
 SUMMARY:Tackling Global Inequality: Building an International Panel on Ineq
@@ -168,7 +153,7 @@ URL:https://www.sciencespo.fr/fr/evenements/tackling-global-inequality-buil
 END:VEVENT
 BEGIN:VEVENT
 UID:94e54fd5c558@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T213000
 SUMMARY:#NPDJ Les nouvelles pratiques du journalisme 2026
@@ -182,7 +167,7 @@ URL:https://www.sciencespo.fr/fr/evenements/npdj-les-nouvelles-pratiques-du
 END:VEVENT
 BEGIN:VEVENT
 UID:dca04573db13@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T193000
 SUMMARY:Les États-Unis peuvent-ils reprendre contrôle de l’Amérique la
@@ -198,7 +183,7 @@ URL:https://www.sciencespo.fr/fr/evenements/les-etats-unis-peuvent-ils-repr
 END:VEVENT
 BEGIN:VEVENT
 UID:220eed23a5c7@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T140000
 DTEND;TZID=Europe/Paris:20261119T170000
 SUMMARY:PhD Mobility Day 2026 : Journée de la mobilité internationale des
@@ -213,7 +198,7 @@ URL:https://www.sciencespo.fr/fr/evenements/mobility-ph-d-day-2026-journee-
 END:VEVENT
 BEGIN:VEVENT
 UID:0d678a3942d4@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T170000
 DTEND;TZID=Europe/Paris:20261119T190000
 SUMMARY:"Comment apprécier un disque ?" avec Laurent de Wilde
@@ -227,7 +212,7 @@ URL:https://www.sciencespo.fr/fr/evenements/comment-apprecier-un-disque-ave
 END:VEVENT
 BEGIN:VEVENT
 UID:b8c4ec27bdc7@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T170000
 DTEND;TZID=Europe/Paris:20261119T200000
 SUMMARY:Soirée portes ouvertes Masters / Graduate In-Person Open House
@@ -241,7 +226,7 @@ URL:https://www.sciencespo.fr/fr/evenements/soiree-portes-ouvertes-masters-
 END:VEVENT
 BEGIN:VEVENT
 UID:7946e360f00f@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T191500
 DTEND;TZID=Europe/Paris:20261119T204500
 SUMMARY:Tribunes de la Santé 2026 : "Le dépistage précoce à l’âge ad
@@ -256,7 +241,7 @@ URL:https://www.sciencespo.fr/fr/evenements/tribunes-de-la-sante-2026-le-de
 END:VEVENT
 BEGIN:VEVENT
 UID:0190b8132e8c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261120T153000
 DTEND;TZID=Europe/Paris:20261120T170000
 SUMMARY:Enregistrement en public d’un nouvel épisode du podcast Le Nouve
@@ -274,7 +259,7 @@ URL:https://www.sciencespo.fr/fr/evenements/enregistrement-en-public-d-un-n
 END:VEVENT
 BEGIN:VEVENT
 UID:7d7e134fa2a5@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261120T170000
 DTEND;TZID=Europe/Paris:20261120T190000
 SUMMARY:The Sciences Po AI Hackathon\, Second edition
@@ -286,7 +271,7 @@ URL:https://www.sciencespo.fr/fr/evenements/the-new-sciences-po-ai-hackatho
 END:VEVENT
 BEGIN:VEVENT
 UID:023b353a0dfb@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261123T123000
 DTEND;TZID=Europe/Paris:20261123T140000
 SUMMARY:Conversatorio con Lorenzo Silva
@@ -299,7 +284,7 @@ URL:https://www.sciencespo.fr/fr/evenements/conversatorio-con-lorenzo-silva
 END:VEVENT
 BEGIN:VEVENT
 UID:9244f835da59@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261125T093000
 DTEND;TZID=Europe/Paris:20261125T143000
 SUMMARY:Dialogues franco-italiens pour l’Europe
@@ -312,7 +297,7 @@ URL:https://www.sciencespo.fr/fr/evenements/dialogues-franco-italiens-pour-
 END:VEVENT
 BEGIN:VEVENT
 UID:c6bc03675a3f@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261125T101500
 DTEND;TZID=Europe/Paris:20261125T121500
 SUMMARY:Musiciens voyageurs : diplomates ou disrupteurs ?
@@ -326,7 +311,7 @@ URL:https://www.sciencespo.fr/fr/evenements/musiciens-voyageurs-diplomates-
 END:VEVENT
 BEGIN:VEVENT
 UID:935671b55051@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261125T140000
 DTEND;TZID=Europe/Paris:20261125T151000
 SUMMARY:Qui raconte la crise ? Polarisation du débat public en Turquie et 
@@ -342,7 +327,7 @@ URL:https://www.sciencespo.fr/fr/evenements/qui-raconte-la-crise-polarisati
 END:VEVENT
 BEGIN:VEVENT
 UID:3c3488fe9b3c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261125T191500
 DTEND;TZID=Europe/Paris:20261125T211500
 SUMMARY:Prix Penser le travail 2026
@@ -357,7 +342,7 @@ URL:https://www.sciencespo.fr/fr/evenements/prix-penser-le-travail-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:b3ca87719bac@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261126T090000
 DTEND;TZID=Europe/Paris:20261126T120000
 SUMMARY:Matinée jeunes chercheurs et chercheuses (4ème édition)
@@ -368,7 +353,7 @@ URL:https://www.sciencespo.fr/fr/evenements/matinee-jeunes-chercheurs/
 END:VEVENT
 BEGIN:VEVENT
 UID:6b753df47903@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261126T150000
 DTEND;TZID=Europe/Paris:20261126T160000
 SUMMARY:NOUVELLE DATE - La petite bibliothèque de Tanguy Viel
@@ -382,7 +367,7 @@ URL:https://www.sciencespo.fr/fr/evenements/la-petite-bibliotheque-de-tangu
 END:VEVENT
 BEGIN:VEVENT
 UID:33d791247b14@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261126T170000
 DTEND;TZID=Europe/Paris:20261126T183000
 SUMMARY:D’abord ils sont venus chercher les mots
@@ -397,7 +382,7 @@ URL:https://www.sciencespo.fr/fr/evenements/d-abord-ils-sont-venus-chercher
 END:VEVENT
 BEGIN:VEVENT
 UID:dce9642d7ad9@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261127T160000
 DTEND;TZID=Europe/Paris:20261127T193000
 SUMMARY:Paris Energy Week
@@ -409,7 +394,7 @@ URL:https://www.sciencespo.fr/fr/evenements/paris-energy-week/
 END:VEVENT
 BEGIN:VEVENT
 UID:c73498e15f12@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261127T191500
 DTEND;TZID=Europe/Paris:20261127T210000
 SUMMARY:Understanding South Korean Far-Right Politics
@@ -423,7 +408,7 @@ URL:https://www.sciencespo.fr/fr/evenements/understanding-south-korean-far-
 END:VEVENT
 BEGIN:VEVENT
 UID:a46a020066aa@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261130T191500
 DTEND;TZID=Europe/Paris:20261130T211500
 SUMMARY:Favoriser la transition environnementale des plus aisés pour contr
@@ -437,7 +422,7 @@ URL:https://www.sciencespo.fr/fr/evenements/favoriser-la-transition-environ
 END:VEVENT
 BEGIN:VEVENT
 UID:f2732132383c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261130T200000
 DTEND;TZID=Europe/Paris:20261130T223000
 SUMMARY:"Viendra la révolution" - Avant-première et rencontre avec Pegah 
@@ -452,7 +437,7 @@ URL:https://www.sciencespo.fr/fr/evenements/viendra-la-revolution-avant-pre
 END:VEVENT
 BEGIN:VEVENT
 UID:a66708d1690b@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261202T170000
 DTEND;TZID=Europe/Paris:20261202T190000
 SUMMARY:Intelligence artificielle générative & pratiques professionnelles
@@ -465,7 +450,7 @@ URL:https://www.sciencespo.fr/fr/evenements/intelligence-artificielle-gener
 END:VEVENT
 BEGIN:VEVENT
 UID:e0c82af955e5@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261211T100000
 DTEND;TZID=Europe/Paris:20261211T183000
 SUMMARY:International Conference : "ACCOUNTABILITY"

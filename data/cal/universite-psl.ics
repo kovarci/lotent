@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2f83d9bcfbd8@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:AFTER Project room - SIGNATURES ART FAIR
@@ -34,19 +34,8 @@ LOCATION:Université PSL\, 60 rue Mazarine\, Paris 6e
 URL:https://psl.eu/agenda/after-project-room-signatures-art-fair
 END:VEVENT
 BEGIN:VEVENT
-UID:f37383d90eae@paris-academique
-DTSTAMP:20261114T090636Z
-DTSTART;TZID=Europe/Paris:20261113T093000
-DTEND;TZID=Europe/Paris:20261113T113000
-SUMMARY:Forum entreprises de Chimie ParisTech-PSL 2026
-DESCRIPTION:https://psl.eu/agenda/forum-entreprises-de-chimie-paristech-psl
- -2026
-LOCATION:Université PSL\, 60 rue Mazarine\, Paris 6e
-URL:https://psl.eu/agenda/forum-entreprises-de-chimie-paristech-psl-2026
-END:VEVENT
-BEGIN:VEVENT
 UID:fa1663c18a33@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261117T160000
 DTEND;TZID=Europe/Paris:20261117T190000
 SUMMARY:Journée Santé Bien Etre
@@ -56,7 +45,7 @@ URL:https://psl.eu/agenda/journee-sante-bien-etre
 END:VEVENT
 BEGIN:VEVENT
 UID:b61c58359f96@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261117T180000
 DTEND;TZID=Europe/Paris:20261117T200000
 SUMMARY:Tables rondes 130 ans : Regards croisés Industrie & Talents
@@ -68,7 +57,7 @@ URL:https://psl.eu/agenda/tables-rondes-130-ans-regards-croises-industrie-t
 END:VEVENT
 BEGIN:VEVENT
 UID:4e49d364821c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T170000
 DTEND;TZID=Europe/Paris:20261119T183000
 SUMMARY:Séminaire AGIR : Femmes et Sciences
@@ -78,7 +67,7 @@ URL:https://psl.eu/agenda/seminaire-agir-femmes-et-sciences
 END:VEVENT
 BEGIN:VEVENT
 UID:2adb633598f4@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T180000
 DTEND;TZID=Europe/Paris:20261119T200000
 SUMMARY:Atelier fabrication de produits ménagers écologiques
@@ -90,7 +79,7 @@ URL:https://psl.eu/agenda/atelier-fabrication-de-produits-menagers-ecologiq
 END:VEVENT
 BEGIN:VEVENT
 UID:a43c329b529a@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261119T183000
 DTEND;TZID=Europe/Paris:20261119T203000
 SUMMARY:Handicap et inclusion avec 100% Handinamique : les rendez-vous de n
@@ -103,7 +92,7 @@ URL:https://psl.eu/agenda/handicap-et-inclusion-avec-100-handinamique-les-r
 END:VEVENT
 BEGIN:VEVENT
 UID:858325ce3480@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Course des Lumières 2026 : ils sont déjà des milliers à s'engag
@@ -116,7 +105,7 @@ URL:https://psl.eu/agenda/course-des-lumieres-2026-ils-sont-deja-des-millie
 END:VEVENT
 BEGIN:VEVENT
 UID:b5076f0208e5@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261123T183000
 DTEND;TZID=Europe/Paris:20261123T203000
 SUMMARY:Festival Cinéma "Voix plurielles"
@@ -126,7 +115,7 @@ URL:https://psl.eu/agenda/festival-cinema-voix-plurielles
 END:VEVENT
 BEGIN:VEVENT
 UID:13dce4801cf2@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261124T090000
 DTEND;TZID=Europe/Paris:20261124T123000
 SUMMARY:Dauphine Digital Days
@@ -136,7 +125,7 @@ URL:https://psl.eu/agenda/dauphine-digital-days
 END:VEVENT
 BEGIN:VEVENT
 UID:a604e1eb90ab@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261125T121500
 DTEND;TZID=Europe/Paris:20261125T133000
 SUMMARY:Recherche fondamentale et innovation : quelles influences ?
@@ -148,7 +137,7 @@ URL:https://psl.eu/agenda/recherche-fondamentale-et-innovation-quelles-infl
 END:VEVENT
 BEGIN:VEVENT
 UID:f3d9d0787c67@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261208T200000
 DTEND;TZID=Europe/Paris:20261208T223000
 SUMMARY:Un concert solidaire au profit des étudiants
@@ -159,7 +148,7 @@ URL:https://psl.eu/agenda/un-concert-solidaire-au-profit-des-etudiants
 END:VEVENT
 BEGIN:VEVENT
 UID:ec6544853a18@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20270106T183000
 DTEND;TZID=Europe/Paris:20270106T200000
 SUMMARY:Cours du soir - Les arts décoratifs au XIXe siècle
@@ -170,7 +159,7 @@ URL:https://psl.eu/agenda/cours-du-soir-les-arts-decoratifs-au-xixe-siecle
 END:VEVENT
 BEGIN:VEVENT
 UID:07f2901fccc8@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20270119T090000
 DTEND;TZID=Europe/Paris:20270119T180000
 SUMMARY:Hackathon CyberCog
@@ -180,7 +169,7 @@ URL:https://psl.eu/agenda/hackathon-cybercog
 END:VEVENT
 BEGIN:VEVENT
 UID:05977d12e951@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20270226T180000
 DTEND;TZID=Europe/Paris:20270226T200000
 SUMMARY:Mines Magic 3D : de la stéréoscopie aux images 3D numériques

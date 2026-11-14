@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:cc5994390b46@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Coproduire des villes démocratiques à l’ère des inégalités
@@ -37,7 +37,7 @@ URL:https://www.univ-paris8.fr/Conference-Coproduire-des-villes-democratiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:eee3de52f1f6@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Atelier d’expression - Trouver sa voix
@@ -48,7 +48,7 @@ URL:https://www.univ-paris8.fr/Ateliers-d-expression-Trouver-sa-voix
 END:VEVENT
 BEGIN:VEVENT
 UID:63900fe26c04@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Entre guerres et paix : nouveaux regards et enjeux des migrations p
@@ -61,7 +61,7 @@ URL:https://www.univ-paris8.fr/Entre-guerres-et-paix-nouveaux-regards-et-en
 END:VEVENT
 BEGIN:VEVENT
 UID:7fe7d7a08f4c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Colloque - Les Migrations portugaises dans l’entre-deux-guerres :
@@ -74,7 +74,7 @@ URL:https://www.univ-paris8.fr/Manifestation-scientifique-Les-Migrations-po
 END:VEVENT
 BEGIN:VEVENT
 UID:8c13652780a1@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Comment décrire une société en période de globalisation ?
@@ -86,7 +86,7 @@ URL:https://www.univ-paris8.fr/Comment-decrire-une-societe-en-periode-de-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:6c1a13b61a0a@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261120T090000
 DTEND;TZID=Europe/Paris:20261120T170000
 SUMMARY:Ondas de choque coloniales en las artes y la literatura de los terr
@@ -99,7 +99,7 @@ URL:https://www.univ-paris8.fr/Ondas-de-choque-coloniales-en-las-artes-y-la
 END:VEVENT
 BEGIN:VEVENT
 UID:6069a9d061ac@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Penser le rapport enfant/jeu dans les villes du pourtour de la méd
@@ -112,7 +112,7 @@ URL:https://www.univ-paris8.fr/Penser-le-rapport-enfant-jeu-dans-les-villes
 END:VEVENT
 BEGIN:VEVENT
 UID:1f803253d72c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Colloque international Les racines féminines de l’humanitaire : 
@@ -125,7 +125,7 @@ URL:https://www.univ-paris8.fr/Colloque-international-Les-racines-feminines
 END:VEVENT
 BEGIN:VEVENT
 UID:1eaa5574f5fc@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Rendez-vous de la Nouvelle table étudiante
@@ -137,7 +137,7 @@ URL:https://www.univ-paris8.fr/Rendez-vous-de-la-Nouvelle-table-etudiante-1
 END:VEVENT
 BEGIN:VEVENT
 UID:e26ed88e7b40@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Festival de cinéma – La Semaine du Court 2026
@@ -148,7 +148,7 @@ URL:https://www.univ-paris8.fr/Festival-de-cinema-La-Semaine-du-Court-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:01439ad35fe0@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Permanences RePOD
@@ -159,7 +159,7 @@ URL:https://www.univ-paris8.fr/La-BU-vous-accueille-aux-permanences-RePOD
 END:VEVENT
 BEGIN:VEVENT
 UID:9324119a7bf0@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T190000
 SUMMARY:Séminaire - Art\, culture et création dans la fabrique des territ
@@ -172,7 +172,7 @@ URL:https://www.univ-paris8.fr/Seminaire-Art-culture-et-creation-dans-la-fa
 END:VEVENT
 BEGIN:VEVENT
 UID:018064ce2d1f@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261203T140000
 DTEND;TZID=Europe/Paris:20261203T193000
 SUMMARY:Manifestation annuelle de la MSH Paris Nord\, La ville en recherche
@@ -185,7 +185,7 @@ URL:https://www.univ-paris8.fr/Manifestation-annuelle-de-la-MSH-Paris-Nord-
 END:VEVENT
 BEGIN:VEVENT
 UID:63cccd7f609f@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;TZID=Europe/Paris:20261207T091500
 DTEND;TZID=Europe/Paris:20261207T174500
 SUMMARY:No end in sight ? Russia’s wartime order and its consequences for
@@ -198,7 +198,7 @@ URL:https://www.univ-paris8.fr/No-end-in-sight-Russia-s-wartime-order-and-i
 END:VEVENT
 BEGIN:VEVENT
 UID:a59bb7fca88f@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:ERUA Day 2026
@@ -208,7 +208,7 @@ URL:https://www.univ-paris8.fr/ERUA-Day-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:46ec23d4176c@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Escrituras y Formas del Descentramiento de la Hispanofonía Global
@@ -220,7 +220,7 @@ URL:https://www.univ-paris8.fr/Seminaire-en-ligne-Escrituras-y-Formas-del-D
 END:VEVENT
 BEGIN:VEVENT
 UID:4ebeed7be5da@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Manifestation scientifique et artistique - Le Navire de Thésée ve
@@ -233,7 +233,7 @@ URL:https://www.univ-paris8.fr/Manifestation-scientifique-et-artistique-Le-
 END:VEVENT
 BEGIN:VEVENT
 UID:bc98f734bbe8@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 SUMMARY:Data sur le pouce
@@ -244,7 +244,7 @@ URL:https://www.univ-paris8.fr/Les-rendez-vous-de-la-BU-Data-sur-le-pouce
 END:VEVENT
 BEGIN:VEVENT
 UID:1e323efe93c9@paris-academique
-DTSTAMP:20261114T090636Z
+DTSTAMP:20261114T112632Z
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
 SUMMARY:Lancement de l’appel à projets Fonds vert 2027
