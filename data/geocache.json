@@ -1181,7 +1181,10 @@
   48.878076,
   2.291567
  ],
- "comet meetings - etoile, 20 rue de l'amiral hamelin, 75116 paris, france": null,
+ "comet meetings - etoile, 20 rue de l'amiral hamelin, 75116 paris, france": [
+  48.866802,
+  2.292356
+ ],
  "cabinet défense santé, voie en tunnel, 9 voie de la pyramide, 92800 puteaux, france": null,
  "17 rue notre dame de nazareth, 75003 paris, france": [
   48.867162,
@@ -1687,7 +1690,10 @@
   2.386092
  ],
  "causier - coffee, lunch & brunch, 50 rue de montreuil, 75011 paris, france": null,
- "au jardin des nymphéas, 57 rue jacquard, 77400 lagny-sur-marne, france": null,
+ "au jardin des nymphéas, 57 rue jacquard, 77400 lagny-sur-marne, france": [
+  48.871247,
+  2.681157
+ ],
  "le grand action, 5 rue des écoles, 75005 paris, france": [
   48.847521,
   2.352127
@@ -5813,5 +5819,29 @@
  "room r1-09 — paris school of economics, 48 boulevard jourdan, paris 14e": [
   48.822272,
   2.330858
+ ],
+ "fo pizza au feu de bois, 49 mail pierre potier, 91190 gif-sur-yvette, france": [
+  48.710886,
+  2.164563
+ ],
+ "chez ginette - brasserie paris 18, 101 rue caulaincourt, 75018 paris, france": [
+  48.889738,
+  2.338713
+ ],
+ "centralesupélec - bâtiment eiffel - université paris-saclay, 8 rue joliot curie, 91190 gif-sur-yvette, france": [
+  48.710344,
+  2.167647
+ ],
+ "198 av. de france, 75013 paris, france": [
+  48.836021,
+  2.37222
+ ],
+ "manoir de l'ile aux loups, 1 quai du port, 94130 nogent-sur-marne, france": [
+  48.83247,
+  2.496175
+ ],
+ "château de versailles, place d'armes, 78000 versailles, france": [
+  48.804783,
+  2.120417
  ]
 }
