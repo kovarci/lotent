@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2fcf54cab585@paris-academique
-DTSTAMP:20261115T120051Z
+DTSTAMP:20261116T124154Z
 DTSTART;TZID=Europe/Paris:20261119T111500
 DTEND;TZID=Europe/Paris:20261119T131500
 SUMMARY:Residual Prophet Inequalities
@@ -39,7 +39,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/residual-prophet
 END:VEVENT
 BEGIN:VEVENT
 UID:612701964f7c@paris-academique
-DTSTAMP:20261115T120051Z
+DTSTAMP:20261116T124154Z
 DTSTART;TZID=Europe/Paris:20261123T112000
 DTEND;TZID=Europe/Paris:20261123T132000
 SUMMARY:Terrestrial Space Infrastructure and Great-Power Competition
@@ -53,7 +53,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/terrestrial-spac
 END:VEVENT
 BEGIN:VEVENT
 UID:38611fc4719d@paris-academique
-DTSTAMP:20261115T120051Z
+DTSTAMP:20261116T124154Z
 DTSTART;TZID=Europe/Paris:20261127T111500
 DTEND;TZID=Europe/Paris:20261127T131500
 SUMMARY:Pricing in the Age of AI (MIT Press)
@@ -67,7 +67,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/pricing-age-ai-m
 END:VEVENT
 BEGIN:VEVENT
 UID:a31bd09cbd56@paris-academique
-DTSTAMP:20261115T120051Z
+DTSTAMP:20261116T124154Z
 DTSTART;TZID=Europe/Paris:20261203T094000
 DTEND;TZID=Europe/Paris:20261203T114000
 SUMMARY:Séminaire de recherche HEC : Kristina Mc Elheran (U. Toronto)
@@ -80,22 +80,23 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/kristina-mc-elhe
  ran
 END:VEVENT
 BEGIN:VEVENT
-UID:23c73da6861c@paris-academique
-DTSTAMP:20261115T120051Z
+UID:cbf1069e06ae@paris-academique
+DTSTAMP:20261116T124154Z
 DTSTART;TZID=Europe/Paris:20261211T111500
 DTEND;TZID=Europe/Paris:20261211T131500
-SUMMARY:Quelle est la valeur des données censurées ?
+SUMMARY:What is the Value of Censored Data? An Exact Analysis for the Data-
+ driven Newsvendor
 DESCRIPTION:Faculté et Recherche · Information Systems and Operations Man
  agement Intervenant: Omar Mouchtaki (NYU Stern School of Business) Salle B
  ernard Ramanantsoa\nhttps://www.hec.edu/fr/faculte-et-recherche/evenements
- /quelle-est-la-valeur-des-donnees-censurees
+ /what-value-censored-data-exact-analysis-data-driven-newsvendor
 LOCATION:HEC Paris\, 1 rue de la Libération\, Jouy-en-Josas
-URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/quelle-est-la-va
- leur-des-donnees-censurees
+URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/what-value-censo
+ red-data-exact-analysis-data-driven-newsvendor
 END:VEVENT
 BEGIN:VEVENT
 UID:bc80c8c7829d@paris-academique
-DTSTAMP:20261115T120051Z
+DTSTAMP:20261116T124154Z
 DTSTART;TZID=Europe/Paris:20261214T140000
 DTEND;TZID=Europe/Paris:20261214T160000
 SUMMARY:Conférence Droits Humains et Entreprises 2026
