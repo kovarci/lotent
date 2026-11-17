@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:23b613c5924c@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261116T183000
-DTEND;TZID=Europe/Paris:20261116T203000
-SUMMARY:Que sommes-nous devenus ? Rencontre avec Jérôme Fourquet et Ruben
-  Rabinovitch
-DESCRIPTION:Société\nhttps://www.jean-jaures.org/agenda/que-sommes-nous-d
- evenus-rencontre-avec-jerome-fourquet-et-ruben-rabinovitch/
-LOCATION:Fondation Jean-Jaurès\, Cité Malesherbes\, Paris\, France
-URL:https://www.jean-jaures.org/agenda/que-sommes-nous-devenus-rencontre-av
- ec-jerome-fourquet-et-ruben-rabinovitch/
-END:VEVENT
-BEGIN:VEVENT
 UID:3bb01db7eb2d@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T203000
 SUMMARY:Rencontre : la Commune à l’église !
@@ -49,7 +36,7 @@ URL:https://www.jean-jaures.org/agenda/rencontre-la-commune-a-leglise/
 END:VEVENT
 BEGIN:VEVENT
 UID:d20a3757e6f9@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261119T100000
 DTEND;TZID=Europe/Paris:20261119T120000
 SUMMARY:Le Blue Labour et l’avenir des gauches européennes
@@ -61,7 +48,7 @@ URL:https://www.jean-jaures.org/agenda/le-blue-labour-et-lavenir-des-gauche
 END:VEVENT
 BEGIN:VEVENT
 UID:5758903c7cab@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261119T183000
 DTEND;TZID=Europe/Paris:20261119T203000
 SUMMARY:Les travailleurs nocturnes. À la rencontre des cheminots de nuit
@@ -72,8 +59,20 @@ URL:https://www.jean-jaures.org/agenda/les-travailleurs-nocturnes-a-la-renc
  ontre-des-cheminots-de-nuit/
 END:VEVENT
 BEGIN:VEVENT
+UID:4ce9c2d01eab@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261123T183000
+DTEND;TZID=Europe/Paris:20261123T203000
+SUMMARY:⁠⁠Comment retisser les liens de la cohésion républicaine ?
+DESCRIPTION:Démocratie\nhttps://www.jean-jaures.org/agenda/%e2%81%a0%e2%81
+ %a0comment-retisser-les-liens-de-la-cohesion-republicaine/
+LOCATION:Fondation Jean-Jaurès\, Cité Malesherbes\, Paris\, France
+URL:https://www.jean-jaures.org/agenda/%e2%81%a0%e2%81%a0comment-retisser-l
+ es-liens-de-la-cohesion-republicaine/
+END:VEVENT
+BEGIN:VEVENT
 UID:c406e042b807@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261210T183000
 DTEND;TZID=Europe/Paris:20261210T203000
 SUMMARY:Élargir l’Europe ? Quelle Union européenne voulons-nous bâtir 

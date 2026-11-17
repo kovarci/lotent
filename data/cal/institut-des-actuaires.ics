@@ -24,32 +24,20 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f1ffd7d1cc0e@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261116T120000
-DTEND;TZID=Europe/Paris:20261116T140000
-SUMMARY:Copil CJA
+UID:e6b43014b8cd@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261117T180000
+DTEND;TZID=Europe/Paris:20261117T200000
+SUMMARY:Conseil d'administration
 DESCRIPTION:Réunion réservée aux membres du groupe\nhttps://www.institut
- desactuaires.com/agenda/copil-cja-7940
+ desactuaires.com/agenda/conseil-d-administration-7760
 LOCATION:Paris — lieu précisé sur la page de l'événement
-URL:https://www.institutdesactuaires.com/agenda/copil-cja-7940
-END:VEVENT
-BEGIN:VEVENT
-UID:1f45425b8e81@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261116T170000
-DTEND;TZID=Europe/Paris:20261116T190000
-SUMMARY:SGT Prévoyance - Nouveaux facteurs de risque en arrêt de travail
-DESCRIPTION:Réunion réservée aux membres du groupe\nhttps://www.institut
- desactuaires.com/agenda/sgt-prevoyance-nouveaux-facteurs-de-risque-en-arre
- t-de-travail-8264
-LOCATION:Paris — lieu précisé sur la page de l'événement
-URL:https://www.institutdesactuaires.com/agenda/sgt-prevoyance-nouveaux-fac
- teurs-de-risque-en-arret-de-travail-8264
+URL:https://www.institutdesactuaires.com/agenda/conseil-d-administration-77
+ 60
 END:VEVENT
 BEGIN:VEVENT
 UID:bad9a05a645a@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261126T083000
 DTEND;TZID=Europe/Paris:20261126T103000
 SUMMARY:Journée 100% Actuaires - Data Science - Durabilité
@@ -61,7 +49,7 @@ URL:https://www.institutdesactuaires.com/agenda/journee-100-actuaires-data-
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb31892ea2c@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261126T174500
 DTEND;TZID=Europe/Paris:20261126T194500
 SUMMARY:Cérémonie d'accueil des nouveaux associés 2026
@@ -73,7 +61,7 @@ URL:https://www.institutdesactuaires.com/agenda/ceremonie-des-nouveaux-asso
 END:VEVENT
 BEGIN:VEVENT
 UID:1cc1e06d5944@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T110000
 SUMMARY:Colloque Actuariat 2026 et remise du Prix SCOR de l’actuariat

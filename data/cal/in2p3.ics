@@ -24,25 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:25dbd0a477d3@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261116T140000
-DTEND;TZID=Europe/Paris:20261116T153000
-SUMMARY:Jet tagging with the Lund Jet Plane at the LHC (Carlos Sandoval\, U
- niversidad Nacional de Colombia)
-DESCRIPTION:Jet tagging for identifying boosted particles and studying jet 
- substructure is a fast growing field powered by new ML and AI techniques. 
- The use of the Lund Jet Plane representation for jets adds some additional
-  physics information to these algorithms that might prove powerful in the 
- discrimination of particles at high energies such as the ones reached at t
- he LHC. This seminar will present work…\nhttps://indico.in2p3.fr/event/4
- 0745/
-LOCATION:LPNHE
-URL:https://indico.in2p3.fr/event/40745/
-END:VEVENT
-BEGIN:VEVENT
 UID:7e2ec9eabbc3@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261118T093000
 DTEND;TZID=Europe/Paris:20261118T165000
 SUMMARY:DuoDay 2026
@@ -58,7 +41,7 @@ URL:https://indico.in2p3.fr/event/41357/
 END:VEVENT
 BEGIN:VEVENT
 UID:bf1cdcc3940c@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261118T134500
 DTEND;TZID=Europe/Paris:20261118T154500
 SUMMARY:Journées de l'AT-PEM 2026 - Défis numériques en astrophysique de
@@ -75,7 +58,7 @@ URL:https://indico.in2p3.fr/event/39545/
 END:VEVENT
 BEGIN:VEVENT
 UID:f567110d751a@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261123T090000
 DTEND;TZID=Europe/Paris:20261123T110000
 SUMMARY:Atelier API "Ondes gravitationnelles et objets compacts"
@@ -91,7 +74,7 @@ URL:https://indico.in2p3.fr/event/40352/
 END:VEVENT
 BEGIN:VEVENT
 UID:063b2ebd8a29@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261123T110000
 DTEND;TZID=Europe/Paris:20261123T123000
 SUMMARY:Séminaires du DPhP: Metrology - Atomic interferometer
@@ -102,7 +85,7 @@ URL:https://indico.in2p3.fr/event/40904/
 END:VEVENT
 BEGIN:VEVENT
 UID:b4d0f5338e7d@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261124T140000
 DTEND;TZID=Europe/Paris:20261124T160000
 SUMMARY:Colloque national CMB-France #8
@@ -117,7 +100,7 @@ URL:https://indico.in2p3.fr/event/40591/
 END:VEVENT
 BEGIN:VEVENT
 UID:86cab15231ad@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261125T120000
 DTEND;TZID=Europe/Paris:20261125T140000
 SUMMARY:Rubin LSST-France\, IJClab Orsay\, 25-27/11/2026
@@ -132,7 +115,7 @@ URL:https://indico.in2p3.fr/event/40822/
 END:VEVENT
 BEGIN:VEVENT
 UID:1f14fa0aece8@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261126T090000
 DTEND;TZID=Europe/Paris:20261126T110000
 SUMMARY:Journées Scientifiques de l'Action Thématique GRAM
@@ -148,7 +131,7 @@ URL:https://indico.in2p3.fr/event/40247/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ca2b00e5994@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261130T120000
 DTEND;TZID=Europe/Paris:20261130T140000
 SUMMARY:3ème colloque EIC-France
@@ -164,9 +147,9 @@ URL:https://indico.in2p3.fr/event/40260/
 END:VEVENT
 BEGIN:VEVENT
 UID:dfee1c1325a8@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261202T100000
-DTEND;TZID=Europe/Paris:20261202T120000
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261202T130000
+DTEND;TZID=Europe/Paris:20261202T150000
 SUMMARY:Spectral lags as a new window on GeV–TeV emission and particle ac
  celeration in ultra‑relativistic jets
 DESCRIPTION:Spectral lags are time delays between emission peaks observed a
@@ -181,7 +164,7 @@ URL:https://indico.in2p3.fr/event/40366/
 END:VEVENT
 BEGIN:VEVENT
 UID:04ff595c785a@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261207T110000
 DTEND;TZID=Europe/Paris:20261207T123000
 SUMMARY:Séminaires du DPhP: Latest results of the JUNO experiment
@@ -197,7 +180,7 @@ URL:https://indico.in2p3.fr/event/40824/
 END:VEVENT
 BEGIN:VEVENT
 UID:4b7a17deaa10@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261214T080000
 DTEND;TZID=Europe/Paris:20261214T100000
 SUMMARY:Cosmic Rays in the Multi-Messenger Era
@@ -212,8 +195,18 @@ LOCATION:Paris
 URL:https://indico.in2p3.fr/event/39812/
 END:VEVENT
 BEGIN:VEVENT
+UID:4964fea6fec2@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20270118T143000
+DTEND;TZID=Europe/Paris:20270118T163000
+SUMMARY:2nd DecaLog Community Workshop
+DESCRIPTION:https://indico.in2p3.fr/event/41481/
+LOCATION:LPNHE
+URL:https://indico.in2p3.fr/event/41481/
+END:VEVENT
+BEGIN:VEVENT
 UID:2623f35a8019@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20270121T093000
 DTEND;TZID=Europe/Paris:20270121T113000
 SUMMARY:Euclid-DESI data synergies
@@ -229,7 +222,7 @@ URL:https://indico.in2p3.fr/event/40887/
 END:VEVENT
 BEGIN:VEVENT
 UID:aa18d14e4ae1@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20270222T090000
 DTEND;TZID=Europe/Paris:20270222T110000
 SUMMARY:DAp SciAI Days — From Scratch to Research Tools
@@ -245,7 +238,7 @@ URL:https://indico.in2p3.fr/event/41418/
 END:VEVENT
 BEGIN:VEVENT
 UID:e1af81b886ef@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20270316T083000
 DTEND;TZID=Europe/Paris:20270316T190000
 SUMMARY:Journée SFP 2027 : Le futur de la physique des particules
@@ -259,7 +252,7 @@ URL:https://indico.in2p3.fr/event/41140/
 END:VEVENT
 BEGIN:VEVENT
 UID:830c37f697b6@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20270621T170000
 DTEND;TZID=Europe/Paris:20270621T190000
 SUMMARY:Bootstrap 2027
@@ -275,11 +268,17 @@ URL:https://indico.in2p3.fr/event/41391/
 END:VEVENT
 BEGIN:VEVENT
 UID:0d05527703bb@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20271018T110000
 DTEND;TZID=Europe/Paris:20271018T130000
 SUMMARY:Imaging Sensors for Precision Astronomy 2027
-DESCRIPTION:https://indico.in2p3.fr/event/41169/
+DESCRIPTION:The 6th workshop on Image Sensors for Precision Astronomy (ISPA
+ ) convenes astronomers and detector experts to address the challenges of m
+ aking state-of-the-art measurements with imperfect detectors. Attendees wi
+ ll assess the impact of detector systematics on science goals and discuss 
+ strategies for characterization\, calibration\, and mitigation. The scope 
+ of ISPA includes detector issues in any…\nhttps://indico.in2p3.fr/event/
+ 41169/
 LOCATION:LPNHE
 URL:https://indico.in2p3.fr/event/41169/
 END:VEVENT

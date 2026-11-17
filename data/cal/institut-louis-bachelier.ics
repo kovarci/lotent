@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:893588459232@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261124T100000
 DTEND;TZID=Europe/Paris:20261124T120000
 SUMMARY:Paris Energy Week 2026 - the Challenges of Electrification
@@ -37,11 +37,11 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/paris-en
  ergy-week-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:b96590b36008@paris-academique
-DTSTAMP:20261116T175905Z
+UID:dc95e5be2501@paris-academique
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261124T163000
 DTEND;TZID=Europe/Paris:20261124T183000
-SUMMARY:Webinaire : Physical Climate Risk: Financial Impact Cookbook
+SUMMARY:Webinaire : Climate Related Financial Risks Cookbook
 DESCRIPTION:Webinaires\nhttps://www.institutlouisbachelier.org/au-programme
  /evenements/webinaire-physical-climate-risk-financial-impact-cookbook
 LOCATION:En ligne\, Microsoft Teams — Institut Louis Bachelier\, 28 place
@@ -51,7 +51,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/webinair
 END:VEVENT
 BEGIN:VEVENT
 UID:ddfde85e62e9@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T110000
 SUMMARY:Colloque Innovation et modélisation des taux d’intérêt
@@ -63,8 +63,21 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/colloque
  -innovation-et-modelisation-des-taux-dinteret
 END:VEVENT
 BEGIN:VEVENT
+UID:5d8964aaad6b@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261204T131500
+DTEND;TZID=Europe/Paris:20261204T151500
+SUMMARY:Webinaire : Data centers: concrete impact\, wrong valuation?
+DESCRIPTION:Webinaires\nhttps://www.institutlouisbachelier.org/au-programme
+ /evenements/webinaire-data-centers-concrete-impact-wrong-valuation
+LOCATION:En ligne\, microsoft teams — Institut Louis Bachelier\, 28 place
+  de la Bourse\, Paris 2e
+URL:https://www.institutlouisbachelier.org/au-programme/evenements/webinair
+ e-data-centers-concrete-impact-wrong-valuation
+END:VEVENT
+BEGIN:VEVENT
 UID:7ef07d9b75d5@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261208T090000
 DTEND;TZID=Europe/Paris:20261208T110000
 SUMMARY:Green Finance Research Advances 2026
@@ -77,7 +90,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/green-fi
 END:VEVENT
 BEGIN:VEVENT
 UID:2964c301909c@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261211T180000
 DTEND;TZID=Europe/Paris:20261211T200000
 SUMMARY:Hommage à André Lévy-Lang
@@ -90,7 +103,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/hommage-
 END:VEVENT
 BEGIN:VEVENT
 UID:eb1615b7e18f@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261214T180000
 DTEND;TZID=Europe/Paris:20261214T200000
 SUMMARY:Prévision et gestion des risques financiers par l'IA
@@ -105,7 +118,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/previsio
 END:VEVENT
 BEGIN:VEVENT
 UID:be370caadc40@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261215T183000
 DTEND;TZID=Europe/Paris:20261215T203000
 SUMMARY:Conférence annuelle de la Chaire PARI
@@ -115,5 +128,18 @@ LOCATION:Auditorium BPCE\, Paris 13e — Institut Louis Bachelier\, 28 plac
  e de la Bourse\, Paris 2e
 URL:https://www.institutlouisbachelier.org/au-programme/evenements/conferen
  ce-annuelle-de-la-chaire-pari
+END:VEVENT
+BEGIN:VEVENT
+UID:898b27b7db64@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20270325T130000
+DTEND;TZID=Europe/Paris:20270325T150000
+SUMMARY:20th Financial Risks International Forum
+DESCRIPTION:Forums\nhttps://www.institutlouisbachelier.org/au-programme/eve
+ nements/20th-financial-risks-international-forum
+LOCATION:Palais Brongniart — Institut Louis Bachelier\, 28 place de la Bo
+ urse\, Paris 2e
+URL:https://www.institutlouisbachelier.org/au-programme/evenements/20th-fin
+ ancial-risks-international-forum
 END:VEVENT
 END:VCALENDAR

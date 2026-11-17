@@ -24,48 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dae4eadc6081@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261116T090000
-DTEND;TZID=Europe/Paris:20261116T140000
-SUMMARY:L’Europe centrale et orientale face aux défis et risques énerg
- étiques
-DESCRIPTION:https://www.inalco.fr/evenements/leurope-centrale-et-orientale-
- face-aux-defis-et-risques-energetiques
-LOCATION:ESCP Business School\, Montparnasse Campus\, 3 Rue Armand Moisant 
- - Paris 15e
-URL:https://www.inalco.fr/evenements/leurope-centrale-et-orientale-face-aux
- -defis-et-risques-energetiques
-END:VEVENT
-BEGIN:VEVENT
-UID:315c39121df9@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261116T163000
-DTEND;TZID=Europe/Paris:20261116T183000
-SUMMARY:La sécurité sociale de l’alimentation et la bifurcation écolog
- ique
-DESCRIPTION:https://www.inalco.fr/evenements/la-securite-sociale-de-lalimen
- tation-et-la-bifurcation-ecologique
-LOCATION:Inalco - Maison de la recherche (2 rue de Lille\, 75007 Paris)
-URL:https://www.inalco.fr/evenements/la-securite-sociale-de-lalimentation-e
- t-la-bifurcation-ecologique
-END:VEVENT
-BEGIN:VEVENT
-UID:eadacb875e40@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;TZID=Europe/Paris:20261116T170000
-DTEND;TZID=Europe/Paris:20261116T190000
-SUMMARY:Firdawsī and the story of Joseph between Shiraz and Herat in the e
- arly 15th century
-DESCRIPTION:https://www.inalco.fr/evenements/firdawsi-and-story-joseph-betw
- een-shiraz-and-herat-early-15th-century
-LOCATION:Maison de la recherche (2\, rue de Lille - 75007 Paris)
-URL:https://www.inalco.fr/evenements/firdawsi-and-story-joseph-between-shir
- az-and-herat-early-15th-century
-END:VEVENT
-BEGIN:VEVENT
 UID:456b42f2e537@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261117T180000
 DTEND;TZID=Europe/Paris:20261117T200000
 SUMMARY:Femmes et féminisme en Ukraine : guerre comme défi\, guerre comme
@@ -78,7 +38,7 @@ URL:https://www.inalco.fr/evenements/femmes-et-feminisme-en-ukraine-guerre-
 END:VEVENT
 BEGIN:VEVENT
 UID:1aaa6b5427c1@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261118T150000
 DTEND;TZID=Europe/Paris:20261118T170000
 SUMMARY:Soutenance de thèse de François AUFFRET
@@ -90,7 +50,7 @@ URL:https://www.inalco.fr/evenements/soutenance-de-these-de-francois-auffre
 END:VEVENT
 BEGIN:VEVENT
 UID:cc02f0594e5e@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261118T170000
 DTEND;TZID=Europe/Paris:20261118T195000
 SUMMARY:ICAL13 : 13e Colloque international en linguistique arménienne
@@ -103,7 +63,7 @@ URL:https://www.inalco.fr/evenements/ical13-13e-colloque-international-en-l
 END:VEVENT
 BEGIN:VEVENT
 UID:b83bb405f3f1@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T193000
 SUMMARY:Parler de la littérature taïwanaise à quatre voix
@@ -115,7 +75,7 @@ URL:https://www.inalco.fr/evenements/parler-de-la-litterature-taiwanaise-qu
 END:VEVENT
 BEGIN:VEVENT
 UID:2f800cd18a97@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261119T090000
 DTEND;TZID=Europe/Paris:20261119T180000
 SUMMARY:Pluralité des langues\, pluralité des savoirs
@@ -127,7 +87,7 @@ URL:https://www.inalco.fr/evenements/pluralite-des-langues-pluralite-des-sa
 END:VEVENT
 BEGIN:VEVENT
 UID:5dff58245ebc@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261119T140000
 DTEND;TZID=Europe/Paris:20261119T220000
 SUMMARY:Colloque inaugural de la Chaire des Hospitalités
@@ -141,7 +101,7 @@ URL:https://www.inalco.fr/evenements/colloque-inaugural-de-la-chaire-des-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:d428dffc8084@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261119T140000
 DTEND;TZID=Europe/Paris:20261119T160000
 SUMMARY:Soutenance de thèse d'Anastasia SERVAN-SCHREIBER
@@ -153,7 +113,7 @@ URL:https://www.inalco.fr/evenements/soutenance-de-these-danastasia-servan-
 END:VEVENT
 BEGIN:VEVENT
 UID:64ac3d1d6a1d@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261119T150000
 DTEND;TZID=Europe/Paris:20261119T170000
 SUMMARY:Produire l’enfance et la jeunesse socialiste : socialisations pol
@@ -166,7 +126,7 @@ URL:https://www.inalco.fr/evenements/produire-lenfance-et-la-jeunesse-socia
 END:VEVENT
 BEGIN:VEVENT
 UID:b31c62091d0d@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261120T100000
 DTEND;TZID=Europe/Paris:20261120T120000
 SUMMARY:Soutenance de thèse de Yaoyao DONG
@@ -177,7 +137,7 @@ URL:https://www.inalco.fr/evenements/soutenance-de-these-de-yaoyao-dong
 END:VEVENT
 BEGIN:VEVENT
 UID:35f7110a6c08@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261120T173000
 DTEND;TZID=Europe/Paris:20261120T193000
 SUMMARY:Le Kosovo dans un contexte international en recomposition
@@ -189,7 +149,7 @@ URL:https://www.inalco.fr/evenements/le-kosovo-dans-un-contexte-internation
 END:VEVENT
 BEGIN:VEVENT
 UID:2325edb0baea@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261123T133000
 DTEND;TZID=Europe/Paris:20261123T153000
 SUMMARY:Logiques civilisationnelles des interventions néo-impériales : un
@@ -203,7 +163,7 @@ URL:https://www.inalco.fr/evenements/logiques-civilisationnelles-des-interv
 END:VEVENT
 BEGIN:VEVENT
 UID:f2872bfed294@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261123T133000
 DTEND;TZID=Europe/Paris:20261123T153000
 SUMMARY:Civilisation Logics of Neo-Imperial Interventions: Inquiring the 
@@ -216,7 +176,7 @@ URL:https://www.inalco.fr/evenements/civilisation-logics-neo-imperial-inter
 END:VEVENT
 BEGIN:VEVENT
 UID:01fd2bd0bf66@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261123T150000
 DTEND;TZID=Europe/Paris:20261123T163000
 SUMMARY:Appartenances ethniques de descendant-es chinois-es à la Martiniqu
@@ -229,7 +189,7 @@ URL:https://www.inalco.fr/evenements/appartenances-ethniques-de-descendant-
 END:VEVENT
 BEGIN:VEVENT
 UID:cd2343e32bef@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261124T103000
 DTEND;TZID=Europe/Paris:20261124T193000
 SUMMARY:Václav Havel\, écrivain\, penseur\, dissident : rencontres à l'o
@@ -242,7 +202,7 @@ URL:https://www.inalco.fr/evenements/vaclav-havel-ecrivain-penseur-dissiden
 END:VEVENT
 BEGIN:VEVENT
 UID:c42743c2735b@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261125T083000
 DTEND;TZID=Europe/Paris:20261125T103000
 SUMMARY:Soutenance de thèse de Margherita RASULO
@@ -254,7 +214,7 @@ URL:https://www.inalco.fr/evenements/soutenance-de-these-de-margherita-rasu
 END:VEVENT
 BEGIN:VEVENT
 UID:d1d7297af4c7@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261125T090000
 DTEND;TZID=Europe/Paris:20261125T110000
 SUMMARY:La sécurité cognitive à l’ère de l’IA : de la cognition ind
@@ -267,7 +227,7 @@ URL:https://www.inalco.fr/evenements/la-securite-cognitive-lere-de-lia-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:b6b670dda929@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261125T160000
 DTEND;TZID=Europe/Paris:20261125T173000
 SUMMARY:La défaite communiste de Kinmen (25-27 octobre 1949) : une nouvell
@@ -280,7 +240,7 @@ URL:https://www.inalco.fr/evenements/la-defaite-communiste-de-kinmen-25-27-
 END:VEVENT
 BEGIN:VEVENT
 UID:302fe7c1f2f5@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Soutenance de thèse de Sihao MU
@@ -291,7 +251,7 @@ URL:https://www.inalco.fr/evenements/soutenance-de-these-de-sihao-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:80cda5c25365@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261130T080000
 DTEND;TZID=Europe/Paris:20261130T220000
 SUMMARY:En hommage à János Kornai (1928–2021)
@@ -302,8 +262,19 @@ LOCATION:Inalco - Pôle des langues et civilisations (65 rue des Grands Mou
 URL:https://www.inalco.fr/evenements/en-hommage-janos-kornai-1928-2021
 END:VEVENT
 BEGIN:VEVENT
+UID:8dec9eb02c77@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261130T140000
+DTEND;TZID=Europe/Paris:20261130T160000
+SUMMARY:Soutenance de thèse de Greta SALA
+DESCRIPTION:https://www.inalco.fr/evenements/soutenance-de-these-de-greta-s
+ ala
+LOCATION:Maison de la Recherche - 2 rue de Lille - 75007 Paris
+URL:https://www.inalco.fr/evenements/soutenance-de-these-de-greta-sala
+END:VEVENT
+BEGIN:VEVENT
 UID:b3774f81ba7d@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261130T160000
 DTEND;TZID=Europe/Paris:20261130T193000
 SUMMARY:International Workshop : Digital Humanities and Intangible Cultural
@@ -316,20 +287,20 @@ URL:https://www.inalco.fr/evenements/international-workshop-digital-humanit
 END:VEVENT
 BEGIN:VEVENT
 UID:b3b241e4bbd8@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261130T170000
 DTEND;TZID=Europe/Paris:20261130T190000
 SUMMARY:5 ans après Kornai : interpréter les transformations des système
  s économiques
 DESCRIPTION:https://www.inalco.fr/evenements/5-ans-apres-kornai-interpreter
  -les-transformations-des-systemes-economiques
-LOCATION:Inalco\, PLC (65\, rue des Grands Moulins\, Paris 13e)
+LOCATION:Inalco - Maison de la Recherche (2\, rue de Lille - Paris 7e)
 URL:https://www.inalco.fr/evenements/5-ans-apres-kornai-interpreter-les-tra
  nsformations-des-systemes-economiques
 END:VEVENT
 BEGIN:VEVENT
 UID:e47529e01fae@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261201T150000
 DTEND;TZID=Europe/Paris:20261201T170000
 SUMMARY:Vieillissement\, longévité et socialisme : la gérontologie en Ch
@@ -342,7 +313,7 @@ URL:https://www.inalco.fr/evenements/vieillissement-longevite-et-socialisme
 END:VEVENT
 BEGIN:VEVENT
 UID:b14bd2866bc1@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T181500
 SUMMARY:La métamorphose du bouddhisme dans la « nouvelle ère » chinoise
@@ -354,7 +325,7 @@ URL:https://www.inalco.fr/evenements/la-metamorphose-du-bouddhisme-dans-la-
 END:VEVENT
 BEGIN:VEVENT
 UID:262808c34695@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261201T180000
 DTEND;TZID=Europe/Paris:20261201T193000
 SUMMARY:Les conséquences de la guerre en Ukraine pour l’Estonie
@@ -366,7 +337,7 @@ URL:https://www.inalco.fr/evenements/les-consequences-de-la-guerre-en-ukrai
 END:VEVENT
 BEGIN:VEVENT
 UID:b0579f99b362@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261202T153000
 DTEND;TZID=Europe/Paris:20261202T170000
 SUMMARY:Présentation d'ouvrage - Bounded Ambition: China as a Multilateral
@@ -379,7 +350,7 @@ URL:https://www.inalco.fr/evenements/presentation-douvrage-bounded-ambition
 END:VEVENT
 BEGIN:VEVENT
 UID:937598a1e043@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261202T180000
 DTEND;TZID=Europe/Paris:20261202T193000
 SUMMARY:Surveiller et punir en Chine. Laogaï et technosurveillance\, de 19
@@ -392,7 +363,7 @@ URL:https://www.inalco.fr/evenements/surveiller-et-punir-en-chine-laogai-et
 END:VEVENT
 BEGIN:VEVENT
 UID:060f9bc92cef@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Reconfigurer les savoirs sur l’Asie centrale : Dynamiques et déf
@@ -404,22 +375,35 @@ URL:https://www.inalco.fr/evenements/reconfigurer-les-savoirs-sur-lasie-cen
  trale-dynamiques-et-defis-disciplinaires
 END:VEVENT
 BEGIN:VEVENT
+UID:286ed2f0afc1@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261203T140000
+DTEND;TZID=Europe/Paris:20261203T160000
+SUMMARY:Langue et modernité arabe. Peut-on penser la civilisation sans la 
+ pureté ?
+DESCRIPTION:https://www.inalco.fr/evenements/langue-et-modernite-arabe-peut
+ -penser-la-civilisation-sans-la-purete
+LOCATION:Maison de la recherche de l’Inalco (2\, rue de Lille\, 75007)
+URL:https://www.inalco.fr/evenements/langue-et-modernite-arabe-peut-penser-
+ la-civilisation-sans-la-purete
+END:VEVENT
+BEGIN:VEVENT
 UID:8d5f4f2c7269@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T203000
 SUMMARY:Les civilisations sont-elles des mythes ? Le pouvoir des mots dans 
  les relations internationales
 DESCRIPTION:https://www.inalco.fr/evenements/les-civilisations-sont-elles-d
  es-mythes-le-pouvoir-des-mots-dans-les-relations
-LOCATION:Inalco\, Pôle des Langues et Civilisations (65\, rue des Grands-M
- oulins\, 75013)
+LOCATION:Bibliothèque publique d'information (40\, avenue des terroirs de 
+ France\, 75012)
 URL:https://www.inalco.fr/evenements/les-civilisations-sont-elles-des-mythe
  s-le-pouvoir-des-mots-dans-les-relations
 END:VEVENT
 BEGIN:VEVENT
 UID:fc7c528b0bee@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261204T083000
 DTEND;TZID=Europe/Paris:20261204T190000
 SUMMARY:Atelier doctoral des études japonaises
@@ -430,8 +414,34 @@ URL:https://www.inalco.fr/evenements/atelier-doctoral-des-etudes-japonaises
  -0
 END:VEVENT
 BEGIN:VEVENT
+UID:26e76ec284a2@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261207T100000
+DTEND;TZID=Europe/Paris:20261207T110000
+SUMMARY:Résilience démocratique : comment Taïwan résiste-t-elle aux pre
+ ssions et ingérences ?
+DESCRIPTION:https://www.inalco.fr/evenements/resilience-democratique-commen
+ t-taiwan-resiste-t-elle-aux-pressions-et-ingerences
+LOCATION:Inalco\, 2 rue de Lille 75007 Paris
+URL:https://www.inalco.fr/evenements/resilience-democratique-comment-taiwan
+ -resiste-t-elle-aux-pressions-et-ingerences
+END:VEVENT
+BEGIN:VEVENT
+UID:2daebb93f07d@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;TZID=Europe/Paris:20261207T160000
+DTEND;TZID=Europe/Paris:20261207T180000
+SUMMARY:Revue des Livres du Réseau thématique Connaissance de l’Europe 
+ médiane (RT CEM)
+DESCRIPTION:https://www.inalco.fr/evenements/revue-des-livres-du-reseau-the
+ matique-connaissance-de-leurope-mediane-rt-cem-0
+LOCATION:Inalco - Maison de la Recherche (2\, rue de Lille - Paris 7e)
+URL:https://www.inalco.fr/evenements/revue-des-livres-du-reseau-thematique-
+ connaissance-de-leurope-mediane-rt-cem-0
+END:VEVENT
+BEGIN:VEVENT
 UID:c5788f9446a6@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261212T140000
 DTEND;TZID=Europe/Paris:20261212T160000
 SUMMARY:Soutenance de thèse d'Olcay KARABAG
@@ -442,7 +452,7 @@ URL:https://www.inalco.fr/evenements/soutenance-de-these-dolcay-karabag
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5b6562a484@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261217T150000
 DTEND;TZID=Europe/Paris:20261217T170000
 SUMMARY:Retraités et révolutionnaires ? Usages politiques d’un nouvelle
@@ -455,7 +465,7 @@ URL:https://www.inalco.fr/evenements/retraites-et-revolutionnaires-usages-p
 END:VEVENT
 BEGIN:VEVENT
 UID:9224e8e46737@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20270130T091500
 DTEND;TZID=Europe/Paris:20270130T170000
 SUMMARY:Journée portes ouvertes 2027

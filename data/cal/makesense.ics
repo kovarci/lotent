@@ -24,22 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b137331db5c2@paris-academique
-DTSTAMP:20261116T175905Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Construire la trame de mon CV📍Paris 13
-DESCRIPTION:Organisé par Raphaëlle Afota — L’Activ’CV\, c'est l’a
- telier pour construire ensemble la trame de ton CV !2h45 d’atelier colle
- ctif pour :\nhttps://chiche.makesense.org/events/e/construire-la-trame-de-
- mon-cvparis-13-6aaaa88eca9188000759c286
-LOCATION:13 Rue Annie Girardot\, 75013 Paris\, France
-URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
- s-13-6aaaa88eca9188000759c286
-END:VEVENT
-BEGIN:VEVENT
 UID:65d4b423062b@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Atelier pratique : fabrication de produits d’entretien nettoyants
@@ -54,8 +40,22 @@ URL:https://chiche.makesense.org/events/e/atelier-pratique-fabrication-de-p
  roduits-dentretien-nettoyants-6ad20246ce193b0007acad9d
 END:VEVENT
 BEGIN:VEVENT
+UID:b137331db5c2@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Construire la trame de mon CV📍Paris 13
+DESCRIPTION:Organisé par Raphaëlle Afota — L’Activ’CV\, c'est l’a
+ telier pour construire ensemble la trame de ton CV !2h45 d’atelier colle
+ ctif pour :\nhttps://chiche.makesense.org/events/e/construire-la-trame-de-
+ mon-cvparis-13-6aaaa88eca9188000759c286
+LOCATION:13 Rue Annie Girardot\, 75013 Paris\, France
+URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
+ s-13-6aaaa88eca9188000759c286
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae782b2dc6d@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261117T190000
 DTEND;TZID=Europe/Paris:20261117T210000
 SUMMARY:Soirée crises et nerfs
@@ -70,7 +70,7 @@ URL:https://chiche.makesense.org/events/e/soiree-crises-et-nerfs-6adf4e75c7
 END:VEVENT
 BEGIN:VEVENT
 UID:3bd55ad27703@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
@@ -86,7 +86,7 @@ URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
 END:VEVENT
 BEGIN:VEVENT
 UID:38284b486312@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:J’apprends les bases de la réparation (niveau 1)
@@ -102,7 +102,7 @@ URL:https://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparat
 END:VEVENT
 BEGIN:VEVENT
 UID:7959326ba592@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🏠Et toi\, tu connais notre maison ? - makesense space
@@ -117,7 +117,7 @@ URL:https://chiche.makesense.org/events/e/et-toi-tu-connais-notre-maison-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:20ae4517c159@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Les rencontres de la Communauté 360 de Paris : répit et soutien d
@@ -134,7 +134,7 @@ URL:https://chiche.makesense.org/events/e/les-rencontres-de-la-communaute-3
 END:VEVENT
 BEGIN:VEVENT
 UID:bb7c0265b8a3@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261118T135000
 DTEND;TZID=Europe/Paris:20261118T155000
 SUMMARY:Atelier - Pitch : Apprendre à présenter son projet
@@ -149,7 +149,7 @@ URL:https://chiche.makesense.org/events/e/atelier-pitch-apprendre-a-present
 END:VEVENT
 BEGIN:VEVENT
 UID:536c367897b3@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261118T190000
 DTEND;TZID=Europe/Paris:20261118T210000
 SUMMARY:Sécurité : La France est-elle de plus en plus violente ?
@@ -165,7 +165,7 @@ URL:https://chiche.makesense.org/events/e/securite-la-france-est-elle-de-pl
 END:VEVENT
 BEGIN:VEVENT
 UID:8f2e919e6050@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Le forum des métiers de l'économie sociale et solidaire
@@ -179,8 +179,24 @@ URL:https://chiche.makesense.org/events/e/le-forum-des-metiers-de-leconomie
  -sociale-et-solidaire-6a9930631c5b4f0008b99db8
 END:VEVENT
 BEGIN:VEVENT
+UID:d214ade0cbce@paris-academique
+DTSTAMP:20261117T130922Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Ça chauffe pour l'ESS\, l'ESS se chauffe ?
+DESCRIPTION:Organisé par Paloma Baumgartner — 12 ans après la création
+  des statuts de l'ESS\, quelles sont ses perspectives\, y compris financi
+ ères ? Avec des budgets en baisse\, les besoins sociaux qui augmentent et
+  l'urgence climatique\, l'économie sociale et solidaire est mise sous pre
+ ssion. M\nhttps://chiche.makesense.org/events/e/ca-chauffe-pour-less-less-
+ se-chauffe-6ab63dad32f93b0008f35a84
+LOCATION:11 Rue Biscornet\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/ca-chauffe-pour-less-less-se-chau
+ ffe-6ab63dad32f93b0008f35a84
+END:VEVENT
+BEGIN:VEVENT
 UID:ebf1b1e3ddd8@paris-academique
-DTSTAMP:20261116T175905Z
+DTSTAMP:20261117T130922Z
 DTSTART;TZID=Europe/Paris:20261119T142000
 DTEND;TZID=Europe/Paris:20261119T162000
 SUMMARY:Atelier - Se lancer dans les Relations Presse
