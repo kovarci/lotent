@@ -24,36 +24,10 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9b61389cd147@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Semaine de la science ouverte Paris 1 Panthéon-Sorbonne 2026
-DESCRIPTION:Table ronde\nhttps://science-ouverte.pantheonsorbonne.fr/evenem
- ents/semaine-de-la-science-ouverte-paris-1-pantheon-sorbonne-2026
-LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
- aris 5e
-URL:https://science-ouverte.pantheonsorbonne.fr/evenements/semaine-de-la-sc
- ience-ouverte-paris-1-pantheon-sorbonne-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:f5e64c8720f9@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;TZID=Europe/Paris:20261117T110000
-DTEND;TZID=Europe/Paris:20261117T130000
-SUMMARY:Webinaire "SoVisu+ évolue : découvrez nos dernières avancées"
-DESCRIPTION:Atelier\nhttps://crisalid.pantheonsorbonne.fr/evenements/webina
- ire-sovisu-evolue-decouvrez-nos-dernieres-avancees
-LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
- aris 5e
-URL:https://crisalid.pantheonsorbonne.fr/evenements/webinaire-sovisu-evolue
- -decouvrez-nos-dernieres-avancees
-END:VEVENT
-BEGIN:VEVENT
 UID:422ae0138b5a@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;TZID=Europe/Paris:20261117T140000
-DTEND;TZID=Europe/Paris:20261117T160000
+DTSTAMP:20261118T130316Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
 SUMMARY:Projet MIACE : Exposition « Plasticage » de Jean-Michel Faudemer
 DESCRIPTION:Exposition\nhttps://recherche.pantheonsorbonne.fr/evenements/pr
  ojet-miace-exposition-plasticage-de-jean-michel-faudemer
@@ -63,21 +37,8 @@ URL:https://recherche.pantheonsorbonne.fr/evenements/projet-miace-expositio
  n-plasticage-de-jean-michel-faudemer
 END:VEVENT
 BEGIN:VEVENT
-UID:02b1cb2addb4@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;TZID=Europe/Paris:20261117T183000
-DTEND;TZID=Europe/Paris:20261117T203000
-SUMMARY:Le moment cartésien 2026-2027
-DESCRIPTION:Séminaire\nhttps://philosophie.pantheonsorbonne.fr/evenements/
- le-moment-cartesien-2026-2027
-LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
- aris 5e
-URL:https://philosophie.pantheonsorbonne.fr/evenements/le-moment-cartesien-
- 2026-2027
-END:VEVENT
-BEGIN:VEVENT
 UID:38856c831db2@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261118T141500
 DTEND;TZID=Europe/Paris:20261118T161500
 SUMMARY:Colloque français de philosophie des mathématiques (FPMW18)
@@ -90,7 +51,7 @@ URL:https://ihpst.pantheonsorbonne.fr/evenements/colloque-francais-de-philo
 END:VEVENT
 BEGIN:VEVENT
 UID:8eab85358eb5@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261118T163000
 DTEND;TZID=Europe/Paris:20261118T183000
 SUMMARY:« Pierre Le Pesant de Boisguilbert : littérature\, police et arit
@@ -106,7 +67,7 @@ URL:https://phare.pantheonsorbonne.fr/evenements/pierre-le-pesant-de-boisgu
 END:VEVENT
 BEGIN:VEVENT
 UID:3610ae047f5f@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261118T180000
 DTEND;TZID=Europe/Paris:20261118T200000
 SUMMARY:L’Université Libé
@@ -118,7 +79,7 @@ URL:https://www.pantheonsorbonne.fr/evenements/luniversite-libe-0
 END:VEVENT
 BEGIN:VEVENT
 UID:f99e19d0d569@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T093000
 DTEND;TZID=Europe/Paris:20261119T113000
 SUMMARY:Espaces de sociabilité et fabrique du genre dans le monde anglopho
@@ -133,7 +94,7 @@ URL:https://sorbonne-alliance.pantheonsorbonne.fr/evenements/espaces-de-soc
 END:VEVENT
 BEGIN:VEVENT
 UID:6c25ac7a15c1@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T121500
 DTEND;TZID=Europe/Paris:20261119T134500
 SUMMARY:Rencontres d'automne 2026 du GIS Euro-Lab
@@ -146,7 +107,7 @@ URL:https://gis-eurolab.pantheonsorbonne.fr/evenements/rencontres-dautomne-
 END:VEVENT
 BEGIN:VEVENT
 UID:d7845d9fe99f@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T133000
 DTEND;TZID=Europe/Paris:20261119T153000
 SUMMARY:Colloque "La confiance en droit public financier"
@@ -159,7 +120,7 @@ URL:https://irjs.pantheonsorbonne.fr/evenements/colloque-la-confiance-en-dr
 END:VEVENT
 BEGIN:VEVENT
 UID:6cde1255b391@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T143000
 DTEND;TZID=Europe/Paris:20261119T163000
 SUMMARY:Les masculinismes : quelles réponses du droit en Europe ?
@@ -172,7 +133,7 @@ URL:https://iredies.pantheonsorbonne.fr/evenements/masculinismes-quelles-re
 END:VEVENT
 BEGIN:VEVENT
 UID:83b2b13a7d1d@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T173000
 DTEND;TZID=Europe/Paris:20261119T193000
 SUMMARY:Séminaire doctoral du laboratoire ISJPS EXeCO
@@ -185,7 +146,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/seminaire-doctoral-d
 END:VEVENT
 BEGIN:VEVENT
 UID:e83e9f8bfd3a@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T180000
 DTEND;TZID=Europe/Paris:20261119T200000
 SUMMARY:GRANDE CONFÉRENCE | Le processus décisionnel dans l’Union europ
@@ -200,7 +161,7 @@ URL:https://gis-eurolab.pantheonsorbonne.fr/evenements/grande-conference-le
 END:VEVENT
 BEGIN:VEVENT
 UID:155a910e078a@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T190000
 DTEND;TZID=Europe/Paris:20261119T210000
 SUMMARY:Report de la rencontre avec Jean-François Chanet
@@ -213,7 +174,7 @@ URL:https://centrehistoire19esiecle.pantheonsorbonne.fr/evenements/report-d
 END:VEVENT
 BEGIN:VEVENT
 UID:78425d8419d5@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T190000
 DTEND;TZID=Europe/Paris:20261119T210000
 SUMMARY:Rencontre avec l'historien Jean-François Chanet
@@ -226,7 +187,7 @@ URL:https://centrehistoire19esiecle.pantheonsorbonne.fr/evenements/rencontr
 END:VEVENT
 BEGIN:VEVENT
 UID:eaa95df80cca@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261120T090000
 DTEND;TZID=Europe/Paris:20261120T110000
 SUMMARY:25 ans après la loi Taubira\, repenser le crime contre l’humanit
@@ -240,7 +201,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/25-ans-apres-la-loi-taubir
 END:VEVENT
 BEGIN:VEVENT
 UID:350465d2be50@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261120T150000
 DTEND;TZID=Europe/Paris:20261120T170000
 SUMMARY:Actualité de l'axe RSE – Benoît Mandelbrot\, l'économie et la 
@@ -254,7 +215,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/actualite-de-laxe-rse-beno
 END:VEVENT
 BEGIN:VEVENT
 UID:63c98219a295@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261120T160000
 DTEND;TZID=Europe/Paris:20261120T180000
 SUMMARY:Institutions et régulation des économies et des sociétés
@@ -267,7 +228,7 @@ URL:https://idhes.pantheonsorbonne.fr/evenements/institutions-et-regulation
 END:VEVENT
 BEGIN:VEVENT
 UID:d2643349a4bb@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261121T100000
 DTEND;TZID=Europe/Paris:20261121T120000
 SUMMARY:Hegel Lacan L’éthique
@@ -279,7 +240,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/hegel-lacan-lethique
 END:VEVENT
 BEGIN:VEVENT
 UID:50fbf3d72ec9@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261121T103000
 DTEND;TZID=Europe/Paris:20261121T123000
 SUMMARY:Foucault et l'Italie
@@ -291,7 +252,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/foucault-et-litalie
 END:VEVENT
 BEGIN:VEVENT
 UID:2adf25633a3d@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261123T090000
 DTEND;TZID=Europe/Paris:20261123T110000
 SUMMARY:8e conférence de l'École HED
@@ -304,7 +265,7 @@ URL:https://ecolehed.pantheonsorbonne.fr/evenements/8e-conference-de-lecole
 END:VEVENT
 BEGIN:VEVENT
 UID:baed8e17c742@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261123T100000
 DTEND;TZID=Europe/Paris:20261123T120000
 SUMMARY:Journées CRISalid 2026
@@ -315,8 +276,21 @@ LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
 URL:https://crisalid.pantheonsorbonne.fr/evenements/journees-crisalid-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:33bdb466f8b4@paris-academique
+DTSTAMP:20261118T130316Z
+DTSTART;TZID=Europe/Paris:20261123T181500
+DTEND;TZID=Europe/Paris:20261123T201500
+SUMMARY:Atelier de recherche master de philosophie
+DESCRIPTION:Atelier\nhttps://philosophie.pantheonsorbonne.fr/evenements/ate
+ lier-de-recherche-master-de-philosophie
+LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
+ aris 5e
+URL:https://philosophie.pantheonsorbonne.fr/evenements/atelier-de-recherche
+ -master-de-philosophie
+END:VEVENT
+BEGIN:VEVENT
 UID:b4c027a2a128@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261124T090000
 DTEND;TZID=Europe/Paris:20261124T110000
 SUMMARY:Penser les écrans à partir du corps. Montrer et cacher\, exposer 
@@ -331,7 +305,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/penser-ecrans-part
 END:VEVENT
 BEGIN:VEVENT
 UID:6e281badb682@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261124T093000
 DTEND;TZID=Europe/Paris:20261124T113000
 SUMMARY:Démocratie\, culture et transformations sociales : journée d’in
@@ -346,7 +320,7 @@ URL:https://recherche.pantheonsorbonne.fr/evenements/democratie-culture-et-
 END:VEVENT
 BEGIN:VEVENT
 UID:dc8baacbf3e0@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261124T100000
 DTEND;TZID=Europe/Paris:20261124T120000
 SUMMARY:Forum des partenaires
@@ -358,7 +332,7 @@ URL:https://www.pantheonsorbonne.fr/evenements/forum-partenaires
 END:VEVENT
 BEGIN:VEVENT
 UID:e28e7c0c862f@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261124T170000
 DTEND;TZID=Europe/Paris:20261124T190000
 SUMMARY:Données et infrastructures numériques. Séminaire interdisciplina
@@ -372,7 +346,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/donnees-et-infrastructures
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8e2c56068d@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261125T150000
 DTEND;TZID=Europe/Paris:20261125T170000
 SUMMARY:Séminaire EUPRAXIE : Cultures populaires et vie démocratique
@@ -385,7 +359,7 @@ URL:https://demoseries.pantheonsorbonne.fr/evenements/seminaire-eupraxie-cu
 END:VEVENT
 BEGIN:VEVENT
 UID:142a41fbf622@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261126T084500
 DTEND;TZID=Europe/Paris:20261126T104500
 SUMMARY:10 ans du Réseau Droit et Climat. Avancées\, incertitudes\, persp
@@ -399,7 +373,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/10-ans-du-reseau-droit-et-
 END:VEVENT
 BEGIN:VEVENT
 UID:5879fe2b33f9@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261126T100000
 DTEND;TZID=Europe/Paris:20261126T120000
 SUMMARY:Jeudis de l'IA - Œuvrer avec les IA
@@ -412,7 +386,7 @@ URL:https://observatoire-ia.pantheonsorbonne.fr/evenements/jeudis-de-lia-oe
 END:VEVENT
 BEGIN:VEVENT
 UID:60ccd0d6eb71@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261126T100000
 DTEND;TZID=Europe/Paris:20261126T120000
 SUMMARY:Design & écologie(s)
@@ -424,7 +398,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/design-ecologie-s
 END:VEVENT
 BEGIN:VEVENT
 UID:1d9b45ce6ff3@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261126T110000
 DTEND;TZID=Europe/Paris:20261126T130000
 SUMMARY:Femmes du surréalisme : archives\, réseaux\, engagements (1920–
@@ -438,7 +412,7 @@ URL:https://hicsa.pantheonsorbonne.fr/evenements/femmes-du-surrealisme-arch
 END:VEVENT
 BEGIN:VEVENT
 UID:36ed0451613e@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261126T140000
 DTEND;TZID=Europe/Paris:20261126T160000
 SUMMARY:Table ronde de l'IREST : Du film au voyage : comment le cinéma fab
@@ -453,7 +427,7 @@ URL:https://irest.pantheonsorbonne.fr/evenements/table-ronde-de-lirest-du-f
 END:VEVENT
 BEGIN:VEVENT
 UID:c78239db2b80@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261126T183000
 DTEND;TZID=Europe/Paris:20261126T203000
 SUMMARY:Spinoza\, à travers la correspondance
@@ -466,7 +440,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/spinoza-travers-la-c
 END:VEVENT
 BEGIN:VEVENT
 UID:05172f5a7510@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261127T083000
 DTEND;TZID=Europe/Paris:20261127T103000
 SUMMARY:Colloque "Énergie et domaine public : vers un domaine public éner
@@ -480,7 +454,7 @@ URL:https://irjs.pantheonsorbonne.fr/evenements/colloque-energie-et-domaine
 END:VEVENT
 BEGIN:VEVENT
 UID:24fad0b0c94f@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261127T090000
 DTEND;TZID=Europe/Paris:20261127T110000
 SUMMARY:La littérature\, matière philosophique ?
@@ -493,7 +467,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/la-litterature-matie
 END:VEVENT
 BEGIN:VEVENT
 UID:a8d8872634b9@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261127T090000
 DTEND;TZID=Europe/Paris:20261127T110000
 SUMMARY:Séminaire "Focus comparatifs sur les finances locales : Canada\, B
@@ -507,7 +481,7 @@ URL:https://irjs.pantheonsorbonne.fr/evenements/seminaire-focus-comparatifs
 END:VEVENT
 BEGIN:VEVENT
 UID:f64ffff8cd3a@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261127T110000
 DTEND;TZID=Europe/Paris:20261127T130000
 SUMMARY:Actualité éditoriale sur le genre
@@ -520,7 +494,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/actualite-editoriale-le-ge
 END:VEVENT
 BEGIN:VEVENT
 UID:cf95790f2876@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261127T140000
 DTEND;TZID=Europe/Paris:20261127T160000
 SUMMARY:Philosophies hispanophones : perspectives pour l’agrégation
@@ -533,7 +507,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/philosophies-hispano
 END:VEVENT
 BEGIN:VEVENT
 UID:a744938c7db0@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261127T180000
 DTEND;TZID=Europe/Paris:20261127T200000
 SUMMARY:L'Odyssée de la révolution. La théorie critique dans l'Anthropoc
@@ -547,7 +521,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/lodyssee-de-la-revolution.
 END:VEVENT
 BEGIN:VEVENT
 UID:3c20766bc869@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261128T103000
 DTEND;TZID=Europe/Paris:20261128T123000
 SUMMARY:Faire avec ou sans monde
@@ -559,7 +533,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/faire-ou-sans-monde
 END:VEVENT
 BEGIN:VEVENT
 UID:82d81ea98712@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T160000
 SUMMARY:Averroès\, 900 ans de pensée vivante et universelle
@@ -572,7 +546,7 @@ URL:https://recherche.pantheonsorbonne.fr/evenements/averroes-900-ans-de-pe
 END:VEVENT
 BEGIN:VEVENT
 UID:aefe235a8a76@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261130T090000
 DTEND;TZID=Europe/Paris:20261130T110000
 SUMMARY:Penser\, créer\, habiter en réseau : les imaginaires de l’infra
@@ -586,7 +560,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/penser-creer-habit
 END:VEVENT
 BEGIN:VEVENT
 UID:3fbe4e9dd315@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261130T093000
 DTEND;TZID=Europe/Paris:20261130T113000
 SUMMARY:Journée d'études "20 ans de recherches en droit administratif (20
@@ -600,7 +574,7 @@ URL:https://irjs.pantheonsorbonne.fr/evenements/journee-detudes-20-ans-de-r
 END:VEVENT
 BEGIN:VEVENT
 UID:4eeb4a59b250@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261130T180000
 DTEND;TZID=Europe/Paris:20261130T200000
 SUMMARY:Valeur intrinsèque / valeur extrinsèque 2026-2027
@@ -613,7 +587,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/valeur-intrinseque-v
 END:VEVENT
 BEGIN:VEVENT
 UID:7db98e73321a@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261201T180000
 DTEND;TZID=Europe/Paris:20261201T200000
 SUMMARY:Histoire et Philosophie de la Psychiatrie II
@@ -626,7 +600,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/histoire-et-philosop
 END:VEVENT
 BEGIN:VEVENT
 UID:91240549b12e@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261201T183000
 DTEND;TZID=Europe/Paris:20261201T203000
 SUMMARY:Hobbes@Paris 2026-2027
@@ -639,7 +613,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/hobbes%40paris-2026-
 END:VEVENT
 BEGIN:VEVENT
 UID:7c31f8d4225f@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261201T203000
 DTEND;TZID=Europe/Paris:20261201T223000
 SUMMARY:Concert - A ceremony of carols
@@ -651,7 +625,7 @@ URL:https://www.pantheonsorbonne.fr/evenements/concert-ceremony-carols
 END:VEVENT
 BEGIN:VEVENT
 UID:c8ab2d9dfc08@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261203T100000
 DTEND;TZID=Europe/Paris:20261203T120000
 SUMMARY:Généalogie de l’incarné
@@ -662,8 +636,20 @@ LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
 URL:https://cetcopra.pantheonsorbonne.fr/evenements/genealogie-de-lincarne
 END:VEVENT
 BEGIN:VEVENT
+UID:eee8c47d8e7b@paris-academique
+DTSTAMP:20261118T130316Z
+DTSTART;TZID=Europe/Paris:20261203T183000
+DTEND;TZID=Europe/Paris:20261203T203000
+SUMMARY:Théories des arts
+DESCRIPTION:Séminaire\nhttps://philosophie.pantheonsorbonne.fr/evenements/
+ theories-arts
+LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
+ aris 5e
+URL:https://philosophie.pantheonsorbonne.fr/evenements/theories-arts
+END:VEVENT
+BEGIN:VEVENT
 UID:047f30980a9a@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261205T100000
 DTEND;TZID=Europe/Paris:20261205T120000
 SUMMARY:Séminaire Wittgenstein 2026-2027
@@ -676,7 +662,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/seminaire-wittgenste
 END:VEVENT
 BEGIN:VEVENT
 UID:a27ddc26fc07@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261207T090000
 DTEND;TZID=Europe/Paris:20261207T110000
 SUMMARY:Conférence de Joseph Berkovitz : On the role of intuitive thinking
@@ -690,7 +676,7 @@ URL:https://ihpst.pantheonsorbonne.fr/evenements/conference-de-joseph-berko
 END:VEVENT
 BEGIN:VEVENT
 UID:642cbe2bb730@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261207T120000
 DTEND;TZID=Europe/Paris:20261207T140000
 SUMMARY:Quentin Savignat : "Les concepts de forces productives et de nation
@@ -704,7 +690,7 @@ URL:https://phare.pantheonsorbonne.fr/evenements/quentin-savignat-concepts-
 END:VEVENT
 BEGIN:VEVENT
 UID:97e65e89e085@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261208T080000
 DTEND;TZID=Europe/Paris:20261208T100000
 SUMMARY:Colloque "Droit des affaires et droit des contrats dix ans après l
@@ -719,7 +705,7 @@ URL:https://irjs.pantheonsorbonne.fr/evenements/colloque-droit-affaires-et-
 END:VEVENT
 BEGIN:VEVENT
 UID:76ef9b1d1354@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T203000
 SUMMARY:Philosophies allemandes 2026-2027
@@ -732,7 +718,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/philosophies-alleman
 END:VEVENT
 BEGIN:VEVENT
 UID:7236d90ec252@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261209T180000
 DTEND;TZID=Europe/Paris:20261209T200000
 SUMMARY:L’association libre : tout\, sauf libre ?
@@ -745,7 +731,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/lassociation-libre
 END:VEVENT
 BEGIN:VEVENT
 UID:4773d95d09d1@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261210T090000
 DTEND;TZID=Europe/Paris:20261210T110000
 SUMMARY:Sécurités rurale(s). Préfets\, gendarmes et autres acteurs de la
@@ -761,7 +747,7 @@ URL:https://centrehistoire19esiecle.pantheonsorbonne.fr/evenements/securite
 END:VEVENT
 BEGIN:VEVENT
 UID:b52dfdd58c35@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261210T093000
 DTEND;TZID=Europe/Paris:20261210T113000
 SUMMARY:Contingence et improvisation(s)
@@ -774,7 +760,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/contingence-et-improvisati
 END:VEVENT
 BEGIN:VEVENT
 UID:930c12a4bc84@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261210T100000
 DTEND;TZID=Europe/Paris:20261210T120000
 SUMMARY:Colloque "L’incertitude diagnostique comme enjeu de reconnaissanc
@@ -789,7 +775,7 @@ URL:https://irjs.pantheonsorbonne.fr/evenements/colloque-lincertitude-diagn
 END:VEVENT
 BEGIN:VEVENT
 UID:ddfb269ba389@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261210T141500
 DTEND;TZID=Europe/Paris:20261210T161500
 SUMMARY:‘Normes\, Sociétés\, Philosophies’ 2026-2027
@@ -801,8 +787,21 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/normes-societes-phil
  osophies-2026-2027
 END:VEVENT
 BEGIN:VEVENT
+UID:4d26066d4251@paris-academique
+DTSTAMP:20261118T130316Z
+DTSTART;TZID=Europe/Paris:20261210T160000
+DTEND;TZID=Europe/Paris:20261210T180000
+SUMMARY:Séminaire de traduction des Topiques d’Aristote II
+DESCRIPTION:Séminaire\nhttps://philosophie.pantheonsorbonne.fr/evenements/
+ seminaire-de-traduction-topiques-daristote-ii
+LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
+ aris 5e
+URL:https://philosophie.pantheonsorbonne.fr/evenements/seminaire-de-traduct
+ ion-topiques-daristote-ii
+END:VEVENT
+BEGIN:VEVENT
 UID:7a512cc2283d@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261211T093000
 DTEND;TZID=Europe/Paris:20261211T113000
 SUMMARY:Incels et "mascus" : quelles réponses juridiques à la menace des 
@@ -816,7 +815,7 @@ URL:https://isjps.pantheonsorbonne.fr/evenements/incels-et-mascus-quelles-r
 END:VEVENT
 BEGIN:VEVENT
 UID:2cd08d1c041f@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261211T093000
 DTEND;TZID=Europe/Paris:20261211T113000
 SUMMARY:Digitalisation hip-hop knowledge and musical innovation: Central as
@@ -831,7 +830,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/digitalisation-hip
 END:VEVENT
 BEGIN:VEVENT
 UID:0fbe43e545d6@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261214T093000
 DTEND;TZID=Europe/Paris:20261214T113000
 SUMMARY:Colloque sur la liberté académique
@@ -843,21 +842,8 @@ URL:https://recherche.pantheonsorbonne.fr/evenements/colloque-la-liberte-ac
  ademique
 END:VEVENT
 BEGIN:VEVENT
-UID:a4a67f1951b8@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;TZID=Europe/Paris:20261214T181500
-DTEND;TZID=Europe/Paris:20261214T201500
-SUMMARY:Atelier de recherche master de philosophie
-DESCRIPTION:Atelier\nhttps://philosophie.pantheonsorbonne.fr/evenements/ate
- lier-de-recherche-master-de-philosophie
-LOCATION:Université Paris 1 Panthéon-Sorbonne\, 12 place du Panthéon\, P
- aris 5e
-URL:https://philosophie.pantheonsorbonne.fr/evenements/atelier-de-recherche
- -master-de-philosophie
-END:VEVENT
-BEGIN:VEVENT
 UID:5dee1efd054b@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261216T084500
 DTEND;TZID=Europe/Paris:20261216T104500
 SUMMARY:Journée d'accélération du projet EUPRAXIE (PEPR ICCARE) : La cul
@@ -872,7 +858,7 @@ URL:https://demoseries.pantheonsorbonne.fr/evenements/journee-dacceleration
 END:VEVENT
 BEGIN:VEVENT
 UID:92fd7031ba9c@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261217T100000
 DTEND;TZID=Europe/Paris:20261217T120000
 SUMMARY:Les Arts Plastiques à Paris 1
@@ -885,7 +871,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/arts-plastiques-pa
 END:VEVENT
 BEGIN:VEVENT
 UID:1721b515c7c5@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261219T103000
 DTEND;TZID=Europe/Paris:20261219T123000
 SUMMARY:Séminaire de phénoménologie 2026-2027
@@ -898,7 +884,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/seminaire-de-phenome
 END:VEVENT
 BEGIN:VEVENT
 UID:fa45a083b28c@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270116T090000
 DTEND;TZID=Europe/Paris:20270116T110000
 SUMMARY:Les religions et le temps à l’époque contemporaine (XIXe-XXIe s
@@ -913,7 +899,7 @@ URL:https://centrehistoire19esiecle.pantheonsorbonne.fr/evenements/religion
 END:VEVENT
 BEGIN:VEVENT
 UID:9ea66ad7db02@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270202T090000
 DTEND;TZID=Europe/Paris:20270202T110000
 SUMMARY:Les violences au travail
@@ -925,7 +911,7 @@ URL:https://cridup.pantheonsorbonne.fr/evenements/violences-travail
 END:VEVENT
 BEGIN:VEVENT
 UID:a9dd007a3844@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270205T150000
 DTEND;TZID=Europe/Paris:20270205T170000
 SUMMARY:Présentation de l'ouvrage "Géographie du rap: Villes et scènes e
@@ -940,7 +926,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/presentation-de-lo
 END:VEVENT
 BEGIN:VEVENT
 UID:0e859740f676@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270211T180000
 DTEND;TZID=Europe/Paris:20270211T200000
 SUMMARY:Disparitions en étoilement : un exil constellé
@@ -953,7 +939,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/disparitions-en-et
 END:VEVENT
 BEGIN:VEVENT
 UID:8b62bbcaa98c@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270402T150000
 DTEND;TZID=Europe/Paris:20270402T170000
 SUMMARY:Présentation de l'ouvrage "Reflexivity in French Rap: More than a 
@@ -967,7 +953,7 @@ URL:https://institut-acte.pantheonsorbonne.fr/evenements/presentation-de-lo
 END:VEVENT
 BEGIN:VEVENT
 UID:b01eea182db3@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270529T090000
 DTEND;TZID=Europe/Paris:20270529T110000
 SUMMARY:Borges et la métaphysique
@@ -980,7 +966,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/borges-et-la-metaphy
 END:VEVENT
 BEGIN:VEVENT
 UID:41d003422092@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270601T091500
 DTEND;TZID=Europe/Paris:20270601T111500
 SUMMARY:Lire Hannah Arendt aujourd’hui
@@ -993,7 +979,7 @@ URL:https://philosophie.pantheonsorbonne.fr/evenements/lire-hannah-arendt-a
 END:VEVENT
 BEGIN:VEVENT
 UID:4cb79b33e3b1@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20270611T150000
 DTEND;TZID=Europe/Paris:20270611T170000
 SUMMARY:Présentation du dossier de la revue French Cultural Studies "Race 

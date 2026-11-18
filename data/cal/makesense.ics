@@ -24,69 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:65d4b423062b@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Atelier pratique : fabrication de produits d’entretien nettoyants
-DESCRIPTION:Organisé par Adele DORLIPO — Atelier de création de produit
- s nettoyantsVenez apprendre à faire vous-même vos produits nettoyants po
- ur un entretien de votre appart’ en mode zéro déchet ! L’occasion de
-  repartir avec pleins de conseils et astuces\, en pl\nhttps://chiche.makes
- ense.org/events/e/atelier-pratique-fabrication-de-produits-dentretien-nett
- oyants-6ad20246ce193b0007acad9d
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-pratique-fabrication-de-p
- roduits-dentretien-nettoyants-6ad20246ce193b0007acad9d
-END:VEVENT
-BEGIN:VEVENT
-UID:b137331db5c2@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Construire la trame de mon CV📍Paris 13
-DESCRIPTION:Organisé par Raphaëlle Afota — L’Activ’CV\, c'est l’a
- telier pour construire ensemble la trame de ton CV !2h45 d’atelier colle
- ctif pour :\nhttps://chiche.makesense.org/events/e/construire-la-trame-de-
- mon-cvparis-13-6aaaa88eca9188000759c286
-LOCATION:13 Rue Annie Girardot\, 75013 Paris\, France
-URL:https://chiche.makesense.org/events/e/construire-la-trame-de-mon-cvpari
- s-13-6aaaa88eca9188000759c286
-END:VEVENT
-BEGIN:VEVENT
-UID:6ae782b2dc6d@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;TZID=Europe/Paris:20261117T190000
-DTEND;TZID=Europe/Paris:20261117T210000
-SUMMARY:Soirée crises et nerfs
-DESCRIPTION:Organisé par Hélène Binet — Une soirée pour se partager c
- e qui nous fait flipper\, enrager et espérer.Plus les semaines passent\, 
- plus les actus repoussent les limites de l'imaginable. La multi-crise que 
- nous traversons provoque en nous un embouteillage\nhttps://chiche.makesens
- e.org/events/e/soiree-crises-et-nerfs-6adf4e75c7e0440007c11ce5
-LOCATION:3bis Rue Papin\, 75003 Paris\, France
-URL:https://chiche.makesense.org/events/e/soiree-crises-et-nerfs-6adf4e75c7
- e0440007c11ce5
-END:VEVENT
-BEGIN:VEVENT
-UID:3bd55ad27703@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
-DESCRIPTION:Organisé par Envie Le Labo — [Atelier de cuisine gratuit - I
- nscription obligatoire] Redécouvrez les blettes à travers des recettes s
- imples\, gourmandes et anti-gaspi pour apprendre à cuisiner ce légume de
-  saison dans son intégralité.\nhttps://chiche.makesense.org/events/e/je-
- transforme-un-legume-oublie-en-un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d
- 0950008060482
-LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
-URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
- -un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d0950008060482
-END:VEVENT
-BEGIN:VEVENT
 UID:38284b486312@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:J’apprends les bases de la réparation (niveau 1)
@@ -102,7 +41,7 @@ URL:https://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparat
 END:VEVENT
 BEGIN:VEVENT
 UID:7959326ba592@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🏠Et toi\, tu connais notre maison ? - makesense space
@@ -117,7 +56,7 @@ URL:https://chiche.makesense.org/events/e/et-toi-tu-connais-notre-maison-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:20ae4517c159@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Les rencontres de la Communauté 360 de Paris : répit et soutien d
@@ -133,8 +72,24 @@ URL:https://chiche.makesense.org/events/e/les-rencontres-de-la-communaute-3
  60-de-paris-repit-et-soutien-des-proches-aidants-6a952b852701ed0007cae052
 END:VEVENT
 BEGIN:VEVENT
+UID:3bd55ad27703@paris-academique
+DTSTAMP:20261118T130316Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
+DESCRIPTION:Organisé par Envie Le Labo — [Atelier de cuisine gratuit - I
+ nscription obligatoire] Redécouvrez les blettes à travers des recettes s
+ imples\, gourmandes et anti-gaspi pour apprendre à cuisiner ce légume de
+  saison dans son intégralité.\nhttps://chiche.makesense.org/events/e/je-
+ transforme-un-legume-oublie-en-un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d
+ 0950008060482
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
+ -un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d0950008060482
+END:VEVENT
+BEGIN:VEVENT
 UID:bb7c0265b8a3@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261118T135000
 DTEND;TZID=Europe/Paris:20261118T155000
 SUMMARY:Atelier - Pitch : Apprendre à présenter son projet
@@ -149,7 +104,7 @@ URL:https://chiche.makesense.org/events/e/atelier-pitch-apprendre-a-present
 END:VEVENT
 BEGIN:VEVENT
 UID:536c367897b3@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261118T190000
 DTEND;TZID=Europe/Paris:20261118T210000
 SUMMARY:Sécurité : La France est-elle de plus en plus violente ?
@@ -165,7 +120,7 @@ URL:https://chiche.makesense.org/events/e/securite-la-france-est-elle-de-pl
 END:VEVENT
 BEGIN:VEVENT
 UID:8f2e919e6050@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Le forum des métiers de l'économie sociale et solidaire
@@ -180,7 +135,7 @@ URL:https://chiche.makesense.org/events/e/le-forum-des-metiers-de-leconomie
 END:VEVENT
 BEGIN:VEVENT
 UID:d214ade0cbce@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Ça chauffe pour l'ESS\, l'ESS se chauffe ?
@@ -195,8 +150,23 @@ URL:https://chiche.makesense.org/events/e/ca-chauffe-pour-less-less-se-chau
  ffe-6ab63dad32f93b0008f35a84
 END:VEVENT
 BEGIN:VEVENT
+UID:00e6049fc220@paris-academique
+DTSTAMP:20261118T130316Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Atelier Kombucha
+DESCRIPTION:Organisé par Adele DORLIPO — Participez à un atelier pour v
+ ous initier à la confection de Kombucha (et repartez avec votre mère !)B
+ oisson aux multiples vertus\, pétillante fermentée au goût légèrement
+  acide\, le Kombucha est devenu un incont\nhttps://chiche.makesense.org/ev
+ ents/e/atelier-kombucha-6ad1ff1bce193b0007ac8269
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/atelier-kombucha-6ad1ff1bce193b00
+ 07ac8269
+END:VEVENT
+BEGIN:VEVENT
 UID:ebf1b1e3ddd8@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261119T142000
 DTEND;TZID=Europe/Paris:20261119T162000
 SUMMARY:Atelier - Se lancer dans les Relations Presse

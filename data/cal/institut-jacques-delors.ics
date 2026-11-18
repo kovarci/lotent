@@ -24,22 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:58fc5f7c15fc@paris-academique
-DTSTAMP:20261117T130922Z
-DTSTART;TZID=Europe/Paris:20261117T123000
-DTEND;TZID=Europe/Paris:20261117T133000
-SUMMARY:Midis d’Europa Experience #7 – Crise du logement : l’Europe l
- ogée à la même enseigne ? avec Sarah Coupechoux
-DESCRIPTION:En présentiel\nhttps://institutdelors.eu/evenements/midis-deur
- opa-experience-7-crise-du-logement-leurope-logee-a-la-meme-enseigne-avec-s
- arah-coupechoux/
-LOCATION:Paris — lieu précisé sur la page de l'événement
-URL:https://institutdelors.eu/evenements/midis-deuropa-experience-7-crise-d
- u-logement-leurope-logee-a-la-meme-enseigne-avec-sarah-coupechoux/
-END:VEVENT
-BEGIN:VEVENT
 UID:9bded1386cf6@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261124T093000
 DTEND;TZID=Europe/Paris:20261124T183000
 SUMMARY:Paris Energy Week 2026 | Les défis de l’électrification
@@ -51,7 +37,7 @@ URL:https://institutdelors.eu/evenements/paris-energy-week-2026-the-challen
 END:VEVENT
 BEGIN:VEVENT
 UID:39da0bbbb3e2@paris-academique
-DTSTAMP:20261117T130922Z
+DTSTAMP:20261118T130316Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T183000
 SUMMARY:30 ans de l’Institut Jacques Delors : Conférence annuelle 2026 |
