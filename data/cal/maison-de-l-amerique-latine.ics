@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f2fea40f4210@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261118T140000
 DTEND;TZID=Europe/Paris:20261118T203000
 SUMMARY:Journées d’études franco-argentines — En hommage à l'œuvre 
@@ -38,7 +38,7 @@ URL:https://www.mal217.org/fr/agenda/journees-d-etudes-franco-argentines
 END:VEVENT
 BEGIN:VEVENT
 UID:4f6e8133d927@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261118T190000
 DTEND;TZID=Europe/Paris:20261118T210000
 SUMMARY:Démocratie ou oligarchie ? — L’Amérique latine pour un monde 
@@ -51,7 +51,7 @@ URL:https://www.mal217.org/fr/agenda/democratie-ou-oligarchie
 END:VEVENT
 BEGIN:VEVENT
 UID:5bbb4f96fde3@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261118T210000
 DTEND;TZID=Europe/Paris:20261118T230000
 SUMMARY:Psychanalyse et transferts culturels — De l'infini en analyse
@@ -64,7 +64,7 @@ URL:https://www.mal217.org/fr/agenda/psychanalyse-et-transferts-culturels-a
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe5c3e8a77c@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261120T190000
 DTEND;TZID=Europe/Paris:20261120T210000
 SUMMARY:Y la casa venció a las sombras
@@ -76,8 +76,20 @@ URL:https://www.mal217.org/fr/agenda/y-la-casa-vencio-a-las-sombras-toma-de
  -la-universidad-central-de-venezuela-en-2001
 END:VEVENT
 BEGIN:VEVENT
+UID:ec6a957ef8ea@paris-academique
+DTSTAMP:20261118T163602Z
+DTSTART;TZID=Europe/Paris:20261123T190000
+DTEND;TZID=Europe/Paris:20261123T210000
+SUMMARY:L'Œil pense — Les yeux sur Cuba
+DESCRIPTION:Arts\nhttps://www.mal217.org/fr/agenda/l-oeil-pense-copie-7b6f6
+ dc5
+LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
+  7e
+URL:https://www.mal217.org/fr/agenda/l-oeil-pense-copie-7b6f6dc5
+END:VEVENT
+BEGIN:VEVENT
 UID:60b54024bd0f@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:Julio Ramón Ribeyro — par Nerit Olaya

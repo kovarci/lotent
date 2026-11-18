@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ea4b2b96a6ba@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261118T193000
 DTEND;TZID=Europe/Paris:20261118T213000
 SUMMARY:Popote générale x Comité Sécurité Intérieure
@@ -37,7 +37,7 @@ URL:https://www.jeunes-ihedn.org/events/popote-generale-x-comite-securite-i
 END:VEVENT
 BEGIN:VEVENT
 UID:26378fd164ca@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Les Rendez-vous Géopolitiques de Strasbourg
@@ -49,7 +49,7 @@ URL:https://www.jeunes-ihedn.org/events/rendez-vous-geopolitiques-de-strasb
 END:VEVENT
 BEGIN:VEVENT
 UID:01157b6267ae@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261124T140000
 DTEND;TZID=Europe/Paris:20261124T170000
 SUMMARY:Visite de la Direction des Applications Militaires (DAM) du CEA
@@ -61,7 +61,7 @@ URL:https://www.jeunes-ihedn.org/events/visite-de-la-direction-des-applicat
 END:VEVENT
 BEGIN:VEVENT
 UID:73b155959dc5@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261125T180000
 DTEND;TZID=Europe/Paris:20261125T200000
 SUMMARY:Conférence « L’éthique de la guerre à l’heure de l’IA »
@@ -73,7 +73,7 @@ URL:https://www.jeunes-ihedn.org/events/conference-lethique-de-la-guerre-a-
 END:VEVENT
 BEGIN:VEVENT
 UID:081141525253@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261127T140000
 DTEND;TZID=Europe/Paris:20261127T153000
 SUMMARY:Conférence sur les rapports de puissance\, les dynamiques régiona
@@ -87,7 +87,7 @@ URL:https://www.jeunes-ihedn.org/events/conference-sur-les-rapports-de-puis
 END:VEVENT
 BEGIN:VEVENT
 UID:c8ba821ffdb4@paris-academique
-DTSTAMP:20261118T130316Z
+DTSTAMP:20261118T163602Z
 DTSTART;TZID=Europe/Paris:20261209T193000
 DTEND;TZID=Europe/Paris:20261209T213000
 SUMMARY:Popote Générale
