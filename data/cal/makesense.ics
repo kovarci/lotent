@@ -24,103 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:38284b486312@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:J’apprends les bases de la réparation (niveau 1)
-DESCRIPTION:Organisé par Envie Le Labo — [Atelier gratuit - Inscription 
- obligatoire]Vous en avez assez de vous sentir démuni.e.s face à un appar
- eil électroménager qui tombe en panne ? Participez à un atelier pratiqu
- e pour apprendre les bases de la réparation et découvrir les bonne\nhttp
- s://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparation-niv
- eau-1-6ae9ed9887df9e000719408a
-LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
-URL:https://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparat
- ion-niveau-1-6ae9ed9887df9e000719408a
-END:VEVENT
-BEGIN:VEVENT
-UID:7959326ba592@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:🏠Et toi\, tu connais notre maison ? - makesense space
-DESCRIPTION:Organisé par Laura Groen — Et toi\, tu connais notre maison 
- ?Chaque 2nds mercredi du mois\, à 16h30\, on ouvre les portes du makesens
- e space\, notre tiers lieu…Le makesense_spac\nhttps://chiche.makesense.o
- rg/events/e/et-toi-tu-connais-notre-maison-makesense-space-6ad8ba2d825b0a0
- 008efb1f2
-LOCATION:11 Rue Biscornet\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/et-toi-tu-connais-notre-maison-ma
- kesense-space-6ad8ba2d825b0a0008efb1f2
-END:VEVENT
-BEGIN:VEVENT
-UID:20ae4517c159@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Les rencontres de la Communauté 360 de Paris : répit et soutien d
- es proches aidants
-DESCRIPTION:Organisé par Emeline SIMONDET — La Communauté 360 de Paris\
- , pilotée par l'ARS\, la Ville de Paris et la MDPH de Paris\, a le plaisi
- r de vous inviter à son Salon pour le répit et le soutien des proches ai
- dants de personnes en situation de handicap de Paris.\nhttps://chiche.make
- sense.org/events/e/les-rencontres-de-la-communaute-360-de-paris-repit-et-s
- outien-des-proches-aidants-6a952b852701ed0007cae052
-LOCATION:1 Pl. Jules Joffrin\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/les-rencontres-de-la-communaute-3
- 60-de-paris-repit-et-soutien-des-proches-aidants-6a952b852701ed0007cae052
-END:VEVENT
-BEGIN:VEVENT
-UID:3bd55ad27703@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Je transforme un légume oublié en un repas gourmand et anti-gaspi
-DESCRIPTION:Organisé par Envie Le Labo — [Atelier de cuisine gratuit - I
- nscription obligatoire] Redécouvrez les blettes à travers des recettes s
- imples\, gourmandes et anti-gaspi pour apprendre à cuisiner ce légume de
-  saison dans son intégralité.\nhttps://chiche.makesense.org/events/e/je-
- transforme-un-legume-oublie-en-un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d
- 0950008060482
-LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
-URL:https://chiche.makesense.org/events/e/je-transforme-un-legume-oublie-en
- -un-repas-gourmand-et-anti-gaspi-6ae9eb0e20d0950008060482
-END:VEVENT
-BEGIN:VEVENT
-UID:bb7c0265b8a3@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;TZID=Europe/Paris:20261118T135000
-DTEND;TZID=Europe/Paris:20261118T155000
-SUMMARY:Atelier - Pitch : Apprendre à présenter son projet
-DESCRIPTION:Organisé par Les Canaux — Vous apprendez à être convaincan
- t\, concis\, concret\, clair et vous serez prêt pour donner une belle ima
- ge de votre structure.Un atelier animé par Ernest Losa de l'ADIE :L'ateli
- er sera animé par Ernest LOSA\, C\nhttps://chiche.makesense.org/events/e/
- atelier-pitch-apprendre-a-presenter-son-projet-6abe5dc8334fdc00086aae17
-LOCATION:6 Quai de la Seine\, 75019 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-pitch-apprendre-a-present
- er-son-projet-6abe5dc8334fdc00086aae17
-END:VEVENT
-BEGIN:VEVENT
-UID:536c367897b3@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;TZID=Europe/Paris:20261118T190000
-DTEND;TZID=Europe/Paris:20261118T210000
-SUMMARY:Sécurité : La France est-elle de plus en plus violente ?
-DESCRIPTION:Organisé par Maison de la Conversation — Un cycle d'ateliers
-  mêlant théâtre\, improvisation et débat pour préparer la présidenti
- elle 2027\, en partenariat avec l'Academie citoyenne.Déconstruire pour mi
- eux construire ensemble ! 🎭L’Académie citoyenne et la maison de\nhtt
- ps://chiche.makesense.org/events/e/securite-la-france-est-elle-de-plus-en-
- plus-violente-6ac3aceaa4a7800007a9c976
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/securite-la-france-est-elle-de-pl
- us-en-plus-violente-6ac3aceaa4a7800007a9c976
-END:VEVENT
-BEGIN:VEVENT
 UID:8f2e919e6050@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Le forum des métiers de l'économie sociale et solidaire
@@ -135,7 +40,7 @@ URL:https://chiche.makesense.org/events/e/le-forum-des-metiers-de-leconomie
 END:VEVENT
 BEGIN:VEVENT
 UID:d214ade0cbce@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Ça chauffe pour l'ESS\, l'ESS se chauffe ?
@@ -151,7 +56,7 @@ URL:https://chiche.makesense.org/events/e/ca-chauffe-pour-less-less-se-chau
 END:VEVENT
 BEGIN:VEVENT
 UID:00e6049fc220@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Atelier Kombucha
@@ -166,7 +71,7 @@ URL:https://chiche.makesense.org/events/e/atelier-kombucha-6ad1ff1bce193b00
 END:VEVENT
 BEGIN:VEVENT
 UID:ebf1b1e3ddd8@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261119T142000
 DTEND;TZID=Europe/Paris:20261119T162000
 SUMMARY:Atelier - Se lancer dans les Relations Presse
@@ -178,5 +83,100 @@ DESCRIPTION:Organisé par Les Canaux — Sa familiariser avec les Relations
 LOCATION:6 Quai de la Seine\, 75019 Paris\, France
 URL:https://chiche.makesense.org/events/e/atelier-se-lancer-dans-les-relati
  ons-presse-6abe5e71825ba200072c3510
+END:VEVENT
+BEGIN:VEVENT
+UID:18c4dccaa18f@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:ACademy #11 - Paris
+DESCRIPTION:Organisé par Avenir Climatique — ⚠️ATTENTION : l'adresse
+  vous sera validée après votre inscription.🌎 L’ACademy est une form
+ ation d’un an\, gratuite et ludique\, qui permet de mieux appréhender l
+ es enjeu\nhttps://chiche.makesense.org/events/e/academy-11-paris-6ae1cb5cc
+ 579900008adda8d
+LOCATION:3 Rue de Tolbiac\, 75013 Paris\, France
+URL:https://chiche.makesense.org/events/e/academy-11-paris-6ae1cb5cc5799000
+ 08adda8d
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec918eb23c5@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Spectacle “Clémentine et Pensée de la forêt”\, conte écolog
+ ique pour sensibiliser les enfants à l’environnement !
+DESCRIPTION:Organisé par Adele DORLIPO — Le samedi 21 novembre\, La Mais
+ on du Zéro Déchet accueille Iris BLANDIN et Marie PETITJEAN pour une ode
+  à la nature et à l’importance de la préserver\, à travers une avent
+ ure poétique\, musicale et visuelle pour petits et grands !\nhttps://chic
+ he.makesense.org/events/e/spectacle-clementine-et-pensee-de-la-foret-conte
+ -ecologique-pour-sensibiliser-les-enfants-a-lenvironnement-6ad202f7e444ad0
+ 00705b0c1
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/spectacle-clementine-et-pensee-de
+ -la-foret-conte-ecologique-pour-sensibiliser-les-enfants-a-lenvironnement-
+ 6ad202f7e444ad000705b0c1
+END:VEVENT
+BEGIN:VEVENT
+UID:e23991ece7c7@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Initiation Faire son Yaourt Zéro Déchet (et sans lactose !)
+DESCRIPTION:Organisé par Adele DORLIPO — Vous adorez les yaourts\, vous 
+ en mangez beaucoup mais vous souhaiteriez supprimer les pots qui encombren
+ t votre poubelle ?Vous souhaitez agir ? C’est possible !Nous vous propos
+ ons d’ap\nhttps://chiche.makesense.org/events/e/initiation-faire-son-yao
+ urt-zero-dechet-et-sans-lactose-6ad20fbde444ad000706150f
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/initiation-faire-son-yaourt-zero-
+ dechet-et-sans-lactose-6ad20fbde444ad000706150f
+END:VEVENT
+BEGIN:VEVENT
+UID:32a2e4a66160@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;TZID=Europe/Paris:20261121T140000
+DTEND;TZID=Europe/Paris:20261121T160000
+SUMMARY:ÉTONNAMMENT : D'ACCORD COMMENT PRÉPARER NOTRE JEUNESSE À DEMAIN 
+ ?
+DESCRIPTION:Organisé par Maison de la Conversation — Venez participer à
+  une rencontre citoyenne autour de l’école et de son avenir.Retrouvez 
+ élèves\, parents\, enseignants\, citoyens et curieux pour échanger auto
+ ur d’une question commune : que faut-il changer à l’école\nhttps://c
+ hiche.makesense.org/events/e/etonnamment-daccord-comment-preparer-notre-je
+ unesse-a-demain-6aea06b420d095000806ed24
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/etonnamment-daccord-comment-prepa
+ rer-notre-jeunesse-a-demain-6aea06b420d095000806ed24
+END:VEVENT
+BEGIN:VEVENT
+UID:53c6404a9b69@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Marche du Temps Profond au Bois de Vincennes
+DESCRIPTION:Organisé par Sandrine Laplace — Un voyage immersif de 4\,6 m
+ illiards d'années pour explorer l'histoire de la Terre et du vivant. Une 
+ expérience sensible pour prendre conscience de notre lien avec la planèt
+ e et imaginer notre futur.\nhttps://chiche.makesense.org/events/e/marche-d
+ u-temps-profond-au-bois-de-vincennes-6a8b042c476bed00081bdf5f
+LOCATION:100 Av. de Gravelle\, 94410 Saint-Maurice\, France
+URL:https://chiche.makesense.org/events/e/marche-du-temps-profond-au-bois-d
+ e-vincennes-6a8b042c476bed00081bdf5f
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb5207c2b50@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Grand format Epop& - "Dites à l'Avenir que nous arrivons" Live ave
+ c Leina Sato
+DESCRIPTION:Organisé par Epop& — Dites à l’Avenir que nous arrivons\,
+  c’est un cri d’optimisme offensif\, c’est aussi le podcast de Mathi
+ eu Baudin qui invite depuis 6 ans des exploratrices et explorateurs de mon
+ des à nous partager leur regard s\nhttps://chiche.makesense.org/events
+LOCATION:37 bis Bd de la Chapelle\, 75010 Paris\, France
+URL:https://chiche.makesense.org/events
 END:VEVENT
 END:VCALENDAR

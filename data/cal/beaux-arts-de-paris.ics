@@ -23,17 +23,4 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:60bed2fb01d9@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;TZID=Europe/Paris:20261117T190000
-DTEND;TZID=Europe/Paris:20261117T203000
-SUMMARY:Penser le Présent avec Krystian Lupa
-DESCRIPTION:Dialogue\nhttps://beauxartsparis.fr/fr/evenement/penser-le-pres
- ent-avec-krystian-lupa
-LOCATION:Amphithéâtre des loges — Beaux-Arts de Paris\, 14 rue Bonapart
- e\, Paris 6e
-URL:https://beauxartsparis.fr/fr/evenement/penser-le-present-avec-krystian-
- lupa
-END:VEVENT
 END:VCALENDAR

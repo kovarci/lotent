@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:655e7351c03f@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261120T140000
 DTEND;TZID=Europe/Paris:20261120T160000
 SUMMARY:[Forum] UPCité vous accompagne dans l’internationalisation de vo
@@ -45,7 +45,7 @@ URL:https://u-paris.fr/events/évènement/forum-upcite-vous-accompagne-dans
 END:VEVENT
 BEGIN:VEVENT
 UID:ca7615176de2@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261124T130000
 DTEND;TZID=Europe/Paris:20261124T150000
 SUMMARY:[Conférence] Déconstruire les stéréotypes et mythes du viol par
@@ -65,7 +65,7 @@ URL:https://u-paris.fr/events/évènement/conference-deconstruire-les-stere
 END:VEVENT
 BEGIN:VEVENT
 UID:60a8d7302577@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[EXPO] Traverser le monde. L’Exposition universelle de 1867 et la
@@ -79,7 +79,7 @@ URL:https://u-paris.fr/évènement/expo-traverser-le-monde-lexposition-univ
 END:VEVENT
 BEGIN:VEVENT
 UID:60d706314722@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261203T173000
 DTEND;TZID=Europe/Paris:20261203T193000
 SUMMARY:Les Logiques du corps : une conférence-dédicace de Georges Vigare
@@ -92,8 +92,22 @@ URL:https://u-paris.fr/events/évènement/les-logiques-du-corps-une-confere
  nce-dedicace-de-georges-vigarello/
 END:VEVENT
 BEGIN:VEVENT
+UID:c73a8cfcbc02@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;TZID=Europe/Paris:20261204T140000
+DTEND;TZID=Europe/Paris:20261204T160000
+SUMMARY:[EURIP Masterclass] Aide à la décision durable dans une société
+  du risque
+DESCRIPTION:https://u-paris.fr/events/évènement/masterclass-eurip-aide-a-
+ la-decision-durable-dans-une-societe-du-risque/
+LOCATION:Learning Planet Institute — Université Paris Cité\, 85 bouleva
+ rd Saint-Germain\, Paris 6e
+URL:https://u-paris.fr/events/évènement/masterclass-eurip-aide-a-la-decis
+ ion-durable-dans-une-societe-du-risque/
+END:VEVENT
+BEGIN:VEVENT
 UID:992c027a1317@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T160000
 SUMMARY:La vie sensible des plantes
@@ -108,7 +122,7 @@ URL:https://u-paris.fr/universite-ouverte/la-vie-sensible-des-plantes/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecc63070c2a2@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:[26e colloque GYPSY] Le vrai du faux\, chaos ou nouvel ordre ?
@@ -121,7 +135,7 @@ URL:https://u-paris.fr/évènement/26e-colloque-gypsy-le-vrai-du-faux-chaos
 END:VEVENT
 BEGIN:VEVENT
 UID:d553640de883@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Convergences 2026 : l’interdisciplinarité à UPCité
@@ -140,7 +154,7 @@ URL:https://u-paris.fr/events/évènement/convergences-2026-linterdisciplin
 END:VEVENT
 BEGIN:VEVENT
 UID:7eef6642ef8b@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261215T083000
 DTEND;TZID=Europe/Paris:20261215T140000
 SUMMARY:HRS4R : une première Journée annuelle pour construire la recherch
@@ -153,8 +167,35 @@ URL:https://u-paris.fr/évènement/hrs4r-une-premiere-journee-annuelle-pour
  -construire-la-recherche-de-demain/
 END:VEVENT
 BEGIN:VEVENT
+UID:a8f2335e5ac3@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;TZID=Europe/Paris:20270108T140000
+DTEND;TZID=Europe/Paris:20270108T160000
+SUMMARY:[EURIP Masterclass] Éco-traduction et santé planétaire
+DESCRIPTION:https://u-paris.fr/events/évènement/eurip-masterclass-eco-tra
+ duction-et-sante-planetaire/
+LOCATION:Learning Planet Institute — Université Paris Cité\, 85 bouleva
+ rd Saint-Germain\, Paris 6e
+URL:https://u-paris.fr/events/évènement/eurip-masterclass-eco-traduction-
+ et-sante-planetaire/
+END:VEVENT
+BEGIN:VEVENT
+UID:9ff7583f37c1@paris-academique
+DTSTAMP:20261119T130126Z
+DTSTART;TZID=Europe/Paris:20270205T140000
+DTEND;TZID=Europe/Paris:20270205T160000
+SUMMARY:[EURIP Masterclass] Égalité de genre et droit : fondements\, limi
+ tes et perspectives d’avenir
+DESCRIPTION:https://u-paris.fr/events/évènement/eurip-masterclass-egalite
+ -de-genre-et-droit-fondements-limites-et-perspectives-davenir/
+LOCATION:Learning Planet Institute — Université Paris Cité\, 85 bouleva
+ rd Saint-Germain\, Paris 6e
+URL:https://u-paris.fr/events/évènement/eurip-masterclass-egalite-de-genr
+ e-et-droit-fondements-limites-et-perspectives-davenir/
+END:VEVENT
+BEGIN:VEVENT
 UID:a15867dc491b@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20270225T083000
 DTEND;TZID=Europe/Paris:20270225T103000
 SUMMARY:Journée des initiatives pédagogiques : les pédagogies actives
@@ -173,7 +214,7 @@ URL:https://u-paris.fr/events/évènement/journee-des-initiatives-pedagogiq
 END:VEVENT
 BEGIN:VEVENT
 UID:3fdaecd1590e@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20270915T150000
 DTEND;TZID=Europe/Paris:20270915T170000
 SUMMARY:Rencontre auteurs You Young-kwang × Audrey Pleynet
@@ -190,7 +231,7 @@ URL:https://u-paris.fr/universite-ouverte/rencontre-autrices-you-young-kwan
 END:VEVENT
 BEGIN:VEVENT
 UID:c0823fcd652c@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20271001T170000
 DTEND;TZID=Europe/Paris:20271001T190000
 SUMMARY:Projection/rencontre : Madagascar\, le repaire secret des pirates
@@ -207,7 +248,7 @@ URL:https://u-paris.fr/universite-ouverte/madagascar-le-repaire-secret-des-
 END:VEVENT
 BEGIN:VEVENT
 UID:ceb3dcd01d79@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20271019T180000
 DTEND;TZID=Europe/Paris:20271019T200000
 SUMMARY:Rencontre avec Kim Jiyun sur la tendance littéraire du k-healing

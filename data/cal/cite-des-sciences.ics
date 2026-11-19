@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:b39c5fc83dc3@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261201T190000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Migration et tourisme : inégalités aux frontières
@@ -39,7 +39,7 @@ URL:https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/confe
 END:VEVENT
 BEGIN:VEVENT
 UID:9812597375e4@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261204T190000
 DTEND;TZID=Europe/Paris:20261204T210000
 SUMMARY:Les mathématiques\, une aventure humaine à l’heure de l’IA
@@ -54,7 +54,7 @@ URL:https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/confe
 END:VEVENT
 BEGIN:VEVENT
 UID:f6b80bb91c0b@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261205T143000
 DTEND;TZID=Europe/Paris:20261205T163000
 SUMMARY:L’humanité
@@ -68,7 +68,7 @@ URL:https://www.cite-sciences.fr/fr/au-programme/animations-spectacles/conf
 END:VEVENT
 BEGIN:VEVENT
 UID:2640b1d723cd@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261208T143000
 DTEND;TZID=Europe/Paris:20261208T163000
 SUMMARY:La biodiversité\, clé de notre santé
@@ -82,7 +82,7 @@ URL:https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/confe
 END:VEVENT
 BEGIN:VEVENT
 UID:18dc396f8959@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261208T190000
 DTEND;TZID=Europe/Paris:20261208T210000
 SUMMARY:Frontières : de la carte au territoire
@@ -96,7 +96,7 @@ URL:https://www.cite-sciences.fr/fr/au-programme/activites-spectacles/confe
 END:VEVENT
 BEGIN:VEVENT
 UID:210330874c14@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:De la démonstration à la médiation des sciences
@@ -109,7 +109,7 @@ URL:https://www.universcience.fr/fr/professionnels/remedis/actualites/collo
 END:VEVENT
 BEGIN:VEVENT
 UID:00227a8acaa1@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261212T143000
 DTEND;TZID=Europe/Paris:20261212T163000
 SUMMARY:Les arcanes de la création
@@ -123,7 +123,7 @@ URL:https://www.cite-sciences.fr/fr/au-programme/animations-spectacles/conf
 END:VEVENT
 BEGIN:VEVENT
 UID:93ddb15311b1@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20270109T143000
 DTEND;TZID=Europe/Paris:20270109T163000
 SUMMARY:Année 2026 en sciences : la rétrospective

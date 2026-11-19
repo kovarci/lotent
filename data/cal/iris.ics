@@ -24,23 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:09f905888943@paris-academique
-DTSTAMP:20261118T163602Z
-DTSTART;TZID=Europe/Paris:20261118T140000
-DTEND;TZID=Europe/Paris:20261118T153000
-SUMMARY:Minerais critiques en Afrique : États producteurs\, stratégies de
- s puissances étrangères et risques d’approvisionnement
-DESCRIPTION:https://www.iris-france.org/event/minerais-critiques-en-afrique
- -etats-producteurs-strategies-des-puissances-etrangeres-et-risques-dapprov
- isionnement/
-LOCATION:IRIS\, 2 bis rue Mercœur\, Paris 11e
-URL:https://www.iris-france.org/event/minerais-critiques-en-afrique-etats-p
- roducteurs-strategies-des-puissances-etrangeres-et-risques-dapprovisionnem
- ent/
-END:VEVENT
-BEGIN:VEVENT
 UID:bce4008998f0@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261120T140000
 DTEND;TZID=Europe/Paris:20261120T160000
 SUMMARY:Les Géopolitiques de Grenoble – 2e édition
@@ -52,7 +37,7 @@ URL:https://www.iris-france.org/event/les-geopolitiques-de-grenoble-2e-edit
 END:VEVENT
 BEGIN:VEVENT
 UID:c8d7173fe19b@paris-academique
-DTSTAMP:20261118T163602Z
+DTSTAMP:20261119T130126Z
 DTSTART;TZID=Europe/Paris:20261125T140000
 DTEND;TZID=Europe/Paris:20261125T153000
 SUMMARY:The EU as a Global Security Actor: Military Assistance to Partner S
