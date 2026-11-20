@@ -24,32 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6065e46cc078@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;TZID=Europe/Paris:20261119T091500
-DTEND;TZID=Europe/Paris:20261119T163000
-SUMMARY:Traces du « moi » dans la littérature d'adab de l'époque omeyya
- de à l'époque ottomane (Ie/VIIe - XIIIe/XIXe siècle)
-DESCRIPTION:Journée d'étude.\nhttps://www.ephe.psl.eu/traces-du-moi-dans-
- la-litterature-dadab-epoque-omeyyade-epoque-ottomane
-LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
-URL:https://www.ephe.psl.eu/traces-du-moi-dans-la-litterature-dadab-epoque-
- omeyyade-epoque-ottomane
-END:VEVENT
-BEGIN:VEVENT
-UID:32649b1e98de@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;TZID=Europe/Paris:20261119T180000
-DTEND;TZID=Europe/Paris:20261119T193000
-SUMMARY:Des vases sur des monnaies grecques et romaines
-DESCRIPTION:Cycle de conférences EPHE – PSL / BnF.\nhttps://www.ephe.psl
- .eu/des-vases-sur-des-monnaies-grecques-et-romaines
-LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
-URL:https://www.ephe.psl.eu/des-vases-sur-des-monnaies-grecques-et-romaines
-END:VEVENT
-BEGIN:VEVENT
 UID:fb8639e604c1@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:2026 Rencontre annuelle de la Société d'études syriaques
@@ -62,7 +38,7 @@ URL:https://www.ephe.psl.eu/2026-rencontre-annuelle-de-la-societe-detudes-s
 END:VEVENT
 BEGIN:VEVENT
 UID:efaf56edb536@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Par la seule Écriture. Protestantisme et Islam
@@ -73,7 +49,7 @@ URL:https://www.ephe.psl.eu/par-la-seule-ecriture-protestantisme-et-islam
 END:VEVENT
 BEGIN:VEVENT
 UID:714bfc763356@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261123T180000
 DTEND;TZID=Europe/Paris:20261123T200000
 SUMMARY:Le collezioni artistiche di Palazzo Farnese a Roma
@@ -85,7 +61,7 @@ URL:https://www.ephe.psl.eu/le-collezioni-artistiche-di-palazzo-farnese-rom
 END:VEVENT
 BEGIN:VEVENT
 UID:354844f41b76@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261124T180000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:The Use of Hebrew in al-Sakkākī’s Book of the Complete
@@ -96,7 +72,7 @@ URL:https://www.ephe.psl.eu/use-hebrew-al-sakkakis-book-complete
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa23ea2e00c@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Multiculturalisme en Égypte (IIIe s. av. J.-C. - VIIe s. apr. J.-C
@@ -110,7 +86,7 @@ URL:https://www.ephe.psl.eu/multiculturalisme-en-egypte-iiie-s-av-j-c-viie-
 END:VEVENT
 BEGIN:VEVENT
 UID:fa55e579587f@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261130T090000
 DTEND;TZID=Europe/Paris:20261130T174500
 SUMMARY:Saeculum/Saeculare
@@ -121,7 +97,7 @@ URL:https://www.ephe.psl.eu/saeculum-saeculare
 END:VEVENT
 BEGIN:VEVENT
 UID:71239b35a484@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261207T100000
 DTEND;TZID=Europe/Paris:20261207T120000
 SUMMARY:Frontières. Pour une anthropologie religieuse de l'espace et du po
@@ -135,7 +111,7 @@ URL:https://www.ephe.psl.eu/frontieres-pour-une-anthropologie-religieuse-de
 END:VEVENT
 BEGIN:VEVENT
 UID:200ad1b5bf7d@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261210T180000
 DTEND;TZID=Europe/Paris:20261210T193000
 SUMMARY:Hippocrate à Constantinople : le Parisinus gr. 2144 et ses lecteur
@@ -149,7 +125,7 @@ URL:https://www.ephe.psl.eu/hippocrate-constantinople-le-parisinus-gr-2144-
 END:VEVENT
 BEGIN:VEVENT
 UID:5275315b8377@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261215T180000
 DTEND;TZID=Europe/Paris:20261215T200000
 SUMMARY:Medieval Jewish Magic: Models

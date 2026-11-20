@@ -23,4 +23,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:fc4a13fb39f8@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Rencontre / Théâtre / L’importance de l’erreur. Conversation 
+ avec Antonio Latella
+DESCRIPTION:https://iicparigi.esteri.it/fr/gli_eventi/calendario/rencontre-
+ theatre-limportance-de-lerreur-conversation-avec-antonio-latella/
+LOCATION:Institut culturel italien\, 50 rue de Varenne\, Paris 7e
+URL:https://iicparigi.esteri.it/fr/gli_eventi/calendario/rencontre-theatre-
+ limportance-de-lerreur-conversation-avec-antonio-latella/
+END:VEVENT
 END:VCALENDAR

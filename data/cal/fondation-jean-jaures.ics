@@ -24,32 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:d20a3757e6f9@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;TZID=Europe/Paris:20261119T100000
-DTEND;TZID=Europe/Paris:20261119T120000
-SUMMARY:Le Blue Labour et l’avenir des gauches européennes
-DESCRIPTION:Europe\nhttps://www.jean-jaures.org/agenda/le-blue-labour-et-la
- venir-des-gauches-europeennes/
-LOCATION:Fondation Jean-Jaurès\, Cité Malesherbes\, Paris\, France
-URL:https://www.jean-jaures.org/agenda/le-blue-labour-et-lavenir-des-gauche
- s-europeennes/
-END:VEVENT
-BEGIN:VEVENT
-UID:5758903c7cab@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;TZID=Europe/Paris:20261119T183000
-DTEND;TZID=Europe/Paris:20261119T203000
-SUMMARY:Les travailleurs nocturnes. À la rencontre des cheminots de nuit
-DESCRIPTION:Société\nhttps://www.jean-jaures.org/agenda/les-travailleurs-
- nocturnes-a-la-rencontre-des-cheminots-de-nuit/
-LOCATION:Fondation Jean-Jaurès\, Cité Malesherbes\, Paris\, France
-URL:https://www.jean-jaures.org/agenda/les-travailleurs-nocturnes-a-la-renc
- ontre-des-cheminots-de-nuit/
-END:VEVENT
-BEGIN:VEVENT
 UID:4ce9c2d01eab@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261123T183000
 DTEND;TZID=Europe/Paris:20261123T203000
 SUMMARY:⁠⁠Comment retisser les liens de la cohésion républicaine ?
@@ -61,7 +37,7 @@ URL:https://www.jean-jaures.org/agenda/%e2%81%a0%e2%81%a0comment-retisser-l
 END:VEVENT
 BEGIN:VEVENT
 UID:b17b6459d5d6@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261126T093000
 DTEND;TZID=Europe/Paris:20261126T123000
 SUMMARY:Réseaux sociaux et santé des jeunes : de l’alerte aux solutions
@@ -72,8 +48,20 @@ URL:https://www.jean-jaures.org/agenda/reseaux-sociaux-et-sante-des-jeunes-
  de-lalerte-aux-solutions/
 END:VEVENT
 BEGIN:VEVENT
+UID:e6dbc2f8a4e3@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;TZID=Europe/Paris:20261126T183000
+DTEND;TZID=Europe/Paris:20261126T203000
+SUMMARY:Quelle Union européenne face aux empires ?
+DESCRIPTION:Europe\nhttps://www.jean-jaures.org/agenda/quelle-union-europee
+ nne-face-aux-empires/
+LOCATION:Fondation Jean-Jaurès\, Cité Malesherbes\, Paris\, France
+URL:https://www.jean-jaures.org/agenda/quelle-union-europeenne-face-aux-emp
+ ires/
+END:VEVENT
+BEGIN:VEVENT
 UID:c406e042b807@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261210T183000
 DTEND;TZID=Europe/Paris:20261210T203000
 SUMMARY:Élargir l’Europe ? Quelle Union européenne voulons-nous bâtir 

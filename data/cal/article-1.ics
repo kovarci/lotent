@@ -24,23 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7814340f5e21@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;TZID=Europe/Paris:20261118T183000
-DTEND;TZID=Europe/Paris:20261118T213000
-SUMMARY:Soirée des métiers de la transition écologique
-DESCRIPTION:Viens assister à notre soirée des métiers de la transition 
- écologique ! 🌿 Rencontres avec des professionnel.les des métiers vert
- s. Une table ronde inspirante suivie d’un cocktail de networking\, pour 
- discuter avec les intervenants !\nhttps://article1.my.salesforce-sites.com
- /AG_VFP_Quiz?cid=701IV00001rkrK4&id=a1NIV000009RgXR&base=base5&form=jeune
-LOCATION:Courbevoie
-URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001rkrK
- 4&id=a1NIV000009RgXR&base=base5&form=jeune
-END:VEVENT
-BEGIN:VEVENT
 UID:d1991c90c100@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261119T090000
 DTEND;TZID=Europe/Paris:20261119T123000
 SUMMARY:Intelligence Artificielle avec Salesforce
@@ -54,7 +39,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001taLl
 END:VEVENT
 BEGIN:VEVENT
 UID:187b77e1b139@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261123T180000
 DTEND;TZID=Europe/Paris:20261123T190000
 SUMMARY:Webinaire Gestion de Stress
@@ -67,7 +52,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pDQJ
 END:VEVENT
 BEGIN:VEVENT
 UID:67be8bec35f0@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261123T183000
 DTEND;TZID=Europe/Paris:20261123T213000
 SUMMARY:Boost ta candidature avec l'IA - Atelier IA
@@ -83,20 +68,22 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001vDSb
 END:VEVENT
 BEGIN:VEVENT
 UID:a31efd6a9b5d@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:WEBINAIRE : METIERS VERTS
-DESCRIPTION:Insertion Pro · Etudiants\nhttps://article1.my.salesforce-site
- s.com/AG_VFP_Quiz?cid=701IV00001pAsPW&id=a1NIV00000BnS1d&base=base5&form=j
- eune
+DESCRIPTION:Webinaire métiers : construire sa carrière dans la transition
+  écologique Si l’environnement compte pour toi et que tu souhaites lui 
+ donner une place dans ton parcours professionnel\, ce webinaire est fait p
+ our toi.\nhttps://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00
+ 001pAsPW&id=a1NIV00000BnS1d&base=base5&form=jeune
 LOCATION:En ligne
 URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pAsP
  W&id=a1NIV00000BnS1d&base=base5&form=jeune
 END:VEVENT
 BEGIN:VEVENT
 UID:1c88e2752d55@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261125T203000
 DTEND;TZID=Europe/Paris:20261125T220000
 SUMMARY:Invitation Théâtre "Un succès fou"
@@ -109,7 +96,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001udGF
 END:VEVENT
 BEGIN:VEVENT
 UID:cf8f5e734dba@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261126T180000
 DTEND;TZID=Europe/Paris:20261126T190000
 SUMMARY:National - Webinaire Agir pour le climat
@@ -125,7 +112,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001n1vX
 END:VEVENT
 BEGIN:VEVENT
 UID:50b2a4b2635f@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261202T180000
 DTEND;TZID=Europe/Paris:20261202T190000
 SUMMARY:Ready set go
@@ -139,7 +126,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001r1UL
 END:VEVENT
 BEGIN:VEVENT
 UID:60d553405fb3@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261202T183000
 DTEND;TZID=Europe/Paris:20261202T213000
 SUMMARY:Construis ton projet à l'international ! 🌍
@@ -154,7 +141,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001wLNr
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e606b1c9e0@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261203T180000
 DTEND;TZID=Europe/Paris:20261203T190000
 SUMMARY:Webinaire Admissions HEC
@@ -170,7 +157,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001owt3
 END:VEVENT
 BEGIN:VEVENT
 UID:47a40be76f06@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261207T180000
 DTEND;TZID=Europe/Paris:20261207T190000
 SUMMARY:Webinaire : CV et candidature
@@ -185,7 +172,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pCmB
 END:VEVENT
 BEGIN:VEVENT
 UID:c5eb498d9e97@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261208T140000
 DTEND;TZID=Europe/Paris:20261208T173500
 SUMMARY:Speed coaching - Bloomberg
@@ -201,7 +188,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001vLcI
 END:VEVENT
 BEGIN:VEVENT
 UID:7e93833d3a2a@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T193000
 SUMMARY:WEBINAIRE : NEGOCIATION SALARIALE
@@ -216,7 +203,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pAsP
 END:VEVENT
 BEGIN:VEVENT
 UID:9928b4b7d96e@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261209T180000
 DTEND;TZID=Europe/Paris:20261209T190000
 SUMMARY:National - Webinaire Agir pour le climat
@@ -232,7 +219,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001n1vX
 END:VEVENT
 BEGIN:VEVENT
 UID:cf36e851eb13@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261209T183000
 DTEND;TZID=Europe/Paris:20261209T210000
 SUMMARY:Visite du Musée du Louvre - en Nocturne
@@ -246,7 +233,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001tRYw
 END:VEVENT
 BEGIN:VEVENT
 UID:bb14f846e15d@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Paris - Stage IPESUP Noel 26
@@ -262,7 +249,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001timn
 END:VEVENT
 BEGIN:VEVENT
 UID:f5a3e257200c@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270104T180000
 DTEND;TZID=Europe/Paris:20270104T193000
 SUMMARY:BOOST MON CV
@@ -277,7 +264,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pAsP
 END:VEVENT
 BEGIN:VEVENT
 UID:be179ab07ef3@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270113T180000
 DTEND;TZID=Europe/Paris:20270113T193000
 SUMMARY:BOOST MY RESUME
@@ -290,7 +277,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pAsP
 END:VEVENT
 BEGIN:VEVENT
 UID:112704b18e40@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270114T183000
 DTEND;TZID=Europe/Paris:20270114T193000
 SUMMARY:Webinaire Gestion de Stress Session 1
@@ -303,7 +290,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001n0wy
 END:VEVENT
 BEGIN:VEVENT
 UID:cb33c13ece47@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270121T183000
 DTEND;TZID=Europe/Paris:20270121T193000
 SUMMARY:Webinaire Gestion de stress Session 2
@@ -316,7 +303,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001n1kH
 END:VEVENT
 BEGIN:VEVENT
 UID:e34a23c3b539@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270129T100000
 DTEND;TZID=Europe/Paris:20270129T210000
 SUMMARY:FORUM DES OPPORTUNITES - 29-01-2027 - 29-01-2027
@@ -330,7 +317,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pDVO
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f07056b6d2@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270129T100000
 DTEND;TZID=Europe/Paris:20270129T170000
 SUMMARY:CAMPUS INSERTION PROFESSIONNELLE
@@ -345,7 +332,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001pPYa
 END:VEVENT
 BEGIN:VEVENT
 UID:4c89c5d7d96a@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270203T180000
 DTEND;TZID=Europe/Paris:20270203T190000
 SUMMARY:Ready set go
@@ -359,7 +346,7 @@ URL:https://article1.my.salesforce-sites.com/AG_VFP_Quiz?cid=701IV00001r25Z
 END:VEVENT
 BEGIN:VEVENT
 UID:39b2174729ab@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20270331T180000
 DTEND;TZID=Europe/Paris:20270331T190000
 SUMMARY:Ready set go

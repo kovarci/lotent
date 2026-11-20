@@ -24,69 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:8f2e919e6050@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Le forum des métiers de l'économie sociale et solidaire
-DESCRIPTION:Organisé par Envie Le Labo — Rencontrez les acteurs de l'Éc
- onomie Sociale et Solidaire\, découvrez leurs métiers et explorez les no
- mbreuses façons de vous engager\, de vous former ou d'y construire votre 
- parcours professionnel.\nhttps://chiche.makesense.org/events/e/le-forum-de
- s-metiers-de-leconomie-sociale-et-solidaire-6a9930631c5b4f0008b99db8
-LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
-URL:https://chiche.makesense.org/events/e/le-forum-des-metiers-de-leconomie
- -sociale-et-solidaire-6a9930631c5b4f0008b99db8
-END:VEVENT
-BEGIN:VEVENT
-UID:d214ade0cbce@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Ça chauffe pour l'ESS\, l'ESS se chauffe ?
-DESCRIPTION:Organisé par Paloma Baumgartner — 12 ans après la création
-  des statuts de l'ESS\, quelles sont ses perspectives\, y compris financi
- ères ? Avec des budgets en baisse\, les besoins sociaux qui augmentent et
-  l'urgence climatique\, l'économie sociale et solidaire est mise sous pre
- ssion. M\nhttps://chiche.makesense.org/events/e/ca-chauffe-pour-less-less-
- se-chauffe-6ab63dad32f93b0008f35a84
-LOCATION:11 Rue Biscornet\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/ca-chauffe-pour-less-less-se-chau
- ffe-6ab63dad32f93b0008f35a84
-END:VEVENT
-BEGIN:VEVENT
-UID:00e6049fc220@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Atelier Kombucha
-DESCRIPTION:Organisé par Adele DORLIPO — Participez à un atelier pour v
- ous initier à la confection de Kombucha (et repartez avec votre mère !)B
- oisson aux multiples vertus\, pétillante fermentée au goût légèrement
-  acide\, le Kombucha est devenu un incont\nhttps://chiche.makesense.org/ev
- ents/e/atelier-kombucha-6ad1ff1bce193b0007ac8269
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-kombucha-6ad1ff1bce193b00
- 07ac8269
-END:VEVENT
-BEGIN:VEVENT
-UID:ebf1b1e3ddd8@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;TZID=Europe/Paris:20261119T142000
-DTEND;TZID=Europe/Paris:20261119T162000
-SUMMARY:Atelier - Se lancer dans les Relations Presse
-DESCRIPTION:Organisé par Les Canaux — Sa familiariser avec les Relations
-  Presse et apprendre à maîtriser les outils (liste de presse\, dossier d
- e presse\, communiqué de presse\, etcUn atelier animé par Coralie Diebol
- d de Yes for Comm :Coralie Diebo\nhttps://chiche.makesense.org/events/e/at
- elier-se-lancer-dans-les-relations-presse-6abe5e71825ba200072c3510
-LOCATION:6 Quai de la Seine\, 75019 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-se-lancer-dans-les-relati
- ons-presse-6abe5e71825ba200072c3510
-END:VEVENT
-BEGIN:VEVENT
 UID:18c4dccaa18f@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:ACademy #11 - Paris
@@ -101,7 +40,7 @@ URL:https://chiche.makesense.org/events/e/academy-11-paris-6ae1cb5cc5799000
 END:VEVENT
 BEGIN:VEVENT
 UID:8ec918eb23c5@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Spectacle “Clémentine et Pensée de la forêt”\, conte écolog
@@ -120,7 +59,7 @@ URL:https://chiche.makesense.org/events/e/spectacle-clementine-et-pensee-de
 END:VEVENT
 BEGIN:VEVENT
 UID:e23991ece7c7@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Initiation Faire son Yaourt Zéro Déchet (et sans lactose !)
@@ -135,7 +74,7 @@ URL:https://chiche.makesense.org/events/e/initiation-faire-son-yaourt-zero-
 END:VEVENT
 BEGIN:VEVENT
 UID:32a2e4a66160@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261121T140000
 DTEND;TZID=Europe/Paris:20261121T160000
 SUMMARY:ÉTONNAMMENT : D'ACCORD COMMENT PRÉPARER NOTRE JEUNESSE À DEMAIN 
@@ -152,7 +91,7 @@ URL:https://chiche.makesense.org/events/e/etonnamment-daccord-comment-prepa
 END:VEVENT
 BEGIN:VEVENT
 UID:53c6404a9b69@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Marche du Temps Profond au Bois de Vincennes
@@ -167,7 +106,7 @@ URL:https://chiche.makesense.org/events/e/marche-du-temps-profond-au-bois-d
 END:VEVENT
 BEGIN:VEVENT
 UID:5fb5207c2b50@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Grand format Epop& - "Dites à l'Avenir que nous arrivons" Live ave
@@ -178,5 +117,120 @@ DESCRIPTION:Organisé par Epop& — Dites à l’Avenir que nous arrivons\,
  des à nous partager leur regard s\nhttps://chiche.makesense.org/events
 LOCATION:37 bis Bd de la Chapelle\, 75010 Paris\, France
 URL:https://chiche.makesense.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:4783eb6d8f93@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Le premier signe avant la crise - Détecter la difficulté et les s
+ ignaux faibles pour (ré)agir à temps
+DESCRIPTION:Organisé par Paloma Baumgartner — Plutôt que d’entendre c
+ ette petite voix qui souffle “je te l’avais bien dit” quand tout par
+ t en vrille\, et si on apprenait à identifier les signaux faibles avant l
+ a crise et réagir en fonction ?📣 Le 24 novembre\, on lance “On s’e
+ n\nhttps://chiche.makesense.org/events/e/le-premier-signe-avant-la-crise-d
+ etecter-la-difficulte-et-les-signaux-faibles-pour-reagir-a-temps-6ad797628
+ 25b0a0008e93580
+LOCATION:11 Rue Biscornet\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/le-premier-signe-avant-la-crise-d
+ etecter-la-difficulte-et-les-signaux-faibles-pour-reagir-a-temps-6ad797628
+ 25b0a0008e93580
+END:VEVENT
+BEGIN:VEVENT
+UID:0001e2f2d506@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Me préparer à l'entretien d'embauche📍Paris 13
+DESCRIPTION:Organisé par Raphaëlle Afota — Notre devise : ensemble\, tr
+ ansformons le chômage en une expérience constructive !Au travers des ate
+ liers gratuits et collaboratifs Activ’Action\, la période de transition
+  professionnelle se transforme en une\nhttps://chiche.makesense.org/events
+ /e/me-preparer-a-lentretien-dembaucheparis-13-6aaaa8d719fd1c000884b37e
+LOCATION:13 Rue Annie Girardot\, 75013 Paris\, France
+URL:https://chiche.makesense.org/events/e/me-preparer-a-lentretien-dembauch
+ eparis-13-6aaaa8d719fd1c000884b37e
+END:VEVENT
+BEGIN:VEVENT
+UID:83b36e8d238f@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Écologie : comment arrêter de subir pour s'en sortir ? Les citoye
+ ns et citoyennes s'organisent
+DESCRIPTION:Organisé par Hélène Binet — Qui aurait pu prédire ? Voil
+ à des années que l’on connaît les trajectoires environnementales\, qu
+ e les expert·es tirent la sonnette d’alarme\, que les preuves s’accum
+ ulent… On s\nhttps://chiche.makesense.org/events/e/ecologie-comment-arre
+ ter-de-subir-pour-sen-sortir-6ae0ca713c8bf50008f65b35
+LOCATION:3bis Rue Papin\, 75003 Paris\, France
+URL:https://chiche.makesense.org/events/e/ecologie-comment-arreter-de-subir
+ -pour-sen-sortir-6ae0ca713c8bf50008f65b35
+END:VEVENT
+BEGIN:VEVENT
+UID:ff8ff0ee539f@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;TZID=Europe/Paris:20261124T133000
+DTEND;TZID=Europe/Paris:20261124T143000
+SUMMARY:Café Equilibra I Les pères au foyer sont-ils des mères au foyer 
+ comme les autres ?
+DESCRIPTION:Organisé par Boost Balance — Les pères au foyer sont-ils de
+ s mères au foyer comme les autres ?Les attentes autour des pères ont cha
+ ngé. On attend désormais d’eux qu’ils partagent les responsabilités
+  et les tâches en\nhttps://chiche.makesense.org/events/e/cafe-equilibra-i
+ -les-peres-au-foyer-sont-ils-des-meres-au-foyer-comme-les-autres-6afafe2a0
+ 40f5c0007b955e7
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/cafe-equilibra-i-les-peres-au-foy
+ er-sont-ils-des-meres-au-foyer-comme-les-autres-6afafe2a040f5c0007b955e7
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc813bed1e3@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;TZID=Europe/Paris:20261124T183000
+DTEND;TZID=Europe/Paris:20261124T220000
+SUMMARY:Rencontre inspirante
+DESCRIPTION:Organisé par Maison de la Conversation — Aborder des sujets 
+ sans tabou et réfléchir à des solutions ensemble.Nous sommes convaincue
+ s que toutes les réponses se trouvent dans le collectif et\, avec ce form
+ at\, on tente de libérer la parole sur des problématiq\nhttps://chiche.m
+ akesense.org/events/e/rencontre-inspirante-6aeb04d50f122d0007b3c089
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/rencontre-inspirante-6aeb04d50f12
+ 2d0007b3c089
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9b59d8b97a@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;TZID=Europe/Paris:20261124T183000
+DTEND;TZID=Europe/Paris:20261124T210000
+SUMMARY:Personnes racisées sur scène\, mais pas à la table des décision
+ s
+DESCRIPTION:Organisé par Maison de la Conversation — Les danseur·ses ra
+ cisé·es sont sur scène\, mais rarement là où se prennent les décisio
+ ns. Une rencontre sans tabou avec HippoH. Gratuit.Les danseur·ses racisé
+ ·es sont partout sur scène : dans les battles\, les clips\, parfois en t
+ ête d’affiche\nhttps://chiche.makesense.org/events/e/personnes-racisees
+ -sur-scene-mais-pas-a-la-table-des-decisions-6ae9c2da20d095000804a28d
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/personnes-racisees-sur-scene-mais
+ -pas-a-la-table-des-decisions-6ae9c2da20d095000804a28d
+END:VEVENT
+BEGIN:VEVENT
+UID:20476d33121c@paris-academique
+DTSTAMP:20261120T124944Z
+DTSTART;TZID=Europe/Paris:20261124T190000
+DTEND;TZID=Europe/Paris:20261124T210000
+SUMMARY:La vulnérabilité dans les relations : se rencontrer autrement
+DESCRIPTION:Organisé par Maison de la Conversation — La vulnérabilité 
+ dans les relations : se rencontrer autrementAtelier de rencontre organisé
+  par Charles Moisdon\, coach et médiateur certifié\, spécialisé dans l
+ es dynamiques relationnelles.\nhttps://chiche.makesense.org/events/e/la-vu
+ lnerabilite-dans-les-relations-se-rencontrer-autrement-6ae87ae871583400086
+ b9a01
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/la-vulnerabilite-dans-les-relatio
+ ns-se-rencontrer-autrement-6ae87ae871583400086b9a01
 END:VEVENT
 END:VCALENDAR

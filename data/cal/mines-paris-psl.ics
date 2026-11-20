@@ -24,40 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2d993f29fc7e@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:[SÉMINAIRE] Où sont les femmes dans les sciences à l’Universit
- é PSL ?
-DESCRIPTION:Participez au prochain séminaire AGIR sur le thème des femmes
-  dans les sciences\, à Chimie ParisTech – PSL le 19 novembre 2026.\nhtt
- ps://www.minesparis.psl.eu/blog/evenements/seminaire-ou-sont-les-femmes-da
- ns-les-sciences-a-luniversite-psl/
-LOCATION:Mines Paris – PSL\, 60 boulevard Saint-Michel\, Paris 6e
-URL:https://www.minesparis.psl.eu/blog/evenements/seminaire-ou-sont-les-fem
- mes-dans-les-sciences-a-luniversite-psl/
-END:VEVENT
-BEGIN:VEVENT
-UID:22fb8e9d0bda@paris-academique
-DTSTAMP:20261119T130126Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Tuyau percé\, plancher collant\, effet Matilda… et maintenant qu
- e fait-on ? Où sont les femmes dans les sciences à l’Université PSL ?
-DESCRIPTION:Participez au prochain séminaire AGIR sur le thème des femmes
-  dans les sciences\, à Chimie ParisTech – PSL le 19 novembre 2026.\nhtt
- ps://www.minesparis.psl.eu/blog/evenements/tuyau-perce-plancher-collant-ef
- fet-matilda-et-maintenant-que-fait-on-ou-sont-les-femmes-dans-les-sciences
- -a-luniversite-psl/
-LOCATION:Mines Paris – PSL\, 60 boulevard Saint-Michel\, Paris 6e
-URL:https://www.minesparis.psl.eu/blog/evenements/tuyau-perce-plancher-coll
- ant-effet-matilda-et-maintenant-que-fait-on-ou-sont-les-femmes-dans-les-sc
- iences-a-luniversite-psl/
-END:VEVENT
-BEGIN:VEVENT
 UID:4ce25ccd14af@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261208T133000
 DTEND;TZID=Europe/Paris:20261208T153000
 SUMMARY:[Webinaire TTI.5] Sortir des ressources fossiles : moyens et consé
@@ -71,7 +39,7 @@ URL:https://www.minesparis.psl.eu/blog/evenements/webinaire-tti-5-sortir-de
 END:VEVENT
 BEGIN:VEVENT
 UID:b28193492cb1@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T123000
 SUMMARY:[Conférence] Bâtiments\, infrastructures : comment la recherche s
@@ -87,7 +55,7 @@ URL:https://www.minesparis.psl.eu/blog/evenements/conference-batiments-infr
 END:VEVENT
 BEGIN:VEVENT
 UID:324b203b7f58@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;TZID=Europe/Paris:20261215T180000
 DTEND;TZID=Europe/Paris:20261215T193000
 SUMMARY:[Conférence] L’histoire de la bibliothèque de l’École des mi
@@ -103,7 +71,7 @@ URL:https://www.minesparis.psl.eu/blog/evenements/conference-lhistoire-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:c4012016e898@paris-academique
-DTSTAMP:20261119T130126Z
+DTSTAMP:20261120T124944Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:[SECRE 2027] Colloque Situations Extrêmes\, Crise et Résilience
