@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:18c4dccaa18f@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:ACademy #11 - Paris
@@ -39,8 +39,23 @@ URL:https://chiche.makesense.org/events/e/academy-11-paris-6ae1cb5cc5799000
  08adda8d
 END:VEVENT
 BEGIN:VEVENT
+UID:e23991ece7c7@paris-academique
+DTSTAMP:20261121T122737Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Initiation Faire son Yaourt Zéro Déchet (et sans lactose !)
+DESCRIPTION:Organisé par Adele DORLIPO — Vous adorez les yaourts\, vous 
+ en mangez beaucoup mais vous souhaiteriez supprimer les pots qui encombren
+ t votre poubelle ?Vous souhaitez agir ? C’est possible !Nous vous propos
+ ons d’ap\nhttps://chiche.makesense.org/events/e/initiation-faire-son-yao
+ urt-zero-dechet-et-sans-lactose-6ad20fbde444ad000706150f
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/initiation-faire-son-yaourt-zero-
+ dechet-et-sans-lactose-6ad20fbde444ad000706150f
+END:VEVENT
+BEGIN:VEVENT
 UID:8ec918eb23c5@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Spectacle “Clémentine et Pensée de la forêt”\, conte écolog
@@ -58,23 +73,8 @@ URL:https://chiche.makesense.org/events/e/spectacle-clementine-et-pensee-de
  6ad202f7e444ad000705b0c1
 END:VEVENT
 BEGIN:VEVENT
-UID:e23991ece7c7@paris-academique
-DTSTAMP:20261121T090552Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Initiation Faire son Yaourt Zéro Déchet (et sans lactose !)
-DESCRIPTION:Organisé par Adele DORLIPO — Vous adorez les yaourts\, vous 
- en mangez beaucoup mais vous souhaiteriez supprimer les pots qui encombren
- t votre poubelle ?Vous souhaitez agir ? C’est possible !Nous vous propos
- ons d’ap\nhttps://chiche.makesense.org/events/e/initiation-faire-son-yao
- urt-zero-dechet-et-sans-lactose-6ad20fbde444ad000706150f
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/initiation-faire-son-yaourt-zero-
- dechet-et-sans-lactose-6ad20fbde444ad000706150f
-END:VEVENT
-BEGIN:VEVENT
 UID:32a2e4a66160@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261121T140000
 DTEND;TZID=Europe/Paris:20261121T160000
 SUMMARY:ÉTONNAMMENT : D'ACCORD COMMENT PRÉPARER NOTRE JEUNESSE À DEMAIN 
@@ -91,7 +91,7 @@ URL:https://chiche.makesense.org/events/e/etonnamment-daccord-comment-prepa
 END:VEVENT
 BEGIN:VEVENT
 UID:53c6404a9b69@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Marche du Temps Profond au Bois de Vincennes
@@ -106,7 +106,7 @@ URL:https://chiche.makesense.org/events/e/marche-du-temps-profond-au-bois-d
 END:VEVENT
 BEGIN:VEVENT
 UID:5fb5207c2b50@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Grand format Epop& - "Dites à l'Avenir que nous arrivons" Live ave
@@ -120,7 +120,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:4783eb6d8f93@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Le premier signe avant la crise - Détecter la difficulté et les s
@@ -139,7 +139,7 @@ URL:https://chiche.makesense.org/events/e/le-premier-signe-avant-la-crise-d
 END:VEVENT
 BEGIN:VEVENT
 UID:0001e2f2d506@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Me préparer à l'entretien d'embauche📍Paris 13
@@ -154,7 +154,7 @@ URL:https://chiche.makesense.org/events/e/me-preparer-a-lentretien-dembauch
 END:VEVENT
 BEGIN:VEVENT
 UID:83b36e8d238f@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Écologie : comment arrêter de subir pour s'en sortir ? Les citoye
@@ -169,8 +169,24 @@ URL:https://chiche.makesense.org/events/e/ecologie-comment-arreter-de-subir
  -pour-sen-sortir-6ae0ca713c8bf50008f65b35
 END:VEVENT
 BEGIN:VEVENT
+UID:b89615182553@paris-academique
+DTSTAMP:20261121T122737Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Projection-débat : "Déchets électronique : le monde invisible"
+DESCRIPTION:Organisé par Envie Le Labo — Découvrez un documentaire perc
+ utant sur la surconsommation organisée du numérique et ses conséquences
+  environnementales. La projection sera suivie d’un temps d’échange an
+ imé par Stanislas Moreau avec Gilles Raillard\, le réalisateur\, Laure M
+ orice\nhttps://chiche.makesense.org/events/e/projection-debat-dechets-elec
+ tronique-le-monde-invisible-6a992b4f1c5b4f0008b97c33
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/projection-debat-dechets-electron
+ ique-le-monde-invisible-6a992b4f1c5b4f0008b97c33
+END:VEVENT
+BEGIN:VEVENT
 UID:ff8ff0ee539f@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261124T133000
 DTEND;TZID=Europe/Paris:20261124T143000
 SUMMARY:Café Equilibra I Les pères au foyer sont-ils des mères au foyer 
@@ -187,7 +203,7 @@ URL:https://chiche.makesense.org/events/e/cafe-equilibra-i-les-peres-au-foy
 END:VEVENT
 BEGIN:VEVENT
 UID:5bc813bed1e3@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T220000
 SUMMARY:Rencontre inspirante
@@ -202,7 +218,7 @@ URL:https://chiche.makesense.org/events/e/rencontre-inspirante-6aeb04d50f12
 END:VEVENT
 BEGIN:VEVENT
 UID:fa9b59d8b97a@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:Personnes racisées sur scène\, mais pas à la table des décision
@@ -219,7 +235,7 @@ URL:https://chiche.makesense.org/events/e/personnes-racisees-sur-scene-mais
 END:VEVENT
 BEGIN:VEVENT
 UID:20476d33121c@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:La vulnérabilité dans les relations : se rencontrer autrement

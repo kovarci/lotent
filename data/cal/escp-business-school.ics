@@ -23,4 +23,16 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:894ea8804b85@paris-academique
+DTSTAMP:20261121T122737Z
+DTSTART;TZID=Europe/Paris:20261209T180000
+DTEND;TZID=Europe/Paris:20261209T200000
+SUMMARY:L’innovation va-t-elle tuer le Progrès ?
+DESCRIPTION:Event\nhttps://escp.eu/fr/events/linnovation-va-t-elle-tuer-le-
+ progres
+LOCATION:Campus Paris Montparnasse\, 3 rue Armand Moisant\, 75015 Paris\, F
+ rance
+URL:https://escp.eu/fr/events/linnovation-va-t-elle-tuer-le-progres
+END:VEVENT
 END:VCALENDAR

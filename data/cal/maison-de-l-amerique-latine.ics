@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ec6a957ef8ea@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261123T190000
 DTEND;TZID=Europe/Paris:20261123T210000
 SUMMARY:L'Œil pense — Les yeux sur Cuba
@@ -37,7 +37,7 @@ URL:https://www.mal217.org/fr/agenda/l-oeil-pense-copie-7b6f6dc5
 END:VEVENT
 BEGIN:VEVENT
 UID:60b54024bd0f@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:Julio Ramón Ribeyro — par Nerit Olaya
@@ -49,7 +49,7 @@ URL:https://www.mal217.org/fr/agenda/ribeyro-solo-para-contar
 END:VEVENT
 BEGIN:VEVENT
 UID:372dce7d12c6@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261126T190000
 DTEND;TZID=Europe/Paris:20261126T210000
 SUMMARY:Tribune de l'actualité latino-américaine et caribéenne — Brés
@@ -63,7 +63,7 @@ URL:https://www.mal217.org/fr/agenda/tribune-de-l-actualite-latino-americai
 END:VEVENT
 BEGIN:VEVENT
 UID:b09ed60906a2@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261127T190000
 DTEND;TZID=Europe/Paris:20261127T210000
 SUMMARY:Revolución Mujer Diamante
@@ -75,7 +75,7 @@ URL:https://www.mal217.org/fr/agenda/revolucion-mujer-diamante
 END:VEVENT
 BEGIN:VEVENT
 UID:ef271291829a@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261127T210000
 DTEND;TZID=Europe/Paris:20261127T230000
 SUMMARY:Le lawfare en Argentine — Arrestation arbitraire des leaders poli
@@ -88,7 +88,7 @@ URL:https://www.mal217.org/fr/agenda/le-lawfare-en-argentine
 END:VEVENT
 BEGIN:VEVENT
 UID:82b15e0c5993@paris-academique
-DTSTAMP:20261121T090552Z
+DTSTAMP:20261121T122737Z
 DTSTART;TZID=Europe/Paris:20261130T190000
 DTEND;TZID=Europe/Paris:20261130T210000
 SUMMARY:Pourquoi ne faisons-nous plus d’enfants ?
