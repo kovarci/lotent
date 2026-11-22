@@ -49,6 +49,10 @@ LUMA_PAGES = [
     "https://luma.com/food",
     "https://luma.com/ai",
     "https://luma.com/fitness",
+    "https://luma.com/family",
+    "https://luma.com/books",
+    "https://luma.com/games",
+    "https://luma.com/running",
 ]
 
 

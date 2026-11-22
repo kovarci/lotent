@@ -299,8 +299,9 @@ def reclassify(ev):
 # au moins sur le thème de la page Luma d'où il vient.
 _LUMA_CAT_DISCIPLINE = {
     "ai": "Sciences", "tech": "Sciences", "climate": "Sciences",
-    "arts": "Arts & Culture", "crypto": "Économie",
-    # paris / wellness / food / fitness → restent "Autre" (vraiment hors champ académique)
+    "arts": "Arts & Culture", "crypto": "Économie", "books": "Littérature",
+    # paris / wellness / food / fitness / family / games / running → restent "Autre"
+    # (vraiment hors champ académique)
 }
 
 
