@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:7add8f04bd10@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261124T090000
 DTEND;TZID=Europe/Paris:20261124T190000
 SUMMARY:Dauphine Digital Days 2026
@@ -38,7 +38,7 @@ URL:https://dauphine.psl.eu/dauphine-digital-days
 END:VEVENT
 BEGIN:VEVENT
 UID:f3711bd5656d@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261124T090000
 DTEND;TZID=Europe/Paris:20261124T123000
 SUMMARY:Données de santé : produire\, partager\, protéger
@@ -52,7 +52,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/donnees
 END:VEVENT
 BEGIN:VEVENT
 UID:e17262f478f2@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261124T123000
 DTEND;TZID=Europe/Paris:20261124T140000
 SUMMARY:Atelier-jeu : la bataille de l'IA
@@ -67,7 +67,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/atelier
 END:VEVENT
 BEGIN:VEVENT
 UID:c9150e768053@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261124T143000
 DTEND;TZID=Europe/Paris:20261124T170000
 SUMMARY:IA et médias : qui paiera encore pour l’information ?
@@ -81,7 +81,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/ia-et-m
 END:VEVENT
 BEGIN:VEVENT
 UID:008f30185eb3@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261124T170000
 DTEND;TZID=Europe/Paris:20261124T200000
 SUMMARY:Afterwork "Métiers de l'IA\, du numérique et des mathématiques"
@@ -96,7 +96,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/lafterw
 END:VEVENT
 BEGIN:VEVENT
 UID:42d7447e202b@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261125T090000
 DTEND;TZID=Europe/Paris:20261125T123000
 SUMMARY:Prévenir et gérer les risques liés aux usages des IA générativ
@@ -112,7 +112,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/preveni
 END:VEVENT
 BEGIN:VEVENT
 UID:4c1d9e087fbe@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261125T090000
 DTEND;TZID=Europe/Paris:20261125T183000
 SUMMARY:Présentation des posters scientifiques par les doctorants
@@ -127,7 +127,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/present
 END:VEVENT
 BEGIN:VEVENT
 UID:4c18ffb899d8@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261125T130000
 DTEND;TZID=Europe/Paris:20261125T180000
 SUMMARY:Le hackathon des Dauphine Digital Days
@@ -141,7 +141,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/le-hack
 END:VEVENT
 BEGIN:VEVENT
 UID:5ee58fb72190@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261126T093000
 DTEND;TZID=Europe/Paris:20261126T120000
 SUMMARY:IA et responsabilité : état des lieux et enjeux
@@ -156,7 +156,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/ia-resp
 END:VEVENT
 BEGIN:VEVENT
 UID:7e34b6658e45@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261126T140000
 DTEND;TZID=Europe/Paris:20261126T153000
 SUMMARY:Finance(s) : à qui profite l'IA ?
@@ -170,7 +170,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/finance
 END:VEVENT
 BEGIN:VEVENT
 UID:ed80dda401b2@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261126T160000
 DTEND;TZID=Europe/Paris:20261126T171500
 SUMMARY:Usages\, impacts et enjeux de l'IA en recherche
@@ -185,7 +185,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/usages-
 END:VEVENT
 BEGIN:VEVENT
 UID:b862f5a7054f@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261126T173000
 DTEND;TZID=Europe/Paris:20261126T190000
 SUMMARY:Comment reconnaître le travail demain ?
@@ -200,7 +200,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/regards
 END:VEVENT
 BEGIN:VEVENT
 UID:d1b70407020f@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T163000
 SUMMARY:Finale du concours Éloquence du bégaiement 2026
@@ -215,7 +215,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/finale-
 END:VEVENT
 BEGIN:VEVENT
 UID:1a48f1dca035@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261130T173000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:Soirée Alumni "Carrières responsables" 2026
@@ -229,7 +229,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/soiree-
 END:VEVENT
 BEGIN:VEVENT
 UID:9eabb3e10e4f@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Osez Dauphine : soirée portes ouvertes de Dauphine Executive Educa
@@ -245,7 +245,7 @@ URL:https://executive-education.dauphine.psl.eu/nous-connaitre/portes-ouver
 END:VEVENT
 BEGIN:VEVENT
 UID:d5f8e38e2e3b@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261201T200000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Concert inaugural de l'Orchestre symphonique de PSL - 2026
@@ -260,7 +260,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2d9ab7c27469@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T130000
 SUMMARY:11ème édition des rendez-vous du logement étudiant
@@ -275,7 +275,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/11eme-e
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8af4705bb8@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261204T134500
 DTEND;TZID=Europe/Paris:20261204T150000
 SUMMARY:Présentation du Hotspot Terrae-PSL Habiterra
@@ -290,7 +290,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/present
 END:VEVENT
 BEGIN:VEVENT
 UID:2efd15332f6f@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T220000
 SUMMARY:Égalité des chances : Dauphine à l’heure des possibles
@@ -305,7 +305,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/soiree-
 END:VEVENT
 BEGIN:VEVENT
 UID:367fcb23d40b@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261209T190000
 DTEND;TZID=Europe/Paris:20261209T203000
 SUMMARY:Fail Night 8ème édition
@@ -319,7 +319,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/default
 END:VEVENT
 BEGIN:VEVENT
 UID:87042c06dfea@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261215T174500
 DTEND;TZID=Europe/Paris:20261215T201500
 SUMMARY:Projection - documentaire : Éclaireurs
@@ -334,7 +334,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/project
 END:VEVENT
 BEGIN:VEVENT
 UID:c7640486a003@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:Appel à communications: 3e conférence "Propriété\, contrôle et

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:3ae620540310@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261130T121500
 DTEND;TZID=Europe/Paris:20261130T130000
 SUMMARY:Siestes littéraires 2026
@@ -36,7 +36,7 @@ URL:https://www.parisnanterre.fr/agenda/siestes-litteraires-2
 END:VEVENT
 BEGIN:VEVENT
 UID:3305f82f93f6@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261130T130000
 DTEND;TZID=Europe/Paris:20261130T150000
 SUMMARY:Événement > Distribution gratuite de culottes menstruelles du 1er
@@ -50,7 +50,7 @@ URL:https://www.parisnanterre.fr/agenda/evenement-distribution-gratuite-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:3286b7dcb352@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261130T131500
 DTEND;TZID=Europe/Paris:20261130T151500
 SUMMARY:Siestes littéraires (décembre)
@@ -61,7 +61,7 @@ URL:https://www.parisnanterre.fr/agenda/siestes-litteraires-1
 END:VEVENT
 BEGIN:VEVENT
 UID:650dc5dd99cc@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Le village d'hiver solidaire - édition 2026
@@ -73,7 +73,7 @@ URL:https://www.parisnanterre.fr/agenda/le-village-dhiver-edition-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:b59875fef328@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20261202T180000
 DTEND;TZID=Europe/Paris:20261202T200000
 SUMMARY:Cercle de lecture / Lancement de la micro-édition "Entre-tenir"
@@ -86,7 +86,7 @@ URL:https://www.parisnanterre.fr/agenda/cercle-de-lecture-lancement-de-la-m
 END:VEVENT
 BEGIN:VEVENT
 UID:260a87edc829@paris-academique
-DTSTAMP:20261122T123412Z
+DTSTAMP:20261122T171410Z
 DTSTART;TZID=Europe/Paris:20270206T100000
 DTEND;TZID=Europe/Paris:20270206T120000
 SUMMARY:Journée Portes Ouvertes (JPO) - STAPS - Campus de Nanterre - Samed
