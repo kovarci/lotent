@@ -24,42 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f7f881173b3b@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;TZID=Europe/Paris:20261120T100000
-DTEND;TZID=Europe/Paris:20261120T120000
-SUMMARY:Pourrons-nous tuer encore une fois ?
-DESCRIPTION:Séminaire\nhttps://www.fmsh.fr/agenda/pourrons-nous-tuer-encor
- e-une-fois
-LOCATION:FMSH\, 54 boulevard Raspail\, Paris 6e
-URL:https://www.fmsh.fr/agenda/pourrons-nous-tuer-encore-une-fois
-END:VEVENT
-BEGIN:VEVENT
-UID:fc667d85ea3f@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;TZID=Europe/Paris:20261120T100000
-DTEND;TZID=Europe/Paris:20261120T120000
-SUMMARY:L'enregistrement civil des mort-nés en France
-DESCRIPTION:Séminaire\nhttps://www.fmsh.fr/agenda/lenregistrement-civil-de
- s-mort-nes-en-france
-LOCATION:FMSH\, 54 boulevard Raspail\, Paris 6e
-URL:https://www.fmsh.fr/agenda/lenregistrement-civil-des-mort-nes-en-france
-END:VEVENT
-BEGIN:VEVENT
-UID:7caac5b7f745@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;TZID=Europe/Paris:20261120T160000
-DTEND;TZID=Europe/Paris:20261120T180000
-SUMMARY:Des marges de manœuvre. Clemens Heller et la science
-DESCRIPTION:Rencontre\nhttps://www.fmsh.fr/agenda/des-marges-de-manoeuvre-c
- lemens-heller-et-la-science
-LOCATION:FMSH\, 54 boulevard Raspail\, Paris 6e
-URL:https://www.fmsh.fr/agenda/des-marges-de-manoeuvre-clemens-heller-et-la
- -science
-END:VEVENT
-BEGIN:VEVENT
 UID:59c56a15b48b@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261126T090000
 DTEND;TZID=Europe/Paris:20261126T110000
 SUMMARY:Les humanités en formes
@@ -69,7 +35,7 @@ URL:https://www.fmsh.fr/agenda/les-humanites-en-formes
 END:VEVENT
 BEGIN:VEVENT
 UID:72aaef039808@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261126T160000
 DTEND;TZID=Europe/Paris:20261126T180000
 SUMMARY:Comme des hommes ?
@@ -79,7 +45,7 @@ URL:https://www.fmsh.fr/agenda/comme-des-hommes
 END:VEVENT
 BEGIN:VEVENT
 UID:73dcc92bd604@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261126T180000
 DTEND;TZID=Europe/Paris:20261126T200000
 SUMMARY:Urbanisation déplacée et urbanisation étendue
@@ -91,7 +57,7 @@ URL:https://www.fmsh.fr/agenda/urbanisation-deplacee-et-urbanisation-etendu
 END:VEVENT
 BEGIN:VEVENT
 UID:c25b10619c49@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261203T100000
 DTEND;TZID=Europe/Paris:20261203T120000
 SUMMARY:Exil·s\, guerre·s et création·s : images de résistance au serv
@@ -104,7 +70,7 @@ URL:https://www.fmsh.fr/agenda/exils-guerres-et-creations-images-de-resista
 END:VEVENT
 BEGIN:VEVENT
 UID:94f76b6e05a1@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261203T180000
 DTEND;TZID=Europe/Paris:20261203T200000
 SUMMARY:Quand la da‘wah et la politique se rencontrent
@@ -116,7 +82,7 @@ URL:https://www.fmsh.fr/agenda/quand-la-dawah-et-la-politique-se-rencontren
 END:VEVENT
 BEGIN:VEVENT
 UID:9e5351f56dcd@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261203T180000
 DTEND;TZID=Europe/Paris:20261203T200000
 SUMMARY:Le Sri Lanka : une île au cœur de la géopolitique de l’Indo-Pa
@@ -129,7 +95,7 @@ URL:https://www.fmsh.fr/agenda/le-sri-lanka-une-ile-au-coeur-de-la-geopolit
 END:VEVENT
 BEGIN:VEVENT
 UID:ab441ca40d43@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261204T100000
 DTEND;TZID=Europe/Paris:20261204T120000
 SUMMARY:La petite enfance et les violences sexuelles intra et extra-familia
@@ -142,7 +108,7 @@ URL:https://www.fmsh.fr/agenda/la-petite-enfance-et-les-violences-sexuelles
 END:VEVENT
 BEGIN:VEVENT
 UID:4cda72013f25@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261208T190000
 DTEND;TZID=Europe/Paris:20261208T210000
 SUMMARY:#Restitutions. Les objets d'art en question
@@ -153,7 +119,7 @@ URL:https://www.fmsh.fr/agenda/restitutions-les-objets-dart-en-question
 END:VEVENT
 BEGIN:VEVENT
 UID:1b664f35a8b8@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261209T180000
 DTEND;TZID=Europe/Paris:20261209T200000
 SUMMARY:Adieu ma Russie. Mémoires orphelines
@@ -164,7 +130,7 @@ URL:https://www.fmsh.fr/agenda/adieu-ma-russie-memoires-orphelines
 END:VEVENT
 BEGIN:VEVENT
 UID:63fba43d3d4a@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261210T090000
 DTEND;TZID=Europe/Paris:20261210T110000
 SUMMARY:Océaniser l'humain
@@ -174,7 +140,7 @@ URL:https://www.fmsh.fr/agenda/oceaniser-lhumain
 END:VEVENT
 BEGIN:VEVENT
 UID:7da0f631f8aa@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261210T180000
 DTEND;TZID=Europe/Paris:20261210T200000
 SUMMARY:Les sakhī : alternative ascétique pour femmes « transgenres »
@@ -186,7 +152,7 @@ URL:https://www.fmsh.fr/agenda/les-sakhi-alternative-ascetique-pour-femmes-
 END:VEVENT
 BEGIN:VEVENT
 UID:b8aa6d8e2cb4@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261214T150000
 DTEND;TZID=Europe/Paris:20261214T170000
 SUMMARY:Sujet et sciences de l’homme face à l’intelligence artificiell
@@ -199,7 +165,7 @@ URL:https://www.fmsh.fr/agenda/sujet-et-sciences-de-lhomme-face-lintelligen
 END:VEVENT
 BEGIN:VEVENT
 UID:46baf15c2f29@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261214T153000
 DTEND;TZID=Europe/Paris:20261214T173000
 SUMMARY:Journées d'étude : Exils enchevêtrés
@@ -210,7 +176,7 @@ URL:https://www.fmsh.fr/agenda/journees-detude-exils-enchevetres
 END:VEVENT
 BEGIN:VEVENT
 UID:1893eada5701@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261215T093000
 DTEND;TZID=Europe/Paris:20261215T113000
 SUMMARY:« Irréparable ». Traces\, silences et fantômes. Pour une épist
@@ -223,7 +189,7 @@ URL:https://www.fmsh.fr/agenda/irreparable-traces-silences-et-fantomes-pour
 END:VEVENT
 BEGIN:VEVENT
 UID:56bb6cfd2ddd@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261215T183000
 DTEND;TZID=Europe/Paris:20261215T203000
 SUMMARY:Plastiques\, des révélateurs de la crise éthique de notre relati
@@ -236,7 +202,7 @@ URL:https://www.fmsh.fr/agenda/plastiques-des-revelateurs-de-la-crise-ethiq
 END:VEVENT
 BEGIN:VEVENT
 UID:7e7ab2861598@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261217T180000
 DTEND;TZID=Europe/Paris:20261217T200000
 SUMMARY:La géopolitique de l'océan Indien et du Sri Lanka
@@ -248,7 +214,7 @@ URL:https://www.fmsh.fr/agenda/la-geopolitique-de-locean-indien-et-du-sri-l
 END:VEVENT
 BEGIN:VEVENT
 UID:06508c812e37@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261217T190000
 DTEND;TZID=Europe/Paris:20261217T210000
 SUMMARY:Immer-son. Écouter aux pages des romans (Jane Eyre et Dracula)
@@ -260,7 +226,7 @@ URL:https://www.fmsh.fr/agenda/immer-son-ecouter-aux-pages-des-romans-jane-
 END:VEVENT
 BEGIN:VEVENT
 UID:63e3044f7ac1@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20270111T150000
 DTEND;TZID=Europe/Paris:20270111T170000
 SUMMARY:Sujet et sciences de l’homme face à l’intelligence artificiell
@@ -273,7 +239,7 @@ URL:https://www.fmsh.fr/agenda/sujet-et-sciences-de-lhomme-face-lintelligen
 END:VEVENT
 BEGIN:VEVENT
 UID:53fcb2f2dfbd@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20270208T150000
 DTEND;TZID=Europe/Paris:20270208T170000
 SUMMARY:Sujet et sciences de l’homme face à l’intelligence artificiell

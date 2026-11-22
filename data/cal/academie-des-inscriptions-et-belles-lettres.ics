@@ -24,38 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:23fa46779e31@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;TZID=Europe/Paris:20261120T153000
-DTEND;TZID=Europe/Paris:20261120T173000
-SUMMARY:Un fragment d’histoire de la frontière d’al-Andalus : Albalat 
- (IX e -XII e s.)
-DESCRIPTION:Note d’information de Mme Sophie Gilotte\, sous le patronage 
- du Secrétaire perpétuel Nicolas GRIMAL : « Un fragment d’histoire de 
- la frontière d’al-Andalus : Albalat (IX e -XII e s.) ».\nhttps://aibl.
- fr/seances/vendredi-20-novembre-2026/
-LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
-URL:https://aibl.fr/seances/vendredi-20-novembre-2026/
-END:VEVENT
-BEGIN:VEVENT
-UID:8deff182e3f6@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;TZID=Europe/Paris:20261120T153000
-DTEND;TZID=Europe/Paris:20261120T173000
-SUMMARY:D’une écriture à une autre dans le monde maya
-DESCRIPTION:Communication de Mme Valentina Vapnarsky\, correspondant de l
- ’Académie : « D’une écriture à une autre dans le monde maya ». R
- ésumé Parmi les bouleversements que provoqua la colonisation des Amériq
- ues\, celui qui concernait les systèmes d’écriture n’est pas des moi
- ndres. Chez les Mayas en particulier\, l’ancienne écriture glyphique fu
- t extirpée et l’alphabet imposé. Les Mayas se l’approprièrent…\nh
- ttps://aibl.fr/seances/vendredi-20-novembre-2026/
-LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
-URL:https://aibl.fr/seances/vendredi-20-novembre-2026/
-END:VEVENT
-BEGIN:VEVENT
 UID:e8d33f24d953@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261127T153000
 DTEND;TZID=Europe/Paris:20261127T173000
 SUMMARY:Séance annuelle de rentrée solennelle de l’Académie sous la Co

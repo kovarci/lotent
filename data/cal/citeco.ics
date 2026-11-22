@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6782795b8951@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;TZID=Europe/Paris:20261121T150000
-DTEND;TZID=Europe/Paris:20261121T160000
-SUMMARY:Art faber\, quand l’art raconte l’économie : métamorphoses de
-  la production
-DESCRIPTION:https://www.citeco.fr/agenda/art-faber-quand-lart-raconte-lecon
- omie-metamorphoses-de-la-production
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/art-faber-quand-lart-raconte-leconomie-met
- amorphoses-de-la-production
-END:VEVENT
-BEGIN:VEVENT
 UID:e1f6b81fc743@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261121T163000
 DTEND;TZID=Europe/Paris:20261121T173000
 SUMMARY:L'art du billet
@@ -48,7 +35,7 @@ URL:https://www.citeco.fr/agenda/lart-du-billet
 END:VEVENT
 BEGIN:VEVENT
 UID:54be55fd82e7@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261122T163000
 DTEND;TZID=Europe/Paris:20261122T173000
 SUMMARY:Les chemins de l’innovation
@@ -58,12 +45,22 @@ URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
 END:VEVENT
 BEGIN:VEVENT
 UID:69349a9cbeb3@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261129T160000
 DTEND;TZID=Europe/Paris:20261129T171500
 SUMMARY:Les Surfeurs de la Monnaie
 DESCRIPTION:https://www.citeco.fr/agenda/les-surfeurs-de-la-monnaie
 LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
 URL:https://www.citeco.fr/agenda/les-surfeurs-de-la-monnaie
+END:VEVENT
+BEGIN:VEVENT
+UID:53f2ab6cb5b1@paris-academique
+DTSTAMP:20261122T123412Z
+DTSTART;TZID=Europe/Paris:20261129T163000
+DTEND;TZID=Europe/Paris:20261129T173000
+SUMMARY:Les chemins de l’innovation
+DESCRIPTION:https://www.citeco.fr/agenda/les-chemins-de-linnovation
+LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
+URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
 END:VEVENT
 END:VCALENDAR

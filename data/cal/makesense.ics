@@ -24,74 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:18c4dccaa18f@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:ACademy #11 - Paris
-DESCRIPTION:Organisé par Avenir Climatique — ⚠️ATTENTION : l'adresse
-  vous sera validée après votre inscription.🌎 L’ACademy est une form
- ation d’un an\, gratuite et ludique\, qui permet de mieux appréhender l
- es enjeu\nhttps://chiche.makesense.org/events/e/academy-11-paris-6ae1cb5cc
- 579900008adda8d
-LOCATION:3 Rue de Tolbiac\, 75013 Paris\, France
-URL:https://chiche.makesense.org/events/e/academy-11-paris-6ae1cb5cc5799000
- 08adda8d
-END:VEVENT
-BEGIN:VEVENT
-UID:e23991ece7c7@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Initiation Faire son Yaourt Zéro Déchet (et sans lactose !)
-DESCRIPTION:Organisé par Adele DORLIPO — Vous adorez les yaourts\, vous 
- en mangez beaucoup mais vous souhaiteriez supprimer les pots qui encombren
- t votre poubelle ?Vous souhaitez agir ? C’est possible !Nous vous propos
- ons d’ap\nhttps://chiche.makesense.org/events/e/initiation-faire-son-yao
- urt-zero-dechet-et-sans-lactose-6ad20fbde444ad000706150f
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/initiation-faire-son-yaourt-zero-
- dechet-et-sans-lactose-6ad20fbde444ad000706150f
-END:VEVENT
-BEGIN:VEVENT
-UID:8ec918eb23c5@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Spectacle “Clémentine et Pensée de la forêt”\, conte écolog
- ique pour sensibiliser les enfants à l’environnement !
-DESCRIPTION:Organisé par Adele DORLIPO — Le samedi 21 novembre\, La Mais
- on du Zéro Déchet accueille Iris BLANDIN et Marie PETITJEAN pour une ode
-  à la nature et à l’importance de la préserver\, à travers une avent
- ure poétique\, musicale et visuelle pour petits et grands !\nhttps://chic
- he.makesense.org/events/e/spectacle-clementine-et-pensee-de-la-foret-conte
- -ecologique-pour-sensibiliser-les-enfants-a-lenvironnement-6ad202f7e444ad0
- 00705b0c1
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/spectacle-clementine-et-pensee-de
- -la-foret-conte-ecologique-pour-sensibiliser-les-enfants-a-lenvironnement-
- 6ad202f7e444ad000705b0c1
-END:VEVENT
-BEGIN:VEVENT
-UID:32a2e4a66160@paris-academique
-DTSTAMP:20261121T122737Z
-DTSTART;TZID=Europe/Paris:20261121T140000
-DTEND;TZID=Europe/Paris:20261121T160000
-SUMMARY:ÉTONNAMMENT : D'ACCORD COMMENT PRÉPARER NOTRE JEUNESSE À DEMAIN 
- ?
-DESCRIPTION:Organisé par Maison de la Conversation — Venez participer à
-  une rencontre citoyenne autour de l’école et de son avenir.Retrouvez 
- élèves\, parents\, enseignants\, citoyens et curieux pour échanger auto
- ur d’une question commune : que faut-il changer à l’école\nhttps://c
- hiche.makesense.org/events/e/etonnamment-daccord-comment-preparer-notre-je
- unesse-a-demain-6aea06b420d095000806ed24
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/etonnamment-daccord-comment-prepa
- rer-notre-jeunesse-a-demain-6aea06b420d095000806ed24
-END:VEVENT
-BEGIN:VEVENT
 UID:53c6404a9b69@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Marche du Temps Profond au Bois de Vincennes
@@ -106,7 +40,7 @@ URL:https://chiche.makesense.org/events/e/marche-du-temps-profond-au-bois-d
 END:VEVENT
 BEGIN:VEVENT
 UID:5fb5207c2b50@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Grand format Epop& - "Dites à l'Avenir que nous arrivons" Live ave
@@ -120,7 +54,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:4783eb6d8f93@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Le premier signe avant la crise - Détecter la difficulté et les s
@@ -139,7 +73,7 @@ URL:https://chiche.makesense.org/events/e/le-premier-signe-avant-la-crise-d
 END:VEVENT
 BEGIN:VEVENT
 UID:0001e2f2d506@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Me préparer à l'entretien d'embauche📍Paris 13
@@ -154,7 +88,7 @@ URL:https://chiche.makesense.org/events/e/me-preparer-a-lentretien-dembauch
 END:VEVENT
 BEGIN:VEVENT
 UID:83b36e8d238f@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Écologie : comment arrêter de subir pour s'en sortir ? Les citoye
@@ -170,7 +104,7 @@ URL:https://chiche.makesense.org/events/e/ecologie-comment-arreter-de-subir
 END:VEVENT
 BEGIN:VEVENT
 UID:b89615182553@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Projection-débat : "Déchets électronique : le monde invisible"
@@ -186,7 +120,7 @@ URL:https://chiche.makesense.org/events/e/projection-debat-dechets-electron
 END:VEVENT
 BEGIN:VEVENT
 UID:ff8ff0ee539f@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261124T133000
 DTEND;TZID=Europe/Paris:20261124T143000
 SUMMARY:Café Equilibra I Les pères au foyer sont-ils des mères au foyer 
@@ -203,7 +137,7 @@ URL:https://chiche.makesense.org/events/e/cafe-equilibra-i-les-peres-au-foy
 END:VEVENT
 BEGIN:VEVENT
 UID:5bc813bed1e3@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T220000
 SUMMARY:Rencontre inspirante
@@ -218,7 +152,7 @@ URL:https://chiche.makesense.org/events/e/rencontre-inspirante-6aeb04d50f12
 END:VEVENT
 BEGIN:VEVENT
 UID:fa9b59d8b97a@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:Personnes racisées sur scène\, mais pas à la table des décision
@@ -235,7 +169,7 @@ URL:https://chiche.makesense.org/events/e/personnes-racisees-sur-scene-mais
 END:VEVENT
 BEGIN:VEVENT
 UID:20476d33121c@paris-academique
-DTSTAMP:20261121T122737Z
+DTSTAMP:20261122T123412Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:La vulnérabilité dans les relations : se rencontrer autrement
@@ -248,5 +182,89 @@ DESCRIPTION:Organisé par Maison de la Conversation — La vulnérabilité
 LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
 URL:https://chiche.makesense.org/events/e/la-vulnerabilite-dans-les-relatio
  ns-se-rencontrer-autrement-6ae87ae871583400086b9a01
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd94d45ecd5@paris-academique
+DTSTAMP:20261122T123412Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:LE BUSINESS MODEL DE L'ENTREPRISE RÉGÉNÉRATIVE
+DESCRIPTION:Organisé par Jeremy Dumont — Le business model canvas de l
+ ’entreprise régénérativeNotre Business Model Canvas de l’entreprise
+  Régénérative – le REGEN BMC – permet d’identifier les zones de d
+ égénération d’une activité économique et d’identi\nhttps://chiche
+ .makesense.org/events/e/le-business-model-de-lentreprise-regenerative-6ab1
+ 58db32f93b0008d0d99a
+LOCATION:61 Av. Philippe Auguste\, 75011 Paris\, France
+URL:https://chiche.makesense.org/events/e/le-business-model-de-lentreprise-
+ regenerative-6ab158db32f93b0008d0d99a
+END:VEVENT
+BEGIN:VEVENT
+UID:39a46336c446@paris-academique
+DTSTAMP:20261122T123412Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Je visite Envie Le Labo
+DESCRIPTION:Organisé par Envie Le Labo — [Visite découverte gratuite - 
+ Inscription obligatoire]Participez à nos visites guidées pour découvrir
+  les coulisses d'Envie Le Labo ! L’occasion de connaître les activités
+  sociales et environnementales du réseau Envie pour prendre soin des\nhtt
+ ps://chiche.makesense.org/events/e/je-visite-envie-le-labo-6ae9ef7520d0950
+ 0080628bd
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/je-visite-envie-le-labo-6ae9ef752
+ 0d09500080628bd
+END:VEVENT
+BEGIN:VEVENT
+UID:b8bacdf78018@paris-academique
+DTSTAMP:20261122T123412Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:2 collines\, 1000 chemins : une plongée dans les parcours d'engage
+ ment
+DESCRIPTION:Organisé par Anastasia Dereppe — Un atelier émotionnel et i
+ nteractif pour explorer son parcours d’engagement écologique\, basé su
+ r un modèle sociologique inédit.❓Pourquoi certain·es basculent-ils ve
+ rs des modes de vie plus sobres\, engagés\, écologiques - et d’autres 
+ pas ?\nhttps://chiche.makesense.org/events/e/2-collines-1000-chemins-une-p
+ longee-dans-les-parcours-dengagement-6a05ddcd4e5ca500084948d5
+LOCATION:2 Pl. Baudoyer\, 75004 Paris\, France
+URL:https://chiche.makesense.org/events/e/2-collines-1000-chemins-une-plong
+ ee-dans-les-parcours-dengagement-6a05ddcd4e5ca500084948d5
+END:VEVENT
+BEGIN:VEVENT
+UID:c951c24c40a3@paris-academique
+DTSTAMP:20261122T123412Z
+DTSTART;TZID=Europe/Paris:20261125T190000
+DTEND;TZID=Europe/Paris:20261125T210000
+SUMMARY:Projection/table ronde : La pratique de l’oral en classe peut-ell
+ e conduire les jeunes à développer leur engagement citoyen ?
+DESCRIPTION:Organisé par Amélie Virollet — Rendez-vous le mercredi 25 n
+ ovembre à l'Académie du climat pour une projection/table-ronde autour de
+  la problématique suivante : La pratique de l’oral en classe peut-elle 
+ conduire les jeunes à développer leur engagement citoyen ?À travers u\n
+ https://chiche.makesense.org/events/e/projectiontable-ronde-la-pratique-de
+ -loral-en-classe-peut-elle-conduire-les-jeunes-a-developper-leur-engagemen
+ t-citoyen-6af1f7da320a110009b6f964
+LOCATION:2 Pl. Baudoyer\, 75004 Paris\, France
+URL:https://chiche.makesense.org/events/e/projectiontable-ronde-la-pratique
+ -de-loral-en-classe-peut-elle-conduire-les-jeunes-a-developper-leur-engage
+ ment-citoyen-6af1f7da320a110009b6f964
+END:VEVENT
+BEGIN:VEVENT
+UID:e59200811165@paris-academique
+DTSTAMP:20261122T123412Z
+DTSTART;TZID=Europe/Paris:20261125T190000
+DTEND;TZID=Europe/Paris:20261125T210000
+SUMMARY:Rencontre littéraire avec Fatima Ouassak et Louise Plantin
+DESCRIPTION:Organisé par Maison de la Conversation — Venez rencontrer le
+ s autrices de "La Puissance des Mères"\, une BD qui a l'ambition de propo
+ ser une alternative politique portée par les mèresEt si devenir mère ch
+ angeait notre regard sur le monde ?À l'occasion de la paru\nhttps://chich
+ e.makesense.org/events/e/rencontre-litteraire-avec-fatima-ouassak-6ae86d6c
+ 24d3960007232429
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/rencontre-litteraire-avec-fatima-
+ ouassak-6ae86d6c24d3960007232429
 END:VEVENT
 END:VCALENDAR
