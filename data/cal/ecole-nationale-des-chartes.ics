@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:768869d1cbda@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261124T090000
 DTEND;TZID=Europe/Paris:20261124T110000
 SUMMARY:Archives\, patrimoine audiovisuel et avenir des technologies muséa
@@ -39,7 +39,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/archives-patrimoine
 END:VEVENT
 BEGIN:VEVENT
 UID:4a206122e70c@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261124T140000
 DTEND;TZID=Europe/Paris:20261124T180000
 SUMMARY:Les bibliothèques face à leur héritage colonial
@@ -51,7 +51,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/les-bibliotheques-f
 END:VEVENT
 BEGIN:VEVENT
 UID:84cd26a6569c@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261124T170000
 DTEND;TZID=Europe/Paris:20261124T190000
 SUMMARY:Lancement de DoTS-suite
@@ -63,7 +63,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/lancement-de-dots-s
 END:VEVENT
 BEGIN:VEVENT
 UID:1828077e18c6@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261125T140000
 DTEND;TZID=Europe/Paris:20261125T170000
 SUMMARY:Conférence internationale humanités numériques 2026 (CIHN’26)
@@ -76,7 +76,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/conference-internat
 END:VEVENT
 BEGIN:VEVENT
 UID:794cb5b0b60d@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261127T090000
 DTEND;TZID=Europe/Paris:20261127T173000
 SUMMARY:Journée de formation aux outils de la recherche sur le XVI e sièc
@@ -89,7 +89,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/journee-de-formatio
 END:VEVENT
 BEGIN:VEVENT
 UID:fcd9e20b7d65@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261130T180000
 DTEND;TZID=Europe/Paris:20261130T190000
 SUMMARY:Du livre ordinaire au livre singulier
@@ -101,7 +101,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/du-livre-ordinaire-
 END:VEVENT
 BEGIN:VEVENT
 UID:e25b1b8c2f38@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Donn[ées/er] à voir
@@ -112,7 +112,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/donneeser-voir
 END:VEVENT
 BEGIN:VEVENT
 UID:4b1eed302303@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Donn[er/ées] à voir
@@ -123,7 +123,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/donnerees-voir
 END:VEVENT
 BEGIN:VEVENT
 UID:f390a8fdc16d@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261208T143000
 DTEND;TZID=Europe/Paris:20261208T163000
 SUMMARY:Martina Lenzi soutient sa thèse de doctorat
@@ -135,7 +135,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/martina-lenzi-souti
 END:VEVENT
 BEGIN:VEVENT
 UID:1924ab750391@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261217T150000
 DTEND;TZID=Europe/Paris:20261217T170000
 SUMMARY:Abel Rodrigues soutient sa thèse de doctorat
@@ -147,7 +147,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/abel-rodrigues-sout
 END:VEVENT
 BEGIN:VEVENT
 UID:846cee2062b3@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261217T180000
 DTEND;TZID=Europe/Paris:20261217T193000
 SUMMARY:Images de sciences
@@ -158,7 +158,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/images-de-sciences
 END:VEVENT
 BEGIN:VEVENT
 UID:5a9976f46e56@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Les sources du patrimoine

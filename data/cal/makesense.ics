@@ -24,23 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:53c6404a9b69@paris-academique
-DTSTAMP:20261123T090533Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Marche du Temps Profond au Bois de Vincennes
-DESCRIPTION:Organisé par Sandrine Laplace — Un voyage immersif de 4\,6 m
- illiards d'années pour explorer l'histoire de la Terre et du vivant. Une 
- expérience sensible pour prendre conscience de notre lien avec la planèt
- e et imaginer notre futur.\nhttps://chiche.makesense.org/events/e/marche-d
- u-temps-profond-au-bois-de-vincennes-6a8b042c476bed00081bdf5f
-LOCATION:100 Av. de Gravelle\, 94410 Saint-Maurice\, France
-URL:https://chiche.makesense.org/events/e/marche-du-temps-profond-au-bois-d
- e-vincennes-6a8b042c476bed00081bdf5f
-END:VEVENT
-BEGIN:VEVENT
 UID:5fb5207c2b50@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Grand format Epop& - "Dites à l'Avenir que nous arrivons" Live ave
@@ -54,7 +39,7 @@ URL:https://chiche.makesense.org/events
 END:VEVENT
 BEGIN:VEVENT
 UID:4783eb6d8f93@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Le premier signe avant la crise - Détecter la difficulté et les s
@@ -73,7 +58,7 @@ URL:https://chiche.makesense.org/events/e/le-premier-signe-avant-la-crise-d
 END:VEVENT
 BEGIN:VEVENT
 UID:0001e2f2d506@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Me préparer à l'entretien d'embauche📍Paris 13
@@ -88,7 +73,7 @@ URL:https://chiche.makesense.org/events/e/me-preparer-a-lentretien-dembauch
 END:VEVENT
 BEGIN:VEVENT
 UID:83b36e8d238f@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Écologie : comment arrêter de subir pour s'en sortir ? Les citoye
@@ -104,7 +89,7 @@ URL:https://chiche.makesense.org/events/e/ecologie-comment-arreter-de-subir
 END:VEVENT
 BEGIN:VEVENT
 UID:b89615182553@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Projection-débat : "Déchets électronique : le monde invisible"
@@ -120,7 +105,7 @@ URL:https://chiche.makesense.org/events/e/projection-debat-dechets-electron
 END:VEVENT
 BEGIN:VEVENT
 UID:ff8ff0ee539f@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261124T133000
 DTEND;TZID=Europe/Paris:20261124T143000
 SUMMARY:Café Equilibra I Les pères au foyer sont-ils des mères au foyer 
@@ -137,7 +122,7 @@ URL:https://chiche.makesense.org/events/e/cafe-equilibra-i-les-peres-au-foy
 END:VEVENT
 BEGIN:VEVENT
 UID:5bc813bed1e3@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T220000
 SUMMARY:Rencontre inspirante
@@ -152,7 +137,7 @@ URL:https://chiche.makesense.org/events/e/rencontre-inspirante-6aeb04d50f12
 END:VEVENT
 BEGIN:VEVENT
 UID:fa9b59d8b97a@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261124T183000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:Personnes racisées sur scène\, mais pas à la table des décision
@@ -169,7 +154,7 @@ URL:https://chiche.makesense.org/events/e/personnes-racisees-sur-scene-mais
 END:VEVENT
 BEGIN:VEVENT
 UID:20476d33121c@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T210000
 SUMMARY:La vulnérabilité dans les relations : se rencontrer autrement
@@ -185,7 +170,7 @@ URL:https://chiche.makesense.org/events/e/la-vulnerabilite-dans-les-relatio
 END:VEVENT
 BEGIN:VEVENT
 UID:0cd94d45ecd5@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:LE BUSINESS MODEL DE L'ENTREPRISE RÉGÉNÉRATIVE
@@ -201,7 +186,7 @@ URL:https://chiche.makesense.org/events/e/le-business-model-de-lentreprise-
 END:VEVENT
 BEGIN:VEVENT
 UID:39a46336c446@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Je visite Envie Le Labo
@@ -217,7 +202,7 @@ URL:https://chiche.makesense.org/events/e/je-visite-envie-le-labo-6ae9ef752
 END:VEVENT
 BEGIN:VEVENT
 UID:b8bacdf78018@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:2 collines\, 1000 chemins : une plongée dans les parcours d'engage
@@ -234,7 +219,7 @@ URL:https://chiche.makesense.org/events/e/2-collines-1000-chemins-une-plong
 END:VEVENT
 BEGIN:VEVENT
 UID:c951c24c40a3@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261125T190000
 DTEND;TZID=Europe/Paris:20261125T210000
 SUMMARY:Projection/table ronde : La pratique de l’oral en classe peut-ell
@@ -253,7 +238,7 @@ URL:https://chiche.makesense.org/events/e/projectiontable-ronde-la-pratique
 END:VEVENT
 BEGIN:VEVENT
 UID:e59200811165@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261125T190000
 DTEND;TZID=Europe/Paris:20261125T210000
 SUMMARY:Rencontre littéraire avec Fatima Ouassak et Louise Plantin
@@ -266,5 +251,22 @@ DESCRIPTION:Organisé par Maison de la Conversation — Venez rencontrer le
 LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
 URL:https://chiche.makesense.org/events/e/rencontre-litteraire-avec-fatima-
  ouassak-6ae86d6c24d3960007232429
+END:VEVENT
+BEGIN:VEVENT
+UID:bc86eed676d8@paris-academique
+DTSTAMP:20261123T142641Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Ciné-débat : « Insecticide\, comment l’agrochimie a tué les i
+ nsectes » avec l’association Terre de Liens
+DESCRIPTION:Organisé par Adele DORLIPO — Projection du documentaire « I
+ nsecticide\, comment l’agrochimie a tué les insectes »\, suivi d’un 
+ échange animé par Te\nhttps://chiche.makesense.org/events/e/cine-debat-i
+ nsecticide-comment-lagrochimie-a-tue-les-insectes-avec-lassociation-terre-
+ de-liens-6aeb0d2d0f122d0007b3faa9
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/cine-debat-insecticide-comment-la
+ grochimie-a-tue-les-insectes-avec-lassociation-terre-de-liens-6aeb0d2d0f12
+ 2d0007b3faa9
 END:VEVENT
 END:VCALENDAR

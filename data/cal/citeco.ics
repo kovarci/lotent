@@ -24,18 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:54be55fd82e7@paris-academique
-DTSTAMP:20261123T090533Z
-DTSTART;TZID=Europe/Paris:20261122T163000
-DTEND;TZID=Europe/Paris:20261122T173000
-SUMMARY:Les chemins de l’innovation
-DESCRIPTION:https://www.citeco.fr/agenda/les-chemins-de-linnovation
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
-END:VEVENT
-BEGIN:VEVENT
 UID:69349a9cbeb3@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261129T160000
 DTEND;TZID=Europe/Paris:20261129T171500
 SUMMARY:Les Surfeurs de la Monnaie
@@ -45,12 +35,35 @@ URL:https://www.citeco.fr/agenda/les-surfeurs-de-la-monnaie
 END:VEVENT
 BEGIN:VEVENT
 UID:53f2ab6cb5b1@paris-academique
-DTSTAMP:20261123T090533Z
+DTSTAMP:20261123T142641Z
 DTSTART;TZID=Europe/Paris:20261129T163000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:Les chemins de l’innovation
 DESCRIPTION:https://www.citeco.fr/agenda/les-chemins-de-linnovation
 LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
 URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4ece3ffc8b@paris-academique
+DTSTAMP:20261123T142641Z
+DTSTART;TZID=Europe/Paris:20261203T190000
+DTEND;TZID=Europe/Paris:20261203T220000
+SUMMARY:Chapitres de la chute\, Saga des Lehman Brothers — VOLET 2 (1890-
+ 1929)
+DESCRIPTION:https://www.citeco.fr/agenda/chapitres-de-la-chute-saga-des-leh
+ man-brothers-volet-2-1890-1929
+LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
+URL:https://www.citeco.fr/agenda/chapitres-de-la-chute-saga-des-lehman-brot
+ hers-volet-2-1890-1929
+END:VEVENT
+BEGIN:VEVENT
+UID:2fa99e8e1660@paris-academique
+DTSTAMP:20261123T142641Z
+DTSTART;TZID=Europe/Paris:20261203T190000
+DTEND;TZID=Europe/Paris:20261203T200000
+SUMMARY:Parlons Actu
+DESCRIPTION:https://www.citeco.fr/agenda/parlons-actu
+LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
+URL:https://www.citeco.fr/agenda/parlons-actu
 END:VEVENT
 END:VCALENDAR
