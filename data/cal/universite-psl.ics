@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:858325ce3480@paris-academique
-DTSTAMP:20261122T171410Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Course des Lumières 2026 : ils sont déjà des milliers à s'engag
- er\, à vous de jouer !
-DESCRIPTION:https://psl.eu/agenda/course-des-lumieres-2026-ils-sont-deja-de
- s-milliers-sengager-vous-de-jouer
-LOCATION:Université PSL\, 60 rue Mazarine\, Paris 6e
-URL:https://psl.eu/agenda/course-des-lumieres-2026-ils-sont-deja-des-millie
- rs-sengager-vous-de-jouer
-END:VEVENT
-BEGIN:VEVENT
 UID:b5076f0208e5@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261123T183000
 DTEND;TZID=Europe/Paris:20261123T203000
 SUMMARY:Festival Cinéma "Voix plurielles"
@@ -48,7 +35,7 @@ URL:https://psl.eu/agenda/festival-cinema-voix-plurielles
 END:VEVENT
 BEGIN:VEVENT
 UID:13dce4801cf2@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261124T090000
 DTEND;TZID=Europe/Paris:20261124T123000
 SUMMARY:Dauphine Digital Days
@@ -58,7 +45,7 @@ URL:https://psl.eu/agenda/dauphine-digital-days
 END:VEVENT
 BEGIN:VEVENT
 UID:a604e1eb90ab@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261125T121500
 DTEND;TZID=Europe/Paris:20261125T133000
 SUMMARY:Recherche fondamentale et innovation : quelles influences ?
@@ -70,7 +57,7 @@ URL:https://psl.eu/agenda/recherche-fondamentale-et-innovation-quelles-infl
 END:VEVENT
 BEGIN:VEVENT
 UID:f3d9d0787c67@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261208T200000
 DTEND;TZID=Europe/Paris:20261208T223000
 SUMMARY:Un concert solidaire au profit des étudiants
@@ -81,7 +68,7 @@ URL:https://psl.eu/agenda/un-concert-solidaire-au-profit-des-etudiants
 END:VEVENT
 BEGIN:VEVENT
 UID:39967c2f5554@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261209T121500
 DTEND;TZID=Europe/Paris:20261209T133000
 SUMMARY:Faire de la recherche-action pour les transitions
@@ -92,7 +79,7 @@ URL:https://psl.eu/agenda/faire-de-la-recherche-action-pour-les-transitions
 END:VEVENT
 BEGIN:VEVENT
 UID:14c397af55c5@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261214T163000
 DTEND;TZID=Europe/Paris:20261214T200000
 SUMMARY:Rencontres de la Chaire Ville Métabolimse de l'Université PSL
@@ -104,7 +91,7 @@ URL:https://psl.eu/agenda/rencontres-de-la-chaire-ville-metabolimse-de-luni
 END:VEVENT
 BEGIN:VEVENT
 UID:ec6544853a18@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20270106T183000
 DTEND;TZID=Europe/Paris:20270106T200000
 SUMMARY:Cours du soir - Les arts décoratifs au XIXe siècle
@@ -115,7 +102,7 @@ URL:https://psl.eu/agenda/cours-du-soir-les-arts-decoratifs-au-xixe-siecle
 END:VEVENT
 BEGIN:VEVENT
 UID:07f2901fccc8@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20270119T090000
 DTEND;TZID=Europe/Paris:20270119T180000
 SUMMARY:Hackathon CyberCog
@@ -125,7 +112,7 @@ URL:https://psl.eu/agenda/hackathon-cybercog
 END:VEVENT
 BEGIN:VEVENT
 UID:05977d12e951@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20270226T180000
 DTEND;TZID=Europe/Paris:20270226T200000
 SUMMARY:Mines Magic 3D : de la stéréoscopie aux images 3D numériques

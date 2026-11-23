@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:9bded1386cf6@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261124T093000
 DTEND;TZID=Europe/Paris:20261124T183000
 SUMMARY:Paris Energy Week 2026 | Les défis de l’électrification
@@ -37,7 +37,7 @@ URL:https://institutdelors.eu/evenements/paris-energy-week-2026-the-challen
 END:VEVENT
 BEGIN:VEVENT
 UID:39da0bbbb3e2@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T183000
 SUMMARY:30 ans de l’Institut Jacques Delors : Conférence annuelle 2026 |

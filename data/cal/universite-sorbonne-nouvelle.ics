@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5f29e3a8b86b@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Les usages politiques de la complainte en Italie du XIIIe au XVe s.
@@ -38,7 +38,7 @@ URL:https://www.sorbonne-nouvelle.fr/les-usages-politiques-de-la-complainte
 END:VEVENT
 BEGIN:VEVENT
 UID:7fc87c1e7956@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Collodi hier et aujourd'hui
@@ -51,7 +51,7 @@ URL:https://www.sorbonne-nouvelle.fr/collodi-hier-et-aujourd-hui-926045.kjs
 END:VEVENT
 BEGIN:VEVENT
 UID:46576e40b416@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261125T140000
 DTEND;TZID=Europe/Paris:20261125T160000
 SUMMARY:Conférence de M. Kalidou Sy: "Sciences du langage et colonialité 
@@ -67,7 +67,7 @@ URL:https://www.sorbonne-nouvelle.fr/conference-de-m-kalidou-sy-sciences-du
 END:VEVENT
 BEGIN:VEVENT
 UID:1d747150eb2e@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:LES DÉFIS DU JAZZ...
@@ -80,7 +80,7 @@ URL:https://www.sorbonne-nouvelle.fr/les-defis-du-jazz--925188.kjsp?RH=1236
 END:VEVENT
 BEGIN:VEVENT
 UID:ba2bbb14e99c@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Représenter le handicap dans les arts\, les lettres et les médias
@@ -96,7 +96,7 @@ URL:https://www.sorbonne-nouvelle.fr/representer-le-handicap-dans-les-arts-
 END:VEVENT
 BEGIN:VEVENT
 UID:6c3f078ec7ff@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Littérature et histoire : ce qui résiste
@@ -109,7 +109,7 @@ URL:https://www.sorbonne-nouvelle.fr/litterature-et-histoire-ce-qui-resiste
 END:VEVENT
 BEGIN:VEVENT
 UID:4fc79c96fdf0@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Ecrire la Russie… sans le russe : traduire la fiction et la non-f
@@ -125,7 +125,7 @@ URL:https://www.sorbonne-nouvelle.fr/ecrire-la-russie-sans-le-russe-traduir
 END:VEVENT
 BEGIN:VEVENT
 UID:0fdfc81c9533@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:La satire : les normes de l'excès
@@ -138,7 +138,7 @@ URL:https://www.sorbonne-nouvelle.fr/la-satire-les-normes-de-l-exces-933453
 END:VEVENT
 BEGIN:VEVENT
 UID:36a53cd69353@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Jeux de mots: mécanismes et contextes
@@ -151,7 +151,7 @@ URL:https://www.sorbonne-nouvelle.fr/jeux-de-mots-mecanismes-et-contextes-9
 END:VEVENT
 BEGIN:VEVENT
 UID:9497033e8a67@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Troisième Rencontre pluridisciplinaire des Colombianistes en Franc
@@ -167,7 +167,7 @@ URL:https://www.sorbonne-nouvelle.fr/troisieme-rencontre-pluridisciplinaire
 END:VEVENT
 BEGIN:VEVENT
 UID:7aae37ce3d64@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Conversing with the Dead / Converser avec les morts
@@ -180,7 +180,7 @@ URL:https://www.sorbonne-nouvelle.fr/conversing-with-the-dead-converser-ave
 END:VEVENT
 BEGIN:VEVENT
 UID:eaee5427d04e@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Journées internationales PLURIMATHS L’activité langagière dans

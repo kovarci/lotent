@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:0a56baef31ad@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261123T080000
 DTEND;TZID=Europe/Paris:20261123T100000
 SUMMARY:projection du documentaire « Viol\, défi de justice » de la réa
@@ -38,7 +38,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/projection-du-documentaire-viol-
 END:VEVENT
 BEGIN:VEVENT
 UID:9ac6e29fbd93@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261124T093000
 DTEND;TZID=Europe/Paris:20261124T173000
 SUMMARY:Journée d'études de l'Arcom en partenariat avec l'ENS Paris-Sacla
@@ -51,7 +51,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/journee-detudes-de-larcom-en-par
 END:VEVENT
 BEGIN:VEVENT
 UID:639624e75bb5@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261124T190000
 DTEND;TZID=Europe/Paris:20261124T203000
 SUMMARY:La vie de recherche : Jean Jouzel
@@ -62,7 +62,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/la-vie-de-recherche-jean-jouzel
 END:VEVENT
 BEGIN:VEVENT
 UID:062edd4cdfbf@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261126T183000
 DTEND;TZID=Europe/Paris:20261126T200000
 SUMMARY:Conférence du diplôme avec Didier Fassin
@@ -74,7 +74,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-avec-didie
 END:VEVENT
 BEGIN:VEVENT
 UID:f2e6bd93540a@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261128T090000
 DTEND;TZID=Europe/Paris:20261128T170000
 SUMMARY:Rencontres des jeunes mathématiciennes et informaticiennes (RJMI) 
@@ -87,7 +87,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/rencontres-des-jeunes-mathematic
 END:VEVENT
 BEGIN:VEVENT
 UID:767f4385dd82@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261130T183000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:Semaine des carrières normaliennes 2026
@@ -99,7 +99,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/semaine-des-carrieres-normalienn
 END:VEVENT
 BEGIN:VEVENT
 UID:90128aba7103@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261202T090000
 DTEND;TZID=Europe/Paris:20261202T123000
 SUMMARY:Forum des stages MVA 2026
@@ -110,7 +110,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/forum-des-stages-mva-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:67a32f5728f3@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261205T140000
 DTEND;TZID=Europe/Paris:20261205T144000
 SUMMARY:Spectacle : Trait(s)
@@ -120,7 +120,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/spectacle-traits
 END:VEVENT
 BEGIN:VEVENT
 UID:287ee45fd218@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T200000
 SUMMARY:Conférence du diplôme sur les enquêtes Trajectoires et Origines 
@@ -134,7 +134,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-sur-les-en
 END:VEVENT
 BEGIN:VEVENT
 UID:7c452be96618@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20270112T190000
 DTEND;TZID=Europe/Paris:20270112T203000
 SUMMARY:Arts & Sciences : Péritopie 2

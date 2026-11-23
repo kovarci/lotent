@@ -24,18 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e1f6b81fc743@paris-academique
-DTSTAMP:20261122T171410Z
-DTSTART;TZID=Europe/Paris:20261121T163000
-DTEND;TZID=Europe/Paris:20261121T173000
-SUMMARY:L'art du billet
-DESCRIPTION:https://www.citeco.fr/agenda/lart-du-billet
-LOCATION:Citéco\, 1 place du Général Catroux\, Paris 17e
-URL:https://www.citeco.fr/agenda/lart-du-billet
-END:VEVENT
-BEGIN:VEVENT
 UID:54be55fd82e7@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261122T163000
 DTEND;TZID=Europe/Paris:20261122T173000
 SUMMARY:Les chemins de l’innovation
@@ -45,7 +35,7 @@ URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
 END:VEVENT
 BEGIN:VEVENT
 UID:69349a9cbeb3@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261129T160000
 DTEND;TZID=Europe/Paris:20261129T171500
 SUMMARY:Les Surfeurs de la Monnaie
@@ -55,7 +45,7 @@ URL:https://www.citeco.fr/agenda/les-surfeurs-de-la-monnaie
 END:VEVENT
 BEGIN:VEVENT
 UID:53f2ab6cb5b1@paris-academique
-DTSTAMP:20261122T171410Z
+DTSTAMP:20261123T090533Z
 DTSTART;TZID=Europe/Paris:20261129T163000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:Les chemins de l’innovation
