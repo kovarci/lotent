@@ -781,6 +781,19 @@
       "description": "Forum étudiants-entreprises organisé par les élèves de Polytech Paris-Saclay : grands groupes et start-up, stages, alternances et premiers emplois. Réservé aux étudiants et diplômés de l'université.",
       "membres": true,
       "verifie_le": "2026-10-05"
+    },
+    {
+      "entreprise": "L'Etudiant",
+      "secteur": "Orientation",
+      "titre": "Salon de l'Etudiant finance, droit et RH à Paris",
+      "type": "Salon d'orientation",
+      "date": "2026-12-12",
+      "heure": "10:00",
+      "fin": "18:00",
+      "lieu": "Espace Champerret (Hall B), rue Jean Ostreicher, Paris 17e",
+      "url": "https://salon-finance-droit-et-rh-paris.salon.letudiant.fr",
+      "description": "Salon d'orientation sur les métiers de la finance, du droit et des RH. Invitation gratuite, nominative et obligatoire ; conférences libres et gratuites.",
+      "verifie_le": "2026-11-23"
     }
   ]
 }
