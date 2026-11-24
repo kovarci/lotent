@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:54df7661d91f@paris-academique
-DTSTAMP:20261123T142641Z
+DTSTAMP:20261124T145337Z
 DTSTART;TZID=Europe/Paris:20261127T090000
 DTEND;TZID=Europe/Paris:20261127T130000
 SUMMARY:Quelle coordination internationale à l'ère de la fragmentation g
@@ -38,7 +38,7 @@ URL:https://www.ifri.org/fr/quelle-coordination-internationale-lere-de-la-f
 END:VEVENT
 BEGIN:VEVENT
 UID:3fcb26f34d77@paris-academique
-DTSTAMP:20261123T142641Z
+DTSTAMP:20261124T145337Z
 DTSTART;TZID=Europe/Paris:20261130T173000
 DTEND;TZID=Europe/Paris:20261130T200000
 SUMMARY:Politique étrangère fête ses 90 ans !
@@ -49,7 +49,7 @@ URL:https://www.ifri.org/fr/politique-etrangere-fete-ses-90-ans
 END:VEVENT
 BEGIN:VEVENT
 UID:a6b62394cb5f@paris-academique
-DTSTAMP:20261123T142641Z
+DTSTAMP:20261124T145337Z
 DTSTART;TZID=Europe/Paris:20261130T183000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:L’histoire du service militaire obligatoire en République fédé
@@ -62,7 +62,7 @@ URL:https://www.ifri.org/fr/lhistoire-du-service-militaire-obligatoire-en-r
 END:VEVENT
 BEGIN:VEVENT
 UID:24751857749a@paris-academique
-DTSTAMP:20261123T142641Z
+DTSTAMP:20261124T145337Z
 DTSTART;TZID=Europe/Paris:20261210T123000
 DTEND;TZID=Europe/Paris:20261210T140000
 SUMMARY:Le virage militaire de la tech : quelle autonomie stratégique pour

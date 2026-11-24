@@ -24,19 +24,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:94e51442c60d@paris-academique
-DTSTAMP:20261123T142641Z
-DTSTART;TZID=Europe/Paris:20261123T170000
-DTEND;TZID=Europe/Paris:20261123T190000
-SUMMARY:Commission IARD
+UID:cfbb7e74a5a7@paris-academique
+DTSTAMP:20261124T145337Z
+DTSTART;TZID=Europe/Paris:20261125T120000
+DTEND;TZID=Europe/Paris:20261125T140000
+SUMMARY:GT Impact du changement climatique sur la santé
 DESCRIPTION:Réunion réservée aux membres du groupe\nhttps://www.institut
- desactuaires.com/agenda/commission-iard-8186
+ desactuaires.com/agenda/gt-impact-du-changement-climatique-sur-la-sante-81
+ 85
 LOCATION:Paris — lieu précisé sur la page de l'événement
-URL:https://www.institutdesactuaires.com/agenda/commission-iard-8186
+URL:https://www.institutdesactuaires.com/agenda/gt-impact-du-changement-cli
+ matique-sur-la-sante-8185
 END:VEVENT
 BEGIN:VEVENT
 UID:591186ed12a5@paris-academique
-DTSTAMP:20261123T142641Z
+DTSTAMP:20261124T145337Z
 DTSTART;TZID=Europe/Paris:20261126T083000
 DTEND;TZID=Europe/Paris:20261126T103000
 SUMMARY:Journée 100% Actuaires - Data science - Durabilité
@@ -48,19 +50,19 @@ URL:https://www.institutdesactuaires.com/agenda/journee-100-actuaires-data-
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb31892ea2c@paris-academique
-DTSTAMP:20261123T142641Z
+DTSTAMP:20261124T145337Z
 DTSTART;TZID=Europe/Paris:20261126T174500
 DTEND;TZID=Europe/Paris:20261126T194500
 SUMMARY:Cérémonie d'accueil des nouveaux associés 2026
-DESCRIPTION:https://www.institutdesactuaires.com/agenda/ceremonie-des-nouve
- aux-associes-2026-8059
+DESCRIPTION:https://www.institutdesactuaires.com/agenda/ceremonie-d-accueil
+ -des-nouveaux-associes-2026-8059
 LOCATION:Paris — lieu précisé sur la page de l'événement
-URL:https://www.institutdesactuaires.com/agenda/ceremonie-des-nouveaux-asso
- cies-2026-8059
+URL:https://www.institutdesactuaires.com/agenda/ceremonie-d-accueil-des-nou
+ veaux-associes-2026-8059
 END:VEVENT
 BEGIN:VEVENT
 UID:1cc1e06d5944@paris-academique
-DTSTAMP:20261123T142641Z
+DTSTAMP:20261124T145337Z
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T110000
 SUMMARY:Colloque Actuariat 2026 et remise du Prix SCOR de l’actuariat
