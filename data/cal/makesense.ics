@@ -24,171 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:83b36e8d238f@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Écologie : comment arrêter de subir pour s'en sortir ? Les citoye
- ns et citoyennes s'organisent
-DESCRIPTION:Organisé par Hélène Binet — Qui aurait pu prédire ? Voil
- à des années que l’on connaît les trajectoires environnementales\, qu
- e les expert·es tirent la sonnette d’alarme\, que les preuves s’accum
- ulent… On s\nhttps://chiche.makesense.org/events/e/ecologie-comment-arre
- ter-de-subir-pour-sen-sortir-6ae0ca713c8bf50008f65b35
-LOCATION:3bis Rue Papin\, 75003 Paris\, France
-URL:https://chiche.makesense.org/events/e/ecologie-comment-arreter-de-subir
- -pour-sen-sortir-6ae0ca713c8bf50008f65b35
-END:VEVENT
-BEGIN:VEVENT
-UID:b89615182553@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Projection-débat : "Déchets électronique : le monde invisible"
-DESCRIPTION:Organisé par Envie Le Labo — Découvrez un documentaire perc
- utant sur la surconsommation organisée du numérique et ses conséquences
-  environnementales. La projection sera suivie d’un temps d’échange an
- imé par Stanislas Moreau avec Gilles Raillard\, le réalisateur\, Laure M
- orice\nhttps://chiche.makesense.org/events/e/projection-debat-dechets-elec
- tronique-le-monde-invisible-6a992b4f1c5b4f0008b97c33
-LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
-URL:https://chiche.makesense.org/events/e/projection-debat-dechets-electron
- ique-le-monde-invisible-6a992b4f1c5b4f0008b97c33
-END:VEVENT
-BEGIN:VEVENT
-UID:4783eb6d8f93@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Le premier signe avant la crise - Détecter la difficulté et les s
- ignaux faibles pour (ré)agir à temps
-DESCRIPTION:Organisé par Paloma Baumgartner — Plutôt que d’entendre c
- ette petite voix qui souffle “je te l’avais bien dit” quand tout par
- t en vrille\, et si on apprenait à identifier les signaux faibles avant l
- a crise et réagir en fonction ?📣 Le 24 novembre\, on lance “On s’e
- n\nhttps://chiche.makesense.org/events/e/le-premier-signe-avant-la-crise-d
- etecter-la-difficulte-et-les-signaux-faibles-pour-reagir-a-temps-6ad797628
- 25b0a0008e93580
-LOCATION:11 Rue Biscornet\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/le-premier-signe-avant-la-crise-d
- etecter-la-difficulte-et-les-signaux-faibles-pour-reagir-a-temps-6ad797628
- 25b0a0008e93580
-END:VEVENT
-BEGIN:VEVENT
-UID:0001e2f2d506@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Me préparer à l'entretien d'embauche📍Paris 13
-DESCRIPTION:Organisé par Raphaëlle Afota — Notre devise : ensemble\, tr
- ansformons le chômage en une expérience constructive !Au travers des ate
- liers gratuits et collaboratifs Activ’Action\, la période de transition
-  professionnelle se transforme en une\nhttps://chiche.makesense.org/events
- /e/me-preparer-a-lentretien-dembaucheparis-13-6aaaa8d719fd1c000884b37e
-LOCATION:13 Rue Annie Girardot\, 75013 Paris\, France
-URL:https://chiche.makesense.org/events/e/me-preparer-a-lentretien-dembauch
- eparis-13-6aaaa8d719fd1c000884b37e
-END:VEVENT
-BEGIN:VEVENT
-UID:ff8ff0ee539f@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;TZID=Europe/Paris:20261124T133000
-DTEND;TZID=Europe/Paris:20261124T143000
-SUMMARY:Café Equilibra I Les pères au foyer sont-ils des mères au foyer 
- comme les autres ?
-DESCRIPTION:Organisé par Boost Balance — Les pères au foyer sont-ils de
- s mères au foyer comme les autres ?Les attentes autour des pères ont cha
- ngé. On attend désormais d’eux qu’ils partagent les responsabilités
-  et les tâches en\nhttps://chiche.makesense.org/events/e/cafe-equilibra-i
- -les-peres-au-foyer-sont-ils-des-meres-au-foyer-comme-les-autres-6afafe2a0
- 40f5c0007b955e7
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/cafe-equilibra-i-les-peres-au-foy
- er-sont-ils-des-meres-au-foyer-comme-les-autres-6afafe2a040f5c0007b955e7
-END:VEVENT
-BEGIN:VEVENT
-UID:5bc813bed1e3@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;TZID=Europe/Paris:20261124T183000
-DTEND;TZID=Europe/Paris:20261124T220000
-SUMMARY:Rencontre inspirante
-DESCRIPTION:Organisé par Maison de la Conversation — Aborder des sujets 
- sans tabou et réfléchir à des solutions ensemble.Nous sommes convaincue
- s que toutes les réponses se trouvent dans le collectif et\, avec ce form
- at\, on tente de libérer la parole sur des problématiq\nhttps://chiche.m
- akesense.org/events/e/rencontre-inspirante-6aeb04d50f122d0007b3c089
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/rencontre-inspirante-6aeb04d50f12
- 2d0007b3c089
-END:VEVENT
-BEGIN:VEVENT
-UID:fa9b59d8b97a@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;TZID=Europe/Paris:20261124T183000
-DTEND;TZID=Europe/Paris:20261124T210000
-SUMMARY:Personnes racisées sur scène\, mais pas à la table des décision
- s
-DESCRIPTION:Organisé par Maison de la Conversation — Les danseur·ses ra
- cisé·es sont sur scène\, mais rarement là où se prennent les décisio
- ns. Une rencontre sans tabou avec HippoH. Gratuit.Les danseur·ses racisé
- ·es sont partout sur scène : dans les battles\, les clips\, parfois en t
- ête d’affiche\nhttps://chiche.makesense.org/events/e/personnes-racisees
- -sur-scene-mais-pas-a-la-table-des-decisions-6ae9c2da20d095000804a28d
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/personnes-racisees-sur-scene-mais
- -pas-a-la-table-des-decisions-6ae9c2da20d095000804a28d
-END:VEVENT
-BEGIN:VEVENT
-UID:20476d33121c@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;TZID=Europe/Paris:20261124T190000
-DTEND;TZID=Europe/Paris:20261124T210000
-SUMMARY:La vulnérabilité dans les relations : se rencontrer autrement
-DESCRIPTION:Organisé par Maison de la Conversation — La vulnérabilité 
- dans les relations : se rencontrer autrementAtelier de rencontre organisé
-  par Charles Moisdon\, coach et médiateur certifié\, spécialisé dans l
- es dynamiques relationnelles.\nhttps://chiche.makesense.org/events/e/la-vu
- lnerabilite-dans-les-relations-se-rencontrer-autrement-6ae87ae871583400086
- b9a01
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/la-vulnerabilite-dans-les-relatio
- ns-se-rencontrer-autrement-6ae87ae871583400086b9a01
-END:VEVENT
-BEGIN:VEVENT
-UID:0cd94d45ecd5@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:LE BUSINESS MODEL DE L'ENTREPRISE RÉGÉNÉRATIVE
-DESCRIPTION:Organisé par Jeremy Dumont — Le business model canvas de l
- ’entreprise régénérativeNotre Business Model Canvas de l’entreprise
-  Régénérative – le REGEN BMC – permet d’identifier les zones de d
- égénération d’une activité économique et d’identi\nhttps://chiche
- .makesense.org/events/e/le-business-model-de-lentreprise-regenerative-6ab1
- 58db32f93b0008d0d99a
-LOCATION:61 Av. Philippe Auguste\, 75011 Paris\, France
-URL:https://chiche.makesense.org/events/e/le-business-model-de-lentreprise-
- regenerative-6ab158db32f93b0008d0d99a
-END:VEVENT
-BEGIN:VEVENT
-UID:39a46336c446@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Je visite Envie Le Labo
-DESCRIPTION:Organisé par Envie Le Labo — [Visite découverte gratuite - 
- Inscription obligatoire]Participez à nos visites guidées pour découvrir
-  les coulisses d'Envie Le Labo ! L’occasion de connaître les activités
-  sociales et environnementales du réseau Envie pour prendre soin des\nhtt
- ps://chiche.makesense.org/events/e/je-visite-envie-le-labo-6ae9ef7520d0950
- 0080628bd
-LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
-URL:https://chiche.makesense.org/events/e/je-visite-envie-le-labo-6ae9ef752
- 0d09500080628bd
-END:VEVENT
-BEGIN:VEVENT
 UID:b8bacdf78018@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:2 collines\, 1000 chemins : une plongée dans les parcours d'engage
@@ -204,8 +41,40 @@ URL:https://chiche.makesense.org/events/e/2-collines-1000-chemins-une-plong
  ee-dans-les-parcours-dengagement-6a05ddcd4e5ca500084948d5
 END:VEVENT
 BEGIN:VEVENT
+UID:0cd94d45ecd5@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:LE BUSINESS MODEL DE L'ENTREPRISE RÉGÉNÉRATIVE
+DESCRIPTION:Organisé par Jeremy Dumont — Le business model canvas de l
+ ’entreprise régénérativeNotre Business Model Canvas de l’entreprise
+  Régénérative – le REGEN BMC – permet d’identifier les zones de d
+ égénération d’une activité économique et d’identi\nhttps://chiche
+ .makesense.org/events/e/le-business-model-de-lentreprise-regenerative-6ab1
+ 58db32f93b0008d0d99a
+LOCATION:61 Av. Philippe Auguste\, 75011 Paris\, France
+URL:https://chiche.makesense.org/events/e/le-business-model-de-lentreprise-
+ regenerative-6ab158db32f93b0008d0d99a
+END:VEVENT
+BEGIN:VEVENT
+UID:39a46336c446@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Je visite Envie Le Labo
+DESCRIPTION:Organisé par Envie Le Labo — [Visite découverte gratuite - 
+ Inscription obligatoire]Participez à nos visites guidées pour découvrir
+  les coulisses d'Envie Le Labo ! L’occasion de connaître les activités
+  sociales et environnementales du réseau Envie pour prendre soin des\nhtt
+ ps://chiche.makesense.org/events/e/je-visite-envie-le-labo-6ae9ef7520d0950
+ 0080628bd
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/je-visite-envie-le-labo-6ae9ef752
+ 0d09500080628bd
+END:VEVENT
+BEGIN:VEVENT
 UID:c951c24c40a3@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261125T190000
 DTEND;TZID=Europe/Paris:20261125T210000
 SUMMARY:Projection/table ronde : La pratique de l’oral en classe peut-ell
@@ -224,7 +93,7 @@ URL:https://chiche.makesense.org/events/e/projectiontable-ronde-la-pratique
 END:VEVENT
 BEGIN:VEVENT
 UID:e59200811165@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261125T190000
 DTEND;TZID=Europe/Paris:20261125T210000
 SUMMARY:Rencontre littéraire avec Fatima Ouassak et Louise Plantin
@@ -240,7 +109,7 @@ URL:https://chiche.makesense.org/events/e/rencontre-litteraire-avec-fatima-
 END:VEVENT
 BEGIN:VEVENT
 UID:bc86eed676d8@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Ciné-débat : « Insecticide\, comment l’agrochimie a tué les i
@@ -257,7 +126,7 @@ URL:https://chiche.makesense.org/events/e/cine-debat-insecticide-comment-la
 END:VEVENT
 BEGIN:VEVENT
 UID:9f8d1ec9b85b@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Atelier co-réparation de vêtements avec la Resserre
@@ -272,7 +141,7 @@ URL:https://chiche.makesense.org/events/e/atelier-co-reparation-de-vetement
 END:VEVENT
 BEGIN:VEVENT
 UID:c16f0c43e78a@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261126T193000
 DTEND;TZID=Europe/Paris:20261126T210000
 SUMMARY:Greenwashing Comedy Club
@@ -284,5 +153,102 @@ DESCRIPTION:Organisé par Maison de la Conversation — Une heure de stand-
 LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
 URL:https://chiche.makesense.org/events/e/greenwashing-comedy-club-6aea0cd0
  20d0950008071efc
+END:VEVENT
+BEGIN:VEVENT
+UID:7d44d2315a41@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Je crée ma lessive maison zéro déchet
+DESCRIPTION:Organisé par Envie Le Labo — [Atelier gratuit - Inscription 
+ obligatoire] Participez à un atelier pratique pour vous initier à la fab
+ rication de produits ménagers avec une recette simple\, économique et re
+ spectueuse de l'environnement ! Vous profiterez égalemen\nhttps://chiche.
+ makesense.org/events/e/je-cree-ma-lessive-maison-zero-dechet-6ae9f1ad20d09
+ 50008063b03
+LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
+URL:https://chiche.makesense.org/events/e/je-cree-ma-lessive-maison-zero-de
+ chet-6ae9f1ad20d0950008063b03
+END:VEVENT
+BEGIN:VEVENT
+UID:0be4e0f96389@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:Sauvons des puzzles ! Une matinée solidaire chez Puzz\, avec Rejou
+ é
+DESCRIPTION:Organisé par Coline Laurent — L'association Rejoué (jouets 
+ de seconde main) vous invite à un samedi matin pas comme les autres\, pou
+ r revaloriser ensemble des puzzles dans le tout premier Café Puzzle de Pa
+ ris !Tu es fan de puzzles et tu as envie de faire\nhttps://chiche.makesens
+ e.org/events/e/sauvons-des-puzzles-une-matinee-solidaire-chez-puzz-avec-re
+ joue-6aedbe3fd721b50009012a0e
+LOCATION:2 Rue de Palestro\, 75002 Paris\, France
+URL:https://chiche.makesense.org/events/e/sauvons-des-puzzles-une-matinee-s
+ olidaire-chez-puzz-avec-rejoue-6aedbe3fd721b50009012a0e
+END:VEVENT
+BEGIN:VEVENT
+UID:9b1ef82467ba@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:L'ESS fait son cinéma - Agissez comme si vous ne pouviez pas écho
+ uer !
+DESCRIPTION:Organisé par Cress Ile-de-France — Agissez comme si vous ne 
+ pouviez pas échouer ! - Une projection organisée par la Cress Île-de-Fr
+ ance avec France Active Île-de-France\nhttps://chiche.makesense.org/event
+ s/e/less-fait-son-cinema-agissez-comme-si-vous-ne-pouviez-pas-echouer-6aff
+ 1ddbe693b300078a27d7
+LOCATION:2 Rue de la Clôture\, 75019 Paris\, France
+URL:https://chiche.makesense.org/events/e/less-fait-son-cinema-agissez-comm
+ e-si-vous-ne-pouviez-pas-echouer-6aff1ddbe693b300078a27d7
+END:VEVENT
+BEGIN:VEVENT
+UID:707143b834e2@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:L'eau sous pression : ciné-débat autour du documentaire « Au fil
+  de l'eau » Film de Georges Tillard
+DESCRIPTION:Organisé par Lydie DUBERNAIS — L'eau sous pression : ciné-d
+ ébat autour du documentaire « Au fil de l'eau »Sécheresses\, inondatio
+ ns\, conflits d'usage… L'eau est au cœur de nombreux défisenvironnemen
+ taux et sociétaux. Mais comment en sommes-nous arrivés là ? Et\nhttps:/
+ /chiche.makesense.org/events/e/leau-sous-pression-cine-debat-autour-du-doc
+ umentaire-au-fil-de-leau-film-de-georges-tillard-6ae49dbac579900008c3439f
+LOCATION:11 Rue Biscornet\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/leau-sous-pression-cine-debat-aut
+ our-du-documentaire-au-fil-de-leau-film-de-georges-tillard-6ae49dbac579900
+ 008c3439f
+END:VEVENT
+BEGIN:VEVENT
+UID:aaead57dba18@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:MasterClasse Signaux faibles / fiables Lab#48 & #49
+DESCRIPTION:Organisé par Epop& — Venez assister à la MasterClasse Signa
+ ux faibles / fiables !À chaque Lab Session\, la formation phare de l'Inst
+ itut des Futurs souhaitables\, les voyageur·euse·s de Lab présentent le
+ urs signaux faibles/fiables au titre de l'é\nhttps://chiche.makesense.org
+ /events/e/masterclasse-signaux-faibles-fiables-lab48-and-49-6ad77f05825b0a
+ 0008e88be9
+LOCATION:Paris\, France
+URL:https://chiche.makesense.org/events/e/masterclasse-signaux-faibles-fiab
+ les-lab48-and-49-6ad77f05825b0a0008e88be9
+END:VEVENT
+BEGIN:VEVENT
+UID:b1d2ba8e5793@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Réfléchir au métier qui me correspond 📍Paris 13e
+DESCRIPTION:Organisé par Raphaëlle Afota — L’Activ’Pro\, c'est l’
+ atelier pour réfléchir ensemble au métier qui te correspond !2h45 d’a
+ telier collectif pour : &\nhttps://chiche.makesense.org/events/e/reflechir
+ -au-metier-qui-me-correspond-paris-13e-6aaaa927ca9188000759c6ec
+LOCATION:13 Rue Annie Girardot\, 75013 Paris\, France
+URL:https://chiche.makesense.org/events/e/reflechir-au-metier-qui-me-corres
+ pond-paris-13e-6aaaa927ca9188000759c6ec
 END:VEVENT
 END:VCALENDAR

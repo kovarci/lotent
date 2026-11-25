@@ -24,19 +24,18 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:354844f41b76@paris-academique
-DTSTAMP:20261125T090704Z
-DTSTART;TZID=Europe/Paris:20261124T180000
-DTEND;TZID=Europe/Paris:20261124T200000
-SUMMARY:The Use of Hebrew in al-Sakkākī’s Book of the Complete
-DESCRIPTION:Conférence de Siam Bhayro\, Université d’Exeter.\nhttps://w
- ww.ephe.psl.eu/use-hebrew-al-sakkakis-book-complete
+UID:c0121385aeee@paris-academique
+DTSTAMP:20261125T141224Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:L'« histoire des religions »
+DESCRIPTION:Colloque.\nhttps://www.ephe.psl.eu/l-histoire-des-religions
 LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
-URL:https://www.ephe.psl.eu/use-hebrew-al-sakkakis-book-complete
+URL:https://www.ephe.psl.eu/l-histoire-des-religions
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa23ea2e00c@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Multiculturalisme en Égypte (IIIe s. av. J.-C. - VIIe s. apr. J.-C
@@ -50,7 +49,7 @@ URL:https://www.ephe.psl.eu/multiculturalisme-en-egypte-iiie-s-av-j-c-viie-
 END:VEVENT
 BEGIN:VEVENT
 UID:fa55e579587f@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261130T090000
 DTEND;TZID=Europe/Paris:20261130T174500
 SUMMARY:Saeculum/Saeculare
@@ -61,7 +60,7 @@ URL:https://www.ephe.psl.eu/saeculum-saeculare
 END:VEVENT
 BEGIN:VEVENT
 UID:71239b35a484@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261207T100000
 DTEND;TZID=Europe/Paris:20261207T120000
 SUMMARY:Frontières. Pour une anthropologie religieuse de l'espace et du po
@@ -75,7 +74,7 @@ URL:https://www.ephe.psl.eu/frontieres-pour-une-anthropologie-religieuse-de
 END:VEVENT
 BEGIN:VEVENT
 UID:200ad1b5bf7d@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261210T180000
 DTEND;TZID=Europe/Paris:20261210T193000
 SUMMARY:Hippocrate à Constantinople : le Parisinus gr. 2144 et ses lecteur
@@ -89,7 +88,7 @@ URL:https://www.ephe.psl.eu/hippocrate-constantinople-le-parisinus-gr-2144-
 END:VEVENT
 BEGIN:VEVENT
 UID:5275315b8377@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261215T180000
 DTEND;TZID=Europe/Paris:20261215T200000
 SUMMARY:Medieval Jewish Magic: Models

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:b47f2dee1b01@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261125T183000
 DTEND;TZID=Europe/Paris:20261125T193000
 SUMMARY:Automatiser l'interprétation ? Établir la validité des LLM en sc
@@ -38,7 +38,7 @@ URL:https://www.paris-iea.fr/fr/evenements/automatiser-l-interpretation-eta
 END:VEVENT
 BEGIN:VEVENT
 UID:e25a11f455fb@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261202T090000
 DTEND;TZID=Europe/Paris:20261202T183000
 SUMMARY:Journée scientifique de la Revue Etudes Digitales
@@ -50,7 +50,7 @@ URL:https://www.paris-iea.fr/fr/evenements/journee-scientifique-de-la-revue
 END:VEVENT
 BEGIN:VEVENT
 UID:04626c706b7b@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261204T140000
 DTEND;TZID=Europe/Paris:20261204T160000
 SUMMARY:Language as Salvation: Ludwig Zamenhof\, Esperanto\, and the Soluti
@@ -63,7 +63,7 @@ URL:https://www.paris-iea.fr/fr/evenements/language-as-salvation-ludwig-zam
 END:VEVENT
 BEGIN:VEVENT
 UID:2d82bf391f8d@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261204T144000
 DTEND;TZID=Europe/Paris:20261204T164000
 SUMMARY:Leveling the Field: AI and Micro-credentials in the Global South
@@ -75,7 +75,7 @@ URL:https://www.paris-iea.fr/fr/evenements/leveling-the-field-ai-and-micro-
 END:VEVENT
 BEGIN:VEVENT
 UID:1b8de2642d75@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20261223T180000
 DTEND;TZID=Europe/Paris:20261223T200000
 SUMMARY:Fermeture hivernale
@@ -85,7 +85,7 @@ URL:https://www.paris-iea.fr/fr/evenements/fermeture-hivernale
 END:VEVENT
 BEGIN:VEVENT
 UID:008435d47bae@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20270108T140000
 DTEND;TZID=Europe/Paris:20270108T160000
 SUMMARY:What is Artifactual Epistemology?
@@ -96,7 +96,7 @@ URL:https://www.paris-iea.fr/fr/evenements/what-is-artifactual-epistemology
 END:VEVENT
 BEGIN:VEVENT
 UID:989eda094ecf@paris-academique
-DTSTAMP:20261125T090704Z
+DTSTAMP:20261125T141224Z
 DTSTART;TZID=Europe/Paris:20270121T090000
 DTEND;TZID=Europe/Paris:20270121T180000
 SUMMARY:Création de richesse et conscience morale. Injonctions paradoxales
