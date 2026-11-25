@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:462eac18f12f@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261129T140000
 DTEND;TZID=Europe/Paris:20261129T160000
 SUMMARY:Effervescience : retour de mission
@@ -36,7 +36,7 @@ URL:https://www.mnhn.fr/fr/rencontre/retour-de-mission
 END:VEVENT
 BEGIN:VEVENT
 UID:a711afd33fa0@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261203T180000
 DTEND;TZID=Europe/Paris:20261203T200000
 SUMMARY:La fabrique de l’exposition : redécouvrir les collections
@@ -48,8 +48,21 @@ URL:https://www.mnhn.fr/fr/conference/la-fabrique-de-l-exposition-redecouvr
  ir-les-collections
 END:VEVENT
 BEGIN:VEVENT
+UID:410cd7b9c65f@paris-academique
+DTSTAMP:20261125T090704Z
+DTSTART;TZID=Europe/Paris:20261214T190000
+DTEND;TZID=Europe/Paris:20261214T210000
+SUMMARY:La fabrique de l’Autre : sciences et arts en contexte colonial
+DESCRIPTION:Rencontre\nhttps://www.mnhn.fr/fr/rencontre/la-fabrique-de-l-au
+ tre-sciences-et-arts-en-contexte-colonial
+LOCATION:Grande Galerie de l'Évolution — Muséum national d'Histoire nat
+ urelle\, 57 rue Cuvier\, Paris 5e
+URL:https://www.mnhn.fr/fr/rencontre/la-fabrique-de-l-autre-sciences-et-art
+ s-en-contexte-colonial
+END:VEVENT
+BEGIN:VEVENT
 UID:f9494b18536e@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20270111T190000
 DTEND;TZID=Europe/Paris:20270111T200000
 SUMMARY:Poétisation du vivant
@@ -61,7 +74,7 @@ URL:https://www.mnhn.fr/fr/rencontre/poetisation-du-vivant
 END:VEVENT
 BEGIN:VEVENT
 UID:1e975ec46190@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20270205T090000
 DTEND;TZID=Europe/Paris:20270205T170000
 SUMMARY:D'après nature : les artistes et leurs modèles
@@ -74,7 +87,7 @@ URL:https://www.mnhn.fr/fr/conference/d-apres-nature-les-artistes-et-leurs-
 END:VEVENT
 BEGIN:VEVENT
 UID:bb194f0fca5b@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:Sciences et Recherches Participatives : les Journées nationales 20

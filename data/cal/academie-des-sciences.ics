@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:dd8bceda4f30@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261125T110000
 DTEND;TZID=Europe/Paris:20261125T130000
 SUMMARY:Conférence des lauréats du Prix Maurice Audin 2026
@@ -38,9 +38,9 @@ URL:https://www.academie-sciences.fr/conference-des-laureats-du-prix-mauric
 END:VEVENT
 BEGIN:VEVENT
 UID:db81a53d5c2e@paris-academique
-DTSTAMP:20261124T145337Z
-DTSTART;TZID=Europe/Paris:20261201T150000
-DTEND;TZID=Europe/Paris:20261201T170000
+DTSTAMP:20261125T090704Z
+DTSTART;TZID=Europe/Paris:20261201T140000
+DTEND;TZID=Europe/Paris:20261201T160000
 SUMMARY:Prédictabilité\, que peut-on prévoir ?
 DESCRIPTION:Conférences\nhttps://www.academie-sciences.fr/predictabilite-q
  ue-peut-prevoir
@@ -49,9 +49,9 @@ URL:https://www.academie-sciences.fr/predictabilite-que-peut-prevoir
 END:VEVENT
 BEGIN:VEVENT
 UID:b9ab83a8d296@paris-academique
-DTSTAMP:20261124T145337Z
-DTSTART;TZID=Europe/Paris:20261208T180000
-DTEND;TZID=Europe/Paris:20261208T200000
+DTSTAMP:20261125T090704Z
+DTSTART;TZID=Europe/Paris:20261208T190000
+DTEND;TZID=Europe/Paris:20261208T210000
 SUMMARY:Rencontre avec Mickael Tanter
 DESCRIPTION:Rencontres\nhttps://www.academie-sciences.fr/rencontre-avec-mic
  kael-tanter

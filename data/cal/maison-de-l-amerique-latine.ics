@@ -24,20 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:60b54024bd0f@paris-academique
-DTSTAMP:20261124T145337Z
-DTSTART;TZID=Europe/Paris:20261124T190000
-DTEND;TZID=Europe/Paris:20261124T210000
-SUMMARY:Julio Ramón Ribeyro — par Nerit Olaya
-DESCRIPTION:Lecture-théâtre\nhttps://www.mal217.org/fr/agenda/ribeyro-sol
- o-para-contar
-LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
-  7e
-URL:https://www.mal217.org/fr/agenda/ribeyro-solo-para-contar
-END:VEVENT
-BEGIN:VEVENT
 UID:372dce7d12c6@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261126T190000
 DTEND;TZID=Europe/Paris:20261126T210000
 SUMMARY:Tribune de l'actualité latino-américaine et caribéenne — Brés
@@ -51,7 +39,7 @@ URL:https://www.mal217.org/fr/agenda/tribune-de-l-actualite-latino-americai
 END:VEVENT
 BEGIN:VEVENT
 UID:b09ed60906a2@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261127T190000
 DTEND;TZID=Europe/Paris:20261127T210000
 SUMMARY:Revolución Mujer Diamante
@@ -63,7 +51,7 @@ URL:https://www.mal217.org/fr/agenda/revolucion-mujer-diamante
 END:VEVENT
 BEGIN:VEVENT
 UID:ef271291829a@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261127T210000
 DTEND;TZID=Europe/Paris:20261127T230000
 SUMMARY:Le lawfare en Argentine — Arrestation arbitraire des leaders poli
@@ -76,7 +64,7 @@ URL:https://www.mal217.org/fr/agenda/le-lawfare-en-argentine
 END:VEVENT
 BEGIN:VEVENT
 UID:82b15e0c5993@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261130T190000
 DTEND;TZID=Europe/Paris:20261130T210000
 SUMMARY:Pourquoi ne faisons-nous plus d’enfants ?
@@ -89,7 +77,7 @@ URL:https://www.mal217.org/fr/agenda/pourquoi-ne-faisons-nous-plus-d-enfant
 END:VEVENT
 BEGIN:VEVENT
 UID:ef5653c40bac@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261130T190000
 DTEND;TZID=Europe/Paris:20261130T210000
 SUMMARY:Rencontre autour de Carlo Ossola
@@ -98,5 +86,31 @@ DESCRIPTION:Littérature\nhttps://www.mal217.org/fr/agenda/rencontre-autour
 LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
   7e
 URL:https://www.mal217.org/fr/agenda/rencontre-autour-de-carlo-ossola
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5c48c02f8c@paris-academique
+DTSTAMP:20261125T090704Z
+DTSTART;TZID=Europe/Paris:20261202T210000
+DTEND;TZID=Europe/Paris:20261202T230000
+SUMMARY:Cartel franco-brésilien de psychanalyse — O céu da língua ?
+DESCRIPTION:Psychanalyse\nhttps://www.mal217.org/fr/agenda/cartel-franco-br
+ esilien-de-psychanalyse-copie-e2302c97
+LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
+  7e
+URL:https://www.mal217.org/fr/agenda/cartel-franco-bresilien-de-psychanalys
+ e-copie-e2302c97
+END:VEVENT
+BEGIN:VEVENT
+UID:40362388218a@paris-academique
+DTSTAMP:20261125T090704Z
+DTSTART;TZID=Europe/Paris:20261203T190000
+DTEND;TZID=Europe/Paris:20261203T210000
+SUMMARY:Tribune de l'économie — Le nouveau partage des océans : enjeu s
+ tratégique mondial
+DESCRIPTION:Économie\nhttps://www.mal217.org/fr/agenda/tribune-de-l-econom
+ ie-8856fb43
+LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
+  7e
+URL:https://www.mal217.org/fr/agenda/tribune-de-l-economie-8856fb43
 END:VEVENT
 END:VCALENDAR

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:c8d7173fe19b@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261125T140000
 DTEND;TZID=Europe/Paris:20261125T153000
 SUMMARY:The EU as a Global Security Actor: Military Assistance to Partner S
@@ -38,7 +38,7 @@ URL:https://www.iris-france.org/event/the-eu-as-a-global-security-actor-mil
 END:VEVENT
 BEGIN:VEVENT
 UID:62827f04f41b@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261201T180000
 DTEND;TZID=Europe/Paris:20261201T183000
 SUMMARY:Guerre au Yémen : l’Arabie saoudite contrainte de négocier ?
@@ -50,7 +50,7 @@ URL:https://www.iris-france.org/event/guerre-au-yemen-larabie-saoudite-cont
 END:VEVENT
 BEGIN:VEVENT
 UID:ba1d4ce9da5c@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261217T180000
 DTEND;TZID=Europe/Paris:20261217T183000
 SUMMARY:La gestion d’un réseau électrique en temps de guerre : le cas u
@@ -63,7 +63,7 @@ URL:https://www.iris-france.org/event/la-gestion-dun-reseau-electrique-en-t
 END:VEVENT
 BEGIN:VEVENT
 UID:a994a9974b6d@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20270119T180000
 DTEND;TZID=Europe/Paris:20270119T183000
 SUMMARY:L’importance des systèmes de paiements sur la question de la sou

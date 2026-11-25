@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:cfbb7e74a5a7@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261125T120000
 DTEND;TZID=Europe/Paris:20261125T140000
 SUMMARY:GT Impact du changement climatique sur la santé
@@ -38,7 +38,7 @@ URL:https://www.institutdesactuaires.com/agenda/gt-impact-du-changement-cli
 END:VEVENT
 BEGIN:VEVENT
 UID:591186ed12a5@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261126T083000
 DTEND;TZID=Europe/Paris:20261126T103000
 SUMMARY:Journée 100% Actuaires - Data science - Durabilité
@@ -50,7 +50,7 @@ URL:https://www.institutdesactuaires.com/agenda/journee-100-actuaires-data-
 END:VEVENT
 BEGIN:VEVENT
 UID:8cb31892ea2c@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261126T174500
 DTEND;TZID=Europe/Paris:20261126T194500
 SUMMARY:Cérémonie d'accueil des nouveaux associés 2026
@@ -62,7 +62,7 @@ URL:https://www.institutdesactuaires.com/agenda/ceremonie-d-accueil-des-nou
 END:VEVENT
 BEGIN:VEVENT
 UID:1cc1e06d5944@paris-academique
-DTSTAMP:20261124T145337Z
+DTSTAMP:20261125T090704Z
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T110000
 SUMMARY:Colloque Actuariat 2026 et remise du Prix SCOR de l’actuariat
