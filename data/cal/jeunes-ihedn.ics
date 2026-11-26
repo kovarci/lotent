@@ -24,20 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:73b155959dc5@paris-academique
-DTSTAMP:20261125T141224Z
-DTSTART;TZID=Europe/Paris:20261125T180000
-DTEND;TZID=Europe/Paris:20261125T200000
-SUMMARY:Conférence « L’éthique de la guerre à l’heure de l’IA »
-DESCRIPTION:Conférence\nhttps://www.jeunes-ihedn.org/events/conference-let
- hique-de-la-guerre-a-lheure-de-lia/
-LOCATION:Paris
-URL:https://www.jeunes-ihedn.org/events/conference-lethique-de-la-guerre-a-
- lheure-de-lia/
-END:VEVENT
-BEGIN:VEVENT
 UID:99a576509062@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T140000
 DTEND;TZID=Europe/Paris:20261126T160000
 SUMMARY:Conférence – Le devenir de l’Union Européenne : quelles persp
@@ -50,7 +38,7 @@ URL:https://www.jeunes-ihedn.org/events/conference-le-devenir-de-lunion-eur
 END:VEVENT
 BEGIN:VEVENT
 UID:081141525253@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261127T140000
 DTEND;TZID=Europe/Paris:20261127T153000
 SUMMARY:Conférence sur les rapports de puissance\, les dynamiques régiona
@@ -64,7 +52,7 @@ URL:https://www.jeunes-ihedn.org/events/conference-sur-les-rapports-de-puis
 END:VEVENT
 BEGIN:VEVENT
 UID:c8ba821ffdb4@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261209T193000
 DTEND;TZID=Europe/Paris:20261209T213000
 SUMMARY:Popote Générale

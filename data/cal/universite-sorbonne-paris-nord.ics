@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:52210bea63e4@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T083000
 DTEND;TZID=Europe/Paris:20261126T103000
 SUMMARY:Innov’SPN Days : trois minutes pour convaincre
@@ -42,18 +42,18 @@ URL:https://www.univ-spn.fr/events/innovspn-days-trois-minutes-pour-convain
  cre/
 END:VEVENT
 BEGIN:VEVENT
-UID:84a5049e7d99@paris-academique
-DTSTAMP:20261125T141224Z
+UID:a66062ba6d94@paris-academique
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T173000
 DTEND;TZID=Europe/Paris:20261126T183000
-SUMMARY:[COURS EN VISIOCONFÉRENCE] Yoga relaxation
-DESCRIPTION:Le DAPS propose un cours de yoga relaxation animé par Miaci Im
- an\, pour favoriser la détente physique et mentale et s'accorder un momen
- t de bien-être. Cette séance de yoga relaxation invite à ralentir le ry
- thme\, à relâcher les tensions et à prendre un temps pour soi. À trave
- rs cette pratique\, le Département des activités physiques et sportives 
- (DAPS) encourage la poursuite d'une activité physique…\nhttps://www.uni
- v-spn.fr/events/cours-en-visioconference-yoga-relaxation/
+SUMMARY:[Séance en visioconférence] Cours de bien-être
+DESCRIPTION:Le DAPS propose des cours de bien-être en visioconférence pou
+ r favoriser la pratique d'une activité physique régulière et entretenir
+  une dynamique sportive au quotidien. Dans le cadre de ses séances de bie
+ n-être\, le Département des activités physiques et sportives (DAPS) pro
+ pose ce jeudi un cours de yoga relaxation animé par Miaci Iman. Cette sé
+ ance est l'occasion de consacrer un moment à la…\nhttps://www.univ-spn.
+ fr/events/cours-en-visioconference-yoga-relaxation/
 LOCATION:En visioconférence (Teams)\, Université Sorbonne Paris Nord\, 99
   avenue Jean-Baptiste Clément\, Villetaneuse
 URL:https://www.univ-spn.fr/events/cours-en-visioconference-yoga-relaxation
@@ -61,7 +61,7 @@ URL:https://www.univ-spn.fr/events/cours-en-visioconference-yoga-relaxation
 END:VEVENT
 BEGIN:VEVENT
 UID:f2dd232e5698@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261127T190000
 DTEND;TZID=Europe/Paris:20261127T201500
 SUMMARY:[Musique] 11 000 Cordes
@@ -73,7 +73,7 @@ URL:https://www.univ-spn.fr/events/https-www-lavillette-com-manifestations-
 END:VEVENT
 BEGIN:VEVENT
 UID:980a13ab2bbf@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261201T120000
 DTEND;TZID=Europe/Paris:20261201T140000
 SUMMARY:[Rencontre littéraire Texto] Rencontre un.e auteur.ice de littéra
@@ -92,7 +92,7 @@ URL:https://www.univ-spn.fr/events/rencontre-litteraire-litterature-jeuness
 END:VEVENT
 BEGIN:VEVENT
 UID:65801e0686a0@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T190000
 SUMMARY:Fabriquer la ville avec l’art et la culture
@@ -109,7 +109,7 @@ URL:https://www.univ-spn.fr/events/fabriquer-la-ville-avec-lart-et-la-cultu
 END:VEVENT
 BEGIN:VEVENT
 UID:6f351c0307f4@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261203T101500
 DTEND;TZID=Europe/Paris:20261203T121500
 SUMMARY:[Spectacle] Ces filles qu’on attend
@@ -124,8 +124,27 @@ LOCATION:B.U Edgar Morin Espace Le Kiosque Campus Villetaneuse
 URL:https://www.univ-spn.fr/events/144655/
 END:VEVENT
 BEGIN:VEVENT
+UID:4f0ddd2e1f69@paris-academique
+DTSTAMP:20261126T135023Z
+DTSTART;TZID=Europe/Paris:20261204T180000
+DTEND;TZID=Europe/Paris:20261204T203000
+SUMMARY:Campus Louvre : les étudiants deviennent médiateurs culturels
+DESCRIPTION:Le vendredi 4 décembre 2026\, les étudiants du master Métier
+ s culturels du texte et de l’image de l’Université Sorbonne Paris Nor
+ d participeront à la nocturne Campus Louvre. À travers leur projet intit
+ ulé « L’art en toutes lettres »\, ils inviteront les visiteurs à red
+ écouvrir les peintures hollandaises du XVIIe siècle en explorant les mes
+ sages dissimulés au cœur des œuvres. Cette immersion au…\nhttps://www
+ .univ-spn.fr/events/campus-louvre-les-etudiants-deviennent-mediateurs-cult
+ urels/
+LOCATION:Université Sorbonne Paris Nord\, 99 avenue Jean-Baptiste Clément
+ \, Villetaneuse
+URL:https://www.univ-spn.fr/events/campus-louvre-les-etudiants-deviennent-m
+ ediateurs-culturels/
+END:VEVENT
+BEGIN:VEVENT
 UID:3bd7641a4495@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261204T190000
 DTEND;TZID=Europe/Paris:20261204T201500
 SUMMARY:[Cirque] Ten Thousand Hours

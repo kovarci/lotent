@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:c0121385aeee@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:L'« histoire des religions »
@@ -35,7 +35,7 @@ URL:https://www.ephe.psl.eu/l-histoire-des-religions
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa23ea2e00c@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Multiculturalisme en Égypte (IIIe s. av. J.-C. - VIIe s. apr. J.-C
@@ -49,7 +49,7 @@ URL:https://www.ephe.psl.eu/multiculturalisme-en-egypte-iiie-s-av-j-c-viie-
 END:VEVENT
 BEGIN:VEVENT
 UID:fa55e579587f@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261130T090000
 DTEND;TZID=Europe/Paris:20261130T174500
 SUMMARY:Saeculum/Saeculare
@@ -60,7 +60,7 @@ URL:https://www.ephe.psl.eu/saeculum-saeculare
 END:VEVENT
 BEGIN:VEVENT
 UID:71239b35a484@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261207T100000
 DTEND;TZID=Europe/Paris:20261207T120000
 SUMMARY:Frontières. Pour une anthropologie religieuse de l'espace et du po
@@ -74,7 +74,7 @@ URL:https://www.ephe.psl.eu/frontieres-pour-une-anthropologie-religieuse-de
 END:VEVENT
 BEGIN:VEVENT
 UID:200ad1b5bf7d@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261210T180000
 DTEND;TZID=Europe/Paris:20261210T193000
 SUMMARY:Hippocrate à Constantinople : le Parisinus gr. 2144 et ses lecteur
@@ -88,7 +88,7 @@ URL:https://www.ephe.psl.eu/hippocrate-constantinople-le-parisinus-gr-2144-
 END:VEVENT
 BEGIN:VEVENT
 UID:5275315b8377@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261215T180000
 DTEND;TZID=Europe/Paris:20261215T200000
 SUMMARY:Medieval Jewish Magic: Models

@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4d625f8ce28e@paris-academique
-DTSTAMP:20261125T141224Z
-DTSTART;TZID=Europe/Paris:20261124T110000
-DTEND;TZID=Europe/Paris:20261124T130000
-SUMMARY:Magnetic induction in the subsurface oceans of Europa and Ganymede
-DESCRIPTION:Séminaires Dynamique des fluides géologiques\nhttps://www.ipg
- p.fr/actus-et-agenda/agenda/seminaires/magnetic-induction-in-the-subsurfac
- e-oceans-of-europa-and-ganymede/
-LOCATION:IPGP\, 1 rue Jussieu\, Paris 5e
-URL:https://www.ipgp.fr/actus-et-agenda/agenda/seminaires/magnetic-inductio
- n-in-the-subsurface-oceans-of-europa-and-ganymede/
-END:VEVENT
-BEGIN:VEVENT
 UID:0b9bc616a534@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T140000
 DTEND;TZID=Europe/Paris:20261126T160000
 SUMMARY:Intraplate deformation and crustal thickness variations in the 2012

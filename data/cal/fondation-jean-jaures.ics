@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:b17b6459d5d6@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T093000
 DTEND;TZID=Europe/Paris:20261126T123000
 SUMMARY:Réseaux sociaux et santé des jeunes : de l’alerte aux solutions
@@ -37,7 +37,7 @@ URL:https://www.jean-jaures.org/agenda/reseaux-sociaux-et-sante-des-jeunes-
 END:VEVENT
 BEGIN:VEVENT
 UID:e6dbc2f8a4e3@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T183000
 DTEND;TZID=Europe/Paris:20261126T203000
 SUMMARY:Quelle Union européenne face aux empires ?
@@ -49,7 +49,7 @@ URL:https://www.jean-jaures.org/agenda/quelle-union-europeenne-face-aux-emp
 END:VEVENT
 BEGIN:VEVENT
 UID:f4d15fef38ef@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261203T093000
 DTEND;TZID=Europe/Paris:20261203T173000
 SUMMARY:C’était 1986
@@ -59,7 +59,7 @@ URL:https://www.jean-jaures.org/agenda/cetait-1986/
 END:VEVENT
 BEGIN:VEVENT
 UID:c406e042b807@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261210T183000
 DTEND;TZID=Europe/Paris:20261210T203000
 SUMMARY:Élargir l’Europe ? Quelle Union européenne voulons-nous bâtir 

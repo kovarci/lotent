@@ -24,20 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:a7d729bc71da@paris-academique
-DTSTAMP:20261125T141224Z
-DTSTART;TZID=Europe/Paris:20261125T150000
-DTEND;TZID=Europe/Paris:20261125T170000
-SUMMARY:Homo sapiens\, Néandertal\, Denisova\, une histoire de métissages
-DESCRIPTION:Rencontre\nhttps://www.museedelhomme.fr/fr/rencontre/homo-sapie
- ns-neandertal-denisova-une-histoire-de-metissages
-LOCATION:Musée de l'Homme\, 17 place du Trocadéro\, Paris 16e
-URL:https://www.museedelhomme.fr/fr/rencontre/homo-sapiens-neandertal-denis
- ova-une-histoire-de-metissages
-END:VEVENT
-BEGIN:VEVENT
 UID:6d71cca75c71@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261207T180000
 DTEND;TZID=Europe/Paris:20261207T200000
 SUMMARY:Relation humain / animal : vers la fin d’une longue histoire comm
@@ -50,7 +38,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/relation-humain-animal-vers-l
 END:VEVENT
 BEGIN:VEVENT
 UID:72c20129317a@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261209T150000
 DTEND;TZID=Europe/Paris:20261209T170000
 SUMMARY:Les grands âges : une exposition entre art et science
@@ -62,7 +50,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/les-grands-ages-une-expositio
 END:VEVENT
 BEGIN:VEVENT
 UID:9e398117ce13@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261214T190000
 DTEND;TZID=Europe/Paris:20261214T210000
 SUMMARY:Drogues : la fin du glamour ?
@@ -73,7 +61,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/drogues-la-fin-du-glamour
 END:VEVENT
 BEGIN:VEVENT
 UID:317b8fdd1217@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261216T150000
 DTEND;TZID=Europe/Paris:20261216T170000
 SUMMARY:Les mystères du nomadisme dans les steppes d'Asie centrale durant 
@@ -86,7 +74,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/les-mysteres-du-nomadisme-dan
 END:VEVENT
 BEGIN:VEVENT
 UID:92b93893c51c@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270106T150000
 DTEND;TZID=Europe/Paris:20270106T170000
 SUMMARY:Cultiver la coexistence entre humains\, éléphants et chimpanzés 
@@ -100,7 +88,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/cultiver-la-coexistence-entre
 END:VEVENT
 BEGIN:VEVENT
 UID:942515aacfa5@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270113T150000
 DTEND;TZID=Europe/Paris:20270113T170000
 SUMMARY:L’histoire génétique des couleurs de peau
@@ -112,7 +100,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/l-histoire-genetique-des-coul
 END:VEVENT
 BEGIN:VEVENT
 UID:1b04e5fd49c2@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270120T150000
 DTEND;TZID=Europe/Paris:20270120T170000
 SUMMARY:Des humains et des animaux : quelles relations au cours de la Préh
@@ -125,7 +113,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/des-humains-et-des-animaux-qu
 END:VEVENT
 BEGIN:VEVENT
 UID:43e0b8579e09@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270125T180000
 DTEND;TZID=Europe/Paris:20270125T200000
 SUMMARY:Histoire des psychotropes en Occident
@@ -137,7 +125,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/histoire-des-psychotropes-en-
 END:VEVENT
 BEGIN:VEVENT
 UID:9006d46f804e@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270127T150000
 DTEND;TZID=Europe/Paris:20270127T170000
 SUMMARY:Dans la tête de nos ancêtres
@@ -148,7 +136,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/dans-la-tete-de-nos-ancetres
 END:VEVENT
 BEGIN:VEVENT
 UID:e9dd7e4bd759@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270224T150000
 DTEND;TZID=Europe/Paris:20270224T170000
 SUMMARY:Faut-il encore faire des enfants ?
@@ -159,7 +147,7 @@ URL:https://www.museedelhomme.fr/fr/faut-il-encore-faire-des-enfants
 END:VEVENT
 BEGIN:VEVENT
 UID:b64461abffb8@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270303T150000
 DTEND;TZID=Europe/Paris:20270303T170000
 SUMMARY:Les amulettes du car rapide sénégalais du Musée de l’Homme
@@ -171,7 +159,7 @@ URL:https://www.museedelhomme.fr/fr/les-amulettes-du-car-rapide-senegalais-
 END:VEVENT
 BEGIN:VEVENT
 UID:472b8e10bb2c@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270317T150000
 DTEND;TZID=Europe/Paris:20270317T170000
 SUMMARY:Paléoanthropologie virtuelle : applications à l'étude du crâne 
@@ -184,7 +172,7 @@ URL:https://www.museedelhomme.fr/fr/rencontre/paleoanthropologie-virtuelle-
 END:VEVENT
 BEGIN:VEVENT
 UID:02e0cd0662fb@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270331T150000
 DTEND;TZID=Europe/Paris:20270331T170000
 SUMMARY:Comment la ville transforme nos corps ?

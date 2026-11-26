@@ -24,24 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e644087b8106@paris-academique
-DTSTAMP:20261125T141224Z
-DTSTART;TZID=Europe/Paris:20261125T144500
-DTEND;TZID=Europe/Paris:20261125T160000
-SUMMARY:Amplitudes for Superradiant Scattering
-DESCRIPTION:Séminaire Amplitudes et Gravitation sur l'Yvette (IHES/IPhT) S
- uperradiance allows incident radiation to extract energy from a rotating o
- r charged body. In this talk\, I will present a QFT description of this ph
- enomenon using on-shell scattering amplitudes. Working at wavelengths much
-  larger than the size of the target\, we describe its internal transitions
-  through mass-changing amplitudes and…\nhttps://indico.math.cnrs.fr/even
- t/17839/
-LOCATION:IHES
-URL:https://indico.math.cnrs.fr/event/17839/
-END:VEVENT
-BEGIN:VEVENT
 UID:878dbfa010be@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T090000
 DTEND;TZID=Europe/Paris:20261126T110000
 SUMMARY:Combinatorics and Arithmetic for Physics
@@ -57,7 +41,7 @@ URL:https://indico.math.cnrs.fr/event/17588/
 END:VEVENT
 BEGIN:VEVENT
 UID:d5c2c9991d22@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T110000
 DTEND;TZID=Europe/Paris:20261126T123000
 SUMMARY:The Stratified Shape
@@ -73,7 +57,7 @@ URL:https://indico.math.cnrs.fr/event/17578/
 END:VEVENT
 BEGIN:VEVENT
 UID:68ded0ad73fb@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261126T144500
 DTEND;TZID=Europe/Paris:20261126T160000
 SUMMARY:Reentrant Algebraic Order at High Temperature
@@ -89,7 +73,7 @@ URL:https://indico.math.cnrs.fr/event/17842/
 END:VEVENT
 BEGIN:VEVENT
 UID:687f749ff7e4@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261201T093000
 DTEND;TZID=Europe/Paris:20261201T160000
 SUMMARY:14e séminaire ITZYKSON - Dualité markovienne : méthodes algébri
@@ -105,8 +89,40 @@ LOCATION:Le Bois-Marie
 URL:https://indico.math.cnrs.fr/event/17599/
 END:VEVENT
 BEGIN:VEVENT
+UID:71f9ced7ec6b@paris-academique
+DTSTAMP:20261126T135023Z
+DTSTART;TZID=Europe/Paris:20261202T103000
+DTEND;TZID=Europe/Paris:20261202T113000
+SUMMARY:On the Yau-Tian-Donaldson Correspondence
+DESCRIPTION:Seed Seminar of Mathematics and Physics AI and the Future of Ma
+ thematics and Physics Since the solution of the Calabi conjecture by Yau\,
+  the existence of canonical Kähler metrics has been a central theme in co
+ mplex differential geometry. A major mile [1] stone in this development is
+  the Yau–Tian–Donaldson conjecture\, which predicts a deep corresponde
+ nce between the existence of canonical Kähler…\nhttps://indico.math.cnr
+ s.fr/event/17914/
+LOCATION:IHES
+URL:https://indico.math.cnrs.fr/event/17914/
+END:VEVENT
+BEGIN:VEVENT
+UID:8ac98131aabb@paris-academique
+DTSTAMP:20261126T135023Z
+DTSTART;TZID=Europe/Paris:20261202T114500
+DTEND;TZID=Europe/Paris:20261202T124500
+SUMMARY:Toward an AI Mathematician
+DESCRIPTION:Seed Seminar of Mathematics and Physics AI and the Future of Ma
+ thematics and Physics AI can now produce research mathematics\, but checki
+ ng it is hard. Proof assistants like Lean verify every step automatically.
+  We show how AI agents can now formalize textbooks\, prove open problems\,
+  and find new theorems worth proving\, all checked by Lean. Because every 
+ result is verifiable\, these tasks also let…\nhttps://indico.math.cnrs.f
+ r/event/17915/
+LOCATION:IHES
+URL:https://indico.math.cnrs.fr/event/17915/
+END:VEVENT
+BEGIN:VEVENT
 UID:d6cc6b6478a2@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261202T140000
 DTEND;TZID=Europe/Paris:20261202T160000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -122,7 +138,7 @@ URL:https://indico.math.cnrs.fr/event/17631/
 END:VEVENT
 BEGIN:VEVENT
 UID:f60be9e1c6eb@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261202T213000
 DTEND;TZID=Europe/Paris:20261202T223000
 SUMMARY:CayleyPy: From Rubik’s Cube to Holographic Duality in AI
@@ -138,7 +154,7 @@ URL:https://indico.math.cnrs.fr/event/17862/
 END:VEVENT
 BEGIN:VEVENT
 UID:e1e5d72b58e2@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261204T140000
 DTEND;TZID=Europe/Paris:20261204T160000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -154,7 +170,7 @@ URL:https://indico.math.cnrs.fr/event/17632/
 END:VEVENT
 BEGIN:VEVENT
 UID:5355402a7318@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261207T090000
 DTEND;TZID=Europe/Paris:20261207T190000
 SUMMARY:XMath Physics Day
@@ -170,7 +186,7 @@ URL:https://indico.math.cnrs.fr/event/17422/
 END:VEVENT
 BEGIN:VEVENT
 UID:970335f46717@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261208T140000
 DTEND;TZID=Europe/Paris:20261208T160000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -186,7 +202,7 @@ URL:https://indico.math.cnrs.fr/event/17633/
 END:VEVENT
 BEGIN:VEVENT
 UID:81d34b604e72@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261210T100000
 DTEND;TZID=Europe/Paris:20261210T120000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -202,7 +218,7 @@ URL:https://indico.math.cnrs.fr/event/17634/
 END:VEVENT
 BEGIN:VEVENT
 UID:85d96d0b4cd5@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261210T190000
 DTEND;TZID=Europe/Paris:20261210T230000
 SUMMARY:Fête de fin d'année - End-of-Year Party
@@ -217,8 +233,40 @@ LOCATION:IHES
 URL:https://indico.math.cnrs.fr/event/17794/
 END:VEVENT
 BEGIN:VEVENT
+UID:f89e39438b36@paris-academique
+DTSTAMP:20261126T135023Z
+DTSTART;TZID=Europe/Paris:20261214T140000
+DTEND;TZID=Europe/Paris:20261214T151500
+SUMMARY:Bowditch Representations in Hyperbolic Spaces
+DESCRIPTION:Bowditch\, followed by Tan-Wong-Zhang\, introduced in 1998 a cl
+ ass of representations of the once-punctured torus group into PSL(2\,C). U
+ sing trace relations in PSL(2\,C)\, they give a condition on a representat
+ ion which ensures that the translation lengths of the images of simple clo
+ sed curves grow linearly with respect to the word length. In this talk\, I
+  will explain how to define and study a…\nhttps://indico.math.cnrs.fr/ev
+ ent/17919/
+LOCATION:IHES
+URL:https://indico.math.cnrs.fr/event/17919/
+END:VEVENT
+BEGIN:VEVENT
+UID:743924798449@paris-academique
+DTSTAMP:20261126T135023Z
+DTSTART;TZID=Europe/Paris:20261214T160000
+DTEND;TZID=Europe/Paris:20261214T171500
+SUMMARY:Around a Conjecture of Michel Duflo
+DESCRIPTION:The Duflo polynomial conjecture establishes a connection betwee
+ n two different mathematical worlds: classical Poisson geometry and the al
+ gebra of invariant differential operators associated with representations 
+ of Lie groups. It generalizes the classical Duflo isomorphism\, which rela
+ tes the center of a universal enveloping algebra to the Poisson center of 
+ the corresponding symmetric algebra. The…\nhttps://indico.math.cnrs.fr/e
+ vent/17920/
+LOCATION:IHES
+URL:https://indico.math.cnrs.fr/event/17920/
+END:VEVENT
+BEGIN:VEVENT
 UID:bd1701d69489@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20261217T110000
 DTEND;TZID=Europe/Paris:20261217T123000
 SUMMARY:Algebraic Theory of Indefinite Theta Functions
@@ -234,7 +282,7 @@ URL:https://indico.math.cnrs.fr/event/17585/
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd8d0b9edde@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270531T093000
 DTEND;TZID=Europe/Paris:20270531T113000
 SUMMARY:French-Japanese Conference on Arithmetic Geometry in Honor of Takes
@@ -251,7 +299,7 @@ URL:https://indico.math.cnrs.fr/event/15993/
 END:VEVENT
 BEGIN:VEVENT
 UID:f84116d45349@paris-academique
-DTSTAMP:20261125T141224Z
+DTSTAMP:20261126T135023Z
 DTSTART;TZID=Europe/Paris:20270705T083000
 DTEND;TZID=Europe/Paris:20270705T103000
 SUMMARY:2027 IHES Summer School - Local Systems in Algebraic Geometry
