@@ -24,40 +24,10 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4c1d9e087fbe@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261125T090000
-DTEND;TZID=Europe/Paris:20261125T183000
-SUMMARY:Présentation des posters scientifiques par les doctorants
-DESCRIPTION:Venez découvrir les posters des travaux de recherche sur le th
- ème IA\, numérique et société\, présentés par les doctorantes et doc
- torants.\nhttps://dauphine.psl.eu/dauphine/media-et-communication/article/
- presentation-des-posters-scientifiques-par-les-doctorants-2026
-LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
- gny\, Paris 16e
-URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/present
- ation-des-posters-scientifiques-par-les-doctorants-2026
-END:VEVENT
-BEGIN:VEVENT
-UID:5ee58fb72190@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T093000
-DTEND;TZID=Europe/Paris:20261126T120000
-SUMMARY:IA et responsabilité : état des lieux et enjeux
-DESCRIPTION:Quelles responsabilités des professionnels en cas d'utilisatio
- n d'outils d'IA ? Comment obtenir réparation en cas de dommage d'une IA ?
- \nhttps://dauphine.psl.eu/dauphine/media-et-communication/article/ia-respo
- nsable-et-responsabilite-ex-post-quelle-articulation
-LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
- gny\, Paris 16e
-URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/ia-resp
- onsable-et-responsabilite-ex-post-quelle-articulation
-END:VEVENT
-BEGIN:VEVENT
 UID:68dfb03122b3@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T130000
-DTEND;TZID=Europe/Paris:20261126T150000
+DTSTAMP:20261127T135713Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
 SUMMARY:Séminaire LAMSADE (Jeux et Choix Social) : Double seminar: Marc Se
  rramia and Takahiro Suzuki
 DESCRIPTION:Jeux et Choix Social\nhttps://www.lamsade.dauphine.fr/fr/actual
@@ -69,52 +39,8 @@ URL:https://www.lamsade.dauphine.fr/fr/actualites/detail-de-lactualite/arti
  cle/double-seminar-marc-serramia-and-takahiro-suzuki.html
 END:VEVENT
 BEGIN:VEVENT
-UID:7e34b6658e45@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T140000
-DTEND;TZID=Europe/Paris:20261126T153000
-SUMMARY:Finance(s) : à qui profite l'IA ?
-DESCRIPTION:Qui bénéficie le plus de la création de valeur et du gain de
-  productivité de l'IA ? Zoom sur son impact en finance.\nhttps://dauphine
- .psl.eu/dauphine/media-et-communication/article/finances-a-qui-profite-lia
-LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
- gny\, Paris 16e
-URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/finance
- s-a-qui-profite-lia
-END:VEVENT
-BEGIN:VEVENT
-UID:ed80dda401b2@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T160000
-DTEND;TZID=Europe/Paris:20261126T171500
-SUMMARY:Usages\, impacts et enjeux de l'IA en recherche
-DESCRIPTION:Simple outil ou véritable révolution ? L'IA en recherche ques
- tionne les pratiques et les métiers académiques. Jusqu'à quel point ?\n
- https://dauphine.psl.eu/dauphine/media-et-communication/article/usages-imp
- acts-et-enjeux-de-lia-en-recherche
-LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
- gny\, Paris 16e
-URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/usages-
- impacts-et-enjeux-de-lia-en-recherche
-END:VEVENT
-BEGIN:VEVENT
-UID:b862f5a7054f@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T173000
-DTEND;TZID=Europe/Paris:20261126T190000
-SUMMARY:Comment reconnaître le travail demain ?
-DESCRIPTION:Métiers\, compétences\, organisations : comment accompagner l
- es transformations du travail et repenser les équilibres dans l’entrepr
- ise ?\nhttps://dauphine.psl.eu/dauphine/media-et-communication/article/reg
- ards-croises-sur-lia-le-travail-et-le-dialogue-social
-LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
- gny\, Paris 16e
-URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/regards
- -croises-sur-lia-le-travail-et-le-dialogue-social
-END:VEVENT
-BEGIN:VEVENT
 UID:d1b70407020f@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T163000
 SUMMARY:Finale du concours Éloquence du bégaiement 2026
@@ -129,7 +55,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/finale-
 END:VEVENT
 BEGIN:VEVENT
 UID:1a48f1dca035@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261130T173000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:Soirée Alumni "Carrières responsables" 2026
@@ -143,7 +69,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/soiree-
 END:VEVENT
 BEGIN:VEVENT
 UID:9eabb3e10e4f@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Osez Dauphine : soirée portes ouvertes de Dauphine Executive Educa
@@ -159,7 +85,7 @@ URL:https://executive-education.dauphine.psl.eu/nous-connaitre/portes-ouver
 END:VEVENT
 BEGIN:VEVENT
 UID:d5f8e38e2e3b@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261201T200000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Concert inaugural de l'Orchestre symphonique de PSL - 2026
@@ -174,7 +100,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2d9ab7c27469@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T130000
 SUMMARY:11ème édition des rendez-vous du logement étudiant
@@ -189,7 +115,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/11eme-e
 END:VEVENT
 BEGIN:VEVENT
 UID:f4fd76ce86e5@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261203T140000
 DTEND;TZID=Europe/Paris:20261203T160000
 SUMMARY:Séminaire LAMSADE (Jeux et Choix Social) : Stable Matching with Co
@@ -204,7 +130,7 @@ URL:https://www.lamsade.dauphine.fr/fr/actualites/detail-de-lactualite/arti
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8af4705bb8@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261204T134500
 DTEND;TZID=Europe/Paris:20261204T150000
 SUMMARY:Présentation du Hotspot Terrae-PSL Habiterra
@@ -219,7 +145,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/present
 END:VEVENT
 BEGIN:VEVENT
 UID:2efd15332f6f@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T220000
 SUMMARY:Égalité des chances : Dauphine à l’heure des possibles
@@ -234,7 +160,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/soiree-
 END:VEVENT
 BEGIN:VEVENT
 UID:367fcb23d40b@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261209T190000
 DTEND;TZID=Europe/Paris:20261209T203000
 SUMMARY:Fail Night 8ème édition
@@ -248,7 +174,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/default
 END:VEVENT
 BEGIN:VEVENT
 UID:87042c06dfea@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261215T174500
 DTEND;TZID=Europe/Paris:20261215T201500
 SUMMARY:Projection - documentaire : Éclaireurs
@@ -263,7 +189,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/project
 END:VEVENT
 BEGIN:VEVENT
 UID:1fe8d2e157ff@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270130T160000
 DTEND;TZID=Europe/Paris:20270130T200000
 SUMMARY:Découvrez le Master 2 Ingénierie juridique et fiscale du dirigean
@@ -279,7 +205,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/decouvr
 END:VEVENT
 BEGIN:VEVENT
 UID:c7640486a003@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:Appel à communications: 3e conférence "Propriété\, contrôle et

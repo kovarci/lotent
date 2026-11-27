@@ -24,19 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:aea07c6b66b2@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T100000
-DTEND;TZID=Europe/Paris:20261126T120000
-SUMMARY:L’ « histoire des religions »
-DESCRIPTION:Colloque\nhttps://www.ehess.fr/jcms/305341_JEvent/fr/l-histoire
- -des-religions
-LOCATION:EHESS\, 54 boulevard Raspail\, Paris 6e
-URL:https://www.ehess.fr/jcms/305341_JEvent/fr/l-histoire-des-religions
-END:VEVENT
-BEGIN:VEVENT
 UID:126f55eb6343@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261127T100000
 DTEND;TZID=Europe/Paris:20261127T120000
 SUMMARY:Voix aux Chapitres #22 autour de l'ouvrage "Chroniques de l’intra
@@ -52,7 +41,7 @@ URL:https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour
 END:VEVENT
 BEGIN:VEVENT
 UID:0648efe26186@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261128T142000
 DTEND;TZID=Europe/Paris:20261128T162000
 SUMMARY:L’EHESS au festival Vrai de Vrai organisé par LaScam
@@ -64,7 +53,7 @@ URL:https://www.ehess.fr/jcms/312529_JEvent/fr/l-ehess-au-festival-vrai-de-
 END:VEVENT
 BEGIN:VEVENT
 UID:dd6dd2ea637f@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261128T150000
 DTEND;TZID=Europe/Paris:20261128T170000
 SUMMARY:Monnaie\, pouvoir et crises : une histoire de France
@@ -76,7 +65,7 @@ URL:https://www.ehess.fr/jcms/320325_JEvent/fr/monnaie-pouvoir-et-crises-un
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf293d4458a@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261201T143000
 DTEND;TZID=Europe/Paris:20261201T163000
 SUMMARY:Témoigner devant la CPI - Autour du livre de Milena Jaksic\, La ju
@@ -90,7 +79,7 @@ URL:https://www.ehess.fr/jcms/322459_JEvent/fr/temoigner-devant-la-cpi-auto
 END:VEVENT
 BEGIN:VEVENT
 UID:a497b7772165@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261201T173000
 DTEND;TZID=Europe/Paris:20261201T193000
 SUMMARY:Voix aux Chapitres #23 autour de l'ouvrage "Une histoire économiqu
@@ -105,7 +94,7 @@ URL:https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour
 END:VEVENT
 BEGIN:VEVENT
 UID:b2c5173cabc5@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261202T090000
 DTEND;TZID=Europe/Paris:20261202T110000
 SUMMARY:Sources de l’autorité religieuse en Asie (1)
@@ -117,7 +106,7 @@ URL:https://www.ehess.fr/jcms/318185_JEvent/fr/sources-de-l-autorite-religi
 END:VEVENT
 BEGIN:VEVENT
 UID:dcc99e7d7cde@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261204T133000
 DTEND;TZID=Europe/Paris:20261204T153000
 SUMMARY:Karl Mannheim et la sociologie aujourd’hui
@@ -128,22 +117,8 @@ URL:https://www.ehess.fr/jcms/319671_JEvent/fr/karl-mannheim-et-la-sociolog
  ie-aujourd-hui
 END:VEVENT
 BEGIN:VEVENT
-UID:63ab4d5aae92@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261204T190000
-DTEND;TZID=Europe/Paris:20261204T210000
-SUMMARY:Une histoire de Paris. Pollutions\, économie & inégalités enviro
- nnementales aux XVIIIᵉ et XIXᵉ siècles
-DESCRIPTION:Conférence · Rencontre\nhttps://www.ehess.fr/jcms/317433_JEve
- nt/fr/une-histoire-de-paris-pollutions-economie-inegalites-environnemental
- es-aux-xviii-et-xix-siecles
-LOCATION:EHESS\, 54 boulevard Raspail\, Paris 6e
-URL:https://www.ehess.fr/jcms/317433_JEvent/fr/une-histoire-de-paris-pollut
- ions-economie-inegalites-environnementales-aux-xviii-et-xix-siecles
-END:VEVENT
-BEGIN:VEVENT
 UID:029d862fdea2@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261204T190000
 DTEND;TZID=Europe/Paris:20261204T210000
 SUMMARY:L'ennemi intérieur et la Nation : spectacle "la Marseillaise en br
@@ -157,8 +132,22 @@ URL:https://www.ehess.fr/jcms/321836_JEvent/fr/l-ennemi-interieur-et-la-nat
  l
 END:VEVENT
 BEGIN:VEVENT
+UID:63ab4d5aae92@paris-academique
+DTSTAMP:20261127T135713Z
+DTSTART;TZID=Europe/Paris:20261204T190000
+DTEND;TZID=Europe/Paris:20261204T210000
+SUMMARY:Une histoire de Paris. Pollutions\, économie & inégalités enviro
+ nnementales aux XVIIIᵉ et XIXᵉ siècles
+DESCRIPTION:Conférence · Rencontre\nhttps://www.ehess.fr/jcms/317433_JEve
+ nt/fr/une-histoire-de-paris-pollutions-economie-inegalites-environnemental
+ es-aux-xviii-et-xix-siecles
+LOCATION:EHESS\, 54 boulevard Raspail\, Paris 6e
+URL:https://www.ehess.fr/jcms/317433_JEvent/fr/une-histoire-de-paris-pollut
+ ions-economie-inegalites-environnementales-aux-xviii-et-xix-siecles
+END:VEVENT
+BEGIN:VEVENT
 UID:8a1bb38da24d@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261209T120000
 DTEND;TZID=Europe/Paris:20261209T140000
 SUMMARY:Atelier-rencontre de l'IISMM "Changer d’alphabet. Turquie 1850-19
@@ -171,7 +160,7 @@ URL:https://www.ehess.fr/jcms/302060_JEvent/fr/atelier-rencontre-de-l-iismm
 END:VEVENT
 BEGIN:VEVENT
 UID:e931f209406d@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261209T173000
 DTEND;TZID=Europe/Paris:20261209T193000
 SUMMARY:Voix aux Chapitres #24 autour de l'ouvrage "Coluche"

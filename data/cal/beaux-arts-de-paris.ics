@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:1fe493ef6b03@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261201T190000
 DTEND;TZID=Europe/Paris:20261201T203000
 SUMMARY:Penser le Présent avec Mohamed Amer Meziane et Youness Bousenna
@@ -37,7 +37,7 @@ URL:https://beauxartsparis.fr/fr/evenement/penser-le-present-avec-mohamed-a
 END:VEVENT
 BEGIN:VEVENT
 UID:9c686fce3ddf@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261210T190000
 DTEND;TZID=Europe/Paris:20261210T203000
 SUMMARY:Penser le Présent avec Sophie Delpeux et Alice Maud-Roxby

@@ -23,19 +23,4 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:0b9bc616a534@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T140000
-DTEND;TZID=Europe/Paris:20261126T160000
-SUMMARY:Intraplate deformation and crustal thickness variations in the 2012
-  earthquake rupture zones in the Wharton Basin\, Indian Ocean
-DESCRIPTION:Soutenances de thèses\nhttps://www.ipgp.fr/actus-et-agenda/age
- nda/seminaires/intraplate-deformation-and-crustal-thickness-variations-in-
- the-2012-earthquake-rupture-zones-in-the-wharton-basin-indian-ocean/
-LOCATION:IPGP\, 1 rue Jussieu\, Paris 5e
-URL:https://www.ipgp.fr/actus-et-agenda/agenda/seminaires/intraplate-deform
- ation-and-crustal-thickness-variations-in-the-2012-earthquake-rupture-zone
- s-in-the-wharton-basin-indian-ocean/
-END:VEVENT
 END:VCALENDAR

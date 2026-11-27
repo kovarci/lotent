@@ -24,32 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:591186ed12a5@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T083000
-DTEND;TZID=Europe/Paris:20261126T103000
-SUMMARY:Journée 100% Actuaires - Data science - Durabilité
-DESCRIPTION:Conférence\nhttps://www.institutdesactuaires.com/agenda/journe
- e-100-actuaires-data-science-durabilite-7613
-LOCATION:Paris — lieu précisé sur la page de l'événement
-URL:https://www.institutdesactuaires.com/agenda/journee-100-actuaires-data-
- science-durabilite-7613
-END:VEVENT
-BEGIN:VEVENT
-UID:8cb31892ea2c@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T174500
-DTEND;TZID=Europe/Paris:20261126T194500
-SUMMARY:Cérémonie d'accueil des nouveaux associés 2026
-DESCRIPTION:https://www.institutdesactuaires.com/agenda/ceremonie-d-accueil
- -des-nouveaux-associes-2026-8059
-LOCATION:Paris — lieu précisé sur la page de l'événement
-URL:https://www.institutdesactuaires.com/agenda/ceremonie-d-accueil-des-nou
- veaux-associes-2026-8059
-END:VEVENT
-BEGIN:VEVENT
 UID:fd6a5e1d5f42@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261127T123000
 DTEND;TZID=Europe/Paris:20261127T143000
 SUMMARY:WG Risk : "Clustering multivariate populations by their dependence 
@@ -62,7 +38,7 @@ URL:https://www.institutdesactuaires.com/agenda/wg-risk-clustering-multivar
 END:VEVENT
 BEGIN:VEVENT
 UID:2071e38cc2e3@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261129T090000
 DTEND;TZID=Europe/Paris:20261129T110000
 SUMMARY:Run For Climate 2026
@@ -72,8 +48,19 @@ LOCATION:Paris — lieu précisé sur la page de l'événement
 URL:https://www.institutdesactuaires.com/agenda/run-for-climate-2026-8023
 END:VEVENT
 BEGIN:VEVENT
+UID:a8983bdafc41@paris-academique
+DTSTAMP:20261127T135713Z
+DTSTART;TZID=Europe/Paris:20261130T120000
+DTEND;TZID=Europe/Paris:20261130T140000
+SUMMARY:Commission Vie - Epargne
+DESCRIPTION:Réunion réservée aux membres du groupe\nhttps://www.institut
+ desactuaires.com/agenda/commission-vie-epargne-8279
+LOCATION:Paris — lieu précisé sur la page de l'événement
+URL:https://www.institutdesactuaires.com/agenda/commission-vie-epargne-8279
+END:VEVENT
+BEGIN:VEVENT
 UID:1cc1e06d5944@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T110000
 SUMMARY:Colloque Actuariat 2026 et remise du Prix SCOR de l’actuariat

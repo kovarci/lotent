@@ -24,20 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7785bc403f40@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T183000
-DTEND;TZID=Europe/Paris:20261126T200000
-SUMMARY:Conférence du diplôme avec Didier Fassin annulée
-DESCRIPTION:Conférence du diplôme\nhttps://www.ens-paris-saclay.fr/agenda
- /conference-du-diplome-avec-didier-fassin-annulee
-LOCATION:ENS Paris-Saclay\, 4 avenue des Sciences\, Gif-sur-Yvette
-URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-avec-didie
- r-fassin-annulee
-END:VEVENT
-BEGIN:VEVENT
 UID:f2e6bd93540a@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261128T090000
 DTEND;TZID=Europe/Paris:20261128T170000
 SUMMARY:Rencontres des jeunes mathématiciennes et informaticiennes (RJMI) 
@@ -50,7 +38,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/rencontres-des-jeunes-mathematic
 END:VEVENT
 BEGIN:VEVENT
 UID:767f4385dd82@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261130T183000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:Semaine des carrières normaliennes 2026
@@ -62,7 +50,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/semaine-des-carrieres-normalienn
 END:VEVENT
 BEGIN:VEVENT
 UID:90128aba7103@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261202T090000
 DTEND;TZID=Europe/Paris:20261202T123000
 SUMMARY:Forum des stages MVA 2026
@@ -73,7 +61,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/forum-des-stages-mva-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:67a32f5728f3@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261205T140000
 DTEND;TZID=Europe/Paris:20261205T144000
 SUMMARY:Spectacle : Trait(s)
@@ -82,22 +70,21 @@ LOCATION:ENS Paris-Saclay\, 4 avenue des Sciences\, Gif-sur-Yvette
 URL:https://www.ens-paris-saclay.fr/agenda/spectacle-traits
 END:VEVENT
 BEGIN:VEVENT
-UID:287ee45fd218@paris-academique
-DTSTAMP:20261126T135023Z
+UID:37410cb81e6e@paris-academique
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T200000
 SUMMARY:Conférence du diplôme sur les enquêtes Trajectoires et Origines 
- de l'INED annulée
+ de l'INED
 DESCRIPTION:Conférence du diplôme\nhttps://www.ens-paris-saclay.fr/agenda
- /conference-du-diplome-sur-les-enquetes-trajectoires-et-origines-de-lined-
- annulee
+ /conference-du-diplome-sur-les-enquetes-trajectoires-et-origines-de-lined
 LOCATION:ENS Paris-Saclay\, 4 avenue des Sciences\, Gif-sur-Yvette
 URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-sur-les-en
- quetes-trajectoires-et-origines-de-lined-annulee
+ quetes-trajectoires-et-origines-de-lined
 END:VEVENT
 BEGIN:VEVENT
 UID:2b34f13ffff2@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261214T120000
 DTEND;TZID=Europe/Paris:20261214T140000
 SUMMARY:Christmas meal for international students 2026
@@ -109,7 +96,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/christmas-meal-international-stu
 END:VEVENT
 BEGIN:VEVENT
 UID:7c452be96618@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270112T190000
 DTEND;TZID=Europe/Paris:20270112T203000
 SUMMARY:Arts & Sciences : Péritopie 2

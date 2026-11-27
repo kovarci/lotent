@@ -24,20 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:9c3dfa5202dd@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261125T190000
-DTEND;TZID=Europe/Paris:20261125T210000
-SUMMARY:[Webinaire] AI and the Future of Social Sciences Graduates
-DESCRIPTION:https://u-paris.fr/events/évènement/webinaire-ai-and-the-futu
- re-of-social-sciences-graduates/
-LOCATION:Université Paris Cité\, 85 boulevard Saint-Germain\, Paris 6e
-URL:https://u-paris.fr/events/évènement/webinaire-ai-and-the-future-of-so
- cial-sciences-graduates/
-END:VEVENT
-BEGIN:VEVENT
 UID:60d706314722@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261203T173000
 DTEND;TZID=Europe/Paris:20261203T193000
 SUMMARY:Les Logiques du corps : une conférence-dédicace de Georges Vigare
@@ -51,7 +39,7 @@ URL:https://u-paris.fr/events/évènement/les-logiques-du-corps-une-confere
 END:VEVENT
 BEGIN:VEVENT
 UID:c73a8cfcbc02@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261204T140000
 DTEND;TZID=Europe/Paris:20261204T160000
 SUMMARY:[EURIP Masterclass] Aide à la décision durable dans une société
@@ -65,7 +53,7 @@ URL:https://u-paris.fr/events/évènement/masterclass-eurip-aide-a-la-decis
 END:VEVENT
 BEGIN:VEVENT
 UID:992c027a1317@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T160000
 SUMMARY:La vie sensible des plantes
@@ -80,7 +68,7 @@ URL:https://u-paris.fr/universite-ouverte/la-vie-sensible-des-plantes/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecc63070c2a2@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:[26e colloque GYPSY] Le vrai du faux\, chaos ou nouvel ordre ?
@@ -93,7 +81,7 @@ URL:https://u-paris.fr/évènement/26e-colloque-gypsy-le-vrai-du-faux-chaos
 END:VEVENT
 BEGIN:VEVENT
 UID:d553640de883@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Convergences 2026 : l’interdisciplinarité à UPCité
@@ -112,7 +100,7 @@ URL:https://u-paris.fr/events/évènement/convergences-2026-linterdisciplin
 END:VEVENT
 BEGIN:VEVENT
 UID:7eef6642ef8b@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261215T083000
 DTEND;TZID=Europe/Paris:20261215T140000
 SUMMARY:HRS4R : une première Journée annuelle pour construire la recherch
@@ -126,7 +114,7 @@ URL:https://u-paris.fr/évènement/hrs4r-une-premiere-journee-annuelle-pour
 END:VEVENT
 BEGIN:VEVENT
 UID:e113b988536a@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261215T120000
 DTEND;TZID=Europe/Paris:20261215T140000
 SUMMARY:Visite de la Méridienne des Grands Moulins
@@ -144,7 +132,7 @@ URL:https://u-paris.fr/events/évènement/visite-de-la-meridienne-des-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:a8f2335e5ac3@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270108T140000
 DTEND;TZID=Europe/Paris:20270108T160000
 SUMMARY:[EURIP Masterclass] Éco-traduction et santé planétaire
@@ -157,7 +145,7 @@ URL:https://u-paris.fr/events/évènement/eurip-masterclass-eco-traduction-
 END:VEVENT
 BEGIN:VEVENT
 UID:c3e881d10972@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270119T120000
 DTEND;TZID=Europe/Paris:20270119T140000
 SUMMARY:Visite de la Méridienne des Grands Moulins
@@ -175,7 +163,7 @@ URL:https://u-paris.fr/events/évènement/visite-de-la-meridienne-des-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:9ff7583f37c1@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270205T140000
 DTEND;TZID=Europe/Paris:20270205T160000
 SUMMARY:[EURIP Masterclass] Égalité de genre et droit : fondements\, limi
@@ -189,7 +177,7 @@ URL:https://u-paris.fr/events/évènement/eurip-masterclass-egalite-de-genr
 END:VEVENT
 BEGIN:VEVENT
 UID:c117a403a0bd@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270223T120000
 DTEND;TZID=Europe/Paris:20270223T140000
 SUMMARY:Visite de la Méridienne des Grands Moulins
@@ -207,7 +195,7 @@ URL:https://u-paris.fr/events/évènement/visite-de-la-meridienne-des-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:a15867dc491b@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270225T083000
 DTEND;TZID=Europe/Paris:20270225T103000
 SUMMARY:Journée des initiatives pédagogiques : les pédagogies actives
@@ -226,7 +214,7 @@ URL:https://u-paris.fr/events/évènement/journee-des-initiatives-pedagogiq
 END:VEVENT
 BEGIN:VEVENT
 UID:e39db318d23c@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270323T120000
 DTEND;TZID=Europe/Paris:20270323T140000
 SUMMARY:Visite de la Méridienne des Grands Moulins
@@ -244,7 +232,7 @@ URL:https://u-paris.fr/events/évènement/visite-de-la-meridienne-des-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:44c254a5a3b5@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270420T120000
 DTEND;TZID=Europe/Paris:20270420T140000
 SUMMARY:Visite de la Méridienne des Grands Moulins
@@ -262,7 +250,7 @@ URL:https://u-paris.fr/events/évènement/visite-de-la-meridienne-des-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:b44338983398@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270518T120000
 DTEND;TZID=Europe/Paris:20270518T140000
 SUMMARY:Visite de la Méridienne des Grands Moulins
@@ -280,7 +268,7 @@ URL:https://u-paris.fr/events/évènement/visite-de-la-meridienne-des-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:c70795e49faf@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270622T120000
 DTEND;TZID=Europe/Paris:20270622T140000
 SUMMARY:Visite de la Méridienne des Grands Moulins
@@ -298,7 +286,7 @@ URL:https://u-paris.fr/events/évènement/visite-de-la-meridienne-des-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:3fdaecd1590e@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20270915T150000
 DTEND;TZID=Europe/Paris:20270915T170000
 SUMMARY:Rencontre auteurs You Young-kwang × Audrey Pleynet
@@ -315,7 +303,7 @@ URL:https://u-paris.fr/universite-ouverte/rencontre-autrices-you-young-kwan
 END:VEVENT
 BEGIN:VEVENT
 UID:c0823fcd652c@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20271001T170000
 DTEND;TZID=Europe/Paris:20271001T190000
 SUMMARY:Projection/rencontre : Madagascar\, le repaire secret des pirates
@@ -332,7 +320,7 @@ URL:https://u-paris.fr/universite-ouverte/madagascar-le-repaire-secret-des-
 END:VEVENT
 BEGIN:VEVENT
 UID:ceb3dcd01d79@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20271019T180000
 DTEND;TZID=Europe/Paris:20271019T200000
 SUMMARY:Rencontre avec Kim Jiyun sur la tendance littéraire du k-healing

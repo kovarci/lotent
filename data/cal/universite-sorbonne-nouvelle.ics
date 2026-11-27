@@ -24,24 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:46576e40b416@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Conférence de M. Kalidou Sy: "Sciences du langage et colonialité 
- en Afrique: une approche anthroposémiotique"
-DESCRIPTION:https://www.sorbonne-nouvelle.fr/conference-de-m-kalidou-sy-sci
- ences-du-langage-et-colonialite-en-afrique-une-approche-anthroposemiotique
- --949311.kjsp?RH=1268219980647
-LOCATION:Université Sorbonne Nouvelle\, 8 avenue de Saint-Mandé\, Paris 1
- 2e
-URL:https://www.sorbonne-nouvelle.fr/conference-de-m-kalidou-sy-sciences-du
- -langage-et-colonialite-en-afrique-une-approche-anthroposemiotique--949311
- .kjsp?RH=1268219980647
-END:VEVENT
-BEGIN:VEVENT
 UID:1d747150eb2e@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:LES DÉFIS DU JAZZ...
@@ -54,7 +38,7 @@ URL:https://www.sorbonne-nouvelle.fr/les-defis-du-jazz--925188.kjsp?RH=1236
 END:VEVENT
 BEGIN:VEVENT
 UID:c7c17729c26c@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Evolutionary Pragmatics Workshop
@@ -67,7 +51,7 @@ URL:https://www.sorbonne-nouvelle.fr/evolutionary-pragmatics-workshop-94999
 END:VEVENT
 BEGIN:VEVENT
 UID:6c3f078ec7ff@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Littérature et histoire : ce qui résiste
@@ -80,7 +64,7 @@ URL:https://www.sorbonne-nouvelle.fr/litterature-et-histoire-ce-qui-resiste
 END:VEVENT
 BEGIN:VEVENT
 UID:ba2bbb14e99c@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Représenter le handicap dans les arts\, les lettres et les médias
@@ -96,7 +80,7 @@ URL:https://www.sorbonne-nouvelle.fr/representer-le-handicap-dans-les-arts-
 END:VEVENT
 BEGIN:VEVENT
 UID:4fc79c96fdf0@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Ecrire la Russie… sans le russe : traduire la fiction et la non-f
@@ -112,7 +96,7 @@ URL:https://www.sorbonne-nouvelle.fr/ecrire-la-russie-sans-le-russe-traduir
 END:VEVENT
 BEGIN:VEVENT
 UID:0fdfc81c9533@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:La satire : les normes de l'excès
@@ -125,7 +109,7 @@ URL:https://www.sorbonne-nouvelle.fr/la-satire-les-normes-de-l-exces-933453
 END:VEVENT
 BEGIN:VEVENT
 UID:36a53cd69353@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Jeux de mots: mécanismes et contextes
@@ -137,8 +121,21 @@ URL:https://www.sorbonne-nouvelle.fr/jeux-de-mots-mecanismes-et-contextes-9
  49184.kjsp?RH=1236178100008
 END:VEVENT
 BEGIN:VEVENT
+UID:7aae37ce3d64@paris-academique
+DTSTAMP:20261127T135713Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Conversing with the Dead / Converser avec les morts
+DESCRIPTION:https://www.sorbonne-nouvelle.fr/conversing-with-the-dead-conve
+ rser-avec-les-morts-925778.kjsp?RH=1236178100008
+LOCATION:Université Sorbonne Nouvelle\, 8 avenue de Saint-Mandé\, Paris 1
+ 2e
+URL:https://www.sorbonne-nouvelle.fr/conversing-with-the-dead-converser-ave
+ c-les-morts-925778.kjsp?RH=1236178100008
+END:VEVENT
+BEGIN:VEVENT
 UID:9497033e8a67@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Troisième Rencontre pluridisciplinaire des Colombianistes en Franc
@@ -153,21 +150,23 @@ URL:https://www.sorbonne-nouvelle.fr/troisieme-rencontre-pluridisciplinaire
  RH=1236178100008
 END:VEVENT
 BEGIN:VEVENT
-UID:7aae37ce3d64@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:Conversing with the Dead / Converser avec les morts
-DESCRIPTION:https://www.sorbonne-nouvelle.fr/conversing-with-the-dead-conve
- rser-avec-les-morts-925778.kjsp?RH=1236178100008
+UID:0f45a3530357@paris-academique
+DTSTAMP:20261127T135713Z
+DTSTART;TZID=Europe/Paris:20261210T170000
+DTEND;TZID=Europe/Paris:20261210T183000
+SUMMARY:IUF REDRAW Seminar : Book Presentation : Eastern Europe and the War
+ : A New Kidnapping?
+DESCRIPTION:https://www.sorbonne-nouvelle.fr/iuf-redraw-seminar-book-presen
+ tation-eastern-europe-and-the-war-a-new-kidnapping--950047.kjsp?RH=1236178
+ 100008
 LOCATION:Université Sorbonne Nouvelle\, 8 avenue de Saint-Mandé\, Paris 1
  2e
-URL:https://www.sorbonne-nouvelle.fr/conversing-with-the-dead-converser-ave
- c-les-morts-925778.kjsp?RH=1236178100008
+URL:https://www.sorbonne-nouvelle.fr/iuf-redraw-seminar-book-presentation-e
+ astern-europe-and-the-war-a-new-kidnapping--950047.kjsp?RH=1236178100008
 END:VEVENT
 BEGIN:VEVENT
 UID:eaee5427d04e@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Journées internationales PLURIMATHS L’activité langagière dans

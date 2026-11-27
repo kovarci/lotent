@@ -24,55 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:bc86eed676d8@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Ciné-débat : « Insecticide\, comment l’agrochimie a tué les i
- nsectes » avec l’association Terre de Liens
-DESCRIPTION:Organisé par Adele DORLIPO — Projection du documentaire « I
- nsecticide\, comment l’agrochimie a tué les insectes »\, suivi d’un 
- échange animé par Te\nhttps://chiche.makesense.org/events/e/cine-debat-i
- nsecticide-comment-lagrochimie-a-tue-les-insectes-avec-lassociation-terre-
- de-liens-6aeb0d2d0f122d0007b3faa9
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/cine-debat-insecticide-comment-la
- grochimie-a-tue-les-insectes-avec-lassociation-terre-de-liens-6aeb0d2d0f12
- 2d0007b3faa9
-END:VEVENT
-BEGIN:VEVENT
-UID:9f8d1ec9b85b@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Atelier co-réparation de vêtements avec la Resserre
-DESCRIPTION:Organisé par Adele DORLIPO — Votre bouton est tombé ? Votre
-  pantalon est troué ? Vous avez un ourlet à faire ? Gardez vos vêtement
- s\, venez apprendre à les réparer pour les porter encore longtemps !L’
- industrie du textile…\nhttps://chiche.makesense.org/events/e/atelier-co-
- reparation-de-vetements-avec-la-resserre-6ad210f8e444ad0007061d7e
-LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
-URL:https://chiche.makesense.org/events/e/atelier-co-reparation-de-vetement
- s-avec-la-resserre-6ad210f8e444ad0007061d7e
-END:VEVENT
-BEGIN:VEVENT
-UID:c16f0c43e78a@paris-academique
-DTSTAMP:20261126T135023Z
-DTSTART;TZID=Europe/Paris:20261126T193000
-DTEND;TZID=Europe/Paris:20261126T210000
-SUMMARY:Greenwashing Comedy Club
-DESCRIPTION:Organisé par Maison de la Conversation — Une heure de stand-
- up sur le climat avec cinq humoristes. Du rire\, zéro écoanxiété (ou p
- resque).Contre le réchauffement climatique\, on n’a pas de solution. Ma
- is on a des blagues !Venez découvri\nhttps://chiche.makesense.org/events/
- e/greenwashing-comedy-club-6aea0cd020d0950008071efc
-LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
-URL:https://chiche.makesense.org/events/e/greenwashing-comedy-club-6aea0cd0
- 20d0950008071efc
-END:VEVENT
-BEGIN:VEVENT
 UID:7d44d2315a41@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Je crée ma lessive maison zéro déchet
@@ -88,7 +41,7 @@ URL:https://chiche.makesense.org/events/e/je-cree-ma-lessive-maison-zero-de
 END:VEVENT
 BEGIN:VEVENT
 UID:0be4e0f96389@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Sauvons des puzzles ! Une matinée solidaire chez Puzz\, avec Rejou
@@ -105,7 +58,7 @@ URL:https://chiche.makesense.org/events/e/sauvons-des-puzzles-une-matinee-s
 END:VEVENT
 BEGIN:VEVENT
 UID:9b1ef82467ba@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:L'ESS fait son cinéma - Agissez comme si vous ne pouviez pas écho
@@ -121,7 +74,7 @@ URL:https://chiche.makesense.org/events/e/less-fait-son-cinema-agissez-comm
 END:VEVENT
 BEGIN:VEVENT
 UID:707143b834e2@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:L'eau sous pression : ciné-débat autour du documentaire « Au fil
@@ -139,7 +92,7 @@ URL:https://chiche.makesense.org/events/e/leau-sous-pression-cine-debat-aut
 END:VEVENT
 BEGIN:VEVENT
 UID:aaead57dba18@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:MasterClasse Signaux faibles / fiables Lab#48 & #49
@@ -155,7 +108,7 @@ URL:https://chiche.makesense.org/events/e/masterclasse-signaux-faibles-fiab
 END:VEVENT
 BEGIN:VEVENT
 UID:b1d2ba8e5793@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Réfléchir au métier qui me correspond 📍Paris 13e
@@ -169,7 +122,7 @@ URL:https://chiche.makesense.org/events/e/reflechir-au-metier-qui-me-corres
 END:VEVENT
 BEGIN:VEVENT
 UID:2c30472c3ef3@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Au secours c'est bientôt Noël : soirée mode d’emploi pour arri
@@ -188,7 +141,7 @@ URL:https://chiche.makesense.org/events/e/au-secours-cest-bientot-noel-soir
 END:VEVENT
 BEGIN:VEVENT
 UID:6c62fb10a572@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261201T135000
 DTEND;TZID=Europe/Paris:20261201T155000
 SUMMARY:Atelier - Fixer son prix
@@ -203,7 +156,7 @@ URL:https://chiche.makesense.org/events/e/atelier-fixer-son-prix-6af2ffd2c2
 END:VEVENT
 BEGIN:VEVENT
 UID:92e8d308558e@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;TZID=Europe/Paris:20261201T190000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:M-Otion
@@ -215,7 +168,7 @@ URL:https://chiche.makesense.org/events/e/m-otion-6adf92c49652f6000789b02a
 END:VEVENT
 BEGIN:VEVENT
 UID:2c06915cc6fe@paris-academique
-DTSTAMP:20261126T135023Z
+DTSTAMP:20261127T135713Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:J’apprends les bases de la réparation (niveau 1)
@@ -228,5 +181,51 @@ DESCRIPTION:Organisé par Envie Le Labo — [Atelier gratuit - Inscription
 LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
 URL:https://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparat
  ion-niveau-1-6ae9f2c387df9e0007196e5b
+END:VEVENT
+BEGIN:VEVENT
+UID:47dc25b23222@paris-academique
+DTSTAMP:20261127T135713Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Peut-on encore tenir debout dans un monde qui vacille ?
+DESCRIPTION:Organisé par delphine blumereau — 👥 Pour les 18-35 ans\, 
+ engagés ou en questionnement.Les c\nhttps://chiche.makesense.org/events/e
+ /peut-on-encore-tenir-debout-dans-un-monde-qui-vacille-6afecc5869f0d400082
+ 806c6
+LOCATION:13e Arrondissement\, 75013 Paris\, France
+URL:https://chiche.makesense.org/events/e/peut-on-encore-tenir-debout-dans-
+ un-monde-qui-vacille-6afecc5869f0d400082806c6
+END:VEVENT
+BEGIN:VEVENT
+UID:825efd4aa593@paris-academique
+DTSTAMP:20261127T135713Z
+DTSTART;TZID=Europe/Paris:20261203T095000
+DTEND;TZID=Europe/Paris:20261203T115000
+SUMMARY:Atelier - Réussir l'art de la délégation
+DESCRIPTION:Organisé par Les Canaux — Donner aux participants une métho
+ de concrète pour identifier ce qui peut (et doit) être délégué.Un ate
+ lier animé par Ibtissem Kerdjani de Tharwa :Ibtissem\nhttps://chiche.make
+ sense.org/events/e/atelier-reussir-lart-de-la-delegation-6ae1c4f63c8bf5000
+ 8fd5889
+LOCATION:6 Quai de la Seine\, 75019 Paris\, France
+URL:https://chiche.makesense.org/events/e/atelier-reussir-lart-de-la-delega
+ tion-6ae1c4f63c8bf50008fd5889
+END:VEVENT
+BEGIN:VEVENT
+UID:0311e8dbb2fd@paris-academique
+DTSTAMP:20261127T135713Z
+DTSTART;TZID=Europe/Paris:20261203T190000
+DTEND;TZID=Europe/Paris:20261203T210000
+SUMMARY:Façon de voir : Résilience ou robustesse\, faut-il un plan quand 
+ le monde déraille ?
+DESCRIPTION:Organisé par Maison de la Conversation — Résilience ou robu
+ stesse : faut-il un plan quand le monde déraille ?Tenir le cap\, trouver 
+ le cheminRésilience ou robustesse : faut-il un plan quand le monde dérai
+ lle ? Quand les crises deviennent la norme\, comment pré\nhttps://chiche.
+ makesense.org/events/e/facon-de-voir-resilience-ou-robustesse-faut-il-un-p
+ lan-quand-le-monde-deraille-6ae8ab4617f53d0008b4abfc
+LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
+URL:https://chiche.makesense.org/events/e/facon-de-voir-resilience-ou-robus
+ tesse-faut-il-un-plan-quand-le-monde-deraille-6ae8ab4617f53d0008b4abfc
 END:VEVENT
 END:VCALENDAR
