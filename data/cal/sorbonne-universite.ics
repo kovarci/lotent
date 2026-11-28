@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:0838bebf8afc@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T083000
 DTEND;TZID=Europe/Paris:20261130T190000
 SUMMARY:Sciences du climat : jusqu’où va la neutralité ?
@@ -37,7 +37,7 @@ URL:https://www.sorbonne-universite.fr/evenements/sciences-du-climat-jusquo
 END:VEVENT
 BEGIN:VEVENT
 UID:d9dd43d80d73@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261201T173000
 DTEND;TZID=Europe/Paris:20261201T190000
 SUMMARY:InTerreSession : L’histoire revisitée de la super éruption du T
@@ -50,7 +50,7 @@ URL:https://www.sorbonne-universite.fr/evenements/interresession-lhistoire-
 END:VEVENT
 BEGIN:VEVENT
 UID:19091a4452ad@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261202T140000
 DTEND;TZID=Europe/Paris:20261202T160000
 SUMMARY:Séminaire : "Recyclage\, économies circulaires"
@@ -62,7 +62,7 @@ URL:https://www.sorbonne-universite.fr/evenements/seminaire-recyclage-econo
 END:VEVENT
 BEGIN:VEVENT
 UID:087e6decab67@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T203000
 SUMMARY:Quand les réseaux sociaux passent à table
@@ -74,7 +74,7 @@ URL:https://www.sorbonne-universite.fr/evenements/quand-les-reseaux-sociaux
 END:VEVENT
 BEGIN:VEVENT
 UID:c7fa0b929e6b@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T203000
 SUMMARY:L'alimentation à l'ère du numérique
@@ -86,7 +86,7 @@ URL:https://www.sorbonne-universite.fr/evenements/lalimentation-lere-du-num
 END:VEVENT
 BEGIN:VEVENT
 UID:f06a9cdef250@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261207T183000
 DTEND;TZID=Europe/Paris:20261207T213000
 SUMMARY:Patrimoines spoliés : restituer\, réparer\, raconter
@@ -98,7 +98,7 @@ URL:https://www.sorbonne-universite.fr/evenements/patrimoines-spolies-resti
 END:VEVENT
 BEGIN:VEVENT
 UID:310ec1097a4d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270121T200000
 DTEND;TZID=Europe/Paris:20270121T213000
 SUMMARY:Quelle Europe face à l'essor des nationalismes ?
@@ -110,7 +110,7 @@ URL:https://www.sorbonne-universite.fr/evenements/quelle-europe-face-lessor
 END:VEVENT
 BEGIN:VEVENT
 UID:08c78c8ebaa2@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270121T200000
 DTEND;TZID=Europe/Paris:20270121T213000
 SUMMARY:Europe et nations : fédérer ou diviser ?
@@ -122,7 +122,7 @@ URL:https://www.sorbonne-universite.fr/evenements/europe-et-nations-federer
 END:VEVENT
 BEGIN:VEVENT
 UID:be8abd913a51@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270202T183000
 DTEND;TZID=Europe/Paris:20270202T213000
 SUMMARY:Face aux bouleversements du monde\, comment survivre\, migrer\, s
@@ -135,7 +135,7 @@ URL:https://www.sorbonne-universite.fr/evenements/face-aux-bouleversements-
 END:VEVENT
 BEGIN:VEVENT
 UID:628e5216db41@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270225T093000
 DTEND;TZID=Europe/Paris:20270225T113000
 SUMMARY:Comment s'adapter au changement climatique ?

@@ -24,22 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:38611fc4719d@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;TZID=Europe/Paris:20261127T111500
-DTEND;TZID=Europe/Paris:20261127T131500
-SUMMARY:Pricing in the Age of AI (MIT Press)
-DESCRIPTION:Faculté et Recherche · Information Systems and Operations Man
- agement Speaker: Maxime Cohen (McGill University) Room Bernard Ramanantsoa
- \nhttps://www.hec.edu/fr/faculte-et-recherche/evenements/pricing-age-ai-mi
- t-press
-LOCATION:HEC Paris\, 1 rue de la Libération\, Jouy-en-Josas
-URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/pricing-age-ai-m
- it-press
-END:VEVENT
-BEGIN:VEVENT
 UID:a31bd09cbd56@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T094000
 DTEND;TZID=Europe/Paris:20261203T114000
 SUMMARY:Séminaire de recherche HEC : Kristina Mc Elheran (U. Toronto)
@@ -53,7 +39,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/kristina-mc-elhe
 END:VEVENT
 BEGIN:VEVENT
 UID:07f9aad87e55@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T113000
 DTEND;TZID=Europe/Paris:20261203T133000
 SUMMARY:Credit Booms\, Creditor Rights and Credit Reallocation
@@ -67,7 +53,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/credit-booms-cre
 END:VEVENT
 BEGIN:VEVENT
 UID:cbf1069e06ae@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261211T111500
 DTEND;TZID=Europe/Paris:20261211T131500
 SUMMARY:What is the Value of Censored Data? An Exact Analysis for the Data-
@@ -82,7 +68,7 @@ URL:https://www.hec.edu/fr/faculte-et-recherche/evenements/what-value-censo
 END:VEVENT
 BEGIN:VEVENT
 UID:bc80c8c7829d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261214T140000
 DTEND;TZID=Europe/Paris:20261214T160000
 SUMMARY:Conférence Droits Humains et Entreprises 2026

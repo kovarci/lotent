@@ -24,32 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c0121385aeee@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:L'« histoire des religions »
-DESCRIPTION:Colloque.\nhttps://www.ephe.psl.eu/l-histoire-des-religions
-LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
-URL:https://www.ephe.psl.eu/l-histoire-des-religions
-END:VEVENT
-BEGIN:VEVENT
-UID:1fa23ea2e00c@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Multiculturalisme en Égypte (IIIe s. av. J.-C. - VIIe s. apr. J.-C
- .) : les ostraca d'Atripé\, textes et images
-DESCRIPTION:Colloque international.\nhttps://www.ephe.psl.eu/multiculturali
- sme-en-egypte-iiie-s-av-j-c-viie-s-apr-j-c-les-ostraca-datripe-textes-et-i
- mages
-LOCATION:EPHE\, 4-14 rue Ferrus\, Paris 14e
-URL:https://www.ephe.psl.eu/multiculturalisme-en-egypte-iiie-s-av-j-c-viie-
- s-apr-j-c-les-ostraca-datripe-textes-et-images
-END:VEVENT
-BEGIN:VEVENT
 UID:fa55e579587f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T090000
 DTEND;TZID=Europe/Paris:20261130T174500
 SUMMARY:Saeculum/Saeculare
@@ -60,7 +36,7 @@ URL:https://www.ephe.psl.eu/saeculum-saeculare
 END:VEVENT
 BEGIN:VEVENT
 UID:71239b35a484@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261207T100000
 DTEND;TZID=Europe/Paris:20261207T120000
 SUMMARY:Frontières. Pour une anthropologie religieuse de l'espace et du po
@@ -74,7 +50,7 @@ URL:https://www.ephe.psl.eu/frontieres-pour-une-anthropologie-religieuse-de
 END:VEVENT
 BEGIN:VEVENT
 UID:c33eda13900d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261209T121500
 DTEND;TZID=Europe/Paris:20261209T133000
 SUMMARY:Faire de la recherche-action pour les transitions
@@ -87,7 +63,7 @@ URL:https://www.ephe.psl.eu/faire-de-la-recherche-action-pour-les-transitio
 END:VEVENT
 BEGIN:VEVENT
 UID:200ad1b5bf7d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261210T180000
 DTEND;TZID=Europe/Paris:20261210T193000
 SUMMARY:Hippocrate à Constantinople : le Parisinus gr. 2144 et ses lecteur
@@ -101,7 +77,7 @@ URL:https://www.ephe.psl.eu/hippocrate-constantinople-le-parisinus-gr-2144-
 END:VEVENT
 BEGIN:VEVENT
 UID:5275315b8377@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261215T180000
 DTEND;TZID=Europe/Paris:20261215T200000
 SUMMARY:Medieval Jewish Magic: Models
@@ -112,7 +88,7 @@ URL:https://www.ephe.psl.eu/medieval-jewish-magic-models
 END:VEVENT
 BEGIN:VEVENT
 UID:17e703a4802d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:Des montagnes à la ville : formes et évolutions du paysage religi

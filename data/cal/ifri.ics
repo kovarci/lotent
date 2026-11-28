@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:54df7661d91f@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;TZID=Europe/Paris:20261127T090000
-DTEND;TZID=Europe/Paris:20261127T130000
-SUMMARY:Quelle coordination internationale à l'ère de la fragmentation g
- éoéconomique ? 3e Dialogue Géoéconomique de Paris
-DESCRIPTION:Conférence\nhttps://www.ifri.org/fr/quelle-coordination-intern
- ationale-lere-de-la-fragmentation-geoeconomique-3e-dialogue-geoeconomique
-LOCATION:Ifri\, 27 rue de la Procession\, Paris 15e
-URL:https://www.ifri.org/fr/quelle-coordination-internationale-lere-de-la-f
- ragmentation-geoeconomique-3e-dialogue-geoeconomique
-END:VEVENT
-BEGIN:VEVENT
 UID:3fcb26f34d77@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T173000
 DTEND;TZID=Europe/Paris:20261130T200000
 SUMMARY:Politique étrangère fête ses 90 ans !
@@ -49,7 +36,7 @@ URL:https://www.ifri.org/fr/politique-etrangere-fete-ses-90-ans
 END:VEVENT
 BEGIN:VEVENT
 UID:a6b62394cb5f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T183000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:L’histoire du service militaire obligatoire en République fédé
@@ -62,7 +49,7 @@ URL:https://www.ifri.org/fr/lhistoire-du-service-militaire-obligatoire-en-r
 END:VEVENT
 BEGIN:VEVENT
 UID:24751857749a@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261210T123000
 DTEND;TZID=Europe/Paris:20261210T140000
 SUMMARY:Le virage militaire de la tech : quelle autonomie stratégique pour
@@ -76,7 +63,7 @@ URL:https://www.ifri.org/fr/le-virage-militaire-de-la-tech-quelle-autonomie
 END:VEVENT
 BEGIN:VEVENT
 UID:ab4596835334@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261214T090000
 DTEND;TZID=Europe/Paris:20261214T103000
 SUMMARY:Perspectives des petits réacteurs modulaires et derniers développ

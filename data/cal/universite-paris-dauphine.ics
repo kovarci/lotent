@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:d1b70407020f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261128T140000
 DTEND;TZID=Europe/Paris:20261128T163000
 SUMMARY:Finale du concours Éloquence du bégaiement 2026
@@ -40,7 +40,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/finale-
 END:VEVENT
 BEGIN:VEVENT
 UID:1a48f1dca035@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T173000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:Soirée Alumni "Carrières responsables" 2026
@@ -54,7 +54,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/soiree-
 END:VEVENT
 BEGIN:VEVENT
 UID:9eabb3e10e4f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261201T170000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Osez Dauphine : soirée portes ouvertes de Dauphine Executive Educa
@@ -70,7 +70,7 @@ URL:https://executive-education.dauphine.psl.eu/nous-connaitre/portes-ouver
 END:VEVENT
 BEGIN:VEVENT
 UID:d5f8e38e2e3b@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261201T200000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:Concert inaugural de l'Orchestre symphonique de PSL - 2026
@@ -85,7 +85,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/concert
 END:VEVENT
 BEGIN:VEVENT
 UID:2d9ab7c27469@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T130000
 SUMMARY:11ème édition des rendez-vous du logement étudiant
@@ -100,7 +100,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/11eme-e
 END:VEVENT
 BEGIN:VEVENT
 UID:f4fd76ce86e5@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T140000
 DTEND;TZID=Europe/Paris:20261203T160000
 SUMMARY:Séminaire LAMSADE (Jeux et Choix Social) : Stable Matching with Co
@@ -115,7 +115,7 @@ URL:https://www.lamsade.dauphine.fr/fr/actualites/detail-de-lactualite/arti
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8af4705bb8@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261204T134500
 DTEND;TZID=Europe/Paris:20261204T150000
 SUMMARY:Présentation du Hotspot Terrae-PSL Habiterra
@@ -130,7 +130,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/present
 END:VEVENT
 BEGIN:VEVENT
 UID:2efd15332f6f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T220000
 SUMMARY:Égalité des chances : Dauphine à l’heure des possibles
@@ -145,7 +145,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/soiree-
 END:VEVENT
 BEGIN:VEVENT
 UID:367fcb23d40b@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261209T190000
 DTEND;TZID=Europe/Paris:20261209T203000
 SUMMARY:Fail Night 8ème édition
@@ -159,7 +159,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/default
 END:VEVENT
 BEGIN:VEVENT
 UID:87042c06dfea@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261215T174500
 DTEND;TZID=Europe/Paris:20261215T201500
 SUMMARY:Projection - documentaire : Éclaireurs
@@ -173,8 +173,24 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/project
  ion-eclaireurs-reinventer-le-travail-face-aux-defis-ecologiques
 END:VEVENT
 BEGIN:VEVENT
+UID:8a6e5d933de8@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261216T180000
+DTEND;TZID=Europe/Paris:20261216T200000
+SUMMARY:L’intelligence artificielle au travail : une transformation ingou
+ vernable ?
+DESCRIPTION:Le Cercle « Travail en transitions » consacre une conférence
+  à l’autonomie professionnelle et au dialogue social à l’ère de l
+ ’IA.\nhttps://dauphine.psl.eu/dauphine/media-et-communication/article/li
+ ntelligence-artificielle-au-travail-une-transformation-ingouvernable
+LOCATION:Université Paris Dauphine\, Place du Maréchal de Lattre de Tassi
+ gny\, Paris 16e
+URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/lintell
+ igence-artificielle-au-travail-une-transformation-ingouvernable
+END:VEVENT
+BEGIN:VEVENT
 UID:1fe8d2e157ff@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270130T160000
 DTEND;TZID=Europe/Paris:20270130T200000
 SUMMARY:Découvrez le Master 2 Ingénierie juridique et fiscale du dirigean
@@ -190,7 +206,7 @@ URL:https://dauphine.psl.eu/dauphine/media-et-communication/article/decouvr
 END:VEVENT
 BEGIN:VEVENT
 UID:c7640486a003@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:Appel à communications: 3e conférence "Propriété\, contrôle et

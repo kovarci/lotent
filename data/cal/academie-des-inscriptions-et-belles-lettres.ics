@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:e8d33f24d953@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261127T153000
 DTEND;TZID=Europe/Paris:20261127T173000
 SUMMARY:Séance annuelle de rentrée solennelle de l’Académie sous la Co
@@ -33,5 +33,88 @@ SUMMARY:Séance annuelle de rentrée solennelle de l’Académie sous la Co
 DESCRIPTION:https://aibl.fr/seances/vendredi-27-novembre-2026/
 LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
 URL:https://aibl.fr/seances/vendredi-27-novembre-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:a77bece53bd6@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261204T153000
+DTEND;TZID=Europe/Paris:20261204T173000
+SUMMARY:Aristote\, Aristotélisme et médecine ancienne
+DESCRIPTION:Note d’information de M. Philip van der Eijk\, correspondant 
+ étranger de l’Académie : « Aristote\, Aristotélisme et médecine anc
+ ienne ».\nhttps://aibl.fr/seances/vendredi-4-decembre-2026/
+LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
+URL:https://aibl.fr/seances/vendredi-4-decembre-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:9419b260c204@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261204T153000
+DTEND;TZID=Europe/Paris:20261204T173000
+SUMMARY:Le corbeau\, le faucon et la taupe : une joute de fables animalièr
+ es dans la biographie géorgienne du roi ibère Vaxtang Gorgasali
+DESCRIPTION:Communication de M. Nicolas Preud’homme\, sous le patronage d
+ e M. Jean-Pierre MAHÉ : « Le corbeau\, le faucon et la taupe : une joute
+  de fables animalières dans la biographie géorgienne du roi ibère Vaxta
+ ng Gorgasali ».\nhttps://aibl.fr/seances/vendredi-4-decembre-2026/
+LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
+URL:https://aibl.fr/seances/vendredi-4-decembre-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:b808dca58cf6@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261211T153000
+DTEND;TZID=Europe/Paris:20261211T173000
+SUMMARY:À propos du catalogue illustré des livres rares chinois du fonds 
+ Chavannes de la Société asiatique
+DESCRIPTION:Note d’information de M. Alain THOTE\, membre de l’Académi
+ e : « À propos du catalogue illustré des livres rares chinois du fonds 
+ Chavannes de la Société asiatique ».\nhttps://aibl.fr/seances/vendredi-
+ 11-decembre-2026/
+LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
+URL:https://aibl.fr/seances/vendredi-11-decembre-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:93e731f17b0a@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261211T153000
+DTEND;TZID=Europe/Paris:20261211T173000
+SUMMARY:Un demi-siècle de recherche et de coopération en Libye : la Missi
+ on archéologique française (1976-2026)
+DESCRIPTION:Communication de M. Vincent Michel\, sous le patronage du Secr
+ étaire perpétuel Nicolas GRIMAL et de M. Jean-Michel MOUTON : « Un demi
+ -siècle de recherche et de coopération en Libye : la Mission archéologi
+ que française (1976-2026) ».\nhttps://aibl.fr/seances/vendredi-11-decemb
+ re-2026/
+LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
+URL:https://aibl.fr/seances/vendredi-11-decembre-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:47e2a1561c0a@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261218T153000
+DTEND;TZID=Europe/Paris:20261218T173000
+SUMMARY:Inscriptions byzantines de Carie : documents inédits appartenant a
+ u fonds Louis Robert de l’Académie
+DESCRIPTION:Note d’information de M. Denis Feissel\, correspondant de l
+ ’Académie : « Inscriptions byzantines de Carie : documents inédits ap
+ partenant au fonds Louis Robert de l’Académie ».\nhttps://aibl.fr/sean
+ ces/vendredi-18-decembre-2026/
+LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
+URL:https://aibl.fr/seances/vendredi-18-decembre-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:ab81b06b8674@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261218T153000
+DTEND;TZID=Europe/Paris:20261218T173000
+SUMMARY:Retour sur le lieu de la mort d’Alcibiade et le pèlerinage de l
+ ’empereur dans Mémoires d’Hadrien
+DESCRIPTION:Communication de M. Denis KNOEPFLER\, associé étranger de l
+ ’Académie : « Retour sur le lieu de la mort d’Alcibiade et le pèler
+ inage de l’empereur dans Mémoires d’Hadrien ».\nhttps://aibl.fr/sean
+ ces/vendredi-18-decembre-2026/
+LOCATION:Institut de France\, 23 quai de Conti\, Paris 6e
+URL:https://aibl.fr/seances/vendredi-18-decembre-2026/
 END:VEVENT
 END:VCALENDAR

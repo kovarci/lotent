@@ -24,24 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7d44d2315a41@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Je crée ma lessive maison zéro déchet
-DESCRIPTION:Organisé par Envie Le Labo — [Atelier gratuit - Inscription 
- obligatoire] Participez à un atelier pratique pour vous initier à la fab
- rication de produits ménagers avec une recette simple\, économique et re
- spectueuse de l'environnement ! Vous profiterez égalemen\nhttps://chiche.
- makesense.org/events/e/je-cree-ma-lessive-maison-zero-dechet-6ae9f1ad20d09
- 50008063b03
-LOCATION:10 Rue Julien Lacroix\, 75020 Paris\, France
-URL:https://chiche.makesense.org/events/e/je-cree-ma-lessive-maison-zero-de
- chet-6ae9f1ad20d0950008063b03
-END:VEVENT
-BEGIN:VEVENT
 UID:0be4e0f96389@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Sauvons des puzzles ! Une matinée solidaire chez Puzz\, avec Rejou
@@ -58,7 +42,7 @@ URL:https://chiche.makesense.org/events/e/sauvons-des-puzzles-une-matinee-s
 END:VEVENT
 BEGIN:VEVENT
 UID:9b1ef82467ba@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:L'ESS fait son cinéma - Agissez comme si vous ne pouviez pas écho
@@ -74,7 +58,7 @@ URL:https://chiche.makesense.org/events/e/less-fait-son-cinema-agissez-comm
 END:VEVENT
 BEGIN:VEVENT
 UID:707143b834e2@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:L'eau sous pression : ciné-débat autour du documentaire « Au fil
@@ -92,7 +76,7 @@ URL:https://chiche.makesense.org/events/e/leau-sous-pression-cine-debat-aut
 END:VEVENT
 BEGIN:VEVENT
 UID:aaead57dba18@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:MasterClasse Signaux faibles / fiables Lab#48 & #49
@@ -108,7 +92,7 @@ URL:https://chiche.makesense.org/events/e/masterclasse-signaux-faibles-fiab
 END:VEVENT
 BEGIN:VEVENT
 UID:b1d2ba8e5793@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Réfléchir au métier qui me correspond 📍Paris 13e
@@ -122,7 +106,7 @@ URL:https://chiche.makesense.org/events/e/reflechir-au-metier-qui-me-corres
 END:VEVENT
 BEGIN:VEVENT
 UID:2c30472c3ef3@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Au secours c'est bientôt Noël : soirée mode d’emploi pour arri
@@ -141,7 +125,7 @@ URL:https://chiche.makesense.org/events/e/au-secours-cest-bientot-noel-soir
 END:VEVENT
 BEGIN:VEVENT
 UID:6c62fb10a572@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261201T135000
 DTEND;TZID=Europe/Paris:20261201T155000
 SUMMARY:Atelier - Fixer son prix
@@ -156,7 +140,7 @@ URL:https://chiche.makesense.org/events/e/atelier-fixer-son-prix-6af2ffd2c2
 END:VEVENT
 BEGIN:VEVENT
 UID:92e8d308558e@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261201T190000
 DTEND;TZID=Europe/Paris:20261201T210000
 SUMMARY:M-Otion
@@ -168,7 +152,7 @@ URL:https://chiche.makesense.org/events/e/m-otion-6adf92c49652f6000789b02a
 END:VEVENT
 BEGIN:VEVENT
 UID:2c06915cc6fe@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:J’apprends les bases de la réparation (niveau 1)
@@ -184,7 +168,7 @@ URL:https://chiche.makesense.org/events/e/japprends-les-bases-de-la-reparat
 END:VEVENT
 BEGIN:VEVENT
 UID:47dc25b23222@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Peut-on encore tenir debout dans un monde qui vacille ?
@@ -198,7 +182,7 @@ URL:https://chiche.makesense.org/events/e/peut-on-encore-tenir-debout-dans-
 END:VEVENT
 BEGIN:VEVENT
 UID:825efd4aa593@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T095000
 DTEND;TZID=Europe/Paris:20261203T115000
 SUMMARY:Atelier - Réussir l'art de la délégation
@@ -213,7 +197,7 @@ URL:https://chiche.makesense.org/events/e/atelier-reussir-lart-de-la-delega
 END:VEVENT
 BEGIN:VEVENT
 UID:0311e8dbb2fd@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T210000
 SUMMARY:Façon de voir : Résilience ou robustesse\, faut-il un plan quand 
@@ -227,5 +211,51 @@ DESCRIPTION:Organisé par Maison de la Conversation — Résilience ou robu
 LOCATION:12 Rue Maurice Grimaud\, 75018 Paris\, France
 URL:https://chiche.makesense.org/events/e/facon-de-voir-resilience-ou-robus
  tesse-faut-il-un-plan-quand-le-monde-deraille-6ae8ab4617f53d0008b4abfc
+END:VEVENT
+BEGIN:VEVENT
+UID:406613093176@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Afterwork tricrochet
+DESCRIPTION:Organisé par Adele DORLIPO — Tu as envie de débuter ton tri
+ cot planquer dans ton placard depuis des mois\, mais tu sais pas comment c
+ ommencer ?Tu es au bout de ta vie au bout du 50eme granny square au croche
+ t et tu as besoin de soutien\nhttps://chiche.makesense.org/events/e/afterw
+ ork-tricrochet-6b05b9afa756b60008e6e2ca
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/afterwork-tricrochet-6b05b9afa756
+ b60008e6e2ca
+END:VEVENT
+BEGIN:VEVENT
+UID:0e7c62c1509e@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Êtes-vous heureux.se ? Récits-témoignages de Stefania Rousselle
+DESCRIPTION:Organisé par Hélène Binet — Quatre ans après avoir abord
+ é des gens au hasard pour leur demander : “C’est quoi l’amour ?”\
+ , Stefania Rousselle revient avec une nouvelle question\, simple et vertig
+ ineuse :“Êtes-vous heureux.se ?” et organise une rencontre-dédica\nh
+ ttps://chiche.makesense.org/events/e/etes-vous-heureuxse-recits-temoignage
+ s-de-stefania-rousselle-6af1dcfe320a110009b62575
+LOCATION:3bis Rue Papin\, 75003 Paris\, France
+URL:https://chiche.makesense.org/events/e/etes-vous-heureuxse-recits-temoig
+ nages-de-stefania-rousselle-6af1dcfe320a110009b62575
+END:VEVENT
+BEGIN:VEVENT
+UID:c330738276b4@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261205T100000
+DTEND;TZID=Europe/Paris:20261205T120000
+SUMMARY:Marché de Noël solidaire et zéro déchet
+DESCRIPTION:Organisé par Adele DORLIPO — Les fêtes de fin d'année appr
+ ochent ! Vous cherchez des cadeaux originaux à prix accessibles pour vos 
+ proches ? Vous cherchez à rafraîchir votre garde-robe d’hiver ? Et cel
+ a\, dans une démarche de consommati\nhttps://chiche.makesense.org/events/
+ e/marche-de-noel-solidaire-et-zero-dechet-6b05b8dc5ab16e000850256e
+LOCATION:1 Pass. Jaqueline Giraud\, 75012 Paris\, France
+URL:https://chiche.makesense.org/events/e/marche-de-noel-solidaire-et-zero-
+ dechet-6b05b8dc5ab16e000850256e
 END:VEVENT
 END:VCALENDAR

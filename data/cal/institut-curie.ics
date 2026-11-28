@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:e5e88cea252d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261127T103000
 DTEND;TZID=Europe/Paris:20261127T123000
 SUMMARY:How the physicochemical environment of a tumour controls immune sig
@@ -40,7 +40,7 @@ URL:https://curie.fr/evenements-scientifiques/how-physicochemical-environme
 END:VEVENT
 BEGIN:VEVENT
 UID:a26a87885375@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261202T110000
 DTEND;TZID=Europe/Paris:20261202T130000
 SUMMARY:Mechanism of homologous recombination: Analysis of pathway intermed
@@ -55,7 +55,7 @@ URL:https://curie.fr/evenements-scientifiques/mechanism-homologous-recombin
 END:VEVENT
 BEGIN:VEVENT
 UID:8db2e4277319@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261202T113000
 DTEND;TZID=Europe/Paris:20261202T133000
 SUMMARY:Freezing and Expanding the Cell: Structural Cell Biology from Centr
@@ -69,7 +69,7 @@ URL:https://curie.fr/evenements-scientifiques/freezing-and-expanding-cell-s
 END:VEVENT
 BEGIN:VEVENT
 UID:b52dc96aef77@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261202T113000
 DTEND;TZID=Europe/Paris:20261202T133000
 SUMMARY:Protein assembly in and out of equilibrium
@@ -80,8 +80,21 @@ URL:https://curie.fr/evenements-scientifiques/protein-assembly-and-out-equi
  librium-02-12-2026
 END:VEVENT
 BEGIN:VEVENT
+UID:fb93b15df449@paris-academique
+DTSTAMP:20261128T130042Z
+DTSTART;TZID=Europe/Paris:20261207T100000
+DTEND;TZID=Europe/Paris:20261207T120000
+SUMMARY:Simple aspects of aging and failure in (artificial and natural) sys
+ tems
+DESCRIPTION:PCC Seminar Series\nhttps://curie.fr/evenements-scientifiques/s
+ imple-aspects-aging-and-failure-artificial-and-natural-systems-07-12-2026
+LOCATION:Institut Curie\, 26 rue d'Ulm\, Paris 5e
+URL:https://curie.fr/evenements-scientifiques/simple-aspects-aging-and-fail
+ ure-artificial-and-natural-systems-07-12-2026
+END:VEVENT
+BEGIN:VEVENT
 UID:0b5b57403c38@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261207T100000
 DTEND;TZID=Europe/Paris:20261207T120000
 SUMMARY:Elemental Legacies\, Ferroptosis and Ferrology
@@ -93,7 +106,7 @@ URL:https://curie.fr/evenements-scientifiques/elemental-legacies-ferroptosi
 END:VEVENT
 BEGIN:VEVENT
 UID:8dd47560c354@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T160000
 SUMMARY:Building Life: Growth\, Morphogenesis and Physiology
@@ -105,7 +118,7 @@ URL:https://curie.fr/evenements-scientifiques/building-life-growth-morphoge
 END:VEVENT
 BEGIN:VEVENT
 UID:cf9890949e23@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261210T100000
 DTEND;TZID=Europe/Paris:20261210T120000
 SUMMARY:Collective rhythms during embryonic development
@@ -117,7 +130,7 @@ URL:https://curie.fr/evenements-scientifiques/collective-rhythms-during-emb
 END:VEVENT
 BEGIN:VEVENT
 UID:c3c51df6279f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261214T110000
 DTEND;TZID=Europe/Paris:20261214T130000
 SUMMARY:Neutrophil migration dynamics in inflammation and trained immunity
@@ -129,7 +142,7 @@ URL:https://curie.fr/evenements-scientifiques/neutrophil-migration-dynamics
 END:VEVENT
 BEGIN:VEVENT
 UID:057781b7e159@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261215T173000
 DTEND;TZID=Europe/Paris:20261215T193000
 SUMMARY:Save the date : rejoignez-nous pour la 17e édition de la cérémon
@@ -144,7 +157,7 @@ URL:https://curie.fr/evenements-scientifiques/save-date-rejoignez-nous-pour
 END:VEVENT
 BEGIN:VEVENT
 UID:55d70d8256c3@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261218T100000
 DTEND;TZID=Europe/Paris:20261218T120000
 SUMMARY:New insights into regenerative programs driving cancer plasticity
@@ -156,7 +169,7 @@ URL:https://curie.fr/evenements-scientifiques/new-insights-regenerative-pro
 END:VEVENT
 BEGIN:VEVENT
 UID:71ffd1703f13@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270114T120000
 DTEND;TZID=Europe/Paris:20270114T140000
 SUMMARY:Raising awareness to History\, Epistemology and Ethics of Science
@@ -168,7 +181,7 @@ URL:https://curie.fr/evenements-scientifiques/raising-awareness-history-epi
 END:VEVENT
 BEGIN:VEVENT
 UID:a4d62a00c520@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:22nd Cours d’épigénétique 2027 : Vers une compréhension quant
@@ -184,7 +197,7 @@ URL:https://curie.fr/evenements-scientifiques/22nd-cours-depigenetique-2027
 END:VEVENT
 BEGIN:VEVENT
 UID:6fd3adf1c2a8@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:7ème édition - Instabilité des Génomes & Pathologies Humaines

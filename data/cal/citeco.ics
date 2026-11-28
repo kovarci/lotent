@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:69349a9cbeb3@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261129T160000
 DTEND;TZID=Europe/Paris:20261129T171500
 SUMMARY:Les Surfeurs de la Monnaie
@@ -35,7 +35,7 @@ URL:https://www.citeco.fr/agenda/les-surfeurs-de-la-monnaie
 END:VEVENT
 BEGIN:VEVENT
 UID:53f2ab6cb5b1@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261129T163000
 DTEND;TZID=Europe/Paris:20261129T173000
 SUMMARY:Les chemins de l’innovation
@@ -45,7 +45,7 @@ URL:https://www.citeco.fr/agenda/les-chemins-de-linnovation
 END:VEVENT
 BEGIN:VEVENT
 UID:3a4ece3ffc8b@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T220000
 SUMMARY:Chapitres de la chute\, Saga des Lehman Brothers — VOLET 2 (1890-
@@ -58,7 +58,7 @@ URL:https://www.citeco.fr/agenda/chapitres-de-la-chute-saga-des-lehman-brot
 END:VEVENT
 BEGIN:VEVENT
 UID:2fa99e8e1660@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T200000
 SUMMARY:Parlons Actu
@@ -68,7 +68,7 @@ URL:https://www.citeco.fr/agenda/parlons-actu
 END:VEVENT
 BEGIN:VEVENT
 UID:35268876bfb2@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261205T150000
 DTEND;TZID=Europe/Paris:20261205T160000
 SUMMARY:Le Pouvoir de la destruction créatrice

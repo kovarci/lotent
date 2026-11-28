@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:fd6a5e1d5f42@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;TZID=Europe/Paris:20261127T123000
-DTEND;TZID=Europe/Paris:20261127T143000
-SUMMARY:WG Risk : "Clustering multivariate populations by their dependence 
- structure"
-DESCRIPTION:https://www.institutdesactuaires.com/agenda/wg-risk-clustering-
- multivariate-populations-by-their-dependence-structure-8286
-LOCATION:Puteaux — Paris — lieu précisé sur la page de l'événement
-URL:https://www.institutdesactuaires.com/agenda/wg-risk-clustering-multivar
- iate-populations-by-their-dependence-structure-8286
-END:VEVENT
-BEGIN:VEVENT
 UID:2071e38cc2e3@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261129T090000
 DTEND;TZID=Europe/Paris:20261129T110000
 SUMMARY:Run For Climate 2026
@@ -49,7 +36,7 @@ URL:https://www.institutdesactuaires.com/agenda/run-for-climate-2026-8023
 END:VEVENT
 BEGIN:VEVENT
 UID:a8983bdafc41@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T120000
 DTEND;TZID=Europe/Paris:20261130T140000
 SUMMARY:Commission Vie - Epargne
@@ -60,7 +47,7 @@ URL:https://www.institutdesactuaires.com/agenda/commission-vie-epargne-8279
 END:VEVENT
 BEGIN:VEVENT
 UID:1cc1e06d5944@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261209T090000
 DTEND;TZID=Europe/Paris:20261209T110000
 SUMMARY:Colloque Actuariat 2026 et remise du Prix SCOR de l’actuariat

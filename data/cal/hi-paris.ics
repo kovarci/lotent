@@ -24,26 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:0b52277e64d3@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Hi!ckathon 2026 | The Hi! PARIS AI & Data Science Challenge
-DESCRIPTION:About the Hi!ckathon: The Hi!ckathon is a flagship AI and Data 
- Science challenge organized by Hi! PARIS\, the interdisciplinary center fo
- r data science and artificial intelligence. Open to students from Institut
-  Polytechnique de Paris\, HEC Paris\, and partner universities\, the compe
- tition invites participants to work in teams on a real-world AI challenge 
- with strong business and societal impact.…\nhttps://hi-paris.fr/event/hi
- ckathon-2026-the-hi-paris-ai-data-science-challenge/
-LOCATION:Institut Polytechnique de Paris (IP Paris)\, Route de Saclay\, 911
- 20\, Palaiseau
-URL:https://hi-paris.fr/event/hickathon-2026-the-hi-paris-ai-data-science-c
- hallenge/
-END:VEVENT
-BEGIN:VEVENT
 UID:0651395df470@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T110000
 DTEND;TZID=Europe/Paris:20261130T120000
 SUMMARY:AI Seminar Cycle: When Generators Condition on Themselves – Expos
@@ -62,7 +44,7 @@ URL:https://hi-paris.fr/event/ai-seminar-cycle-when-generators-condition-on
 END:VEVENT
 BEGIN:VEVENT
 UID:492a051ee01f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T140000
 DTEND;TZID=Europe/Paris:20261203T153000
 SUMMARY:Hi! PARIS Reading groups “Fairness in AI” – Session 2
@@ -79,7 +61,7 @@ URL:https://hi-paris.fr/event/hi-paris-reading-groups-fairness-in-ai-sessio
 END:VEVENT
 BEGIN:VEVENT
 UID:bad0a6e26f5a@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:CTRL+SOUND: AI for Sound and Creative Technologies Workshop
@@ -96,7 +78,7 @@ URL:https://hi-paris.fr/event/ctrlsound-ai-for-sound-and-creative-technolog
 END:VEVENT
 BEGIN:VEVENT
 UID:82cd8cc7c08e@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Séminaire : ELLIS UnConference 2026
@@ -113,7 +95,7 @@ URL:https://hi-paris.fr/event/ellis-unconference-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:b32301b0b466@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270414T110000
 DTEND;TZID=Europe/Paris:20270414T120000
 SUMMARY:AI Seminar Cycle: Nuria Oliver (ELLIS Alicante)

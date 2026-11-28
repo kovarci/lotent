@@ -24,21 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:794cb5b0b60d@paris-academique
-DTSTAMP:20261128T090714Z
-DTSTART;TZID=Europe/Paris:20261127T090000
-DTEND;TZID=Europe/Paris:20261127T173000
-SUMMARY:Journée de formation aux outils de la recherche sur le XVI e sièc
- le
-DESCRIPTION:Formation\nhttps://www.chartes.psl.eu/gazette-chartiste/agenda/
- journee-de-formation-aux-outils-de-la-recherche-sur-le-xvie-siecle
-LOCATION:École nationale des chartes\, 65 rue de Richelieu\, Paris 2e
-URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/journee-de-formatio
- n-aux-outils-de-la-recherche-sur-le-xvie-siecle
-END:VEVENT
-BEGIN:VEVENT
 UID:fcd9e20b7d65@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261130T180000
 DTEND;TZID=Europe/Paris:20261130T190000
 SUMMARY:Du livre ordinaire au livre singulier
@@ -50,7 +37,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/du-livre-ordinaire-
 END:VEVENT
 BEGIN:VEVENT
 UID:3eb080bc219c@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261201T181500
 DTEND;TZID=Europe/Paris:20261201T193000
 SUMMARY:La « presse des sables » : journaux des réfugiés de la guerre c
@@ -64,7 +51,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/tresors-de-richelie
 END:VEVENT
 BEGIN:VEVENT
 UID:e25b1b8c2f38@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Donn[ées/er] à voir
@@ -75,7 +62,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/donneeser-voir
 END:VEVENT
 BEGIN:VEVENT
 UID:4b1eed302303@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Donn[er/ées] à voir
@@ -86,7 +73,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/donnerees-voir
 END:VEVENT
 BEGIN:VEVENT
 UID:f390a8fdc16d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261208T143000
 DTEND;TZID=Europe/Paris:20261208T163000
 SUMMARY:Martina Lenzi soutient sa thèse de doctorat
@@ -98,7 +85,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/martina-lenzi-souti
 END:VEVENT
 BEGIN:VEVENT
 UID:6f55571a99ca@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261212T140000
 DTEND;TZID=Europe/Paris:20261212T170000
 SUMMARY:Atelier de médiation culturelle au musée de Cluny
@@ -110,7 +97,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/atelier-de-mediatio
 END:VEVENT
 BEGIN:VEVENT
 UID:1924ab750391@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261217T150000
 DTEND;TZID=Europe/Paris:20261217T170000
 SUMMARY:Abel Rodrigues soutient sa thèse de doctorat
@@ -122,7 +109,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/abel-rodrigues-sout
 END:VEVENT
 BEGIN:VEVENT
 UID:846cee2062b3@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261217T180000
 DTEND;TZID=Europe/Paris:20261217T193000
 SUMMARY:Images de sciences
@@ -133,7 +120,7 @@ URL:https://www.chartes.psl.eu/gazette-chartiste/agenda/images-de-sciences
 END:VEVENT
 BEGIN:VEVENT
 UID:5a9976f46e56@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:Les sources du patrimoine

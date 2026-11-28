@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f4d15fef38ef@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T093000
 DTEND;TZID=Europe/Paris:20261203T173000
 SUMMARY:C’était 1986
@@ -35,7 +35,7 @@ URL:https://www.jean-jaures.org/agenda/cetait-1986/
 END:VEVENT
 BEGIN:VEVENT
 UID:c406e042b807@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261210T183000
 DTEND;TZID=Europe/Paris:20261210T203000
 SUMMARY:Élargir l’Europe ? Quelle Union européenne voulons-nous bâtir 
@@ -48,7 +48,7 @@ URL:https://www.jean-jaures.org/agenda/elargir-leurope-quelle-union-europee
 END:VEVENT
 BEGIN:VEVENT
 UID:41b6d1ae423a@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261211T193000
 DTEND;TZID=Europe/Paris:20261211T210000
 SUMMARY:Le procès de la déconnexion des élites

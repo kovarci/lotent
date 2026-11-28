@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eee08d2774c4@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T180000
 SUMMARY:Adopt AI – Grand Palais
@@ -35,7 +35,7 @@ URL:https://www.prairie-psai.fr/agenda/adopt-ai-grand-palais/
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1b85118ca7@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261208T163000
 DTEND;TZID=Europe/Paris:20261208T193000
 SUMMARY:Thought Experiment #2
@@ -46,7 +46,7 @@ URL:https://www.prairie-psai.fr/agenda/thought-experiment-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:27d15dbbe8e7@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:PR[AI]RIE will be at NeurIPS Paris\, December 9-13
@@ -58,19 +58,20 @@ URL:https://www.prairie-psai.fr/agenda/prairie-will-be-at-neurips-paris-dec
 END:VEVENT
 BEGIN:VEVENT
 UID:d6c37327660e@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Recent Advances in Chemistry and AI
 DESCRIPTION:Workshops & Seminars\nhttps://www.prairie-psai.fr/agenda/recent
  -advances-in-chemistry-and-ai/
-LOCATION:Chimie ParisTech – PSL\, 11 Rue Pierre et Marie Curie\, 75005\, 
- Paris France
+LOCATION:École normale supérieure – PSL\, 29 rue d’Ulm\, 75005\, Pari
+ s France Chimie ParisTech – PSL\, 11 Rue Pierre et Marie Curie\, 75005\,
+  Paris France
 URL:https://www.prairie-psai.fr/agenda/recent-advances-in-chemistry-and-ai/
 END:VEVENT
 BEGIN:VEVENT
 UID:a5fac9fc983c@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261214T090000
 DTEND;TZID=Europe/Paris:20261214T183000
 SUMMARY:NeuroAIDialogues

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5b42b6d89c18@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261127T150000
 DTEND;TZID=Europe/Paris:20261127T170000
 SUMMARY:Powering Research with Innovative ESG Datasets: Insights from our l
@@ -41,7 +41,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/powering
 END:VEVENT
 BEGIN:VEVENT
 UID:ddfde85e62e9@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T090000
 DTEND;TZID=Europe/Paris:20261203T110000
 SUMMARY:Colloque Innovation et modélisation des taux d’intérêt
@@ -54,7 +54,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/colloque
 END:VEVENT
 BEGIN:VEVENT
 UID:534390683a8d@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261203T170000
 DTEND;TZID=Europe/Paris:20261203T190000
 SUMMARY:Passage à la retraite\, bien-être et inégalités de genre : Les 
@@ -69,7 +69,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/passage-
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8964aaad6b@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261204T131500
 DTEND;TZID=Europe/Paris:20261204T151500
 SUMMARY:Webinaire : Data centers: concrete impact\, wrong valuation?
@@ -82,7 +82,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/webinair
 END:VEVENT
 BEGIN:VEVENT
 UID:5ea28f263a07@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261207T140000
 DTEND;TZID=Europe/Paris:20261207T160000
 SUMMARY:Industrial Accelerator Act : réindustrialiser les territoires sans
@@ -97,7 +97,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/industri
 END:VEVENT
 BEGIN:VEVENT
 UID:7ef07d9b75d5@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261208T090000
 DTEND;TZID=Europe/Paris:20261208T110000
 SUMMARY:Green Finance Research Advances 2026
@@ -110,7 +110,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/green-fi
 END:VEVENT
 BEGIN:VEVENT
 UID:2964c301909c@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261211T180000
 DTEND;TZID=Europe/Paris:20261211T200000
 SUMMARY:Hommage à André Lévy-Lang
@@ -123,7 +123,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/hommage-
 END:VEVENT
 BEGIN:VEVENT
 UID:eb1615b7e18f@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261214T180000
 DTEND;TZID=Europe/Paris:20261214T200000
 SUMMARY:Prévision et gestion des risques financiers par l'IA
@@ -138,7 +138,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/previsio
 END:VEVENT
 BEGIN:VEVENT
 UID:be370caadc40@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20261215T183000
 DTEND;TZID=Europe/Paris:20261215T203000
 SUMMARY:Conférence annuelle de la Chaire PARI
@@ -151,7 +151,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/conferen
 END:VEVENT
 BEGIN:VEVENT
 UID:535a607d7a46@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270202T180000
 DTEND;TZID=Europe/Paris:20270202T200000
 SUMMARY:La Grande Transformation du commerce. Face aux tensions\, penser le
@@ -167,7 +167,7 @@ URL:https://www.institutlouisbachelier.org/au-programme/evenements/la-grand
 END:VEVENT
 BEGIN:VEVENT
 UID:898b27b7db64@paris-academique
-DTSTAMP:20261128T090714Z
+DTSTAMP:20261128T130042Z
 DTSTART;TZID=Europe/Paris:20270325T130000
 DTEND;TZID=Europe/Paris:20270325T150000
 SUMMARY:20th Financial Risks International Forum
