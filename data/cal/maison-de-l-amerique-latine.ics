@@ -24,45 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:b09ed60906a2@paris-academique
-DTSTAMP:20261127T135713Z
-DTSTART;TZID=Europe/Paris:20261127T190000
-DTEND;TZID=Europe/Paris:20261127T210000
-SUMMARY:Revolución Mujer Diamante
-DESCRIPTION:Littérature\nhttps://www.mal217.org/fr/agenda/revolucion-mujer
- -diamante
-LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
-  7e
-URL:https://www.mal217.org/fr/agenda/revolucion-mujer-diamante
-END:VEVENT
-BEGIN:VEVENT
-UID:ef271291829a@paris-academique
-DTSTAMP:20261127T135713Z
-DTSTART;TZID=Europe/Paris:20261127T210000
-DTEND;TZID=Europe/Paris:20261127T230000
-SUMMARY:Le lawfare en Argentine — Arrestation arbitraire des leaders poli
- tiques
-DESCRIPTION:Conférence\nhttps://www.mal217.org/fr/agenda/le-lawfare-en-arg
- entine
-LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
-  7e
-URL:https://www.mal217.org/fr/agenda/le-lawfare-en-argentine
-END:VEVENT
-BEGIN:VEVENT
-UID:ef5653c40bac@paris-academique
-DTSTAMP:20261127T135713Z
-DTSTART;TZID=Europe/Paris:20261130T190000
-DTEND;TZID=Europe/Paris:20261130T210000
-SUMMARY:Rencontre autour de Carlo Ossola
-DESCRIPTION:Littérature\nhttps://www.mal217.org/fr/agenda/rencontre-autour
- -de-carlo-ossola
-LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
-  7e
-URL:https://www.mal217.org/fr/agenda/rencontre-autour-de-carlo-ossola
-END:VEVENT
-BEGIN:VEVENT
 UID:82b15e0c5993@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261130T190000
 DTEND;TZID=Europe/Paris:20261130T210000
 SUMMARY:Pourquoi ne faisons-nous plus d’enfants ?
@@ -74,8 +37,20 @@ URL:https://www.mal217.org/fr/agenda/pourquoi-ne-faisons-nous-plus-d-enfant
  s
 END:VEVENT
 BEGIN:VEVENT
+UID:ef5653c40bac@paris-academique
+DTSTAMP:20261128T090714Z
+DTSTART;TZID=Europe/Paris:20261130T190000
+DTEND;TZID=Europe/Paris:20261130T210000
+SUMMARY:Rencontre autour de Carlo Ossola
+DESCRIPTION:Littérature\nhttps://www.mal217.org/fr/agenda/rencontre-autour
+ -de-carlo-ossola
+LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
+  7e
+URL:https://www.mal217.org/fr/agenda/rencontre-autour-de-carlo-ossola
+END:VEVENT
+BEGIN:VEVENT
 UID:cb5c48c02f8c@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261202T210000
 DTEND;TZID=Europe/Paris:20261202T230000
 SUMMARY:Cartel franco-brésilien de psychanalyse — O céu da língua ?
@@ -88,7 +63,7 @@ URL:https://www.mal217.org/fr/agenda/cartel-franco-bresilien-de-psychanalys
 END:VEVENT
 BEGIN:VEVENT
 UID:40362388218a@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T210000
 SUMMARY:Tribune de l'économie — Le nouveau partage des océans : enjeu s
@@ -98,5 +73,29 @@ DESCRIPTION:Économie\nhttps://www.mal217.org/fr/agenda/tribune-de-l-econom
 LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
   7e
 URL:https://www.mal217.org/fr/agenda/tribune-de-l-economie-8856fb43
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb86bc97548@paris-academique
+DTSTAMP:20261128T090714Z
+DTSTART;TZID=Europe/Paris:20261208T190000
+DTEND;TZID=Europe/Paris:20261208T210000
+SUMMARY:Construction collaborative — au Venezuela
+DESCRIPTION:Architecture\nhttps://www.mal217.org/fr/agenda/rehabiliter-au-v
+ enezuela
+LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
+  7e
+URL:https://www.mal217.org/fr/agenda/rehabiliter-au-venezuela
+END:VEVENT
+BEGIN:VEVENT
+UID:5310c750bd79@paris-academique
+DTSTAMP:20261128T090714Z
+DTSTART;TZID=Europe/Paris:20261209T190000
+DTEND;TZID=Europe/Paris:20261209T210000
+SUMMARY:Amazonie : — du mythe aux enjeux de demain
+DESCRIPTION:Conférence\nhttps://www.mal217.org/fr/agenda/amazonie-du-mythe
+ -aux-enjeux-de-demain
+LOCATION:Maison de l'Amérique latine\, 217 boulevard Saint-Germain\, Paris
+  7e
+URL:https://www.mal217.org/fr/agenda/amazonie-du-mythe-aux-enjeux-de-demain
 END:VEVENT
 END:VCALENDAR

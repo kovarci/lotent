@@ -24,24 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:878dbfa010be@paris-academique
-DTSTAMP:20261127T135713Z
-DTSTART;TZID=Europe/Paris:20261126T090000
-DTEND;TZID=Europe/Paris:20261126T110000
-SUMMARY:Combinatorics and Arithmetic for Physics
-DESCRIPTION:Combinatorics and Arithmetic for Physics The meeting’s focus 
- is about questions of discrete mathematics and number theory with an empha
- sis on computability. Problems are drawn mainly from theoretical physics :
-  renormalisation\, combinatorial physics\, geometry\, evolution equations 
- (commutative and noncommutative) or related to their models. Computations\
- , based on combinatorial structures…\nhttps://indico.math.cnrs.fr/event/
- 17588/
-LOCATION:IHES
-URL:https://indico.math.cnrs.fr/event/17588/
-END:VEVENT
-BEGIN:VEVENT
 UID:687f749ff7e4@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261201T093000
 DTEND;TZID=Europe/Paris:20261201T160000
 SUMMARY:14e séminaire ITZYKSON - Dualité markovienne : méthodes algébri
@@ -58,7 +42,7 @@ URL:https://indico.math.cnrs.fr/event/17599/
 END:VEVENT
 BEGIN:VEVENT
 UID:71f9ced7ec6b@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261202T103000
 DTEND;TZID=Europe/Paris:20261202T113000
 SUMMARY:On the Yau-Tian-Donaldson Correspondence
@@ -74,7 +58,7 @@ URL:https://indico.math.cnrs.fr/event/17914/
 END:VEVENT
 BEGIN:VEVENT
 UID:8ac98131aabb@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261202T114500
 DTEND;TZID=Europe/Paris:20261202T124500
 SUMMARY:Toward an AI Mathematician
@@ -90,7 +74,7 @@ URL:https://indico.math.cnrs.fr/event/17915/
 END:VEVENT
 BEGIN:VEVENT
 UID:d6cc6b6478a2@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261202T140000
 DTEND;TZID=Europe/Paris:20261202T160000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -106,7 +90,7 @@ URL:https://indico.math.cnrs.fr/event/17631/
 END:VEVENT
 BEGIN:VEVENT
 UID:0635dfe914db@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261202T144500
 DTEND;TZID=Europe/Paris:20261202T160000
 SUMMARY:Detecting Non-Linear Gravitational Wave Memory and Beyond
@@ -122,7 +106,7 @@ URL:https://indico.math.cnrs.fr/event/17927/
 END:VEVENT
 BEGIN:VEVENT
 UID:f60be9e1c6eb@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261202T213000
 DTEND;TZID=Europe/Paris:20261202T223000
 SUMMARY:CayleyPy: From Rubik’s Cube to Holographic Duality in AI
@@ -138,7 +122,7 @@ URL:https://indico.math.cnrs.fr/event/17862/
 END:VEVENT
 BEGIN:VEVENT
 UID:e1e5d72b58e2@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261204T140000
 DTEND;TZID=Europe/Paris:20261204T160000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -154,7 +138,7 @@ URL:https://indico.math.cnrs.fr/event/17632/
 END:VEVENT
 BEGIN:VEVENT
 UID:5355402a7318@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261207T090000
 DTEND;TZID=Europe/Paris:20261207T190000
 SUMMARY:XMath Physics Day
@@ -170,7 +154,7 @@ URL:https://indico.math.cnrs.fr/event/17422/
 END:VEVENT
 BEGIN:VEVENT
 UID:970335f46717@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261208T140000
 DTEND;TZID=Europe/Paris:20261208T160000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -186,7 +170,7 @@ URL:https://indico.math.cnrs.fr/event/17633/
 END:VEVENT
 BEGIN:VEVENT
 UID:81d34b604e72@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261210T100000
 DTEND;TZID=Europe/Paris:20261210T120000
 SUMMARY:Two Applications of the Arithmetic Margulis Lemma
@@ -202,7 +186,7 @@ URL:https://indico.math.cnrs.fr/event/17634/
 END:VEVENT
 BEGIN:VEVENT
 UID:85d96d0b4cd5@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261210T190000
 DTEND;TZID=Europe/Paris:20261210T230000
 SUMMARY:Fête de fin d'année - End-of-Year Party
@@ -218,7 +202,7 @@ URL:https://indico.math.cnrs.fr/event/17794/
 END:VEVENT
 BEGIN:VEVENT
 UID:f89e39438b36@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261214T140000
 DTEND;TZID=Europe/Paris:20261214T151500
 SUMMARY:Bowditch Representations in Hyperbolic Spaces
@@ -234,7 +218,7 @@ URL:https://indico.math.cnrs.fr/event/17919/
 END:VEVENT
 BEGIN:VEVENT
 UID:743924798449@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261214T160000
 DTEND;TZID=Europe/Paris:20261214T171500
 SUMMARY:Around a Conjecture of Michel Duflo
@@ -250,7 +234,7 @@ URL:https://indico.math.cnrs.fr/event/17920/
 END:VEVENT
 BEGIN:VEVENT
 UID:bd1701d69489@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261217T110000
 DTEND;TZID=Europe/Paris:20261217T123000
 SUMMARY:Algebraic Theory of Indefinite Theta Functions
@@ -266,7 +250,7 @@ URL:https://indico.math.cnrs.fr/event/17585/
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd8d0b9edde@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270531T093000
 DTEND;TZID=Europe/Paris:20270531T113000
 SUMMARY:French-Japanese Conference on Arithmetic Geometry in Honor of Takes
@@ -283,7 +267,7 @@ URL:https://indico.math.cnrs.fr/event/15993/
 END:VEVENT
 BEGIN:VEVENT
 UID:f84116d45349@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270705T083000
 DTEND;TZID=Europe/Paris:20270705T103000
 SUMMARY:2027 IHES Summer School - Local Systems in Algebraic Geometry

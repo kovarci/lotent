@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:f2e6bd93540a@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261128T090000
 DTEND;TZID=Europe/Paris:20261128T170000
 SUMMARY:Rencontres des jeunes mathématiciennes et informaticiennes (RJMI) 
@@ -38,7 +38,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/rencontres-des-jeunes-mathematic
 END:VEVENT
 BEGIN:VEVENT
 UID:767f4385dd82@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261130T183000
 DTEND;TZID=Europe/Paris:20261130T203000
 SUMMARY:Semaine des carrières normaliennes 2026
@@ -50,7 +50,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/semaine-des-carrieres-normalienn
 END:VEVENT
 BEGIN:VEVENT
 UID:90128aba7103@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261202T090000
 DTEND;TZID=Europe/Paris:20261202T123000
 SUMMARY:Forum des stages MVA 2026
@@ -61,7 +61,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/forum-des-stages-mva-2026
 END:VEVENT
 BEGIN:VEVENT
 UID:67a32f5728f3@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261205T140000
 DTEND;TZID=Europe/Paris:20261205T144000
 SUMMARY:Spectacle : Trait(s)
@@ -71,7 +71,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/spectacle-traits
 END:VEVENT
 BEGIN:VEVENT
 UID:37410cb81e6e@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261208T183000
 DTEND;TZID=Europe/Paris:20261208T200000
 SUMMARY:Conférence du diplôme sur les enquêtes Trajectoires et Origines 
@@ -84,7 +84,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/conference-du-diplome-sur-les-en
 END:VEVENT
 BEGIN:VEVENT
 UID:2b34f13ffff2@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261214T120000
 DTEND;TZID=Europe/Paris:20261214T140000
 SUMMARY:Christmas meal for international students 2026
@@ -96,7 +96,7 @@ URL:https://www.ens-paris-saclay.fr/agenda/christmas-meal-international-stu
 END:VEVENT
 BEGIN:VEVENT
 UID:7c452be96618@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270112T190000
 DTEND;TZID=Europe/Paris:20270112T203000
 SUMMARY:Arts & Sciences : Péritopie 2

@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:23cea5ccb8b6@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261127T110000
 DTEND;TZID=Europe/Paris:20261127T180000
 SUMMARY:Faire l’histoire orale des musées
@@ -40,7 +40,7 @@ URL:https://www.quaibranly.fr/fr/recherche-scientifique/activites/colloques
 END:VEVENT
 BEGIN:VEVENT
 UID:cb4886d830fd@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261203T170000
 DTEND;TZID=Europe/Paris:20261203T190000
 SUMMARY:« Comment créer un environnement propice à la création artistiq
@@ -58,7 +58,7 @@ URL:https://www.quaibranly.fr/fr/recherche-scientifique/activites/colloques
 END:VEVENT
 BEGIN:VEVENT
 UID:a7129bd2cf8d@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261208T170000
 DTEND;TZID=Europe/Paris:20261208T184500
 SUMMARY:Au cœur du dialogue des cultures

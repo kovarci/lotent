@@ -24,35 +24,8 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:99a576509062@paris-academique
-DTSTAMP:20261127T135713Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:Conférence – Le devenir de l’Union Européenne : quelles persp
- ectives ?
-DESCRIPTION:Conférence\nhttps://www.jeunes-ihedn.org/events/conference-le-
- devenir-de-lunion-europeenne-quelles-perspectives/
-LOCATION:Paris
-URL:https://www.jeunes-ihedn.org/events/conference-le-devenir-de-lunion-eur
- opeenne-quelles-perspectives/
-END:VEVENT
-BEGIN:VEVENT
-UID:081141525253@paris-academique
-DTSTAMP:20261127T135713Z
-DTSTART;TZID=Europe/Paris:20261127T140000
-DTEND;TZID=Europe/Paris:20261127T153000
-SUMMARY:Conférence sur les rapports de puissance\, les dynamiques régiona
- les et la place de la France en Océanie
-DESCRIPTION:Conférence\nhttps://www.jeunes-ihedn.org/events/conference-sur
- -les-rapports-de-puissance-les-dynamiques-regionales-et-la-place-de-la-fra
- nce-en-oceanie/
-LOCATION:Paris
-URL:https://www.jeunes-ihedn.org/events/conference-sur-les-rapports-de-puis
- sance-les-dynamiques-regionales-et-la-place-de-la-france-en-oceanie/
-END:VEVENT
-BEGIN:VEVENT
 UID:c8ba821ffdb4@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261209T193000
 DTEND;TZID=Europe/Paris:20261209T213000
 SUMMARY:Popote Générale

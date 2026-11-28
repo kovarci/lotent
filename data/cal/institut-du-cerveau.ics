@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:6bc76157b6f2@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261130T110000
 DTEND;TZID=Europe/Paris:20261130T120000
 SUMMARY:Conférences scientifiques : Ewelina KNAPSKA (en anglais)
@@ -37,7 +37,7 @@ URL:https://institutducerveau.org/agenda/conferences-scientifiques-ewelina-
 END:VEVENT
 BEGIN:VEVENT
 UID:f94fba5e144d@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:The Body in Dialogue: How the Brain Communicates with Organs
@@ -49,7 +49,7 @@ URL:https://institutducerveau.org/agenda/body-dialogue-how-brain-communicat
 END:VEVENT
 BEGIN:VEVENT
 UID:feb0009cd7de@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261207T110000
 DTEND;TZID=Europe/Paris:20261207T120000
 SUMMARY:Conférences scientifiques : Jean-Charles LAMBERT (en anglais)
@@ -61,7 +61,7 @@ URL:https://institutducerveau.org/agenda/conferences-scientifiques-jean-cha
 END:VEVENT
 BEGIN:VEVENT
 UID:2ce3899783b6@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Paris Ultrasound Workshop: De la théorie au montage expérimental 
@@ -75,7 +75,7 @@ URL:https://institutducerveau.org/agenda/paris-ultrasound-workshop-theorie-
 END:VEVENT
 BEGIN:VEVENT
 UID:4a7106657c5b@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261210T083000
 DTEND;TZID=Europe/Paris:20261210T180000
 SUMMARY:Journée d’histoire des neurosciences : La dégénérescence
@@ -87,7 +87,7 @@ URL:https://institutducerveau.org/agenda/journee-dhistoire-neurosciences-de
 END:VEVENT
 BEGIN:VEVENT
 UID:431f89179e8b@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261214T110000
 DTEND;TZID=Europe/Paris:20261214T120000
 SUMMARY:Conférences scientifiques : Danijela GREGUREC (en anglais)
@@ -99,7 +99,7 @@ URL:https://institutducerveau.org/agenda/conferences-scientifiques-danijela
 END:VEVENT
 BEGIN:VEVENT
 UID:bf480719d384@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270121T180000
 DTEND;TZID=Europe/Paris:20270121T190000
 SUMMARY:L'Illusion
@@ -110,7 +110,7 @@ URL:https://institutducerveau.org/agenda/lillusion
 END:VEVENT
 BEGIN:VEVENT
 UID:809d766e84d6@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270318T180000
 DTEND;TZID=Europe/Paris:20270318T190000
 SUMMARY:La dépression
@@ -121,7 +121,7 @@ URL:https://institutducerveau.org/agenda/depression
 END:VEVENT
 BEGIN:VEVENT
 UID:f63e4a8ea877@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270520T180000
 DTEND;TZID=Europe/Paris:20270520T190000
 SUMMARY:La mémoire dans tous ses états

@@ -130,7 +130,10 @@
   2.423081
  ],
  "ufr de mathématique et d'informatique": null,
- "4padel saint-ouen, 29 rue emile cordon, 93400 saint-ouen-sur-seine, france": null,
+ "4padel saint-ouen, 29 rue emile cordon, 93400 saint-ouen-sur-seine, france": [
+  48.912937,
+  2.341346
+ ],
  "online": null,
  "le shack, 4 imp. sandrie, 75009 paris, france": [
   48.871653,
@@ -756,7 +759,10 @@
   48.827443,
   2.260883
  ],
- "lucca | editeur de logiciels rh et administratifs, 151-157 av. de france, 75013 paris, france": null,
+ "lucca | editeur de logiciels rh et administratifs, 151-157 av. de france, 75013 paris, france": [
+  48.826745,
+  2.380467
+ ],
  "pavillon puebla, av. darcel, 75019 paris, france": [
   48.877246,
   2.379301
@@ -2103,7 +2109,10 @@
   48.839817,
   2.353964
  ],
- "jardin des plantes — muséum national d'histoire naturelle, 57 rue cuvier, paris 5e": null,
+ "jardin des plantes — muséum national d'histoire naturelle, 57 rue cuvier, paris 5e": [
+  48.845834,
+  2.358962
+ ],
  "35 rue des grands champs, 75020 paris, france": [
   48.851044,
   2.40236
@@ -6213,5 +6222,73 @@
  "amphithéâtre 4 du centre assas, 92 rue d’assas, 75006, paris": [
   48.843028,
   2.333054
+ ],
+ "deezer, 24 rue de calais, 75009 paris, france": [
+  48.882888,
+  2.330076
+ ],
+ "nest & bloom, 35 rue de courcelles, 75008 paris, france": [
+  48.875432,
+  2.308635
+ ],
+ "parking de la forêt, all. des vaches, 77300 fontainebleau, france": [
+  48.441977,
+  2.617925
+ ],
+ "the bureau, 25 rue du 4 septembre, 75002 paris, france": [
+  48.869693,
+  2.33546
+ ],
+ "esplanade du trocadéro, espl. du trocadéro, 75116 paris, france": [
+  48.861995,
+  2.288733
+ ],
+ "monsieur george hôtel & spa - champs elysées, 17 rue washington, 75008 paris, france": [
+  48.872928,
+  2.302575
+ ],
+ "374 rue de vaugirard, 75015 paris, france": [
+  48.833627,
+  2.289343
+ ],
+ "rencontre restaurant, 51 rue blanche, 75009 paris, france": [
+  48.881034,
+  2.331461
+ ],
+ "18 rue de paradis, 75010 paris, france": [
+  48.874778,
+  2.353715
+ ],
+ "wescale paris, 34 bd haussmann, 75009 paris, france": [
+  48.872957,
+  2.334137
+ ],
+ "théâtre douze, 6 av. maurice ravel, 75012 paris, france": [
+  48.841312,
+  2.411761
+ ],
+ "fondation cherqui, 61 rue lécuyer, 93300 aubervilliers, france": [
+  48.907486,
+  2.393868
+ ],
+ "18 bd des capucines, 75009 paris, france": [
+  48.870451,
+  2.331055
+ ],
+ "cool’in bar - république, 30 bd du temple, 75011 paris, france": [
+  48.865008,
+  2.365951
+ ],
+ "greenspace, 28 rue du chemin vert, 75011 paris, france": [
+  48.858027,
+  2.372555
+ ],
+ "paperboy paris, 137 rue amelot, 75011 paris, france": [
+  48.864655,
+  2.366512
+ ],
+ "musée d'orsay, esplanade valéry giscard d'estaing, 75007 paris, france": [
+  48.859726,
+  2.32586
  ]
 }

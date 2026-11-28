@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:b37d400e460a@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261130T190000
 DTEND;TZID=Europe/Paris:20261130T210000
 SUMMARY:Face à la relance raciste
@@ -36,7 +36,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/j0KvRFa
 END:VEVENT
 BEGIN:VEVENT
 UID:93bea882a521@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261130T193000
 DTEND;TZID=Europe/Paris:20261130T213000
 SUMMARY:Conversation autour de "Lovers Rock"
@@ -47,7 +47,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/NjmOLUe
 END:VEVENT
 BEGIN:VEVENT
 UID:44d3ab460aea@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T210000
 SUMMARY:Tout savoir sur la loi fin de vie
@@ -58,7 +58,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/NvaHWQS
 END:VEVENT
 BEGIN:VEVENT
 UID:3b16649f6b70@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261203T190000
 DTEND;TZID=Europe/Paris:20261203T210000
 SUMMARY:Les civilisations sont-elles des mythes ?
@@ -69,7 +69,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/oevzvUj
 END:VEVENT
 BEGIN:VEVENT
 UID:008c51cebbac@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261210T190000
 DTEND;TZID=Europe/Paris:20261210T210000
 SUMMARY:Végétal et gourmand : cuisiner autrement au quotidien
@@ -80,7 +80,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/suYr5EL
 END:VEVENT
 BEGIN:VEVENT
 UID:7a044d95b915@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261211T190000
 DTEND;TZID=Europe/Paris:20261211T210000
 SUMMARY:« Les loyautés » de Delphine de Vigan
@@ -91,7 +91,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/qS1TiOz
 END:VEVENT
 BEGIN:VEVENT
 UID:cffb90eef28b@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261214T090000
 DTEND;TZID=Europe/Paris:20261214T123000
 SUMMARY:Les entretiens du nouveau monde industriel 2026
@@ -102,7 +102,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/cauaYl3
 END:VEVENT
 BEGIN:VEVENT
 UID:881d48b8df6a@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261216T190000
 DTEND;TZID=Europe/Paris:20261216T210000
 SUMMARY:Un monde fini\, des ressources épuisables
@@ -113,7 +113,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/ue9MVmA
 END:VEVENT
 BEGIN:VEVENT
 UID:595420e1818a@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261217T190000
 DTEND;TZID=Europe/Paris:20261217T210000
 SUMMARY:Le pari de l’œuvre de Mouna Ouafik et la plateforme Shaeirat
@@ -124,7 +124,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/MieQELT
 END:VEVENT
 BEGIN:VEVENT
 UID:79da64812f30@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270130T110000
 DTEND;TZID=Europe/Paris:20270130T120000
 SUMMARY:L’histoire sonore du Centre Pompidou
@@ -135,7 +135,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/Bkau90m
 END:VEVENT
 BEGIN:VEVENT
 UID:4d6d78673f43@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270130T143000
 DTEND;TZID=Europe/Paris:20270130T153000
 SUMMARY:L’ouverture du Centre Pompidou comme si on y était...
@@ -146,7 +146,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/CLzjf7u
 END:VEVENT
 BEGIN:VEVENT
 UID:6ed024dfb259@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270130T150000
 DTEND;TZID=Europe/Paris:20270130T170000
 SUMMARY:Poésie sonore\, et alors ?
@@ -157,7 +157,7 @@ URL:https://www.centrepompidou.fr/fr/programme/agenda/evenement/JxMmaZp
 END:VEVENT
 BEGIN:VEVENT
 UID:d7b2f99368b1@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20270130T180000
 DTEND;TZID=Europe/Paris:20270130T190000
 SUMMARY:Masterclasse

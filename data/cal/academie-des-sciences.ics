@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:db81a53d5c2e@paris-academique
-DTSTAMP:20261127T135713Z
+DTSTAMP:20261128T090714Z
 DTSTART;TZID=Europe/Paris:20261201T140000
 DTEND;TZID=Europe/Paris:20261201T160000
 SUMMARY:Prédictabilité\, que peut-on prévoir ?
@@ -36,9 +36,9 @@ URL:https://www.academie-sciences.fr/predictabilite-que-peut-prevoir
 END:VEVENT
 BEGIN:VEVENT
 UID:b9ab83a8d296@paris-academique
-DTSTAMP:20261127T135713Z
-DTSTART;TZID=Europe/Paris:20261208T190000
-DTEND;TZID=Europe/Paris:20261208T210000
+DTSTAMP:20261128T090714Z
+DTSTART;TZID=Europe/Paris:20261208T180000
+DTEND;TZID=Europe/Paris:20261208T200000
 SUMMARY:Rencontre avec Mickael Tanter
 DESCRIPTION:Rencontres\nhttps://www.academie-sciences.fr/rencontre-avec-mic
  kael-tanter
